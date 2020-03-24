@@ -5,7 +5,7 @@ title: Inhalt
 ## Lehrvideos
 
 <p>
-Einführung in die räumliche Modellierung (Platzhaltervideo)
+EinfÃ¼hrung in die rÃ¤umliche Modellierung (Platzhaltervideo)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6K_ke_kHCe8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
@@ -16,4 +16,4 @@ Kartieren mit QGIS (Platzhaltervideo)
 
 ## Literatur, Verweise, etc...?
 
-Hier könnte man beispielsweise Links auf Inhalte einfügen, die in den Videos erwähnt werden, Verweise auf Primärliteratur, Bücher, Programme etc.
+Hier kÃ¶nnte man beispielsweise Links auf Inhalte einfÃ¼gen, die in den Videos erwÃ¤hnt werden, Verweise auf PrimÃ¤rliteratur, BÃ¼cher, Programme etc.

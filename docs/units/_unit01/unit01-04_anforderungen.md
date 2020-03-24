@@ -2,32 +2,32 @@
 title: Anforderungen
 ---
 
-Die Aufgaben können auf unterschiedlichen Niveaus gelöst werden. Dabei gilt, werden alle Aufgaben auf auf Level 1 gelöst und bestanden, reicht das erlangte Wissen zum bestehen der Abschlussprüfung (Lösen aller Prüfungsaufgaben der Level-1-Stufe). Das zusätzliche Lösen von Aufgaben der Level 2 und 3 befähigen zum Bestehen der Prüfung mit einer besseren Note (Lösen der Prüfungsaufgaben der Level-Stufen 2 und 3).
+Die Aufgaben kÃ¶nnen auf unterschiedlichen Niveaus gelÃ¶st werden. Dabei gilt, werden alle Aufgaben auf auf Level 1 gelÃ¶st und bestanden, reicht das erlangte Wissen zum bestehen der AbschlussprÃ¼fung (LÃ¶sen aller PrÃ¼fungsaufgaben der Level-1-Stufe). Das zusÃ¤tzliche LÃ¶sen von Aufgaben der Level 2 und 3 befÃ¤higen zum Bestehen der PrÃ¼fung mit einer besseren Note (LÃ¶sen der PrÃ¼fungsaufgaben der Level-Stufen 2 und 3).
 
 ## Anforderungen der Aufgaben
 <h3> Level 1: </h3>
 <p>
   <ul>
     <li> Karte einscannen und interpretieren </li> 
-    <li> Beantworten der Frage im Einführungstext </li> 
+    <li> Beantworten der Frage im EinfÃ¼hrungstext </li> 
     <li> Beantworten der Frage in Aufgabe 5 </li> 
-    <li> Erstellen einer "eigenen" Lärmkarte </li> 
+    <li> Erstellen einer "eigenen" LÃ¤rmkarte </li> 
   </ul>
 </p>
 
-<h3> Level 2 (zusätzlich zu Level 1): </h3>
+<h3> Level 2 (zusÃ¤tzlich zu Level 1): </h3>
 <p>
   <ul>
-    <li> Aufgabe 4 (ohne Lärm) </li> 
+    <li> Aufgabe 4 (ohne LÃ¤rm) </li> 
     <li> Aufgabe 3 </li> 
   </ul>
 </p>
 
-<h3> Level 3 (zusätzlich zu Level 1 und 2): </h3>
+<h3> Level 3 (zusÃ¤tzlich zu Level 1 und 2): </h3>
 <p>
   <ul>
-    <li> Aufgabe 4 (mit Lärm) </li> 
-    <li> Karte mit kreativer Integration von Lärm- und Luftbelastung </li> 
+    <li> Aufgabe 4 (mit LÃ¤rm) </li> 
+    <li> Karte mit kreativer Integration von LÃ¤rm- und Luftbelastung </li> 
   </ul>
 </p>
 

@@ -4,14 +4,14 @@ title: Alternatividee - Aufgabe 2
 
 ## Aufgabe
 Schauen Sie sich nun die Ozonlevel an. 
-  * Interpretieren Sie die Ozonverteilung. Welche räumlichen Muster können Sie erkennen? (Level 1) 
-  * Schätzen Sie die Belastbarkeit der Ozonwerte in der Karte ein. (Level 2)
-  * Begründung Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen. Sowohl Datenreihen als auch Literatur. (Level 3)
+  * Interpretieren Sie die Ozonverteilung. Welche rÃ¤umlichen Muster kÃ¶nnen Sie erkennen? (Level 1) 
+  * SchÃ¤tzen Sie die Belastbarkeit der Ozonwerte in der Karte ein. (Level 2)
+  * BegrÃ¼ndung Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen. Sowohl Datenreihen als auch Literatur. (Level 3)
   
 
 ## Materialien
   * [Daten der Luftmessstation Marburg](https://www.hlnug.de/fileadmin/scripts/recherche/info/Marburg.pdf){:target="_blank"}
-  * Maske zum Eintragen der Lösungen (*Downloadlink*)
+  * Maske zum Eintragen der LÃ¶sungen (*Downloadlink*)
   
 ## Anforderungen
 ### Level 1:
