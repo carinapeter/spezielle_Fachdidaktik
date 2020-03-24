@@ -1,5 +1,5 @@
 ---
-title: Uebersicht
+title: Übersicht
 ---
 
 ## Inhalte dieser Lehreinheit
