@@ -12,10 +12,10 @@ Weitere/Andere Materialien?
 
 ## Aufgabe 1
 
-Finden Sie diese Karten in den verschiedenen Ausgaben und füllen Sie die Maske für die Aufgaben 2 bis 4 für jede der Karten separat aus. Nutzen Sie für jede Beobachtung/Frage/Beschreibung/Information ein eigenes Feld in der Maske. 
-  * Beschreiben Sie die Karte. Was können Sie der Karte entnehmen?
-  * Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? 
-  * Wann trat die Karte erstmals im Diercke Atlas auf? Wie lange blieb sie Bestandteil und welche Veränderungen hat sie erfahren?
+Finden Sie beide Karten (*Verlinkung die Ilias-Ordner, in dem Karten liegen?*) in den verschiedenen Ausgaben und füllen Sie die Maske für die Aufgaben 2 bis 4 für jede der Karten separat aus. Nutzen Sie für jede Beobachtung/Frage/Beschreibung/Information ein eigenes Feld in der Maske. 
+  * Beschreiben Sie die Karten. Was können Sie den Karten entnehmen?
+  * Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karten betrachten? Was bleibt Ihnen unklar? 
+  * Wann traten die Karten erstmals im Diercke Atlas auf? Wie lange blieben sie Bestandteil und welche Veränderungen haben sie erfahren?
 
 ## Aufgabe 2
 

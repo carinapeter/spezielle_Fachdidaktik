@@ -2,6 +2,10 @@
 title: Uebersicht
 ---
 
+## Inhalte dieser Lehreinheit
+
+In dieser Lehreinheit werden Sie zu Beginn mit einer komplexen Raumabstraktion konfontiert. Diese schließt an Ihre Schultkenntnisse an und soll Sie daran erinnern, wie komplex die Darstellung von Raum ist und wie sie konkret aussehen kann.
+
 ## Am Ende dieser Lehreinheit können Sie...
 
 <ul>
@@ -17,6 +21,3 @@ title: Uebersicht
   </li>
 </ul>
 
-## Inhalte dieser Lehreinheit
-
-...

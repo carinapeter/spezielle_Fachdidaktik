@@ -1,5 +1,5 @@
 ---
-title: Aufgabe 2 - Alternative
+title: Alternatividee - Aufgabe 2
 ---
 
 ## Aufgabe

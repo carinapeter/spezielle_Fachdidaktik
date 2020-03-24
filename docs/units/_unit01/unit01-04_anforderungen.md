@@ -8,7 +8,7 @@ Die Aufgaben können auf unterschiedlichen Niveaus gelöst werden. Dabei gilt, wer
 <h3> Level 1: </h3>
 <p>
   <ul>
-    <li> Karte eingescannt und interpretiert </li> 
+    <li> Karte einscannen und interpretieren </li> 
     <li> Beantworten der Frage im Einführungstext </li> 
     <li> Beantworten der Frage in Aufgabe 5 </li> 
     <li> Erstellen einer "eigenen" Lärmkarte </li> 
