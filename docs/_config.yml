@@ -27,9 +27,9 @@ baseurl: "/moer-medienkompetenz/"
 
 
 ##### Title ###################################################################
-title: Medienkompetenz Umweltinformatik
-name: &name "Medienkompetenz Umweltinformatik" # &name is a YAML anchor which can be *referenced later
-#email: zeussd@uni-marburg.de
+title: Medienkompetenz
+name: &name "Medienkompetenz" # &name is a YAML anchor which can be *referenced later
+#email: nauss@geo.uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource 
   physical-geography environmental-science nature-conservation r
@@ -41,7 +41,7 @@ description: >- # this means to ignore newlines until next item
 ##### Lecturer settings #######################################################
 author:
   name             : "Insert Author here"
-#  avatar           : "/assets/images/zeuss.jpg"
+#  avatar           : "/assets/images/nauss.jpg"
   bio              : "Philipps Universitaet Marburg"
   location         : "Marburg, DE"
   email            : "Insert Email of course instructor here"

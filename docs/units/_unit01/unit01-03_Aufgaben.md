@@ -1,10 +1,10 @@
 ---
 title: Aufgaben
 ---
-## Benötigte Materialien
-  * Atlaskarte der Marburg Luft und Lärmbelastung (Diercke Atlas z.B. 5 aktualisierte Auflage S.54)
+## BenÃ¶tigte Materialien
+  * Atlaskarte der Marburg Luft und LÃ¤rmbelastung (Diercke Atlas z.B. 5 aktualisierte Auflage S.54)
   * [Daten der Luftmessstation Marburg](https://www.hlnug.de/fileadmin/scripts/recherche/info/Marburg.pdf){:target="_blank"}
-  * [Lärmkarte Hessens](http://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de){:target="_blank"}
+  * [LÃ¤rmkarte Hessens](http://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de){:target="_blank"}
 
 Weitere/Andere Materialien?
 {: .notice--danger}
@@ -12,41 +12,41 @@ Weitere/Andere Materialien?
 
 ## Aufgabe 1
 
-Finden Sie beide Karten (*Verlinkung die Ilias-Ordner, in dem Karten liegen?*) in den verschiedenen Ausgaben und füllen Sie die Maske für die Aufgaben 2 bis 4 für jede der Karten separat aus. Nutzen Sie für jede Beobachtung/Frage/Beschreibung/Information ein eigenes Feld in der Maske. 
-  * Beschreiben Sie die Karten. Was können Sie den Karten entnehmen?
+Finden Sie beide Karten (*Verlinkung die Ilias-Ordner, in dem Karten liegen?*) in den verschiedenen Ausgaben und fÃ¼llen Sie die Maske fÃ¼r die Aufgaben 2 bis 4 fÃ¼r jede der Karten separat aus. Nutzen Sie fÃ¼r jede Beobachtung/Frage/Beschreibung/Information ein eigenes Feld in der Maske. 
+  * Beschreiben Sie die Karten. Was kÃ¶nnen Sie den Karten entnehmen?
   * Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karten betrachten? Was bleibt Ihnen unklar? 
-  * Wann traten die Karten erstmals im Diercke Atlas auf? Wie lange blieben sie Bestandteil und welche Veränderungen haben sie erfahren?
+  * Wann traten die Karten erstmals im Diercke Atlas auf? Wie lange blieben sie Bestandteil und welche VerÃ¤nderungen haben sie erfahren?
 
 ## Aufgabe 2
 
 Schauen Sie sich nun die Ozonlevel an. 
-  * Interpretieren Sie die Ozonverteilung. Welche räumlichen Muster können Sie erkennen? (minimal Level) 
-  * Schätzen Sie die Belastbarkeit der Ozonwerte in der Karte ein. (mittleres Level)
-  * Begründung Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen. Sowohl Datenreihen als auch Literatur. (hohes Level)
+  * Interpretieren Sie die Ozonverteilung. Welche rÃ¤umlichen Muster kÃ¶nnen Sie erkennen? (minimal Level) 
+  * SchÃ¤tzen Sie die Belastbarkeit der Ozonwerte in der Karte ein. (mittleres Level)
+  * BegrÃ¼ndung Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen. Sowohl Datenreihen als auch Literatur. (hohes Level)
   
 ## Aufgabe 3
 
 In der Karte sind Schallbelastung und Lufthygiene visualisiert.
-  * Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung?
-  * Recherchieren Sie die Bedeutung von drei verschiedenen Parametern (hlnug) für die Lufthygiene. Überprüfen Sie, wie die gemessenen Werte in Marburg in einem angemessenen Zeitraum zu den Grenzwerte, Zielwerte und Schwellenwerte nach der 39. BImSchV stehen, um die Aussage der Karte (starke, deutliche und Luftbelastung bei schwachen Wetterlagen) zu überprüfen.
-  * Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de){:target="_blank"} und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Laden sie diese im PDF-Format hoch.
+  * Welche kartographischen Unterschiede kÃ¶nnen Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewÃ¤hlte Darstellung?
+  * Recherchieren Sie die Bedeutung von drei verschiedenen Parametern (hlnug) fÃ¼r die Lufthygiene. ÃœberprÃ¼fen Sie, wie die gemessenen Werte in Marburg in einem angemessenen Zeitraum zu den Grenzwerte, Zielwerte und Schwellenwerte nach der 39. BImSchV stehen, um die Aussage der Karte (starke, deutliche und Luftbelastung bei schwachen Wetterlagen) zu Ã¼berprÃ¼fen.
+  * Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de){:target="_blank"} und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und LÃ¤rmbelastung in Marburg. Laden sie diese im PDF-Format hoch.
   
 ## Aufgabe 4
 
-Karte (Jahrgang vorgeben) Die Datengrundlage der Karte wird nicht kenntlich gemacht. Lesen sie zur Einführung in die Immissionsmessung in Marburg dieses Informationsblatt. Über welche medialen Zugänge lassen sich die Immissionsdaten einsehen? **ein bisschen kryptisch, die Aufgabe**
+Karte (Jahrgang vorgeben) Die Datengrundlage der Karte wird nicht kenntlich gemacht. Lesen sie zur EinfÃ¼hrung in die Immissionsmessung in Marburg dieses Informationsblatt. Ãœber welche medialen ZugÃ¤nge lassen sich die Immissionsdaten einsehen? **ein bisschen kryptisch, die Aufgabe**
 
 
 ## Aufgabe 5
 
-Wählen sie einen dieser Zugänge, um auf Daten zuzugreifen, nach deren Analyse Sie die Aussagekraft und mögliche Konstruktion der Karte reflektieren können. 
-Recherchieren Sie hierfür:
-  * die Bedeutung der verschiedenen Parameter für die Lufthygiene
-  * wie die gemessenen Werte in Marburg in einem angemessenen Zeitraum zu den Grenzwerte, Zielwerte und Schwellenwerte nach der 39. BImSchV stehen, um die Aussage der Karte (starke, deutliche und Luftbelastung bei schwachen Wetterlagen) zu überprüfen.
-  * gehen Sie für die Beurteilung von Lärm analog vor
-Stellen Sie Ihre Ergebnisse übersichtlich dar und vergleichen Sie die Aussage Ihrer Analyse mit den Aussagen der Karte. 
+WÃ¤hlen sie einen dieser ZugÃ¤nge, um auf Daten zuzugreifen, nach deren Analyse Sie die Aussagekraft und mÃ¶gliche Konstruktion der Karte reflektieren kÃ¶nnen. 
+Recherchieren Sie hierfÃ¼r:
+  * die Bedeutung der verschiedenen Parameter fÃ¼r die Lufthygiene
+  * wie die gemessenen Werte in Marburg in einem angemessenen Zeitraum zu den Grenzwerte, Zielwerte und Schwellenwerte nach der 39. BImSchV stehen, um die Aussage der Karte (starke, deutliche und Luftbelastung bei schwachen Wetterlagen) zu Ã¼berprÃ¼fen.
+  * gehen Sie fÃ¼r die Beurteilung von LÃ¤rm analog vor
+Stellen Sie Ihre Ergebnisse Ã¼bersichtlich dar und vergleichen Sie die Aussage Ihrer Analyse mit den Aussagen der Karte. 
 
 
 ## Aufgabe 6
 
-Wie erklären Sie die Einteilung der Zonierung in der Atlaskarte? 
+Wie erklÃ¤ren Sie die Einteilung der Zonierung in der Atlaskarte? 
 
