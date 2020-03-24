@@ -12,6 +12,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
 # Adjust title etc. Depending on serving the site on GitHub or OER, different
 # url and baseurl settings have to be used.
 
@@ -23,7 +24,7 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io
-baseurl: "/moer-medienkompetenz/"
+baseurl: "/moer-meko/"
 
 
 ##### Title ###################################################################
@@ -55,8 +56,11 @@ author:
 
 
 ##### Site configuration ######################################################
-title_separator: "|"
-excerpt_separator: <!--more-->
+title_separator          : "|"
+excerpt_separator        : <!--more-->
+locale                   : "de-DE"
+
+
 
 # Build settings
 markdown: kramdown

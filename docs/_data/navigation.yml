@@ -1,23 +1,23 @@
 # main links
 main:
-  - title: "Course units"
+  - title: "Kurseinheiten"
     url: /units.html
-  - title: "About"
+  - title: "Über"
     url: /about.html
-  - title: "Course home"
+  - title: "Zum Kurs"
     url: /index.html
-  - title: "OER home"
+  - title: "Zur OER"
     url: https://oer.uni-marburg.de/goto.php?target=crs_326&client_id=mriliasmooc
-  - title: "Sitemap"
+  - title: "Seitenübersicht"
     url: /sitemap.html
     
     
 docs:
   - title: Ways out
     children:
-      - title: "Course units"
+      - title: "Kurseinheiten"
         url: /units.html
-      - title: "Course home"
+      - title: "Zum Kurs"
         url: /index.html
-      - title: "OER home"
+      - title: "Zum OER"
         url: https://oer.uni-marburg.de/goto.php?target=crs_326&client_id=mriliasmooc
