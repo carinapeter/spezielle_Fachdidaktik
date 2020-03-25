@@ -7,9 +7,8 @@ toc: true
   * [Daten der Luftmessstation Marburg](https://www.hlnug.de/fileadmin/scripts/recherche/info/Marburg.pdf){:target="_blank"}
   * [Lärmkarte Hessens](http://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de){:target="_blank"}
 
-Weitere/Andere Materialien?
-{: .notice--danger}
-
+Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
+{: .notice--info}
 
 ## Aufgabe 1
 
@@ -30,5 +29,4 @@ Schauen Sie sich nun die Ozonlevel an.
 In der Karte sind Schallbelastung und Lufthygiene visualisiert.
   * L1: Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung?
   * L2: Recherchieren Sie die Bedeutung von drei verschiedenen Parametern (hlnug) für die Lufthygiene. Überprüfen Sie, wie die gemessenen Werte in Marburg in einem angemessenen Zeitraum zu den Grenzwerte, Zielwerte und Schwellenwerte nach der 39. BImSchV stehen, um die Aussage der Karte (starke, deutliche und Luftbelastung bei schwachen Wetterlagen) zu überprüfen.
-  * L3: Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de){:target="_blank"} und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Laden sie diese im PDF-Format hoch.
-  
+  * L3: Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de){:target="_blank"} und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg.
