@@ -1,5 +1,6 @@
 ---
 title: Inhalt
+toc: true
 ---
 
 ## Lehrvideos

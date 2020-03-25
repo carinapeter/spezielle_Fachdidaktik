@@ -1,5 +1,5 @@
 ---
-title: Inhalt
+title: Übersicht
 ---
 
 In dieser Lehreinheit werden Sie zu Beginn mit einer typische, komplexen Raumabstraktion konfontiert. Diese schließt an Ihre Schultkenntnisse an und soll Sie daran erinnern, wie komplex die Darstellung von Raum ist und wie sie konkret aussehen kann.
