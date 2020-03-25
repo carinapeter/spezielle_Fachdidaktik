@@ -41,17 +41,17 @@ description: >- # this means to ignore newlines until next item
 
 ##### Lecturer settings #######################################################
 author:
-  name             : "Insert Author here"
+  name             : "Rieke Ammoneit, David Langeloh, Thomas Nauss, Carina Peter, Christoph Reudenbach, Alice Ziegler"
 #  avatar           : "/assets/images/nauss.jpg"
-  bio              : "Philipps Universitaet Marburg"
+  bio              : "Philipps Universität Marburg"
   location         : "Marburg, DE"
-  email            : "Insert Email of course instructor here"
+  email            : "ui-lehre@geo.uni-marburg.de"
   uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
 #  researchgate     : "https://www.researchgate.net/profile/Dirk_Zeuss/stats" # to be included some day
 #  flickr           : "https://www.flickr.com/environmentalinformatics-marburg/"
-#  github           : "GeoMOER"
-#  twitter          : "https://twitter.com/geographie_umr"
+  github           : "GeoMOER"
+  twitter          : "https://twitter.com/geographie_umr"
 #  youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
 
 
@@ -123,7 +123,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "01 Raeumliche Modellierung & Kartierung"
+      category: "01 Räumliche Modellierung & Kartierung"
       tags: "Unit 01"
       layout: single
       sidebar:

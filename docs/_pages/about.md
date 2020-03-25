@@ -1,5 +1,5 @@
 ---
-title: About
+title: Über
 permalink: /about.html
 ---
 

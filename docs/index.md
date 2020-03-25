@@ -26,11 +26,20 @@ Hier am Besten eine Kurze Beschreibung und Zusammenfassung der Kursinhalte.
 
 ## Lernziele
 
-.....
+Am Ende dieses Moduls können Sie
+* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen beschreiben und erklären,
+* eine größere Gruppe von Geomedien überblicksartig erklären und kategorisieren und exemplarisch als Geomedium darstellen,
+* Geomedien für die Lösung spezifischer Probleme auswählen und einsetzen,
+* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen modellieren,
+* die Eignung von Geomedien für die Lösung spezifischer Probleme reflektieren.
+
+
+## Kursmerkmale
+
 
 ## Ablauf
 
-| Kurstag | Themen | Aufgaben |
+| Kursteinheit | Thema | Aufgabe |
 |-------|--------|---------|
 | 01 | Raeumliche Modellierung & Kartierung | ... |
 | 02 | Raumbeschreibung                     | ... |
@@ -39,8 +48,10 @@ Hier am Besten eine Kurze Beschreibung und Zusammenfassung der Kursinhalte.
 | 05 | Mediennutzung                         | ... |
 | 06 | Lust auf mehr                        | ... |
 
-## Aufgaben, Abgaben und Bewertung
-Zu jeder Lehreinheit gibt es Aufgaben, die innerhalb einer Woche bearbeitet und unter folgendem Link (*Link*) hochgeladen werden müssen. Die Aufgaben können auf unterschiedlichen Leveln geloest werden, wobei Level 1-Aufgaben die leichtesten und Level 3-Aufgaben die schwersten sind. Dabei gilt: werden alle Aufgaben auf Level 1 geloest und bestanden, reicht das erlangte Wissen zum bestehen der Abschlusspruefung (befaehigt zum Loesen aller Prüfungsaufgaben der Level-1-Stufe). Das zusätzliche Loesen von Aufgaben der Level 2 und 3 befaehigen zum Bestehen der Pruefung mit einer besseren Note (befaehigt zum Loesen der Pruefungsaufgaben der Level-Stufen 2 und 3).
 
-## Instructor
+## Aufgaben und Leistungen
+Zu jeder Lehreinheit gibt es Aufgaben, die innerhalb einer Woche bearbeitet und unter folgendem Link (*Link*) hochgeladen werden müssen. Die Aufgaben können auf unterschiedlichen Leveln gelöst werden, wobei Level 1-Aufgaben die leichtesten und Level 3-Aufgaben die schwersten sind. Dabei gilt: werden alle Aufgaben auf Level 1 gelöst und bestanden, reicht das erlangte Wissen zum bestehen der Abschlussprüfung (befähigt zum Lösen aller Prüfungsaufgaben der Level-1-Stufe). Das zusätzliche Lösen von Aufgaben der Level 2 und 3 befähigen zum Bestehen der Prüfung mit einer besseren Note (befähigt zum Lösen der Prüfungsaufgaben der Level-Stufen 2 und 3).
+
+
+## Lehrende
 {% include author-profile.html %}
