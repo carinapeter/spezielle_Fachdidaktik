@@ -41,7 +41,7 @@ description: >- # this means to ignore newlines until next item
 
 ##### Lecturer settings #######################################################
 author:
-  name             : "Rieke Ammoneit, David Langeloh, Thomas Nauss, Carina Peter, Christoph Reudenbach, Alice Ziegler"
+  name             : "Rieke Ammoneit, David Langenohl, Thomas Nauss, Carina Peter, Christoph Reudenbach, Alice Ziegler"
 #  avatar           : "/assets/images/nauss.jpg"
   bio              : "Philipps Universität Marburg"
   location         : "Marburg, DE"
@@ -81,6 +81,9 @@ collections:
   examples:
     output: true
     permalink: /:collection/:title.html
+  unit0:
+    output: true
+    permalink: /:collection/:title.html
   unit01:
     output: true
     permalink: /:collection/:title.html
@@ -115,6 +118,16 @@ defaults:
     values:
       category: "examples"
       tags: "Examples"
+      layout: single
+      sidebar:
+        nav: "units" 
+  # unit0
+  - scope:
+      path: ""
+      type: unit0
+    values:
+      category: "Aktuelles"
+      tags: "Unit 0"
       layout: single
       sidebar:
         nav: "units" 
