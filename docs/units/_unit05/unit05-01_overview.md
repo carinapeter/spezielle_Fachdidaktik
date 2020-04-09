@@ -2,7 +2,7 @@
 title: Übersicht
 ---
 
-In dieser Lerneinheit sollen raeumliche Daten auswerten, visualisieren und miteinander verschneiden. Sie werden dazu mit einem Tabellenkalkulationsprogramm statsistische Analysen durchfuehren und Diagramme erstellen. Ausserdem werden Sie Daten in thematischen Karten aufbereiten.
+In dieser Lerneinheit sollen Sie räumliche Daten auswerten, visualisieren und miteinander verschneiden. Sie werden dazu mit einem Tabellenkalkulationsprogramm statsistische Analysen durchführen und Diagramme erstellen. Außerdem werden Sie Daten in thematischen Karten aufbereiten.
 
 <!--more-->
 
