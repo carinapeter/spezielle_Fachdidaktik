@@ -9,9 +9,9 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Einfuehrung in die Methoden der Umweltinformatik. Hier muss ein besserer Text her.
+excerpt: Einführung in den Umgang mit geographischen Medien. 
 feature_row_intro:
-- excerpt: Einfuehrungskurs im [Bachelorstudiengang Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} und im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universitaet Marburg
+- excerpt: Einführungskurs im [Bachelorstudiengang Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} und im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -21,8 +21,8 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-Startseite des Medienkompetenz-Onlineauftritts.
-Hier am Besten eine Kurze Beschreibung und Zusammenfassung der Kursinhalte.
+## Allgemeines 
+Ziel dieses Kurses ist es, einen kompetenten Umgang mit geographische Medien zu erlernen und den dafür notwendigen ersten Einstieg in geographische Methoden zu bekommen (s. Lernziele). Dieser einführende Kurs soll eine Orientierung für die aktive Gestaltung des methodischen Anteils des Geographiestudiums (Bachelor / Lehramt) bieten und als methodische Grundlage für fachliche Basismodule dienen. 
 
 ## Lernziele
 
@@ -34,24 +34,22 @@ Am Ende dieses Moduls können Sie
 * die Eignung von Geomedien für die Lösung spezifischer Probleme reflektieren.
 
 
-## Kursmerkmale
+## Betreuung und Leistungsnachweis
 
+Der Kurs wird intern [im Ilias](https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI){:target="_blank"} betreut. Dort finden sich im zweiwöchigen Rhythmus Übungsaufgaben.
 
 ## Ablauf
 
-| Kursteinheit | Thema | Aufgabe |
-|-------|--------|---------|
-| 01 | Raeumliche Modellierung & Kartierung | ... |
-| 02 | Raumbeschreibung                     | ... |
-| 03 | Datenerfassung                       | ... |
-| 04 | Datenverschneidung & -visualisierung | ... |
-| 05 | Mediennutzung                         | ... |
-| 06 | Lust auf mehr                        | ... |
+Die Veranstaltung folgt einem jeweils zweiwöchigen Zyklus: 
 
-
-## Aufgaben und Leistungen
-Zu jeder Lehreinheit gibt es Aufgaben, die innerhalb einer Woche bearbeitet und unter folgendem Link (*Link*) hochgeladen werden müssen. Die Aufgaben können auf unterschiedlichen Leveln gelöst werden, wobei Level 1-Aufgaben die leichtesten und Level 3-Aufgaben die schwersten sind. Dabei gilt: werden alle Aufgaben auf Level 1 gelöst und bestanden, reicht das erlangte Wissen zum bestehen der Abschlussprüfung (befähigt zum Lösen aller Prüfungsaufgaben der Level-1-Stufe). Das zusätzliche Lösen von Aufgaben der Level 2 und 3 befähigen zum Bestehen der Prüfung mit einer besseren Note (befähigt zum Lösen der Prüfungsaufgaben der Level-Stufen 2 und 3).
-
+| **1. Woche**                                                                                                                      |
+| Donnerstag                          | Vorlesung (Input, Start neues Übungsblatt)                                                  |
+| Donnerstag - Montag                 | Erste Erarbeitung der Übungen, Fragen ins Forum stellen                                     |
+| **2. Woche**                                                                                                                      |
+| Mittwoch (07:00 - 8:30, 21:00-22:30)| Tutorium online, dabei Klärung eingegangener Fragen                                         |
+| Donnerstag                          | Vorlesung (Besprechung des Übungsblatts der vergangenen Woche) -- **entfällt am 30.04.** -- |
+| Donnerstag - Montag                 | ans Tutorium anschließende Fragen im Forum artikulieren, Beantwortung online                |
+| bis Donnerstag (04:00 Uhr früh)     | Abgabe des Übungsblattes im Ilias                                                           |
 
 ## Lehrende
 {% include author-profile.html %}
