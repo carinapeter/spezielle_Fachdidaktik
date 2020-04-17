@@ -17,7 +17,19 @@ Während des Bearbeitungszeitraums der Aufgaben findet jeweils ein Tutorium stat
 
 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
-Für jede Kurseinheit geben Sie bitte eine PDF-Datei ab, die wie folgt benannt ist: Unit&lt;XX&gt;\_&lt;Nachname&gt;\_&lt;Vorname&gt;\_&lt;Matrikelnummer&gt;.pdf (z.B. Unit01\_Nauss\_Thomas\_1234567.pdf). Bearbeiten Sie die Aufgaben in einem Textverarbeitungsprogramm Ihrer Wahl (z.B. OpenOffice, LibreOffice, Microsoft Word, ...). Jede Teilaufgabe beginnt auf einer neuen Seite und beginnt mit einer Überschrift nach dem Schema Aufgabe XX - LY Nachname Vorname - Matrikelnummer (z.B. Aufgabe 02 - L3 - Nauss Thomas - 1234567). Stellen Sie sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies erleichtert uns die Navigation in Ihrem finalen Dokument. Für jede Teilaufgabe ist der Seitenumfang angegeben. Nutzen Sie genau diese Anzahl an Seiten, auch wenn die Seiten nicht ganz voll sind. Selbst wenn Sie die Teilaufgabe gar nicht bearbeiten, fügen Sie bitte die Überschrift der Aufgabe ein und lassen Sie die Seiten dann frei bevor Sie auf der nächsten Seite mit der nächsten Teilaufgabe weitermachen.
+Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt: 
+
+```Unit<XX>_<Nachname>_<Vorname>.pdf``` (z.B. _Unit01\_Nauss\_Thomas.pdf_). 
+
+Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötigen. Manchmal sind auch Handskizzen erforderlich. Letztere können Sie z.B. mit der Kamera Ihres Smartphones abfotografieren und in die Abgabedatei einfügen.
+
+Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Teilaufgabe eine neue Seite und fügen Sie die Teilaufgabennummer als formatierte Überschrift ein. Die Teilaufgabennummer muss dem Schema 
+ 
+```Aufgabe XX-LY: Vorname Nachname, Matrikelnummer``` (z.B. Aufgabe 02-L3 - Thomas Nauss, 1234567) folgen.
+
+Stellen Sie bitte unbedingt sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies erleichtert uns die Navigation in Ihrem finalen Dokument. 
+
+Für jede Teilaufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Nutzen Sie genau diese Anzahl an Seiten, auch wenn die Seiten nicht ganz voll oder sogar leer sind. Selbst wenn Sie die Teilaufgabe also gar nicht bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie mit der nächsten Teilaufgabe weitermachen.
 
 ### Bestehen der Studienleistung
 Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.
