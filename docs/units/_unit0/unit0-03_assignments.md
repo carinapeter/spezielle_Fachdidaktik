@@ -5,7 +5,7 @@ toc: true
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Um eine Bewertung zu erhalten, müssen die Aufgaben im [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und als PDF-Datei abgeben werden. Die Studienleistung ist individuell zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Um eine Bewertung zu erhalten, müssen die Aufgaben im [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und den formalen Anforderungen entsprechen abgeben werden. Die Studienleistung ist individuell zu erbringen.
 
 
 ### Schwierigkeitsniveaus
@@ -15,6 +15,9 @@ Jede Aufgabe besteht aus drei Teilaufgaben (L1, L2, L3) und wird mit maximal sec
 
 Während des Bearbeitungszeitraums der Aufgaben findet jeweils ein Tutorium statt. Hierzu können Sie vorab Fragen über das Forum in Ilias stellen. Eine Nachbesprechung (Video, Live-Streaming oder Webkonferenz) findet ca. eine Woche nach Abgabe statt (siehe [Ablaufplan auf der Einstiegsseite des Kurses]({{ site.baseurl }}{% link index.md %})).
 
+
+### Formale Anforderungen
+Für jede Kurseinheit geben Sie bitte eine PDF-Datei ab, die wie folgt benannt ist: Unit&lt;XX&gt;\_&lt;Nachname&gt;\_&lt;Vorname&gt;\_&lt;Matrikelnummer&gt;.pdf (z.B. Unit01\_Nauss\_Thomas\_1234567.pdf). Bearbeiten Sie die Aufgaben in einem Textverarbeitungsprogramm Ihrer Wahl (z.B. OpenOffice, LibreOffice, Microsoft Word, ...). Jede Teilaufgabe beginnt auf einer neuen Seite und beginnt mit einer Überschrift nach dem Schema Aufgabe XX - LY Nachname Vorname - Matrikelnummer (z.B. Aufgabe 02 - L3 - Nauss Thomas - 1234567). Stellen Sie sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies erleichtert uns die Navigation in Ihrem finalen Dokument. Für jede Teilaufgabe ist der Seitenumfang angegeben. Nutzen Sie genau diese Anzahl an Seiten, auch wenn die Seiten nicht ganz voll sind. Selbst wenn Sie die Teilaufgabe gar nicht bearbeiten, fügen Sie bitte die Überschrift der Aufgabe ein und lassen Sie die Seiten dann frei bevor Sie auf der nächsten Seite mit der nächsten Teilaufgabe weitermachen.
 
 ### Bestehen der Studienleistung
 Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.
