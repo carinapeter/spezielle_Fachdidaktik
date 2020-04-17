@@ -3,13 +3,13 @@ title: Digitales Lernen auf Distanz
 toc: true
 ---
 
-Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit. Diesen beginnen wir mit Videos, Live-Streaming oder Webkonferenz, Texten oder anderen Medien und schließen ihn mit Aufgaben ab, die zur Studienleistung gehören. Während des Bearbeitungszeitraums für die Aufgabe findet ein begleitendes Tutorium statt. 
+Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit. Diese beginnen wir mit Videos, Live-Streaming oder Webkonferenz, Texten oder anderen Medien und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Während des Bearbeitungszeitraums für die Aufgabe findet ein begleitendes Tutorium statt. 
 
 ## Web-basierte Lernumgebung
 
 Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage, die wir auf GitHub erstellen. Hier finden Sie Lernmaterialien, Aufgaben und Hilfestellungen.
 
-Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR). Zur Unterstützung der Organisation und Kommunikation finden Sie dort für jede Kurseinheit ein Pendant in Form einer Ilias-Sitzung. Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Zudem finden Sie dort ein Forum, in dem Sie Fragen zur jeweils aktuellen Aufgabe stellen können. Die Fragen werden i.d.R. nicht im Forum beantwortet sondern für die Gestaltung des Tutorium gesammelt. Außerdem finden Sie in jeder Sitzung ein Modul zur Abgabe der jeweiligen Aufgabe. Dort müssen Sie Ihre Bearbeitung format- und fristgerecht hochladen.
+Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Zur Unterstützung der Organisation und Kommunikation finden Sie dort für jede Kurseinheit ein Pendant in Form einer Ilias-Sitzung. In jeder Sitzung finden Sie ein Forum, in dem Sie Fragen zur jeweils aktuellen Aufgabe stellen können. Die Fragen werden i.d.R. nicht im Forum beantwortet sondern für die Gestaltung des Tutorium gesammelt. Außerdem finden Sie in jeder Sitzung ein Modul zur Abgabe der jeweiligen Aufgabe. Dort müssen Sie Ihre Bearbeitung format- und fristgerecht hochladen.
 
 ## Flexibles Lernen mit festgelegten Fristen
 Die Kursplanung sah immer Donnerstags eine Vorlesung und - je nach von Ihnen gewähltem Termin - entweder Montags oder Mittwochs ein 14-tägiges Tutorium vor. Diese Veranstaltungen können bis auf weiteres nicht in Präsenzform angeboten werden. Die mit den Veranstaltungen verbundene Logik wird aber beibehalten. Das bedeutet für Sie folgendes:
@@ -46,7 +46,7 @@ Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materi
 ### Kursbereich in Ilias
 Der [Kursbereich auf Ilias](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
-### Foren
+### Foren in Ilias
 Foren nutzten wir wie schon angesprochen für die Vorbereitung der Tutorien. Wenn Sie eine Frage an uns richten möchten, nutzen Sie bitte das Forum im Kursbereich. Für die erste Woche haben wir ein Forum für Fragen zur Organisation eingerichtet, danach gibt es für jede Kurseinheit ein Forum für Fragen zu den jeweils aktuell zu bearbeitenden Aufgaben. Überprüfen Sie zuerst, ob Ihre Frage bereits gestellt wurde und wenn nicht, an welcher Stelle im Forum sie sich am besten einordnet. Wir werden auf ihre Fragen primär in den Tutorien eingehen. Bei generellen Problemen werden wir Antworten auch auf dieser Seite zusammenstellen.
 
 Bitte bedenken Sie, dass wir Zusatzmaterial nur dann erstellen können, wenn wir wissen, wo die Probleme liegen. Nutzen Sie das Forum also unbedingt um Fragen zu stellen! Sehen Sie von Mails an uns ab, denn es ist wahrscheinlich, dass andere Kommilitonen sich ähnliches wie Sie selbst fragen und es ist daher sinnvoll für alle transparent im Forum zu kommunizieren. 
