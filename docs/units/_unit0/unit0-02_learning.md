@@ -3,7 +3,7 @@ title: Digitales Lernen auf Distanz
 toc: true
 ---
 
-Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit. Diese beginnen wir mit Videos, Live-Streaming oder Webkonferenz, Texten oder anderen Medien und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Während des Bearbeitungszeitraums für die Aufgabe findet ein begleitendes Tutorium statt. 
+Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit. Diese beginnen wir mit Videos, Live-Streaming oder Webkonferenz, Texten oder anderen Medien und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Während des Bearbeitungszeitraums für die Aufgabe findet ein begleitendes Tutorium statt.
 
 ## Web-basierte Lernumgebung
 
@@ -14,7 +14,7 @@ Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://oer.
 ## Flexibles Lernen mit festgelegten Fristen
 Die Kursplanung sah immer Donnerstags eine Vorlesung und - je nach von Ihnen gewähltem Termin - entweder Montags oder Mittwochs ein 14-tägiges Tutorium vor. Diese Veranstaltungen können bis auf weiteres nicht in Präsenzform angeboten werden. Die mit den Veranstaltungen verbundene Logik wird aber beibehalten. Das bedeutet für Sie folgendes:
 
-* Jeden zweiten Donnerstag starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Das können Videos, Texte, Verweise auf Literatur etc. sein. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend 14 Tage Zeit. 
+* Jeden zweiten Donnerstag starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Das können Videos, Texte, Verweise auf Literatur etc. sein. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend 14 Tage Zeit.
 
 * Jeweils um eine Woche versetzt dazu finden Sie jeden zweiten Mittwoch Tutoriumsmaterialien auf dieser Webseite. Dies entspricht der Mitte des Bearbeitungszeitraums der jeweiligen Aufgaben. Die Materialien können die aufgezeichnete Sitzung eines als Webkonferenz gestalteten Tutoriums oder etwas anderes sein. Die Materialien werden jeweils im Bereich der jeweiligen Kurseinheit auf dieser Webseite veröffentlicht, also dort, wo Sie auch die oben genannten Lernmaterialien und Aufgaben finden.
 
@@ -33,7 +33,7 @@ Zusätzlich zur Bereitstellung neuer Lernmaterialien für die jeweilige Kurseinh
 ### Webkonferenz statt Tutorium
 Analog zur Vorlesung gestalten wir auch das Tutorium als Webkonferenz. Da die ursprünglich für Montag bzw. Mittwoch vorgesehenen Zeiten mitten in den Zeitraum mit sehr hoher Internetbelastung fallen, verschieben wir die Termine für das Tutorium in Randzeiten mit (hoffentlich) geringerer Netzbelastung. Montags findet kein Tutorium statt. Mittwochs werden dafür zwei Termine angeboten. 7:00 bis 8:30 Uhr und 21:00 bis 22:30 Uhr. Den Raum für diese Webkonferenz geben wir ebenfalls im Kursbereich auf Ilias bekannt.
 
-Um den Ablauf in den Tutorien möglichst flüssig zu gestalten, werden wir Fragen vorab in einem Forum auf Ilias sammeln. Hier ist jeweils das Forum der aktuellen Kurseinheit relevant (für Kurseinheit 01 also das Forum im Ilias-Bereich zur Kurseinheit 01). Nur Fragen und Inhalte die bis Dienstag  7:00 Uhr im Forum aufkommen, werden ins Live Tutorium aufgenommen. Da wir das Tutorium zunächst für die vorab gestellten Fragen planen, sollten Sie das Forum intensiv nutzen um Ihre Fragen zu stellen.  
+Um den Ablauf in den Tutorien möglichst flüssig zu gestalten, werden wir Fragen vorab in einem Forum auf Ilias sammeln. Hier ist jeweils das Forum der aktuellen Kurseinheit relevant (für Kurseinheit 01 also das Forum im Ilias-Bereich zur Kurseinheit 01). Nur Fragen und Inhalte die bis Montag 6:00 Uhr im Forum aufkommen, werden ins Live Tutorium aufgenommen. Da wir das Tutorium zunächst für die vorab gestellten Fragen planen, sollten Sie das Forum intensiv nutzen um Ihre Fragen zu stellen.  
 
 
 ## Übersicht über Kommunikationsformen
@@ -49,7 +49,7 @@ Der [Kursbereich auf Ilias](https://oer.uni-marburg.de/goto.php?target=crs_18588
 ### Foren in Ilias
 Foren nutzten wir wie schon angesprochen für die Vorbereitung der Tutorien. Wenn Sie eine Frage an uns richten möchten, nutzen Sie bitte das Forum im Kursbereich. Für die erste Woche haben wir ein Forum für Fragen zur Organisation eingerichtet, danach gibt es für jede Kurseinheit ein Forum für Fragen zu den jeweils aktuell zu bearbeitenden Aufgaben. Überprüfen Sie zuerst, ob Ihre Frage bereits gestellt wurde und wenn nicht, an welcher Stelle im Forum sie sich am besten einordnet. Wir werden auf ihre Fragen primär in den Tutorien eingehen. Bei generellen Problemen werden wir Antworten auch auf dieser Seite zusammenstellen.
 
-Bitte bedenken Sie, dass wir Zusatzmaterial nur dann erstellen können, wenn wir wissen, wo die Probleme liegen. Nutzen Sie das Forum also unbedingt um Fragen zu stellen! Sehen Sie von Mails an uns ab, denn es ist wahrscheinlich, dass andere Kommilitonen sich ähnliches wie Sie selbst fragen und es ist daher sinnvoll für alle transparent im Forum zu kommunizieren. 
+Bitte bedenken Sie, dass wir Zusatzmaterial nur dann erstellen können, wenn wir wissen, wo die Probleme liegen. Nutzen Sie das Forum also unbedingt um Fragen zu stellen! Sehen Sie von Mails an uns ab, denn es ist wahrscheinlich, dass andere Kommilitonen sich ähnliches wie Sie selbst fragen und es ist daher sinnvoll für alle transparent im Forum zu kommunizieren.
 
 
 ### E-Mail
