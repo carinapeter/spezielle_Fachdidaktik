@@ -17,6 +17,6 @@ _Verzweifeln Sie nicht. Haben Sie keine Angst aufgrund den Herausforderungen ein
 _Machen wir was draus!_
 
 
-_Rieke Ammoneit, David Langenohl, Thomas Nauss, Carina Peter, Chris Reudenbach, Alice Ziegler_
+_Rieke Ammoneit, Jonas Beckmann, David Langenohl, Thomas Nauss, Carina Peter, Chris Reudenbach, Alice Ziegler_
 
 _P. S. Wenn Sie nicht über die notwendigen technischen Voraussetzungen verfügen (z.B. kein Internetzugang) um an der digitalen Lehre teilzunehmen, melden Sie sich bitte umgehend bei uns._
