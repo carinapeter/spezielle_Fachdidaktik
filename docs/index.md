@@ -55,14 +55,7 @@ Die Studienleistung und die Prüfungsleistung ist individuell zu erbringen.
 
 Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch ein Tutorium begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
 
-| **1. Woche**                                                                                                                      |
-| Donnerstag                          | Vorlesung (Input, Start neues Übungsblatt)                                                  |
-| Donnerstag - Montag                 | Erste Erarbeitung der Übungen, Fragen ins Forum stellen                                     |
-| **2. Woche**                                                                                                                      |
-| Mittwoch (07:00 - 8:30, 21:00-22:30)| Tutorium online, dabei Klärung eingegangener Fragen                                         |
-| Donnerstag                          | Vorlesung (Besprechung des Übungsblatts der vergangenen Woche) -- **entfällt am 30.04.** -- |
-| Donnerstag - Montag                 | ans Tutorium anschließende Fragen im Forum artikulieren, Beantwortung online                |
-| bis Donnerstag (04:00 Uhr früh)     | Abgabe des Übungsblattes im Ilias                                                           |
+{% include figure image_path="/assets/images/ablaufplan.jpg" alt="Ablaufplan des Kurses." %}
 
 
 ## Team
