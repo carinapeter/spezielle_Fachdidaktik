@@ -5,7 +5,7 @@ toc: true
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Um eine Bewertung zu erhalten, müssen die Aufgaben im [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und im geforderten Format (z.B. PDF-Datei) abgeben werden. Die Studienleistung ist individuell zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Um eine Bewertung zu erhalten, müssen die Aufgaben im [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und im dort geforderten Format (z.B. PDF-Datei) abgeben werden. Die Studienleistung ist individuell zu erbringen.
 
 
 ### Schwierigkeitsniveaus
