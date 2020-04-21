@@ -5,6 +5,11 @@
   avatar           : "/assets/images/ammoneit.jpg"
   email            : "ui-lehre@geo.uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
+  - beckmann:
+  name             : "Jonas Beckmann"
+  avatar           : "/assets/images/beckmann.jpg"
+  email            : "ui-lehre@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
 - langenohl:
   name             : "David Langenohl"
   avatar           : "/assets/images/langenohl.jpg"
