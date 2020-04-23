@@ -31,7 +31,7 @@ Zusätzlich zur Bereitstellung neuer Lernmaterialien für die jeweilige Kurseinh
 
 
 ### Webkonferenz statt Tutorium
-Analog zur Vorlesung gestalten wir auch das Tutorium als Webkonferenz. Da die ursprünglich für Montag bzw. Mittwoch vorgesehenen Zeiten mitten in den Zeitraum mit sehr hoher Internetbelastung fallen, verschieben wir die Termine für das Tutorium in Randzeiten mit (hoffentlich) geringerer Netzbelastung. Montags findet kein Tutorium statt. Mittwochs werden dafür zwei Termine angeboten. 7:00 bis 8:30 Uhr und 21:00 bis 22:30 Uhr. Den Raum für diese Webkonferenz geben wir ebenfalls im Kursbereich auf Ilias bekannt.
+Analog zur Vorlesung gestalten wir auch das Tutorium als Webkonferenz. Da die ursprünglich für Montag bzw. Mittwoch vorgesehenen Zeiten mitten in den Zeitraum mit sehr hoher Internetbelastung fallen, verschieben wir die Termine für das Tutorium in Randzeiten mit (hoffentlich) geringerer Netzbelastung. Montags findet kein Tutorium statt. Mittwochs werden dafür zwei Termine angeboten: 7:00 bis 8:15 Uhr, 10:00 bis 12:00 Uhr und 12:00 bis 14:00 Uhr. Den Raum für diese Webkonferenz geben wir ebenfalls im Kursbereich auf Ilias bekannt.
 
 Um den Ablauf in den Tutorien möglichst flüssig zu gestalten, werden wir Fragen vorab in einem Forum auf Ilias sammeln. Hier ist jeweils das Forum der aktuellen Kurseinheit relevant (für Kurseinheit 01 also das Forum im Ilias-Bereich zur Kurseinheit 01). Nur Fragen und Inhalte die bis Montag 6:00 Uhr im Forum aufkommen, werden ins Live Tutorium aufgenommen. Da wir das Tutorium zunächst für die vorab gestellten Fragen planen, sollten Sie das Forum intensiv nutzen um Ihre Fragen zu stellen.  
 

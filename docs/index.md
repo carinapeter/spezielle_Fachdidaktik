@@ -57,6 +57,10 @@ Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht au
 
 {% include figure image_path="/assets/images/ablaufplan.jpg" alt="Ablaufplan des Kurses." %}
 
+## Kurs- und Tutoriumszeiten
+**Kurszeiten**: Donnerstags, 8:15 bis 10:45 Uhr
+
+**Tutorien**: Mittwochs, 7:00 bis 8:15 Uhr / 10:00 bis 12:00 Uhr / 12:00 bis 14:00 Uhr 
 
 ## Team
 
