@@ -38,4 +38,4 @@ Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten 
 
 
 ## Prüfungsleistung
-Am Ende des Moduls findet eine Klausur mit theoretischen und praktischen Aufgaben statt. Die Prüfungsleistung ist individuell zu erbringen.
+Am Ende des Moduls findet voraussichtlich eine Klausur mit theoretischen und praktischen Aufgaben statt. Die Prüfungsleistung ist individuell zu erbringen.
