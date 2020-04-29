@@ -18,7 +18,7 @@ Die Kursplanung sah immer Donnerstags eine Vorlesung und - je nach von Ihnen gew
 
 * Jeweils um eine Woche versetzt dazu finden Sie jeden zweiten Mittwoch Tutoriumsmaterialien auf dieser Webseite. Dies entspricht der Mitte des Bearbeitungszeitraums der jeweiligen Aufgaben. Die Materialien können die aufgezeichnete Sitzung eines als Webkonferenz gestalteten Tutoriums oder etwas anderes sein. Die Materialien werden jeweils im Bereich der jeweiligen Kurseinheit auf dieser Webseite veröffentlicht, also dort, wo Sie auch die oben genannten Lernmaterialien und Aufgaben finden.
 
-Abgesehen von den damit verbundenen Fristen, können Sie sich Ihr Lernen und die Bearbeitung der Aufgaben frei einteilen. Weitere Informationen zur Studienleistung finden Sie [hier]({{ site.baseurl }}{% link _unit0/unit0-03_assignments.md %}))
+Abgesehen von den damit verbundenen Fristen, können Sie sich Ihr Lernen und die Bearbeitung der Aufgaben frei einteilen. Weitere Informationen zur Studienleistung finden Sie [hier]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}))
 
 
 ## Lernen mit Webkonferenzen
