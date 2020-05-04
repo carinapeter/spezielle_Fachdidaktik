@@ -14,4 +14,4 @@ permalink: /faq.html
   
 **Muss ich mich verpflichtend in eine der Lerngruppen im ILIAS eintragen?**
 
-   Nein, die Lerngruppen sind ein Angebot um Kontakt zu Ihren Kommilitonen herzustellen. Wenn Sie sich anmelden können Sie den HRZ-   Namen Ihrer Gruppenmitglieder sehen. Wenn Sie daran @students.uni-marburg.de anhängen, haben Sie deren Mailadressen. Wie Sie dann  weiter kommunizieren und sich austauschen bleibt Ihnen überlassen. Wenn Sie bereits Studierende kennen, die den Kurs auch besuchen und keinen Bedarf an einem weiteren Austausch haben brauchen Sie keiner der Lerngruppen beitreten.
+   Nein, die Lerngruppen sind ein Angebot um Kontakt zu Ihren Kommilitonen herzustellen. Wenn Sie sich anmelden können Sie den HRZ-   Namen Ihrer Gruppenmitglieder sehen. Wenn Sie daran *@students.uni-marburg.de* anhängen, haben Sie deren Mailadressen. Wie Sie dann  weiter kommunizieren und sich austauschen bleibt Ihnen überlassen. Wenn Sie bereits Studierende kennen, die den Kurs auch besuchen und keinen Bedarf an einem weiteren Austausch haben brauchen Sie keiner der Lerngruppen beitreten.
