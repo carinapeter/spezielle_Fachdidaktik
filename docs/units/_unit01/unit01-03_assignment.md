@@ -65,12 +65,12 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ### Teilaufgaben L1
 
- Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung? 
+Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung? 
  
- Beschreiben und bewerten Sie die Art der Darstellung der Schallbelastung und der Lufthygiene in drei Sätzen.
+Beschreiben und bewerten Sie die Art der Darstellung der Schallbelastung und der Lufthygiene in drei Sätzen.
  
- Umfang: 1 Seite in Ihrer PDF-Datei.
- 
+Umfang: 1 Seite in Ihrer PDF-Datei.
+
 ### Teilaufgaben L2
 
 Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/recherche-1). Wählen Sie drei verschiedenen Parametern aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. 
@@ -84,3 +84,9 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
+
+## Zusatzmaterial zu den Aufgaben
+
+### Zusatzmaterial zur Aufgabe 01-3 L1:
+
+Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179). 
