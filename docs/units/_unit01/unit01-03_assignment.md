@@ -84,9 +84,3 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
-
-## Zusatzmaterial zu den Aufgaben
-
-### Zusatzmaterial zur Aufgabe 01-3 L1:
-
-Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179). 
