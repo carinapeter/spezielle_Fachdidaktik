@@ -34,7 +34,7 @@ Für jede Teilaufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Nu
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden Sie nur diese Version in ILIAS hoch. 
 
 ### Bestehen der Studienleistung
-Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.
+Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Teilaufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.
 
 
 ## Prüfungsleistung
