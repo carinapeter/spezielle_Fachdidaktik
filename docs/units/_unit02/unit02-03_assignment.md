@@ -1,86 +1,109 @@
 ---
-title: Aufgaben
+title: Aufgaben 02 - Raumbeschreibung
 toc: true
 ---
 
 Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
 {: .notice--info}
 
-## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
+## Aufgabenstellung
 
-In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm- und Luftverschmutzung in Marburg. [Hier finden Sie die Versionen der Karte von 1991 und 2002](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
+In der zweiten Lerneinheit  sollen Sie selbst einen Raum beschreibend abstrahieren. Um die erforderliche Abstraktionsleistung zu üben, sollen zunächst in die eine Richtung Fotos kategorisiert (z.B. Park, Erholungsraum, Englischer Garten Stil…)   werden. Um von dieser ersten Aufwärmübung  weiter in komplexerer Zusammenhänge zu kommen sollen Sie in einer zweiten Aufgabe eigene Bilder aufnehmen und  in  kurzen Sätzen Beispiele kategorisch beschreiben. Die Aufnahme soll mit einer Koordinate erfolgen 
+Aus dieser selbstgewählten bildlich und schriftlich dokumentierten Raumaufnahme soll im Anschluss eine  eine Skizze angefertigt werden in die die Beschreibung und Kategorisierung einfließt. Schließlich soll die bislang auf der beschreibenden Ebene erfolgte Abstrahierung eines Raumausschnitts mit quantitativen Messungen in diesem Raum ausgestattet werden. So kann beispielhaft eine Lärmmessung oder Passantenzählung in die Skizze oder daraus abgeleitete Karte  integriert werden.
+Liegen sowohl georeferenzierte Fotos als auch Geräuschkarten vor, lassen sich diese in Hinblick auf ihren Raumbezug vergleichen (Foto von Standpunkt aus geschossen, Geräusche im Radius um den Standpunkt gemessen). 
 
-### Teilaufgaben L1
+## Inhalt
+Vertiefende Materialien:
+* Raum braucht einen [Geltungsbereich]({{ site.baseurl }}{% link _unit07/unit-07-01_reader_geo_raum_intro.md %})
+* [Objekte]({{ site.baseurl }}{% link _unit07/unit-07-03_reader_geo_raum.md %})  im Raum.
 
-Was können Sie den Karten entnehmen?
 
-Beschreiben Sie beide Karten in ganzen Sätzen und stellen Sie Ihre Ergebnisse übersichtlich dar.
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
 
-### Teilaufgaben L2
+## Benötigte Materialien
 
-Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? 
+Für diese Aufgabe brauchen Sie: 
+* Handy (Kamera)
+* Papier und Stifte
+* Humboldt Text und Karte
+* Smartphone
+* Internetzugang
 
-Formulieren Sie mindestens drei Fragen.
-
-Umfang: 1 Seite in Ihrer PDF-Datei. 
-
-### Teilaufgaben L3
-
-Vergleichen Sie die Karten, welche Veränderungen sind festzustellen? Womit lassen sich die Veränderungen begründen? 
-
-Geben Sie die Veränderungen als Stichpunkte an und begründen Sie diese mit ganzen Sätzen.
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
-
-## Aufgabe 01-2: Ozonkonzentration
+## Aufgabe 02-1: Einstieg in die Raumbeschreibung
 
 ### Teilaufgaben L1
+Als Einstiegsübung zur  Raumabstraktion gehen Sie bitte vor die Tüte und suchen sich nach Ihrer Meinung geeignete Orte, die nachfolgend genannte Ihnen bekannte Konzepte in geeigneter Weise repräsentieren.  Um Ihnen das Vorgehen zu erleichtern nennen wir Ihnen fünf Phänomene: Segregation, Erosion, Wüstung, Gentrifizierung und Landnutzungswandel. 
+Die konkrete Aufgabe lautet: Finden Sie für mindestens drei der  genannten Konzepte ein reales Raumbeispiel in Ihrer Umgebung machen Sie ein **aussagekräftiges** Foto. Begründen Sie Ihre Auswahl mit Hilfe einer Bildbeschreibung von max. drei Sätzen.
 
-Interpretieren Sie die Ozonverteilung bezüglich räumlicher Muster und möglicher Zusammenhänge. 
+Umfang: 3 Seiten in Ihrer PDF-Datei
 
-Formulieren Sie drei Sätze 
+### Teilaufgabe L2
+Setzen Sie sich nun mit der Beschreibung und Skizzierung  eines Raumes auseinander. Niemand Geringeres als  Alexander v. Humboldt  befasste sich im Jahre 1802 mit der Erforschung des Pichincha Vulkans in direkter Nachbarschaft von von Quito in Ecuador. Er beschrieb  und skizziert damals erstmalig systematisch den für Quito so bedeutsamen Vulkan und sein Umland. Lesen Sie seinen [Text ](https://www.projekt-gutenberg.org/humbolda/kosmos/kosmos.html#kos424)) und schauen Sie sich seine beiden Handskizzen an [Querschnitt Skizze Pichincha](https://www.kulturstiftung.de/wp-content/uploads/2015/06/KSL_APT_1_2014_099.jpg). 
+*„Amerikanische Reisetagebücher“ Alexander von Humboldts: Tagebuch VIIbb/c, Bl. 412r; Skizze von Rucu-Pitchincha und Guagua-Pitchincha Quelle: Staatsbibliothek zu Berlin-PK*
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+ [Topographische Skizze Pichincha](https://www.kulturstiftung.de/wp-content/uploads/2015/06/KSL_APT_1_2014_100-870x1024.jpg).
+*„Amerikanische Reisetagebücher“ Alexander von Humboldts: Tagebuch VIIbb/c, Bl. 421r; Topographische Skizze des Vulkans von Pichincha Quelle: Staatsbibliothek zu Berlin-PK*
 
-### Teilaufgaben L2
+Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen: Nach welchen Merkmalen strukturiert Humboldt seinen Text. Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region. 
 
-Schätzen Sie die Aussagekraft und Belastbarkeit der Ozonwerte in der Karte ein. 
+Konkrete Aufgabe: Nennen sie die wesentlichen Elemente der Humboldstschen Skizzen und bewerten sie Ihren Informationsgehalt mit max. 3 Sätzen. Extrahieren Sie aus dem Text die korrespondierenden Informationen und bewerten auch deren Informationsgehalt in max.  drei Sätzen.
 
-Formulieren Sie drei Sätze.
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
-  
-### Teilaufgaben L3
-
-Begründen Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen, nutzen Sie dafür sowohl offizielle Datenreihen als auch Literatur zur Erhebung von aussagekräftigen Ozonwerten. 
-
-Verfassen Sie Ihre Begründung unter Nennung der Quellen in fünf Sätzen
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
+Umfang: 1 Seite Ihrer PDF-Datei
 
 
-## Aufgabe 01-3 Schallbelastung und Lufthygiene
+### Teilaufgabe L3
+Benutzen Sie nun ein Luftbild um den abgebildeten Raum strukturell zu abstrahieren. Dafür müssen Sie Geoobjekte erkennen und voneinander abgrenzen und gegebenenfalls vereinheitlichen. Orientieren Sie sich an folgenden Leitfragen: Ist der Inhalt Ihrer generalisierenden Skizze und die darin abgebildeten Kategorien typisch für Ihre Interpretation des Raumes?  Sie die abgeleiteten Informationen für Dritte verständlich? Durch eine geeignete Kommunikation  (Faustskizze, Kartenskizze...) können Sie Ihre Raumabstraktion zielgerichtet kommunizieren.
 
-### Teilaufgaben L1
+Konkrete Aufgabe: Betrachten Sie das unten stehende Luftbild (Abb. 01-07) und überlegen Sie, wie Sie die Repräsentation dieses Raumes vornehmen würden. Erfassen Sie folgende Merkmale:
 
- Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung? 
+
+*     Landnutzung in Form von Landnutzungsarten
+*     Straßennetz
+*     Bebauungsfläche
+
+<html>
+ <a href="http://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" title="Aerial photo of the rockgarden *Sanspareil* (Fränkische Schweiz) as an example of a cutout of reality that has to be represented by geoinformation means.">  <img src="http://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" width="75%"  alt="Aerial photo of the rockgarden *Sanspareil* (Fränkische Schweiz) as an example of a cutout of reality that has to be represented by geoinformation means">  </a>
+ </html>
  
- Beschreiben und bewerten Sie die Art der Darstellung der Schallbelastung und der Lufthygiene in drei Sätzen.
- 
- Umfang: 1 Seite in Ihrer PDF-Datei.
- 
-### Teilaufgaben L2
+*Abbildung 01-07: Luftbild des Felsengarten Sanspareil (Fränkische Schweiz) als Beispiel eines zu repräsentierenden Wirklichkeitsausschnitt. Es wird vernachlässigt, dass ein Luftbild selbst bereits eine Repräsentation der Wahrnehmung des Fotografen ist (Presse03 2009)*
 
-Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/recherche-1). Wählen Sie drei verschiedenen Parametern aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. 
+Erstellen Sie eine Skizze von dem im Luftbild abgebildeten Raum. Versuchen Sie im Bild die oben genannten Kategorien zu identifizieren und geeignet zusammenzufassen. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufrund ausreichender Ähnlichkeit zusammenfassen können. Schreiben Sie sich in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 
-Bewerten Sie auf Basis Ihrer drei Parameter die Plausibilität der in der Karte dargestellten Lufthygiene. Beziehen Sie hierfür die jeweils gültigen Grenzwerten nach der 39. BImSchV in Ihre Diskussion ein.
+Umfang: 1 PDF-Seite
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
 
-### Teilaufgaben L3
 
-Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+## Aufgabe 02-2: Raum mit technischen Hilfsmittel erfassen
+
+
+
+### Teilaufgabe L1
+In dieser Teilaufgabe nutzen Sie erneut Photographien zur Abstraktion eines Raumausschnitts. Gehen Sie zu einer Kreuzung Ihrer Wahl und überlegen Sie sich, welche Strukturen für diesen  Raumausschnitt typisch sind. Achten Sie besonders auf die funktionalen Zusammenhänge (z.B. Wohnhäuser, Einmündungen, Straßen, etc.) die diesen Raum prägen. Orientieren Sie sich an folgenden Leitfragen:  Was lässt sich im Sinne Ihrer Raumtypisierung zu Einheiten zusammenfassen? Was ist sinnvoll zu differenzieren?
+
+Konkrete Aufgabe: Machen Sie von Ihrer Hauptkreuzung, sowie den prägenden Komponenten jeweils ein repräsentatives Foto. Erstellen Sie eine Übersicht Ihrer Fotos und geben Sie die Koordinaten an. Verorten Sie die Fotos außerdem auf einem Kartenausschnitt.   
+
+Ob Sie die Übersicht Ihrerer Bilder mit  einem WebGIS (z.B. [Google MyMaps](https://www.google.de/intl/de/maps/about/mymaps), digital in einem Zeichenprogramm oder komplett analog auf Papier gestalten ist Ihnen freigestellt. Wichtig ist dass Sie mit dieser Übersicht klar verständlich dokumentieren und kommunizieren können wie ihr Raumausschnitt strukturiert ist. 
+
+Tipp: Die Koordinaten können Sie falls Ihr smartphone einen GPS-Sensor besitzt in der Regel direkt auf ihrem Smartphone einsehen. Falls nicht können sie  z.B. mit  der freien Software [geotag](https://www.heise.de/download/product/geotag-54809) die Positionsdaten direkt auslesen. Falls Sie kein Smartphone mit diesen Eigenschaften besitzen können Sie z.B. Google Maps die Koordinaten interaktiv abfragen. 
+
+Umfang: 1 Seite Ihrer PDF-Datei
+
+### Teilaufgabe L2
+Mit Ihrem Smartphone können Sie leicht eine Lärmerfassung durchführen (sieheTipps).  Erfassen Sie den räumlichen und /oder zeitlichen Verlauf des Lärms an Ihrer Kreuzung. Orientieren Sie sich an folgenden Leitfragen Wie können Sie eine möglichst repäsentative Erfassung durchführen? Können/wollen Sie zeitliche Unterschiede (Berufsverkehr, nächtlicher Verkehr) und/oder räumliche Unterschiede (Messung hinter einer Schallschutzwand, auf einer Verkehrsinsel) berücksichtigen? 
+Konkrete Aufgabe: Überlegen Sie sich eine Vorgehensweise und messen Sie den Lärmpegel gemäß Ihrer Vorstellungen im Raum ihrer  Kreuzung. 
+
+Begründen Sie Ihr Vorgehen (Zeitpunkt (Wochentag und Tageszeit), Messzeitraum, Aggregation, ...) in max. drei Sätzen. Stellen Sie Ihre Werte tabellarisch oder graphisch dar. Beschreiben  Sie in max.  drei Sätzen, wie sich Ihr Lärmpegel an den unterschiedlichen Punkten/Zeiten darstellt.
+
+Tipp: Zur Lärmmessung eignen sich verschiedene Smartphone Apps (z.B. [Dezibel Pro](https://play.google.com/store/apps/details?id=com.dbmeterpro.dbmeter&hl=de). Falls Sie keine App zur Lärmpegelmessung installieren können oder wollen, können Sie als Alternative z.B eine Verkehrszählung durchführen. Erfassen Sie dabei Autos, andere Fahrzeuge, Fußgänger, Radler, etc. separat und vergleichen Sie die Zusammensetzung des Verkehrs an den verschiedenen Punkten. 
+
+Umfang: 1 Seite Ihrer PDF-Datei
+
+### Teilaufgabe L3
+
+Erstellen Sie eine Online-Karte (z.B. [Google MyMaps](https://www.google.de/intl/de/maps/about/mymaps)) in der die Bilder und das Lärmniveau/Verkehrszählung als Datenpunkte eingezeichnet sind. 
+
+Fügen Sie den Link zu Ihrer Online-Karte in Ihre PDF-Datei ein und stellen Sie sicher, dass der Link aufgerufen werden kann. Erzeugen Sie zusätzlich einen Screenshot Ihrer Online-Karte und fügen Sie diesen in die PDF-Datei ein.
+
+Umfang: 1 Seite Ihrer PDF-Datei
+
