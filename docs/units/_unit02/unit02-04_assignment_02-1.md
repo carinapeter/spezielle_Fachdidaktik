@@ -12,11 +12,8 @@ In der ersten Aufgabe dieser Lerneinheit üben Sie die erforderliche Abstraktion
 ## Aufgabe 02-1 L1
 Für die erste Aufgabe machen wir ein Gedankenexperiment. Stellen Sie sich vor, dass Sie die folgenden fünf Bilder jeweils im Rahmen einer wissenschaftlichen Studie gemacht haben. Sie haben also insgesamt fünf Studien durchgeführt. Für die Publikation der Studien in getrennten wissenschaftlichen Artikeln nutzen sie das jeweils zugehörige Bild, um Ihr Forschungsthema zu illustrieren. Da die Artikel auch online veröffentlicht werden, fügen Sie nicht nur das Bild ein, sondern Hinterlegen auch eine Bildbeschreibung um die Barrierefreiheit zu unterstützten. Die Bildbeschreibung soll dabei auf Ihr Forschungsthema fokussieren und nicht das Bild ganz allgemein beschreiben.
 
-Formulieren Sie bitte zu jedem Bild
-* den Titel Ihres fiktiven Artikels (1 Satz),
-* die Bildunterschrift, die Sie im Artikel für ihr Bild wählen (maximal 2 Sätze),
-* die alternative Bildbeschreibung des Fotos mit starkem Fokus auf Ihre Forschungsfrage, so dass sich der dargestellte Raum auch blinden Menschen erschließt (maximal 2 Sätze) und
-* drei Schlagworte, mit denen Sie das Bild charakterisieren (drei Schlagworte).
+### Aufgabe 02-1 L1
+Als Einstiegsübung zur Raumabstraktion gehen Sie bitte vor die Tür und suchen sich nach Ihrer Meinung geeignete Orte, die nachfolgend genannte Ihnen bekannte Konzepte in geeigneter Weise repräsentieren: Segregation, Erosion, Wüstung, Gentrifizierung und Landnutzungswandel.
 
 Beginnen Sie bitte für jedes Bild eine neue Seite und nennen Sie die Bildnummer jeweils zu Beginn der Seite.
 
@@ -29,7 +26,7 @@ Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quit
 * [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
 * [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
 
-Lesen Sie zunächst den Text und betrachten Sie die beiden Skizzen. Die Beschreibung und Skizzen stellen Abstraktionen, also Modelle des Raums dar. Um Ihnen den Zugang zu vereinfachen, können Sie sich an folgenden Leitfragen orientieren:
+Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen: Nach welchen Merkmalen strukturiert Humboldt seinen Text. Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
 
 * Nach welchen Merkmalen strukturiert Humboldt seinen Text (und abstrahiert damit auch den Raum?
 * Welche Bedeutung haben die beiden Skizzen für die schematische Beschreibung der Region?
@@ -39,7 +36,7 @@ Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerte
 Umfang: 1 Seite Ihrer PDF-Datei
 
 
-## Aufgabe 02-1 L3
+### Aufgabe 02-1 L3
 Benutzen Sie nun das Luftbild des Felsengartens um den abgebildeten Raum strukturell zu abstrahieren. Dafür müssen Sie  [Geoobjekte]({{ site.baseurl }}{% link _unit07/unit-07-03_reader_geo_raum.md %}) erkennen und voneinander abgrenzen und gegebenenfalls vereinheitlichen. Orientieren Sie sich an folgenden Leitfragen: Ist der Inhalt Ihrer generalisierenden Skizze und die darin abgebildeten Kategorien typisch für Ihre Interpretation des Raumes? Sie die abgeleiteten Informationen für Dritte verständlich? Durch eine geeignete Kommunikation (Faustskizze, Kartenskizze...) können Sie Ihre Raumabstraktion zielgerichtet kommunizieren.
 
 <html>
