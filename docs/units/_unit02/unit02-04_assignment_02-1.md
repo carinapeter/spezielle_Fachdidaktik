@@ -10,7 +10,7 @@ header:
 
 
 ### Aufgabe 02-1 L1
-Als Einstiegsübung zur Raumabstraktion gehen Sie bitte vor die Tür und suchen sich Orte, die Ihrer Meinung nach die nachfolgend genannte  Konzepte in geeigneter Weise repräsentieren: Segregation, Erosion, Wüstung, Gentrifizierung und Landnutzungswandel.
+Als Einstiegsübung zur Raumabstraktion gehen Sie bitte vor die Tür und suchen sich Orte, die Ihrer Meinung nach die nachfolgend genannten Konzepte in geeigneter Weise repräsentieren: Segregation, Erosion, Wüstung, Gentrifizierung und Landnutzungswandel.
 
 Konkrete Aufgabe: Finden Sie für mindestens drei der genannten Konzepte ein reales Raumbeispiel in Ihrer Umgebung machen Sie ein **aussagekräftiges** Foto. Begründen Sie Ihre Auswahl mit Hilfe einer Bildbeschreibung von maximal drei Sätzen.
 
@@ -23,7 +23,7 @@ Setzen Sie sich nun mit der Beschreibung und Skizzierung eines Raumes auseinande
  [Topographische Skizze Pichincha](https://www.kulturstiftung.de/wp-content/uploads/2015/06/KSL_APT_1_2014_100-870x1024.jpg).
 *„Amerikanische Reisetagebücher“ Alexander von Humboldts: Tagebuch VIIbb/c, Bl. 421r; Topographische Skizze des Vulkans von Pichincha Quelle: Staatsbibliothek zu Berlin-PK*
 
-Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen: Nach welchen Merkmalen strukturiert Humboldt seinen Text. Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
+Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen: Nach welchen Merkmalen strukturiert Humboldt seinen Text. Welche Bedeutung haben die beiden Skizzen für die schematische Beschreibung der Region.
 
 Konkrete Aufgabe: Nennen sie die wesentlichen Elemente der Humboldtschen Skizzen und bewerten sie Ihren Informationsgehalt mit maximal drei Sätzen. Extrahieren Sie aus dem Text die korrespondierenden Informationen und bewerten auch deren Informationsgehalt in maximal drei Sätzen.
 
@@ -31,7 +31,7 @@ Umfang: 1 Seite Ihrer PDF-Datei
 
 
 ### Aufgabe 02-1 L3
-Benutzen Sie nun das Luftbild des Felsengartens, um den abgebildeten Raum strukturell zu abstrahieren. Dafür müssen Sie  [Geoobjekte]({{ site.baseurl }}{% link _unit07/unit-07-03_reader_geo_raum.md %}) erkennen und voneinander abgrenzen und gegebenenfalls vereinheitlichen. Orientieren Sie sich an folgenden Leitfragen: Ist der Inhalt Ihrer generalisierenden Skizze und die darin abgebildeten Kategorien typisch für Ihre Interpretation des Raumes? Sie die abgeleiteten Informationen für Dritte verständlich? Durch eine geeignete Kommunikation (Faustskizze, Kartenskizze...) können Sie Ihre Raumabstraktion zielgerichtet kommunizieren.
+Benutzen Sie nun das Luftbild des Felsengartens, um den abgebildeten Raum strukturell zu abstrahieren. Dafür müssen Sie  [Geoobjekte]({{ site.baseurl }}{% link _unit07/unit-07-03_reader_geo_raum.md %}) erkennen und voneinander abgrenzen und gegebenenfalls vereinheitlichen. Orientieren Sie sich an folgenden Leitfragen: Sind der Inhalt Ihrer generalisierenden Skizze und die darin abgebildeten Kategorien typisch für Ihre Interpretation des Raumes? Sind die abgeleiteten Informationen für Dritte verständlich? Durch eine geeignete Kommunikation (Faustskizze, Kartenskizze...) können Sie Ihre Raumabstraktion zielgerichtet kommunizieren.
 
 <html>
  <a href="http://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" title="Aerial photo of the rockgarden *Sanspareil* (Fränkische Schweiz) as an example of a cutout of reality that has to be represented by geoinformation means.">  <img src="http://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" width="75%"  alt="Aerial photo of the rockgarden *Sanspareil* (Fränkische Schweiz) as an example of a cutout of reality that has to be represented by geoinformation means">  </a>
