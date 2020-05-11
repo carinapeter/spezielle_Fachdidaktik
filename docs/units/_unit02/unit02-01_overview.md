@@ -11,9 +11,9 @@ Die reale Welt ist komplex. Im Alltag konstruieren wir deshalb ständig kognitiv
 
 <!--more-->
 
-In der vorangegangenen Lerneinheit zur Raumbeschreibung & Interpretation haben Sie bereits Karten erforscht. Sie haben sich quasi vom Endprodukt einer räumlichen Abstraktion, im Beispiel in Form einer Karte, dem Problem der räumlichen Modellierung genähert. Sie haben die in der Karte dargestellten Informationen beschrieben, Ihre Gültigkeit eingeschätzt und die Visualisierung bewertet. Der  Raumausschnitt und die Auswahl an dargestellten Raumeigenschaften an sich wurde aber in der Aufgabe nicht hinterfragt.
+In der vorangegangenen Lerneinheit zur Raumbeschreibung & Interpretation haben Sie bereits Karten erforscht. Sie haben sich quasi vom Endprodukt einer räumlichen Abstraktion, im Beispiel in Form einer Karte, dem Problem der räumlichen Modellierung genähert. Sie haben die in der Karte dargestellten Informationen beschrieben, ihre Gültigkeit eingeschätzt und die Visualisierung bewertet. Der Raumausschnitt und die Auswahl an dargestellten Raumeigenschaften an sich wurden aber in der Aufgabe nicht hinterfragt.
 
-Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften von Räumen und stellen die Modellierung des Raums in den Mittelpunkt. Wir starten nicht am Endprodukt, sondern gehen den Weg vorwärts von der realen Welt über ihre Abstraktion hin zur Darstellung eines abgregrenzten Raumausschnitts und ausgewählter Information. Sie lernen die Abstraktion von Räumen und erfassen selbst skizzenhaft einen Raum mit einem darin enthaltenen Phänomen.
+Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften von Räumen und stellen die Modellierung des Raums in den Mittelpunkt. Wir starten nicht am Endprodukt, sondern gehen den Weg vorwärts von der realen Welt über ihre Abstraktion hin zur Darstellung eines abgegrenzten Raumausschnitts und ausgewählter Informationen. Sie lernen die Abstraktion von Räumen und erfassen selbst skizzenhaft einen Raum mit einem darin enthaltenen Phänomen.
 
 Am Ende dieser Lerneinheit können Sie
 * dargestellte Räumen typisieren und analysieren,
