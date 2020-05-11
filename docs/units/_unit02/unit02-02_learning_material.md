@@ -7,17 +7,15 @@ header:
 ---
 
 ## Reale Welt und räumliche Modellierung
-Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktion, eine zielgerichtete Vereinfachung. Hierfür brauchen wir geeignete Strategien, sowohl im Alltag als auch in der Wissenschaft. Bei der Abstraktion schaffen wir im ersten Schritt unser eigenes, konstruiertes *Modell* der Welt. Dieses Modell ist immer nur ein Blickwinkel von vielen auf die reale Welt.
+Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktion, eine zielgerichtete Vereinfachung. Erst diese Abstraktion erlaubt es mit raumzeitlichen Aspekten dieser Welt praxistauglich umgehen und sie zielgerichtet zu kommunizieren. Hierfür brauchen wir geeignete Strategien, sowohl im Alltag als auch in der Wissenschaft. Bei der Abstraktion schaffen wir im ersten Schritt unser eigenes, konstruiertes *Modell* der Welt. Dieses Modell ist immer nur ein Blickwinkel von vielen auf die reale Welt.
 
 Beispiel: Wir können eine Landschaft wie das Lahntal aus Wäldern, Ackerflächen, Wiesen und kleineren Orten unter dem Blickwinkel "Tourismus" modellieren und damit die landschaftliche Diversität, Ausblicke, Sehenswürdigkeiten in den Fokus nehmen. Die gleiche Landschaft können wir auch unter dem Blickwinkel "Agrarproduktion" mit Fokus auf landwirtschaftliche Produkte modellieren. Oder wir nehmen den Blickwinkel "Gewässerschutz" ein und betrachtet die räumlichen Verhältnisse zwischen Ackerflächen und Waldflächen mit Blick auf die Lahn. Sehr vereinfacht: Wenn Auenwälder vorhanden sind, können diese ggf. entstehende Nitratabflüsse von den Ackerflächen filtern, bevor diese die Lahn erreichen, sonst nicht. Alle drei Blickwinkel könnte man wiederum zu "Ökosystemleistung" aggregieren und die Multifunktionalität von Landschaften in den Vordergrund unseres Modells stellen.
 
 
 
-Inwieweit unser Modell der Wirklichkeit entspricht, lässt sich deshalb auch nur unter diesem Blickwinkel bewerten, d.h. der Frage, inwiefern es den von uns gewählten Zweck oder unser Ziel erfüllt.
+Inwieweit unser Modell der Wirklichkeit entspricht, lässt sich deshalb auch nur unter dem gewählten Blickwinkel bewerten, d.h. der Frage, inwiefern es den von uns gewählten Zweck oder unser Ziel erfüllt.
 
  Trotz dieser elementaren Einschränkung werden Repräsentationen des Raumes zwingend für das Verständnis von Prozessen und Zusammenhängen, für gemeinsame Planung und Interaktion etc. benötigt. Oft sind unterschiedliche oder variable Repräsentationen notwendig, um die Realität ausreichend zielführend abzubilden.
-
-Wir benötigen geeignete Strategien für den praxistauglichen Umgang mit den raumzeitlichen Aspekten dieser Welt. findet durch Abstraktion (zielgerichtete Vereinfachung) und einer geeigneten Kommunikation dieser Abstraktion statt.
 
 Wer geographische Fachkompetenz erwerben will, muss die genannten Aspekte berücksichtigen. Wissenschaftstheoretisch kann Geographie durchaus als ein Methodenverbund, dessen Ziel es ist raum-zeitliche Zusammenhänge nachvollziehbar und reproduzierbar zu konstruieren, begriffen werden.
 
