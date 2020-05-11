@@ -9,11 +9,11 @@ header:
 
 
 ### Aufgabe 02-2 L1
-In dieser Teilaufgabe nutzen Sie erneut Fotos zur Abstraktion eines Raumausschnitts. Gehen Sie zu einer Kreuzung Ihrer Wahl und überlegen Sie sich, welche Strukturen für diesen Raumausschnitt typisch sind. Achten Sie besonders auf die funktionalen Zusammenhänge (z.B. Wohnhäuser, Einmündungen, Straßen, etc.) die diesen Raum prägen. Orientieren Sie sich an folgenden Leitfragen: Was lässt sich im Sinne Ihrer Raumtypisierung zu Einheiten zusammenfassen? Was ist sinnvoll zu differenzieren?
+In dieser Teilaufgabe nutzen Sie erneut Fotos zur Abstraktion eines Raumausschnitts. Gehen Sie zu einer Kreuzung Ihrer Wahl und überlegen Sie sich, welche Strukturen für diesen Raumausschnitt typisch sind. Achten Sie besonders auf die funktionalen Zusammenhänge (z.B. Wohnhäuser, Einmündungen, Straßen, etc.), die diesen Raum prägen. Orientieren Sie sich an folgenden Leitfragen: Was lässt sich im Sinne Ihrer Raumtypisierung zu Einheiten zusammenfassen? Was ist sinnvoll zu differenzieren?
 
 Konkrete Aufgabe: Machen Sie von Ihrer Kreuzung, sowie den prägenden Komponenten jeweils ein repräsentatives Foto. Erstellen Sie eine Übersicht Ihrer Fotos und geben Sie die Koordinaten an. Verorten Sie die Fotos außerdem auf einem Kartenausschnitt.
 
-Ob Sie die Übersicht Ihrerer Bilder mit einem WebGIS (z.B. [Google MyMaps](https://www.google.de/intl/de/maps/about/mymaps), digital in einem Zeichenprogramm oder komplett analog auf Papier gestalten ist Ihnen freigestellt. Wichtig ist dass Sie mit dieser Übersicht klar verständlich dokumentieren und kommunizieren können wie ihr Raumausschnitt strukturiert ist.
+Ob Sie die Übersicht Ihrerer Bilder mit einem WebGIS (z.B. [Google MyMaps](https://www.google.de/intl/de/maps/about/mymaps), digital in einem Zeichenprogramm oder komplett analog auf Papier gestalten ist Ihnen freigestellt. Wichtig ist dass Sie mit dieser Übersicht klar verständlich dokumentieren und kommunizieren können, wie ihr Raumausschnitt strukturiert ist.
 
 Tipp: Die Koordinaten können Sie falls Ihr Smartphone einen GPS-Sensor besitzt in der Regel direkt auf ihrem Smartphone einsehen. Falls nicht können Sie z.B. mit der freien Software [geotag](https://www.heise.de/download/product/geotag-54809) die Positionsdaten direkt auslesen. Falls Sie kein Smartphone mit diesen Eigenschaften besitzen können Sie die Koordinaten z.B. mit Google Maps interaktiv abfragen.
 
