@@ -20,4 +20,4 @@ Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften v
 ## Lernziele
 Am Ende dieser Lerneinheit können Sie
 * dargestellte Räumen typisieren und analysieren,
-* einen Raum mit Hilfe von Beschreibungen, Skizzen oder Fotos modellieren,
+* einen Raum mit Hilfe von Beschreibungen, Skizzen oder Fotos modellieren.
