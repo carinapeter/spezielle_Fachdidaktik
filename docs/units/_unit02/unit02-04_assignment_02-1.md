@@ -25,14 +25,12 @@ Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quit
 * [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
 * [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
 
-Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? 
-
-Orientieren Sie sich an folgenden Leitfragen: 
-* Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum (Suchen Sie im verlinkten Originaltext nach Pichincha)?
+Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen: 
+* Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum?
 * Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
 
 **Aufgabenstellung:** 
-* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. * Extrahieren Sie aus dem Text die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
+* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. * Extrahieren Sie aus dem Text (Tipp: Suchen Sie im verlinkten Originaltext nach Pichincha) die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
 
 Umfang: 1 Seite Ihrer PDF-Datei
 
@@ -56,8 +54,8 @@ Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abs
 * Straßennetz
 * Bebauungsfläche
 
-1 Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können. 
-2 Schreiben Sie in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
+ 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können. 
+ 2. Schreiben Sie in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 

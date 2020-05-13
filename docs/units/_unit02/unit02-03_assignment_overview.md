@@ -7,13 +7,11 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-In den Aufgaben trainieren Sie die Modellierung von Raumeigenschaften. Sie üben die erforderliche Abstraktionsleistung zunächst an vorgegebenen Bildern und Skizzen. Anschließend modellieren Sie selbst einen Raum und nutzen dabei qualitative und quantitative Methoden. Zum Abschluss stellen Sie den Raum in einer kartenähnlichen Abbildung dar.
+In den Aufgaben trainieren Sie die Modellierung von Raumeigenschaften. Sie üben die erforderliche Abstraktionsleistung zunächst an vorgegebenen Bildern und Skizzen. Anschließend modellieren Sie selbst einen Raum und nutzen dabei qualitative Methoden. Zum Abschluss stellen Sie den Raum in einer kartenähnlichen Skizze dar.
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
-* eine Skizze von Humboldt
-* eine Kamera
-* ein Smartphone oder Tablet mit einer App zum messen der Lautstärke
+* eine Skizzen und Text von Humboldt
 * Internetzugang
 
 
