@@ -11,27 +11,29 @@ In der ersten Aufgabe dieser Lerneinheit üben Sie die erforderliche Abstraktion
 
 ## Aufgabe 02-1 L1
 
-In dieser ersten Aufgabe sollen Sie Bildasuschnitte zu bestimmten Forschungsthemen beschreiben.
-In dieser ersten Aufgabe üben Sie Raumausschnitte im Rahmen eines Forschungsthemas zu beschreiben. Dazu sollen Sie Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen zuweisen, um sie barrierefrei zzur Verfügung stellen zu können. Es geht hier nicht um ein Aufzählen aller Details des Bildes, sondern um eine heuristische Beschreibung unter Beachtung des inhaltlichen Fokus des Artikels, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten.
+In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Sie Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen verfassen, um sie barrierefrei zur Verfügung stellen zu können. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten und sich nicht in einer Auflistung von Details zu verlieren. Die Vergleiche sollen als heuristisches Mittel dienen. Einreichen sollen Sie einen Satz für jedes Einzelbild.
 
 Konkrete Aufgabe:
 Verfassen Sie einen beschreibenden Satz pro Einzelbild, der diesesvor dem Hintergrund des Forschungsthemas beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
 
 Umfang: 3 Seiten in Ihrer PDF-Datei
 
+### Biodiversität durch Hecken
 <figure>
 	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg" alt="Dainese et al. 2016"></a>
-	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747">Erhöhung der Biodiversität durch Hecken aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
+	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747">Erhöhung der  aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
 </figure>
 
+### Anthropogene und zoogeomorphologische Einflüsse auf die Landschaft
 <figure>
 	<a href="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjom20/2020/tjom20.v016.i02/17445647.2019.1708488/20200203/images/large/tjom_a_1708488_f0008_oc.jpeg"><img src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjom20/2020/tjom20.v016.i02/17445647.2019.1708488/20200203/images/large/tjom_a_1708488_f0008_oc.jpeg" alt="Zerboni et al. 2019"></a>
-	<figcaption><a href="https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1708488">Anthropogene und zoogeomorphologische Einflüsse auf die Landschaft aus: Zerboni et al. (2019): Geomorphology of the Jebel Qara and coastal plain of Salalah (Dhofar, southern Sultanate of Oman).</a></figcaption>
+	<figcaption><a href="https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1708488"> aus: Zerboni et al. (2019): Geomorphology of the Jebel Qara and coastal plain of Salalah (Dhofar, southern Sultanate of Oman).</a></figcaption>
 </figure>
 
+### Komplexität von Landschaftsstrukturen (und ihr Einfluss auf die Erforschung von Ökosystemprozessen)
 <figure>
 	<a href="https://www.frontiersin.org/files/Articles/456059/fevo-07-00293-HTML/image_m/fevo-07-00293-g001.jpg"><img src="https://www.frontiersin.org/files/Articles/456059/fevo-07-00293-HTML/image_m/fevo-07-00293-g001.jpg" alt="Newman et al. 2019"></a>
-	<figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00293/full"> Komplexität von Landschaftsstrukturen (und ihr Einfluss auf die Erforschung von Ökosystemprozessen) aus: Newman et al. (2019): Scaling and Complexity in Landscape Ecology.</a></figcaption>
+	<figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00293/full"> K aus: Newman et al. (2019): Scaling and Complexity in Landscape Ecology.</a></figcaption>
 </figure>
 
 
