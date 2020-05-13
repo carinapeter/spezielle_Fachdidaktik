@@ -21,5 +21,3 @@ Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften v
 Am Ende dieser Lerneinheit können Sie
 * dargestellte Räumen typisieren und analysieren,
 * einen Raum mit Hilfe von Beschreibungen, Skizzen oder Fotos modellieren,
-* die Ausprägung eines Phänomens im Raum messen und die Messergebnisse graphisch darstellen,
-* verschiedene Medien zur Modellierung von Räumen in einer kartenähnlichen Abbildung zusammenassen.
