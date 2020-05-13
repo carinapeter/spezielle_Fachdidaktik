@@ -35,7 +35,8 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig2_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig2_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
   	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
     	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
-	<figcaption><a href="https://link.springer.com/chapter/10.1007/978-3-319-21272-2_5"> aus: Ros-Tonen et al. (2015): Governing Beyond Cities: The Urban-Rural Interface. in: Geographies of Urban Governance. (Springer) </a></figcaption>
+	<figcaption><a href="https://link.springer.com/chapter/10.1007/978-3-319-21272-2_5"> 
+		aus: Ros-Tonen et al. (2015): Governing Beyond Cities: The Urban-Rural Interface. in: Geographies of Urban Governance. (Springer) </a></figcaption>
 </figure>
 
 
