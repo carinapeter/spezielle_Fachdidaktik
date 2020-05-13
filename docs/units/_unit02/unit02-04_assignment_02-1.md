@@ -25,18 +25,23 @@ Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quit
 * [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
 * [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
 
-Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen: Nach welchen Merkmalen strukturiert Humboldt seinen Text. Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
+Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? 
 
-* Nach welchen Merkmalen strukturiert Humboldt seinen Text (und abstrahiert damit auch den Raum?
-* Welche Bedeutung haben die beiden Skizzen für die schematische Beschreibung der Region?
+Orientieren Sie sich an folgenden Leitfragen: 
+* Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum (Suchen Sie im verlinkten Originaltext nach Pichincha)?
+* Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
 
-Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten sie Ihren Informationsgehalt mit maximal drei Sätzen. Extrahieren Sie aus dem Text die korrespondierenden Informationen und bewerten auch deren Informationsgehalt in maximal drei Sätzen.
+**Aufgabenstellung:** 
+* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. * Extrahieren Sie aus dem Text die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
 
 Umfang: 1 Seite Ihrer PDF-Datei
 
 
 ### Aufgabe 02-1 L3
-Benutzen Sie nun das Luftbild des Felsengartens um den abgebildeten Raum strukturell zu abstrahieren. Dafür müssen Sie  [Geoobjekte]({{ site.baseurl }}{% link _unit07/unit-07-03_reader_geo_raum.md %}) erkennen und voneinander abgrenzen und gegebenenfalls vereinheitlichen. Orientieren Sie sich an folgenden Leitfragen: Ist der Inhalt Ihrer generalisierenden Skizze und die darin abgebildeten Kategorien typisch für Ihre Interpretation des Raumes? Sie die abgeleiteten Informationen für Dritte verständlich? Durch eine geeignete Kommunikation (Faustskizze, Kartenskizze...) können Sie Ihre Raumabstraktion zielgerichtet kommunizieren.
+Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abstrahieren. eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte dass es notwendig ist solche Geoobjekte zu vereinheitlichen oder zu generalisieren um Raumtypen bilden zu können. Orientieren Sie sich an folgenden Leitfragen: 
+* Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen? 
+* Sind die Kategorien als Information für Dritte geeignet? 
+* Ist die Faustskizze/Kartenskizze  geeignet Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
 <figure>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" alt="Sanspareil Luftbild West"></a>
@@ -44,14 +49,15 @@ Benutzen Sie nun das Luftbild des Felsengartens um den abgebildeten Raum struktu
 </figure>
 
 
-Konkrete Aufgabe: Betrachten Sie das Luftbild und überlegen Sie, wie Sie die Repräsentation dieses Raumes vornehmen würden. Erfassen Sie folgende Merkmale:
+**Aufgabenstellung:** Betrachten Sie das Luftbild und überlegen Sie, wie Sie die Repräsentation dieses Raumes vornehmen würden. Erfassen Sie folgende Merkmale:
 
 
 * Landnutzung in Form von Landnutzungsarten
 * Straßennetz
 * Bebauungsfläche
 
-Erstellen Sie eine Skizze von dem im Luftbild abgebildeten Raum. Versuchen Sie im Bild die oben genannten Kategorien zu identifizieren und geeignet zusammenzufassen. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufrund ausreichender Ähnlichkeit zusammenfassen können. Schreiben Sie sich in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
+1 Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können. 
+2 Schreiben Sie in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 
