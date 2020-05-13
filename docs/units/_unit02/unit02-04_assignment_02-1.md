@@ -21,7 +21,7 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 ### Biodiversität durch Hecken
 <figure>
 	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg" alt="Dainese et al. 2016"></a>
-	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747">Erhöhung der  aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
+	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747"> aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
 </figure>
 
 ### Fluss Renaturierung
@@ -36,7 +36,7 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
   	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
     	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
 	<figcaption><a href="https://link.springer.com/chapter/10.1007/978-3-319-21272-2_5"> 
-		aus: Ros-Tonen et al. (2015): Governing Beyond Cities: The Urban-Rural Interface. in: Geographies of Urban Governance. (Springer) </a></figcaption>
+		//aus: Ros-Tonen et al. (2015): Governing Beyond Cities: The Urban-Rural Interface. in: Geographies of Urban Governance. (Springer) </a></figcaption>
 </figure>
 
 
@@ -44,8 +44,8 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador. Er beschrieb und skizziert damals erstmalig systematisch den für Quito so bedeutsamen Vulkan.
 
 * [Humboldt, A.v. (1858) Kosmos. Entwurf einer physischen Weltbeschreibung. Bd. 4. Stuttgart u. a., 268-290](https://www.projekt-gutenberg.org/humbolda/kosmos/kosmos.html#kos424))
-* [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
-* [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
+* [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
+* [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
 
 Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen:
 * Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum?
