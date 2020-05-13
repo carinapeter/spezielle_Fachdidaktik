@@ -12,7 +12,6 @@ In den Aufgaben trainieren Sie die Modellierung von Raumeigenschaften. Sie üben
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * eine Skizzen und Text von Humboldt
-* Internetzugang
 
 
 ## Aufgaben
