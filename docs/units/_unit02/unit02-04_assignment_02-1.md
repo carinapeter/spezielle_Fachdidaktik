@@ -24,16 +24,18 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747">Erhöhung der  aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
 </figure>
 
-### Anthropogene und zoogeomorphologische Einflüsse auf die Landschaft
+### Fluss Renaturierung
 <figure>
-	<a href="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjom20/2020/tjom20.v016.i02/17445647.2019.1708488/20200203/images/large/tjom_a_1708488_f0008_oc.jpeg"><img src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjom20/2020/tjom20.v016.i02/17445647.2019.1708488/20200203/images/large/tjom_a_1708488_f0008_oc.jpeg" alt="Zerboni et al. 2019"></a>
-	<figcaption><a href="https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1708488"> aus: Zerboni et al. (2019): Geomorphology of the Jebel Qara and coastal plain of Salalah (Dhofar, southern Sultanate of Oman).</a></figcaption>
+	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/255e7bc8-499e-465c-a1d5-6874aba5d33e/jpe12932-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/255e7bc8-499e-465c-a1d5-6874aba5d33e/jpe12932-fig-0001-m.jpg" alt="Frainer et al. 2017"></a>
+	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12932"> aus: Frainer et al. (2017): Enhanced ecosystem functioning following stream restoration: The roles of habitat heterogeneity and invertebrate species traits).</a></figcaption>
 </figure>
 
-### Komplexität von Landschaftsstrukturen (und ihr Einfluss auf die Erforschung von Ökosystemprozessen)
+### Städtische Randbezirke
 <figure>
-	<a href="https://www.frontiersin.org/files/Articles/456059/fevo-07-00293-HTML/image_m/fevo-07-00293-g001.jpg"><img src="https://www.frontiersin.org/files/Articles/456059/fevo-07-00293-HTML/image_m/fevo-07-00293-g001.jpg" alt="Newman et al. 2019"></a>
-	<figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00293/full"> K aus: Newman et al. (2019): Scaling and Complexity in Landscape Ecology.</a></figcaption>
+	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig2_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig2_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
+  	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
+    	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
+	<figcaption><a href="https://link.springer.com/chapter/10.1007/978-3-319-21272-2_5"> aus: Ros-Tonen et al. (2015): Governing Beyond Cities: The Urban-Rural Interface. in: Geographies of Urban Governance. (Springer) </a></figcaption>
 </figure>
 
 
