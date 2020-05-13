@@ -14,7 +14,7 @@ In der ersten Aufgabe dieser Lerneinheit üben Sie die erforderliche Abstraktion
 In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Sie zu Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen verfassen, um sie barrierefrei zur Verfügung stellen zu können. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten und sich nicht in einer Auflistung von Details zu verlieren. Die Vergleiche sollen als heuristisches Mittel dienen.
 
 **Aufgabenstellung:**
-Verfassen Sie einen beschreibenden Satz pro Einzelbild, der dieses vor dem Hintergrund des Forschungsthemas beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
+Verfassen Sie einen beschreibenden Satz pro Einzelbild, der dieses vor dem Hintergrund des Forschungsthemas beschreibt, ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
 
 Umfang: 3 Seiten in Ihrer PDF-Datei
 
@@ -49,7 +49,7 @@ Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quit
 
 Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen:
 * Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum?
-* Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
+* Welche Bedeutung haben die beiden Skizzen für die schematische Beschreibung der Region.
 
 **Aufgabenstellung:**
 * Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. 
@@ -59,10 +59,10 @@ Umfang: 1 Seite Ihrer PDF-Datei
 
 
 ### Aufgabe 02-1 L3
-Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abstrahieren. eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte dass es notwendig ist solche Geoobjekte zu vereinheitlichen oder zu generalisieren um Raumtypen bilden zu können. Orientieren Sie sich an folgenden Leitfragen:
+Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abstrahieren. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass es notwendig ist solche Geoobjekte zu vereinheitlichen oder zu generalisieren um Raumtypen bilden zu können. Orientieren Sie sich an folgenden Leitfragen:
 * Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen?
 * Sind die Kategorien als Information für Dritte geeignet?
-* Ist die Faustskizze/Kartenskizze  geeignet Ihre Raumabstraktion zielgerichtet zu illustrieren?
+* Ist die Faustskizze/Kartenskizze geeignet Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
 <figure>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" alt="Sanspareil Luftbild West"></a>
@@ -77,7 +77,7 @@ Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abs
 * Straßennetz
 * Bebauungsfläche
 
- 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die Ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können.
+ 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte, die Ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können.
  2. Schreiben Sie in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
