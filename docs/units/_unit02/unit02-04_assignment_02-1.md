@@ -11,10 +11,13 @@ In der ersten Aufgabe dieser Lerneinheit üben Sie die erforderliche Abstraktion
 
 ## Aufgabe 02-1 L1
 
-In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Bilder (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen bekommen, um sie barrierefrei zu machen. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten.
-Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten. Die Vergleiche sollen als heuristisches Mittel dienen. Einreichen sollen Sie einen Satz für jedes Einzelbild, der dieses in Bezug auf den jeweiligen fachlichen Fokus beschreibt ohne auf andere Bilder aus der Reihe zu verweisen.
-Sie sollen die Bilder unter dem genannten fachlichen Fokus beschreiben. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel.  
+In dieser ersten Aufgabe sollen Sie Bildasuschnitte zu bestimmten Forschungsthemen beschreiben.
+In dieser ersten Aufgabe üben Sie Raumausschnitte im Rahmen eines Forschungsthemas zu beschreiben. Dazu sollen Sie Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen zuweisen, um sie barrierefrei zzur Verfügung stellen zu können. Es geht hier nicht um ein Aufzählen aller Details des Bildes, sondern um eine heuristische Beschreibung unter Beachtung des inhaltlichen Fokus des Artikels, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten.
 
+Konkrete Aufgabe:
+Verfassen Sie einen beschreibenden Satz pro Einzelbild, der diesesvor dem Hintergrund des Forschungsthemas beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
+
+Umfang: 3 Seiten in Ihrer PDF-Datei
 
 <figure>
 	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg" alt="Dainese et al. 2016"></a>
@@ -31,12 +34,6 @@ Sie sollen die Bilder unter dem genannten fachlichen Fokus beschreiben. Um die f
 	<figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00293/full"> Komplexität von Landschaftsstrukturen (und ihr Einfluss auf die Erforschung von Ökosystemprozessen) aus: Newman et al. (2019): Scaling and Complexity in Landscape Ecology.</a></figcaption>
 </figure>
 
-
-
-
-Beginnen Sie bitte für jedes Bild eine neue Seite und nennen Sie die Bildnummer jeweils zu Beginn der Seite.
-
-Umfang: 5 Seiten in Ihrer PDF-Datei
 
 ## Aufgabe 02-1 L2
 Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador. Er beschrieb und skizziert damals erstmalig systematisch den für Quito so bedeutsamen Vulkan.
