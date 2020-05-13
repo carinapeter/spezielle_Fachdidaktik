@@ -7,12 +7,16 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
+## Abbildung und Abgrenzung von Räumen
+
+{% include video id="LgwetO8etR4" provider="youtube" %}
+
 ## Raum und räumliche Prozesse
 Im Beispiel von John Snows Karte haben Sie Raum (London, Soho) und räumliche Prozesse (Colera-Ausbruch) bereits kennengelernt. Grob gesagt: Je näher ein Wohnhaus an der Wasserpumpe in 43 Broadwick Street war, umso mehr Todesopfer wurden in dem Wohnhaus verzeichnet. Anders gesagt: “Everything is related to everything else, but near things are more related than distant things” (Tobler, 1970). Mit diesem von ihm selbst ins Leben gerufenen, *1. Hauptsatz der Geographie*, schuf Waldo Tobler eine Grundlage für die Analyse, Modellierung und Simulation räumlicher Prozesse.
 
 Der Hauptsatz zielt sehr stark auf funktionale Beziehungen im Raum ab. Wie man Raum (noch) beschreiben kann, erfahren Sie im Video.
 
-{% include video id="CX8Q7XxsL-c" provider="youtube" %}
+{% include video id="mELVmkhvG9Y" provider="youtube" %}
 
 **Info**: Tobler machte die Not zur Tugend, denn er benötigte für sein Simmulationsmodell der Bevölkerungsentwicklung in Detroid eine Lösung für damals sehr limitierte Computerresourcen. Mit seinem Hauptsatz rechtfertigte ehr, dass die in einem über die Stadt gelegtem Gitter modellierte Bevölkerungsentwicklung immer nur von den Nachbarzellen und nie von der Entwicklung in der ganzen Stadt abhing. Gültigkeit besitzt der Satz auch bei Wikipedia, wie B. Hecht und F. Moxley (2009) in *[Terabytes of Tobler: Evaluating the First Law in a Massive, Domain-Neutral Representation of World Knowledge](https://link.springer.com/chapter/10.1007/978-3-642-03832-7_6)* feststellten. Für Artenreichtum gilt sie aber genauso wenig [(Bjorholm et al. 2008, BMC Ecol)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424035/) wie für viele andere komplexe räumliche Phänomene und Prozesse.
 {: .notice--primary}
@@ -25,7 +29,7 @@ Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktion, e
 
 Wie der  Prozess der Modellierung abläuft, zeigen wir Ihnen im Video - natürlich mit einem Modell.
 
-{% include video id="CX8Q7XxsL-c" provider="youtube" %}
+{% include video id="UH66r4cUyfM" provider="youtube" %}
 
 ## Abgrenzung von Raum
 Um Räume zu Modellieren benötigen wir noch die Mittel, um diese abbilden zu können. Generell kann Raum bzw. darin enthaltene Objekte oder Phänomene als
