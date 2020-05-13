@@ -43,7 +43,7 @@ Beispiele für ein Kontinuum sind das Relief oder die Lufttemperatur. Beispiele 
 
 Wie wir Räume mit Ihren Kontinua abgrenzen können und was uns das bei der Komplexitätsreduktion hilft, erfahren Sie im Video.
 
-{% include video id="CX8Q7XxsL-c" provider="youtube" %}
+{% include video id="NgoNpI9hmJY" provider="youtube" %}
 
 **Info**: Ein Kompetenzmodell zur Modellierung im Geographieunterricht finden Sie hier: [Ammoneit R, Reudenbach C, Turek A, Nauß T, Peter C (2020) Geographische Modellierkompetenz – Modellierung von Raum konzeptualisieren. gwu 1: 19–29](https://austriaca.at/0xc1aa5576_0x003b1ef9.pdf).
 {: .notice--primary}
