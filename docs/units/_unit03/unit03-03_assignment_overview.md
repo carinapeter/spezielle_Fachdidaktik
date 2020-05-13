@@ -12,6 +12,8 @@ Hierzu werden Sie in Aufgabe 1 Häuser anhand verschiedener Merkmale charakteris
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * Internetzugang
+* Übersichtskarte des Straßenzugs
+* Tabelle mit Haus-IDs
 * Kalkulationsprogramm zum ausfüllen der Tabelle
 
 ## Aufgaben
