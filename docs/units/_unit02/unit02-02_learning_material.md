@@ -24,34 +24,42 @@ Mit diesem Satz schuf Tobler eine Grundlage für die Analyse, Modellierung und S
 
 
 ## Abbildung von Raum
-Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktion, eine zielgerichtete Vereinfachung. Hierfür brauchen wir geeignete Strategien, sowohl im Alltag als auch in der Wissenschaft. Bei der Abstraktion schaffen wir im ersten Schritt unser eigenes, konstruiertes *Modell* der Welt. Wir definieren einen Raumausschnitt und eine Perspektive auf diesen Ausschnitt, die manche Phänomene in den Vordergrund treten, andere wegfallen lässt.  Unser Modell ist deshalb immer nur ein Blickwinkel von vielen auf die Welt. Ob und  inwieweit unser Raummodell der Wirklichkeit entspricht, lässt sich deshalb auch nur unter dem zuvor definierten Blickwinkel bewerten. Für eine wissenschaftliche Modellierung des Raums ist es deshalb entscheident, die Zielstellung des Modells zu definieren und zu kommunizieren.
+Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktionsleistung mit anderen Worten eine zielgerichtete Vereinfachung. Hierfür benötigen wir, sowohl im Alltag als auch in der Wissenschaft, geeignete Strategien. Bei der Abstraktion schaffen wir im ersten Schritt unser eigenes, konstruiertes *Modell* der Welt. Wir definieren einen Raumausschnitt und eine Perspektive auf diesen Ausschnitt, die manche Phänomene in den Vordergrund treten, andere wegfallen lässt. Unser Modell ist deshalb immer nur ein Sichtweise von vielen auf die Welt. Ob und  inwieweit unser Raummodell der Wirklichkeit entspricht, lässt sich deshalb auch nur aus dem gewählten Bilickwinkel oder dem zuvor definierten Zweck bewerten. Für eine wissenschaftliche Modellierung des Raums ist es deshalb entscheidend, die Zielstellung des Modells zu definieren und transparent zu kommunizieren.
 
-**Beispiel**: Wir können eine Landschaft wie das Lahntal aus Wäldern, Ackerflächen, Wiesen und kleineren Orten unter dem Blickwinkel "Tourismus" modellieren und damit die landschaftliche Diversität, Ausblicke, Sehenswürdigkeiten in den Fokus nehmen. Die gleiche Landschaft können wir auch unter dem Blickwinkel "Agrarproduktion" mit Fokus auf landwirtschaftliche Produkte modellieren. Oder wir nehmen den Blickwinkel "Gewässerschutz" ein und betrachtet die räumlichen Verhältnisse zwischen Ackerflächen und Waldflächen mit Blick auf die Lahn. Sehr vereinfacht: Wenn Auenwälder vorhanden sind, können diese ggf. entstehende Nitratabflüsse von den Ackerflächen filtern, bevor diese die Lahn erreichen, sonst nicht. Alle drei Blickwinkel könnte man wiederum zu "Ökosystemleistung" aggregieren und die Multifunktionalität von Landschaften in den Vordergrund unseres Modells stellen. Wenn Sie dieses Beispiel interessiert, schauen Sie mal in [Manning et al. Redefining ecosystem multifunctionality. Nat Ecol Evol 2, 427–436 (2018).](https://doi.org/10.1038/s41559-017-0461-7)
+**Beispiel**: Wir können eine Landschaft wie das Lahntal aus Wäldern, Ackerflächen, Wiesen und kleineren Orten unter z.B. dem Gesichtspunkt *"Tourismus"* modellieren und damit die landschaftliche Diversität, Ausblicke, Sehenswürdigkeiten in den Fokus nehmen. Die gleiche Landschaft können wir auch unter dem Gesichtpunkt *"Agrarproduktion"* mit Fokus auf landwirtschaftliche Produkte modellieren. Oder wir nehmen den den Aspekt *"Gewässerschutz"* auf und betrachten die räumlichen Verhältnisse zwischen der Landnutzung (z.B. Ackerflächen, Waldflächen...) und der Lahn hinsichtlich zb. des Prozesses der Nährstoffeinträge. 
+
+Alle drei Blickwinkel könnte man wiederum zu einer abstrakten Kategorie der *"Ökosystemleistung"* zusammenfassen und die Multifunktionalität von Landschaften in den Vordergrund unseres Modells stellen. Wenn Sie dieses Beispiel interessiert, schauen Sie mal in [Manning et al. Redefining ecosystem multifunctionality. Nat Ecol Evol 2, 427–436 (2018).](https://doi.org/10.1038/s41559-017-0461-7)
 {: .notice--info}
 
-Wie der  Prozess der Modellierung abläuft, zeigen wir Ihnen im Video - natürlich mit einem Modell.
+Wie der Prozess der Modellierung (Abstraktion) abläuft, zeigen wir Ihnen im Video - natürlich mit einem Modell.
 
 {% include video id="UH66r4cUyfM" provider="youtube" %}
 
 ## Abgrenzung von Raum
-Um Räume zu Modellieren benötigen wir noch die Mittel, um diese abbilden zu können. Generell kann Raum bzw. darin enthaltene Objekte oder Phänomene als
+
+Um Räume zu Modellieren benötigen wir noch eine geeignete Vorgehensweise. Generell kann Raum bzw. können darin enthaltene Objekte oder Phänomene als
+
 * diskrete Geoobjekte oder
-* kontinuierlichen Räume oder Felder
+* kontinuierliche Räume oder Felder
+
 abgebildet werden.
 
-Ein diskretes Geoobjekt ist alles, was klar räumlich abgrenzbar und zählbar ist. Ein Feld ist kontinuierlich und verändert sich in Raum und Zeit. In der digitalen Praxis, z.B. in Geographischen Informationssystemen müssen aber auch die kontinuierlichen Felder in räumlich abgegrenzte Objekte zerlegt werden, z.B. als Rasterobjekt. Im Unterschied zu tatsächlich diskreten Objekten füllen die zerlegten Kontinua den Raum aber lückenlos und überschneidungsfrei aus.
+Ein diskretes Geoobjekt ist alles, was klar räumlich abgrenzbar und zählbar ist. Ein Feld ist kontinuierlich und verändert sich in Raum und Zeit. In der digitalen Praxis, z.B. in Geographischen Informationssystemen müssen aber auch die kontinuierlichen Felder in räumlich abgegrenzte Objekte zerlegt werden, z.B. als Rasterobjekt. Im Unterschied zu tatsächlich diskreten Objekten füllen die so zerlegten Kontinua den Raum aber lückenlos und überschneidungsfrei aus.
 
-Beispiele für ein Kontinuum sind das Relief oder die Lufttemperatur. Beispiele für diskrete Objekte sind ein Haus oder ein Baum. Ein Berggipfel ist schon weniger eindeutig, je nachdem ob man die höchste Spitze als Gipfel, oder die Region um diese Spitze herum als Gipfel bezeichnet. Letzters erfordert eine Abgrenzung irgendwo entlang eines Kontinuums zwischen Bergspitze und Tal.
+Beispiele für ein Kontinuum sind das Relief oder die Lufttemperatur. Beispiele für diskrete Objekte sind ein Haus oder ein Baum. Ein Berggipfel ist schon weniger eindeutig, je nachdem ob man die höchste Spitze als Gipfel, oder die Region um diese Spitze herum als Gipfel bezeichnet. Letzters erfordert eine Abgrenzung oft entlang einer Höhenlinie.
 
-Wie wir Räume mit Ihren Kontinua abgrenzen können und was uns das bei der Komplexitätsreduktion hilft, erfahren Sie im Video.
+**Info**: Die Modellierung in der Geographie ist durch die raum-zeitlichen Zusammenhänge ein komplexer Vorgang. Die Modellierung hilft uns die Welt durch Reduktion verständlicher zu machen, sie wird interpretier-, prognostizier- und gestaltbar. Diese Eigenschaften verleihen der Modellierung und den Modellen,  traditionell  auch  in  der  Geographie  und  den  geographischen  Bildungskontexten,  eine  besondere  Bedeutung,  sind  doch  Globen,  Karten,  Stadt-modelle,  Klimamodelle  etc.  reduzierte  Abbildungen der Welt.  Eine Vertiefung dieser theoretischen Grundlage und das daraus abgeleitete Kompetenzmodell zur Modellierung in der Geographie kann hier nachgelesen werden: [Ammoneit R, Reudenbach C, Turek A, Nauß T, Peter C (2020) Geographische Modellierkompetenz – Modellierung von Raum konzeptualisieren. gwu 1: 19–29](https://austriaca.at/0xc1aa5576_0x003b1ef9.pdf).
+{: .notice--primary}
+
+Wie wir Räume mit Ihren Kontinua erfassen und sinnvoll abgrenzen können und was uns das bei der Komplexitätsreduktion hilft, erfahren Sie im Video.
 
 {% include video id="NgoNpI9hmJY" provider="youtube" %}
 
-**Info**: Ein Kompetenzmodell zur Modellierung im Geographieunterricht finden Sie hier: [Ammoneit R, Reudenbach C, Turek A, Nauß T, Peter C (2020) Geographische Modellierkompetenz – Modellierung von Raum konzeptualisieren. gwu 1: 19–29](https://austriaca.at/0xc1aa5576_0x003b1ef9.pdf).
-{: .notice--primary}
+
 
 ## Folien der Videos als PDF
 {% include pdf pdf="Unit 02 - 00 Räumliche Modellierung.pdf" %}
+
 
 <!--
 Vorlesung:
