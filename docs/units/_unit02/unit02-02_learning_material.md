@@ -7,19 +7,21 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-## Abbildung und Abgrenzung von Räumen
+## Modellierung und Abbildung von Räumen
 
 {% include video id="LgwetO8etR4" provider="youtube" %}
 
 ## Raum und räumliche Prozesse
-Im Beispiel von John Snows Karte haben Sie Raum (London, Soho) und räumliche Prozesse (Colera-Ausbruch) bereits kennengelernt. Grob gesagt: Je näher ein Wohnhaus an der Wasserpumpe in 43 Broadwick Street war, umso mehr Todesopfer wurden in dem Wohnhaus verzeichnet. Anders gesagt: “Everything is related to everything else, but near things are more related than distant things” (Tobler, 1970). Mit diesem von ihm selbst ins Leben gerufenen, *1. Hauptsatz der Geographie*, schuf Waldo Tobler eine Grundlage für die Analyse, Modellierung und Simulation räumlicher Prozesse.
+Im Beispiel von John Snows Karte der Cholerafälle haben Sie bereits den Zusammenhang von Raum (London, Soho) und räumlichen Prozessen (Colera-Ausbruch) kennengelernt. Zusammengefasst war seine Erkenntnis: *Je näher ein Wohnhaus an der Wasserpumpe in 43 Broadwick Street war, umso mehr Todesopfer wurden in dem Wohnhaus verzeichnet*. Wenn wir das verallgemeinert ausdrücken wollen können wir den vielzitierte *1. Hauptsatz der Geographie*, von Waldo Tobler heranziehen: “Everything is related to everything else, but near things are more related than distant things” (Tobler, 1970). 
 
-Der Hauptsatz zielt sehr stark auf funktionale Beziehungen im Raum ab. Wie man Raum (noch) beschreiben kann, erfahren Sie im Video.
+**Info**: Tobler benötigte für sein Simulationsmodell der Bevölkerungsentwicklung in Detroit eine Lösung für die seinerzeit sehr limitierten Computerresourcen. Dazu teilte er die Stadt in eine Gitterstruktur und machte mit seinem 1. Hauptsatz die Not zur Tugend in dem er so zu belegen trachtete, dass die in einem über die Stadt gelegtem Gitter modellierte Bevölkerungsentwicklung immer nur von den direkten Nachbarzellen und nie von der Entwicklung anderer Zellen oder der ganzen Stadt abhing. Es gibt auch Gültigkeit besitzt der Satz auch z.B. für die Ausprägung von Wissensdomainen in Wikipedia wie Hecht und Moxley (2009) in ihrem spannenden Artikel *[Terabytes of Tobler: Evaluating the First Law in a Massive, Domain-Neutral Representation of World Knowledge](https://link.springer.com/chapter/10.1007/978-3-642-03832-7_6)* zeigen. Hingegen gilt er für z.B. Artenreichtum nicht [(Bjorholm et al. 2008, BMC Ecol)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424035/) und zahlreiche andere räumlichen Phänomene und Prozesse **nicht**.
+{: .notice--primary}
+
+
+Mit diesem Satz schuf Tobler eine Grundlage für die Analyse, Modellierung und Simulation räumlicher Prozesse die auf distanzbasierten Prozessen und Zusammenhängen beruhen. Wie im Info-Kasten schon angesprochen, ist Toblers Satz nicht die einzige Möglichkeit Raum zu beschreiben. Im Gegenteil er zielt sehr stark auf räumlich-funktionale Beziehungen ab. Wie Raum noch beschrieben und verstanden werden kann, erfahren Sie im Video.
 
 {% include video id="mELVmkhvG9Y" provider="youtube" %}
 
-**Info**: Tobler machte die Not zur Tugend, denn er benötigte für sein Simmulationsmodell der Bevölkerungsentwicklung in Detroid eine Lösung für damals sehr limitierte Computerresourcen. Mit seinem Hauptsatz rechtfertigte er, dass die in einem über die Stadt gelegtem Gitter modellierte Bevölkerungsentwicklung immer nur von den Nachbarzellen und nie von der Entwicklung in der ganzen Stadt abhing. Gültigkeit besitzt der Satz auch bei Wikipedia, wie B. Hecht und F. Moxley (2009) in *[Terabytes of Tobler: Evaluating the First Law in a Massive, Domain-Neutral Representation of World Knowledge](https://link.springer.com/chapter/10.1007/978-3-642-03832-7_6)* feststellten. Für Artenreichtum gilt sie aber genauso wenig [(Bjorholm et al. 2008, BMC Ecol)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424035/) wie für viele andere komplexe räumliche Phänomene und Prozesse.
-{: .notice--primary}
 
 ## Abbildung von Raum
 Die Wahrnehmung und Interpretation der realen Welt erfordert eine Abstraktion, eine zielgerichtete Vereinfachung. Hierfür brauchen wir geeignete Strategien, sowohl im Alltag als auch in der Wissenschaft. Bei der Abstraktion schaffen wir im ersten Schritt unser eigenes, konstruiertes *Modell* der Welt. Wir definieren einen Raumausschnitt und eine Perspektive auf diesen Ausschnitt, die manche Phänomene in den Vordergrund treten, andere wegfallen lässt.  Unser Modell ist deshalb immer nur ein Blickwinkel von vielen auf die Welt. Ob und  inwieweit unser Raummodell der Wirklichkeit entspricht, lässt sich deshalb auch nur unter dem zuvor definierten Blickwinkel bewerten. Für eine wissenschaftliche Modellierung des Raums ist es deshalb entscheident, die Zielstellung des Modells zu definieren und zu kommunizieren.
