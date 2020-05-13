@@ -1,5 +1,5 @@
 ---
-title: A02-1 - Analyse von Raumbeschreibungen
+title: A02 - Analyse von Raumbeschreibungen
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -11,29 +11,32 @@ In der ersten Aufgabe dieser Lerneinheit üben Sie die erforderliche Abstraktion
 
 ## Aufgabe 02-1 L1
 
-In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Sie Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen verfassen, um sie barrierefrei zur Verfügung stellen zu können. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten und sich nicht in einer Auflistung von Details zu verlieren. Die Vergleiche sollen als heuristisches Mittel dienen. Einreichen sollen Sie einen Satz für jedes Einzelbild.
+In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Sie zu Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen verfassen, um sie barrierefrei zur Verfügung stellen zu können. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten und sich nicht in einer Auflistung von Details zu verlieren. Die Vergleiche sollen als heuristisches Mittel dienen.
 
-Konkrete Aufgabe:
-Verfassen Sie einen beschreibenden Satz pro Einzelbild, der diesesvor dem Hintergrund des Forschungsthemas beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
+**Aufgabenstellung:**
+Verfassen Sie einen beschreibenden Satz pro Einzelbild, der dieses vor dem Hintergrund des Forschungsthemas beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
 
 Umfang: 3 Seiten in Ihrer PDF-Datei
 
 ### Biodiversität durch Hecken
 <figure>
 	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg" alt="Dainese et al. 2016"></a>
-	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747">Erhöhung der  aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
+	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747"> aus: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
 </figure>
 
-### Anthropogene und zoogeomorphologische Einflüsse auf die Landschaft
+### Fluss Renaturierung
 <figure>
-	<a href="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjom20/2020/tjom20.v016.i02/17445647.2019.1708488/20200203/images/large/tjom_a_1708488_f0008_oc.jpeg"><img src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjom20/2020/tjom20.v016.i02/17445647.2019.1708488/20200203/images/large/tjom_a_1708488_f0008_oc.jpeg" alt="Zerboni et al. 2019"></a>
-	<figcaption><a href="https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1708488"> aus: Zerboni et al. (2019): Geomorphology of the Jebel Qara and coastal plain of Salalah (Dhofar, southern Sultanate of Oman).</a></figcaption>
+	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/255e7bc8-499e-465c-a1d5-6874aba5d33e/jpe12932-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/255e7bc8-499e-465c-a1d5-6874aba5d33e/jpe12932-fig-0001-m.jpg" alt="Frainer et al. 2017"></a>
+	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12932"> aus: Frainer et al. (2017): Enhanced ecosystem functioning following stream restoration: The roles of habitat heterogeneity and invertebrate species traits).</a></figcaption>
 </figure>
 
-### Komplexität von Landschaftsstrukturen (und ihr Einfluss auf die Erforschung von Ökosystemprozessen)
+### Städtische Randbezirke
 <figure>
-	<a href="https://www.frontiersin.org/files/Articles/456059/fevo-07-00293-HTML/image_m/fevo-07-00293-g001.jpg"><img src="https://www.frontiersin.org/files/Articles/456059/fevo-07-00293-HTML/image_m/fevo-07-00293-g001.jpg" alt="Newman et al. 2019"></a>
-	<figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00293/full"> K aus: Newman et al. (2019): Scaling and Complexity in Landscape Ecology.</a></figcaption>
+	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig2_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig2_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
+  	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig3_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
+    	<a href="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg"><img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-21272-2_5/MediaObjects/327100_1_En_5_Fig4_HTML.jpg" alt="Ros-Tonen et al. 2015"></a>
+	<figcaption><a href="https://link.springer.com/chapter/10.1007/978-3-319-21272-2_5">
+		aus: Ros-Tonen et al. (2015): Governing Beyond Cities: The Urban-Rural Interface. in: Geographies of Urban Governance. (Springer) </a></figcaption>
 </figure>
 
 
@@ -41,15 +44,16 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 Alexander v. Humboldt erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador. Er beschrieb und skizziert damals erstmalig systematisch den für Quito so bedeutsamen Vulkan.
 
 * [Humboldt, A.v. (1858) Kosmos. Entwurf einer physischen Weltbeschreibung. Bd. 4. Stuttgart u. a., 268-290](https://www.projekt-gutenberg.org/humbolda/kosmos/kosmos.html#kos424))
-* [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
-* [Humbold, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
+* [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
+* [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
 
 Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sich an folgenden Leitfragen:
 * Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum?
 * Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
 
 **Aufgabenstellung:**
-* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. * Extrahieren Sie aus dem Text (Tipp: Suchen Sie im verlinkten Originaltext nach Pichincha) die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
+* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. 
+* Extrahieren Sie aus dem Text (Tipp: Suchen Sie im verlinkten Originaltext nach Pichincha) die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
 
 Umfang: 1 Seite Ihrer PDF-Datei
 
@@ -73,7 +77,7 @@ Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abs
 * Straßennetz
 * Bebauungsfläche
 
- 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können.
+ 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die Ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können.
  2. Schreiben Sie in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
