@@ -1,5 +1,5 @@
 ---
-title: A02-1 - Analyse von Raumbeschreibungen
+title: A02 - Analyse von Raumbeschreibungen
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -11,9 +11,9 @@ In der ersten Aufgabe dieser Lerneinheit üben Sie die erforderliche Abstraktion
 
 ## Aufgabe 02-1 L1
 
-In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Sie Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen verfassen, um sie barrierefrei zur Verfügung stellen zu können. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten und sich nicht in einer Auflistung von Details zu verlieren. Die Vergleiche sollen als heuristisches Mittel dienen. Einreichen sollen Sie einen Satz für jedes Einzelbild.
+In dieser ersten Aufgabe üben Sie Raumausschnitte unter vorgegebenen Blickwinkeln zu beschreiben. Dazu sollen Sie Bildern (3-4 Bilder gehören zu einem Artikel) aus wissenschaftlichen Artikeln Beschreibungen verfassen, um sie barrierefrei zur Verfügung stellen zu können. Hierfür ist es erforderlich die vorliegenden Bilder unter Beachtung des inhaltlichen Fokus des Artikels zu beschreiben, damit Menschen, die die Bilder nicht sehen können, die für sie relevanten Informationen bündig erhalten. Dadurch, dass Sie in dieser Aufgabe Bildreihen unter einem fachlichen Blickwinkel vorliegen haben, können Sie Raummerkmale kontrastierend analysieren. Diese Gegenüberstellung von Raumstrukturen, kann helfen relevante Elemente möglichst prägnant herauszuarbeiten und sich nicht in einer Auflistung von Details zu verlieren. Die Vergleiche sollen als heuristisches Mittel dienen.
 
-Konkrete Aufgabe:
+**Aufgabenstellung:**
 Verfassen Sie einen beschreibenden Satz pro Einzelbild, der diesesvor dem Hintergrund des Forschungsthemas beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. Um die fachlichen Hintergründe hierfür genauer zu verstehen, empfiehlt sich ein Blick in die Artikel. Beginnen Sie bitte für jede Bilderreihe eine neue Seite.
 
 Umfang: 3 Seiten in Ihrer PDF-Datei
@@ -73,7 +73,7 @@ Nutzen Sie das nachstehende Luftbild um den abgebildeten Raum strukturell zu abs
 * Straßennetz
 * Bebauungsfläche
 
- 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können.
+ 1. Erstellen Sie eine Skizze des im Luftbild abgebildeten Raumausschnitts. Versuchen Sie hierzu die oben genannten Kategorien im Bild zu identifizieren und in geeigneter Weise zusammenzufassen und zu skizzieren. Nutzen Sie hierzu Geoobjekte die Ihnen bekannt sind und die Sie aufgrund ausreichender Ähnlichkeit zusammenfassen können.
  2. Schreiben Sie in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
 
 Umfang: 1 Seite in Ihrer PDF-Datei

@@ -16,5 +16,4 @@ In den Aufgaben trainieren Sie die Modellierung von Raumeigenschaften. Sie üben
 
 
 ## Aufgaben
-* [Aufgabe 02-1: Kategorisierung und Analyse von Raumbeschreibungen]({{ site.baseurl }}{% link _unit02/unit02-04_assignment_02-1.md %})
-
+* [Aufgabe 02: Kategorisierung und Analyse von Raumbeschreibungen]({{ site.baseurl }}{% link _unit02/unit02-04_assignment_02-1.md %})
