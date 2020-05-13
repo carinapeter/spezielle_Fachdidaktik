@@ -52,7 +52,8 @@ Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Orientieren Sie sic
 * Welche Bedeutung haben Die beiden Skizzen für die schematische Beschreibung der Region.
 
 **Aufgabenstellung:**
-* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. * Extrahieren Sie aus dem Text (Tipp: Suchen Sie im verlinkten Originaltext nach Pichincha) die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
+* Nennen Sie bitte die wesentlichen Elemente der Humboldtschen Skizzen und bewerten Sie Ihren Informationsgehalt mit jeweils maximal drei Sätzen. 
+* Extrahieren Sie aus dem Text (Tipp: Suchen Sie im verlinkten Originaltext nach Pichincha) die korrespondierenden Informationen und bewerten Sie den Informationsgehalt in maximal drei Sätzen.
 
 Umfang: 1 Seite Ihrer PDF-Datei
 
