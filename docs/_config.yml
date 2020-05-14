@@ -183,7 +183,7 @@ defaults:
       path: ""
       type: unit07
     values:
-      category: "------"
+      category: "Materialien"
       tags: "Unit 07"
       layout: single
       sidebar:
