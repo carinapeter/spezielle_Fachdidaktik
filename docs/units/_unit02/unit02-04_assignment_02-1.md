@@ -10,7 +10,7 @@ header:
 In der Aufgabe üben Sie räumnliche Abstraktion an Bildern und Skizzen.
 
 ## Aufgabe 02 L1
-In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Stadtrandbezirke* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgebe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen soll.
+In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgebe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen soll.
 
 **Aufgabenstellung**: Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt ohne auf andere Bilder aus der Reihe zu verweisen.
 Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
@@ -43,6 +43,36 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </figure>
 
 ### Bilderreihe 3
+<html>
+<a
+href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goettingen_Levinscher_Park_Spielplatz.jpg/1280px-Goettingen_Levinscher_Park_Spielplatz.jpg"><img
+width="260"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goettingen_Levinscher_Park_Spielplatz.jpg/320px-Goettingen_Levinscher_Park_Spielplatz.jpg"
+alt="Goettingen Levinscher Park Spielplatz.jpg"> </a>
+</html>
+
+<html>
+<a
+href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carlebach_Park_HSST.jpg/320px-Carlebach_Park_HSST.jpg"><img
+width="270"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carlebach_Park_HSST.jpg/1280px-Carlebach_Park_HSST.jpg"
+alt="Carlebach Park HSST.jpg"></a>
+</html>
+
+<html>
+<a
+href="https://upload.wikimedia.org/wikipedia/commons/9/94/Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park%2C_Gelsenkirchen%2C_Szyszkowitz-Kowalski.jpg"><img
+width="270"
+src="https://upload.wikimedia.org/wikipedia/commons/9/94/Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park%2C_Gelsenkirchen%2C_Szyszkowitz-Kowalski.jpg"
+alt="Wohnbebauung Küppersbuschgelände IBA Emscher Park, Gelsenkirchen,
+Szyszkowitz-Kowalski.jpg"></a>
+</html>
+
+<figure>
+<figcaption><a href="https://commons.wikimedia.org/wiki/File:Goettingen_Levinscher_Park_Spielplatz.jpg">Foto (links): Simon-Martin / CC BY-SA via commons.wikimedia.org, </a>
+<a href="https://commons.wikimedia.org/wiki/File:Carlebach_Park_HSST.jpg">Foto (mitte): Penguin2008 / CC BY-SA via commons.wikimedia.org, </a><a href="https://commons.wikimedia.org/wiki/File:Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park,_Gelsenkirchen,_Szyszkowitz-Kowalski.jpg">Foto (rechts): Ffruehstueck / CC BY-SA via commons.wikimedia.org</a></figcaption>
+</figure>
+
 
 ## Aufgabe 02 L2
 In der Aufgabe üben Sie schematische Raumbeschreibungen einzuschätzen. Als Grundlage dient ein Text und zwei Skizzen von Alexander v. Humboldt. Er erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador, und .beschrieb erstmalig systematisch den Vulkan:
