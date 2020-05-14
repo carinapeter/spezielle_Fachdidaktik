@@ -12,7 +12,7 @@ In der Aufgabe üben Sie räumnliche Abstraktion an Bildern und Skizzen.
 ## Aufgabe 02 L1
 In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgebe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen soll.
 
-**Aufgabenstellung**: Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt ohne auf andere Bilder aus der Reihe zu verweisen.
+**Aufgabenstellung:** Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt ohne auf andere Bilder aus der Reihe zu verweisen.
 Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -75,7 +75,7 @@ Szyszkowitz-Kowalski.jpg"></a>
 
 
 ## Aufgabe 02 L2
-In der Aufgabe üben Sie schematische Raumbeschreibungen einzuschätzen. Als Grundlage dient ein Text und zwei Skizzen von Alexander v. Humboldt. Er erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador, und .beschrieb erstmalig systematisch den Vulkan:
+In der Aufgabe üben Sie schematische Raumbeschreibungen einzuschätzen. Als Grundlage dient ein Text und zwei Skizzen von Alexander v. Humboldt. Er erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador, und beschrieb erstmalig systematisch den Vulkan:
 
 * [Humboldt, A.v. (1858) Kosmos. Entwurf einer physischen Weltbeschreibung. Bd. 4. Stuttgart u. a., 268-290](http://www.deutschestextarchiv.de/book/view/humboldt_kosmos04_1858?p=273)
 * [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
@@ -86,7 +86,7 @@ Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orien
 * Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum?
 * Welche Art von Skizzen hat Humboldt hier gezeichnet? Wie stellt sich in diesen der Raum dar?
 
-**Aufgabenstellung** Nennen Sie bitte die wesentlichen Merkmale der beiden Skizzen und bewerten Sie den Informationsgehalt der beiden Skizzen mit jeweils maximal drei Sätzen. Vergleichen Sie anschließend den Informationsgehalt der Skizzen mit den Information im Text. Welche Arten von Informationen über den Raum finden sich (i) nur im Text, (ii) nur in den Skizzen und (iii) in beiden Medien gleichermaßen. Stellen sie die Informationsarten in einer dreispaltigen Tabelle gegenüber.
+**Aufgabenstellung:** Nennen Sie bitte die wesentlichen Merkmale der beiden Skizzen und bewerten Sie den Informationsgehalt der beiden Skizzen mit jeweils maximal drei Sätzen. Vergleichen Sie anschließend den Informationsgehalt der Skizzen mit den Information im Text. Welche Arten von Informationen über den Raum finden sich (i) nur im Text, (ii) nur in den Skizzen und (iii) in beiden Medien gleichermaßen. Stellen sie die Informationsarten in einer dreispaltigen Tabelle gegenüber.
 
 Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 
@@ -95,9 +95,9 @@ Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.
 
 Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren:
- * Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen?
+* Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen?
 * Sind die Kategorien als Information für Dritte geeignet?
-* Ist die Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
+* Ist Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
 <figure>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" alt="Sanspareil Luftbild West"></a>
