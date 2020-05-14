@@ -31,7 +31,7 @@ Stellen Sie bitte unbedingt sicher, dass diese Überschrift auch tatsächlich fo
 
 Für jede Teilaufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Nutzen Sie genau diese Anzahl an Seiten, auch wenn die Seiten nicht ganz voll oder sogar leer sind. Selbst wenn Sie die Teilaufgabe also gar nicht bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie mit der nächsten Teilaufgabe weitermachen.
 
-Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden Sie nur diese Version in ILIAS hoch. 
+Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese Version in ILIAS hoch. 
 
 ### Bestehen der Studienleistung
 Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Teilaufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.
