@@ -6,7 +6,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server
 # process.
 
-# Site settings 
+# Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
@@ -32,7 +32,7 @@ title: Medienkompetenz
 name: &name "Medienkompetenz" # &name is a YAML anchor which can be *referenced later
 #email: nauss@geo.uni-marburg.de
 description: >- # this means to ignore newlines until next item
-  course course-materials geography remote-sensing marburg-open-educational-resource 
+  course course-materials geography remote-sensing marburg-open-educational-resource
   physical-geography environmental-science nature-conservation r
 
 ##### Social Sharing ##########################################################
@@ -107,7 +107,7 @@ defaults:
       tags: "Examples"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit00
   - scope:
       path: ""
@@ -117,7 +117,7 @@ defaults:
       tags: "Unit 00"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit01
   - scope:
       path: ""
@@ -127,17 +127,17 @@ defaults:
       tags: "Unit 01"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit02
   - scope:
       path: ""
       type: unit02
     values:
-      category: "02 Räumliche Modellierung & Kartierung"
+      category: "02 Räumliche Modellierung"
       tags: "Unit 02"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit03
   - scope:
       path: ""
@@ -147,7 +147,7 @@ defaults:
       tags: "Unit 03"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit04
   - scope:
       path: ""
@@ -157,7 +157,7 @@ defaults:
       tags: "Unit 04"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit05
   - scope:
       path: ""
@@ -167,7 +167,7 @@ defaults:
       tags: "Unit 05"
       layout: single
       sidebar:
-        nav: "units" 
+        nav: "units"
   # unit06
   - scope:
       path: ""
@@ -183,7 +183,7 @@ defaults:
       path: ""
       type: unit07
     values:
-      category: "------"
+      category: "Materialien"
       tags: "Unit 07"
       layout: single
       sidebar:
@@ -195,7 +195,7 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "docs"         
+        nav: "docs"
 
 # Plugins
 plugins:
@@ -222,4 +222,3 @@ encoding: UTF-8
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
