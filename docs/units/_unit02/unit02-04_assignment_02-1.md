@@ -112,7 +112,7 @@ Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orien
 
 
 
-{% include gallery id="panel4"  caption= "Foto: [Felsengarten Sanspareil](https://w.wiki/Qvs) Presse03 / CC BY-SA via commons.wikimedia.org" %}
+{% include gallery id="panel4"  caption= "Foto: [Felsengarten Sanspareil](https://w.wiki/Qvt) Presse03 / CC BY-SA via commons.wikimedia.org" %}
 
 
 
