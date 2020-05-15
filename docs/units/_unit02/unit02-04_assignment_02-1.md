@@ -45,6 +45,12 @@ panel3:
     alt: "Wohnbebauung Küppersbuschgelände IBA Emscher Park"
     title: "Wohnbebauung Küppersbuschgelände IBA Emscher Park, [Ffruehstueck](https://w.wiki/Qtm) / CC BY-SA via commons.wikimedia.org"
 
+panel4:  
+  - url: https://w.wiki/Qvs
+    image_path: https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg
+    title: "Felsengarten Sanspareil, Westansicht mit Burg Zwernitz - Fränkische Schweiz, Bayern, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
+    alt: "Felsengarten Sanspareil, Westansicht mit Burg Zwernitz - Fränkische Schweiz, Bayern"
+
 ---
 
 
@@ -104,10 +110,11 @@ Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orien
 * Sind die Kategorien als Information für Dritte geeignet?
 * Ist Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
-<figure>
-	<a href="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" alt="Sanspareil Luftbild West"></a>
-	<figcaption><a href="https://commons.wikimedia.org/wiki/File:Sanspareil_Luftbild_West.jpg">Foto: Presse03 / CC BY-SA via commons.wikimedia.org</a></figcaption>
-</figure>
+
+
+{% include gallery id="panel4"  caption= "Foto: [Felsengarten Sanspareil](https://w.wiki/Qvs) Presse03 / CC BY-SA via commons.wikimedia.org" %}
+
+
 
 
 **Aufgabenstellung:** Erfassen Sie folgende Kategorien in einer Handskizze:
