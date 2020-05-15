@@ -9,7 +9,7 @@ header:
 ---
 
 Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
-{: .notice--info}
+{: .notice--danger}
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
 
