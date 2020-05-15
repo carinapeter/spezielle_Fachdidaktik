@@ -5,7 +5,7 @@ header:
 ---
 
 
-<<<<<<< HEAD
+
 Nachdem wir uns in der letzten Kurseinheit mit der Abstraktion von Raum auseinandergesetzt haben wollen sollen Sie in den zwei folgenden Aufgaben üben selbst Messungen durchzuführen und zu verorten.
 =======
 Nachdem wir uns in der letzten Kurseinheit mit der Abstraktion von Raum auseinandergesetzt haben wollen sollen Sie in den zwei folgenden Aufgaben üben Geoobjekte und Ihre Eigenschaften systematisch zu erfassen und die Unterschiede verschiedener Herangehensweisen zu erkennen, zu beschreiben und im Kontext der Fragestellung zu bewerten.
@@ -22,8 +22,3 @@ Hierzu werden Sie in Aufgabe 1 Häuser anhand verschiedener Merkmale charakteris
 
 ## Aufgaben
 * [Aufgabe 03-1 - Kategorisierung und Analyse von Raumbeschreibungen]({{ site.baseurl }}{% link _unit03/unit03-04_assignment_03-1.md %})
-<<<<<<< HEAD
-=======
-* [Aufgabe 03-2 - Vergleich verschiedener Kartierungen]({{ site.baseurl }}{% link _unit03/unit03-05_assignment_03-2.md %})
-* [Aufgabe 03-3 - Modellierung einer Kreuzung]({{site.baseurl }}{% link _unit03/unit03-06_assignment_03-3.md %})
->>>>>>> bca2d917dd6c3b4579d56c33450899983479042d
