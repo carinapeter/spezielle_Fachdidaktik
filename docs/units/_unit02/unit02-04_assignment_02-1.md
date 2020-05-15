@@ -51,6 +51,10 @@ panel4:
 ---
 
 
+Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
+{: .notice--danger}
+
+
 
 ## Aufgabe 02-1 Übungen zur räumlichen Abstraktion
 In der Aufgabe üben Sie räumliche Abstraktion an Bildern und Skizzen.
