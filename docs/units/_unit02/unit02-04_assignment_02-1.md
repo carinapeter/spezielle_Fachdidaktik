@@ -5,7 +5,41 @@ header:
   image: /assets/images/02-splash.jpg
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
+
+
+panel1:  
+  - image_path: https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg
+    title: "[Dainese et al.(2016)](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg)"
+    alt: "High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields"
+
+
+
+panel2:  
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg/1280px-Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg
+    title: "[Gottfried Hoffmann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org"
+    alt: "Frankfurt(Oder) Oderaue bei Lebus"
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/18-06-06-Fotoflug-Uckermark_RRK3924.jpg/1280px-18-06-06-Fotoflug-Uckermark_RRK3924.jpg  
+    alt: "8-06-06-Fotoflug-Uckermark RRK3924"
+    title: "[Ralf Roletschek](https://w.wiki/QuN) / GFDL 1.2  via commons.wikimedia.org"
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/AlandFloodplain.jpg/1280px-AlandFloodplain.jpg
+    alt: "Naturnaher Abschnitt des Aland"
+    title: "[Christian Fischer](https://w.wiki/QuP) / CC BY-SA via commons.wikimedia.org"
+
+
+
+panel3:  
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goettingen_Levinscher_Park_Spielplatz.jpg/1280px-Goettingen_Levinscher_Park_Spielplatz.jpg
+    title: "[Simon-Martin](https://w.wiki/Qtm) / CC BY-SA via commons.wikimedia.org"
+    alt: "Goettingen Levinscher Park Spielplatz.jpg"
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carlebach_Park_HSST.jpg/320px-Carlebach_Park_HSST.jpg  
+    alt: "Carlebach Park"
+    title: "[Penguin2008](https://w.wiki/Qtk) / CC BY-SA via commons.wikimedia.org"
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/9/94/Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park%2C_Gelsenkirchen%2C_Szyszkowitz-Kowalski.jpg
+    alt: "Wohnbebauung Küppersbuschgelände IBA Emscher Park"
+    title: "[Ffruehstueck](https://w.wiki/Qtm) / CC BY-SA via commons.wikimedia.org"
+
 ---
+
 
 In der Aufgabe üben Sie räumnliche Abstraktion an Bildern und Skizzen.
 
@@ -22,56 +56,22 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 ### Bilderreihe 1
-<figure>
-	<a href="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg"><img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg" alt="Dainese et al. 2016"></a>
-	<figcaption><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12747"> Fotos: Dainese et al. (2016): High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields.</a></figcaption>
-</figure>
+
+
+
+{% include gallery id="panel1"  caption= "Fotos: [Dainese et al.](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg)" %}
 
 
 ### Bilderreihe 2
-<html>
-	<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg/1280px-Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg/320px-Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg" width="270" alt="Frankfurt(Oder) Oderaue bei Lebus"></a>
 
- 	<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/18-06-06-Fotoflug-Uckermark_RRK3924.jpg/1280px-18-06-06-Fotoflug-Uckermark_RRK3924.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/18-06-06-Fotoflug-Uckermark_RRK3924.jpg/320px-18-06-06-Fotoflug-Uckermark_RRK3924.jpg" width="270" alt="18-06-06-Fotoflug-Uckermark RRK3924"></a>
-
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/AlandFloodplain.jpg/1280px-AlandFloodplain.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/AlandFloodplain.jpg/320px-AlandFloodplain.jpg" width="270" alt="18-06-06-Fotoflug-Uckermark RRK3924"></a>
-</html>
-
-<figure>
-<figcaption><a href="https://commons.wikimedia.org/wiki/File:Frankfurt(Oder)_Oderaue_bei_Lebus_-_panoramio.jpg">Foto (links): Gottfried Hoffmann -… / CC BY via commons.wikimedia.org, </a>
-<a href="https://commons.wikimedia.org/wiki/File:18-06-06-Fotoflug-Uckermark_RRK3924.jpg">Foto (mitte): Ralf Roletschek / GFDL 1.2 via commons.wikimedia.org, </a><a href="https://commons.wikimedia.org/wiki/File:AlandFloodplain.jpg">Foto (rechts): Christian Fischer / CC BY-SA via commons.wikimedia.org</a></figcaption>
-</figure>
+{% include gallery id="panel2"  caption= "Fotos: [Gottfried Hoffmann](https://w.wiki/QuL) CC BY-SA via commons.wikimedia.org, (links), [Ralf Roletschek](https://w.wiki/QuN) GFDL 1.2 via commons.wikimedia.org, (mitte): [Christian Fischer ](https://w.wiki/QuP)(rechts), CC BY-SA via commons.wikimedia.org" %}
 
 ### Bilderreihe 3
-<html>
-<a
-href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goettingen_Levinscher_Park_Spielplatz.jpg/1280px-Goettingen_Levinscher_Park_Spielplatz.jpg"><img
-width="260"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goettingen_Levinscher_Park_Spielplatz.jpg/320px-Goettingen_Levinscher_Park_Spielplatz.jpg"
-alt="Goettingen Levinscher Park Spielplatz.jpg"> </a>
-</html>
 
-<html>
-<a
-href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carlebach_Park_HSST.jpg/320px-Carlebach_Park_HSST.jpg"><img
-width="270"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carlebach_Park_HSST.jpg/1280px-Carlebach_Park_HSST.jpg"
-alt="Carlebach Park HSST.jpg"></a>
-</html>
 
-<html>
-<a
-href="https://upload.wikimedia.org/wikipedia/commons/9/94/Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park%2C_Gelsenkirchen%2C_Szyszkowitz-Kowalski.jpg"><img
-width="270"
-src="https://upload.wikimedia.org/wikipedia/commons/9/94/Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park%2C_Gelsenkirchen%2C_Szyszkowitz-Kowalski.jpg"
-alt="Wohnbebauung Küppersbuschgelände IBA Emscher Park, Gelsenkirchen,
-Szyszkowitz-Kowalski.jpg"></a>
-</html>
+{% include gallery id="panel3"  caption= "Fotos: [Simon-Martin](https://w.wiki/Qtj) (links), [Penguin2008](https://w.wiki/Qtk) (mitte): [Ffruehstueck](https://w.wiki/Qtm) (rechts), alle CC BY-SA via commons.wikimedia.org" %}
 
-<figure>
-<figcaption><a href="https://commons.wikimedia.org/wiki/File:Goettingen_Levinscher_Park_Spielplatz.jpg">Foto (links): Simon-Martin / CC BY-SA via commons.wikimedia.org, </a>
-<a href="https://commons.wikimedia.org/wiki/File:Carlebach_Park_HSST.jpg">Foto (mitte): Penguin2008 / CC BY-SA via commons.wikimedia.org, </a><a href="https://commons.wikimedia.org/wiki/File:Wohnbebauung_K%C3%BCppersbuschgel%C3%A4nde_IBA_Emscher_Park,_Gelsenkirchen,_Szyszkowitz-Kowalski.jpg">Foto (rechts): Ffruehstueck / CC BY-SA via commons.wikimedia.org</a></figcaption>
-</figure>
+
 
 
 ## Aufgabe 02 L2
