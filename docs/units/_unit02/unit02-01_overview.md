@@ -1,16 +1,23 @@
 ---
-title: Übersicht
+title: Überblick
+header:
+  image: /assets/images/02-splash.jpg
+  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
+  caption: "Foto: T. Nauss / CC0"
 ---
 
 
-Die Zusammenhänge der realen Welt sind in der Regel so komplex, dass sie nur in einer generalisierten Form verständlich darstellbar oder analysierbar sind. Was macht also die Bedeutung eines Raums aus? <!--more--> Im Alltag konstruieren wir ständig kognitive Modelle zur Vereinfachung unserer Weltwahrnehmung. Die Wahrnehmung und Interpretation der „realen Welt“ und geeignete Strategien für den praxistauglichen Umgang mit den raumzeitlichen Aspekten dieser Welt, findet mit durch Abstraktion (zielgerichtete Vereinfachung) und einer geeigneten Kommunikation dieser Abstraktion statt. Ob dann dieses konstruierte “Bild der Welt” der Wirklichkeit entspricht, lässt sich nur im Hinblick auf einen Zweck oder ein Ziel beweisen. Trotz dieser elementaren Einschränkung werden Repräsentationen des Raumes zwingend für das Verständnis von Prozessen und Zusammenhängen, für gemeinsame Planung und Interaktion etc. benötigt. Oft sind unterschiedliche oder variable Repräsentationen notwendig, um die Realität ausreichend zielführend abzubilden.
+Die reale Welt ist komplex. Im Alltag konstruieren wir deshalb ständig kognitive Modelle, um unsere Umwelt zu vereinfachen und sie wahrnehmen zu können. In der geographischen Forschung erfolgt diese Vereinfachung zielgerichtet auf Basis einer Fragestellung. Einfach gefragt: Was macht einen Raum aus?
 
-Wer geographische Fachkompetenz erwerben will, muss die genannten Aspekte berücksichtigen. Wissenschaftstheoretisch kann Geographie durchaus als ein Methodenverbund, dessen Ziel es ist raum-zeitliche Zusammenhänge nachvollziehbar und reproduzierbar zu konstruieren, begriffen werden.
+<!--more-->
 
-Wie setzen wir in der Geographie am einfachsten und effizientesten die Abstraktion unserer Weltsicht um? Zunächst erfordert eine Raumbeschreibung die Festlegung eines Ausschnitts und eines Zwecks der beobachteten Welt. Nur dann kann in zielführender Weise vereinfacht (abstrahiert) werden. Hierzu werden üblicherweise die geographische Repräsentation von Raum durch eindeutige Raumobjekte mit beliebigen Merkmalsausprägungen (E-Kirche: gotischer Baustil, Sandsteinbau,Touristenattraktion…,) oder kontinuierliche Merkmalsausprägungen im Raum beschrieben (Luftdruck, Temperatur, Bevölkerung,...). 
+## Was bisher geschah
+In der vorangegangenen Lerneinheit zur Raumbeschreibung & Interpretation haben Sie bereits Karten erforscht. Sie haben sich quasi vom Endprodukt einer räumlichen Abstraktion, im Beispiel in Form einer Karte, dem Problem der räumlichen Modellierung genähert. Sie haben die in der Karte dargestellten Informationen beschrieben, ihre Gültigkeit eingeschätzt und die Visualisierung bewertet. Der Raumausschnitt und die Auswahl an dargestellten Raumeigenschaften an sich wurden aber in der Aufgabe nicht hinterfragt.
 
+## Was wir in dieser Einheit vor haben
+Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften von Räumen und stellen die Modellierung des Raums in den Mittelpunkt. Wir starten nicht am Endprodukt, sondern gehen den Weg vorwärts: von der realen Welt aus über die Abstraktion eines abgrenzenden Raumausschnitts hin zur Darstellung. Auf dieser Grundlage können wir räumliche Informationen generieren und kommunizieren. Sie lernen Räume unter einem vorgegebenen Blickwinkel zu beschreiben, die Abstraktionen Dritter zu analysieren und einen Raumausschnitt selbst zu skizzieren und abstrahieren. 
 
-Sie lernen Eigenschaften räumlicher Phänomene kennen und erfassen selbst skizzenhaft einen Raum mit einer damit verbundenen Information.
-* Am Ende dieser Lerneinheit können Sie einen abgegrenzten Realraum mit Hilfe von Beschreibungen , Skizzen und Fotos durch Beobachtung typisieren
-* die charakteristische Ausprägung eines Phänomens an einem konkreten Raumbeispiel benennen
-* Messungen im Raum mit Hilfe von Smartphone-Apps erheben und kartographisch darstellen
+## Lernziele
+Am Ende dieser Lerneinheit können Sie
+* dargestellte Räume typisieren und analysieren,
+* und einen Raum mit Hilfe von Beschreibungen, Skizzen oder Fotos modellieren.
