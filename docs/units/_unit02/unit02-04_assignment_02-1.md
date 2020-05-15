@@ -62,16 +62,16 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {: .notice--info}
 
 
-### Bilderreihe 1
+**Bilderreihe 1**
 
 {% include gallery id="panel1"  caption= "Fotos: [Bild 3 a-c](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg) Dainese et al. (2016) CC-BY-NC-ND Wiley & Sons LN 4830221491050" %}
 
 
-### Bilderreihe 2
+**Bilderreihe 2**
 
 {% include gallery id="panel2"  caption= "Fotos: (links) [Bild 2a](https://w.wiki/QuL) Gottfried Hoffmann CC BY-SA via commons.wikimedia.org, (mitte), [Bild 2b](https://w.wiki/QuN) Ralf Roletschek GFDL 1.2 via commons.wikimedia.org, (rechts): [Bild 2c](https://w.wiki/QuP) Christian Fischer CC BY-SA via commons.wikimedia.org" %}
 
-### Bilderreihe 3
+**Bilderreihe 3**
 
 
 {% include gallery id="panel3"  caption= "Fotos: (links) [Bild 3a](https://w.wiki/Qtj) Simon-Martin, (mitte) [Bild 3b](https://w.wiki/Qtk) Penguin2008, (rechts) [Bild 3c](https://w.wiki/Qtm) Ffruehstueck, alle Bilder CC BY-SA via commons.wikimedia.org" %}
@@ -96,7 +96,7 @@ Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orien
 Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 
 
-### Aufgabe 02 L3
+## Aufgabe 02 L3
 In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.
 
 Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren:
