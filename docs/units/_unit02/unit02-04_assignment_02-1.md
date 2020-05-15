@@ -64,7 +64,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ### Bilderreihe 1
 
-{% include gallery id="panel1"  caption= "Fotos: [Dainese et al.](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg), CC-BY-NC-ND Wiley & Sons LN 4830221491050" %}
+{% include gallery id="panel1"  caption= "Fotos: [Bild 3 a-c](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg) Dainese et al. (2016) CC-BY-NC-ND Wiley & Sons LN 4830221491050" %}
 
 
 ### Bilderreihe 2
@@ -74,7 +74,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 ### Bilderreihe 3
 
 
-{% include gallery id="panel3"  caption= "Fotos: [Simon-Martin](https://w.wiki/Qtj) (links), [Penguin2008](https://w.wiki/Qtk) (mitte): [Ffruehstueck](https://w.wiki/Qtm) (rechts), alle CC BY-SA via commons.wikimedia.org" %}
+{% include gallery id="panel3"  caption= "Fotos: (links) [Bild 3a](https://w.wiki/Qtj) Simon-Martin, (mitte) [Bild 3b](https://w.wiki/Qtk) Penguin2008, (rechts) [Bild 3c](https://w.wiki/Qtm) Ffruehstueck, alle Bilder CC BY-SA via commons.wikimedia.org" %}
 
 
 
