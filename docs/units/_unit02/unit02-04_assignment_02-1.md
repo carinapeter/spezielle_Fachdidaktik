@@ -59,7 +59,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 
-{% include gallery id="panel1"  caption= "Fotos: [Dainese et al.](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg)" %}
+{% include gallery id="panel1"  caption= "Fotos: [Dainese et al.](https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/jpe12747-fig-0001-m.jpg), CC-BY-NC-ND Wiley & Sons" %}
 
 
 ### Bilderreihe 2
