@@ -14,7 +14,6 @@ panel1:
     alt: "High cover of hedgerows in the landscape supports multiple ecosystem services in Mediterranean cereal fields"
 
 
-
 panel2:  
   - url: https://w.wiki/QuL
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg/1280px-Frankfurt%28Oder%29_Oderaue_bei_Lebus_-_panoramio.jpg
@@ -28,8 +27,6 @@ panel2:
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/AlandFloodplain.jpg/1280px-AlandFloodplain.jpg
     alt: "Naturnaher Abschnitt des Aland"
     title: "Naturnaher Abschnitt des Aland [Christian Fischer](https://w.wiki/QuP) / CC BY-SA via commons.wikimedia.org"
-
-
 
 panel3:
   - url: https://w.wiki/QvZ
@@ -59,7 +56,7 @@ panel4:
 In der Aufgabe üben Sie räumliche Abstraktion an Bildern und Skizzen.
 
 ### Aufgabe 02-1-L1
-In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgebe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen soll.
+In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgabe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen soll.
 
 **Aufgabenstellung 02-1-L1:** (i) Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. (ii) Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
 {: .notice--success}
@@ -88,16 +85,9 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 ### Aufgabe 02-1-L2
-In der Aufgabe üben Sie schematische Raumbeschreibungen einzuschätzen. Als Grundlage dient ein Text und zwei Skizzen von Alexander v. Humboldt. Er erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador, und beschrieb erstmalig systematisch den Vulkan:
+In der Aufgabe üben Sie schematische Raumbeschreibungen einzuschätzen. Als Grundlage dient ein Text und zwei Skizzen von Alexander v. Humboldt. Er erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador, und beschrieb erstmalig systematisch den Vulkan: (a) [Entwurf einer physischen Weltbeschreibung](http://www.deutschestextarchiv.de/book/view/humboldt_kosmos04_1858?p=273) (Humboldt, A.v. (1858) Kosmos. Bd. 4. Stuttgart u. a., 268-290), (b) [Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001) (Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc), (c) [Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001) (Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc).
 
-* [Humboldt, A.v. (1858) Kosmos. Entwurf einer physischen Weltbeschreibung. Bd. 4. Stuttgart u. a., 268-290](http://www.deutschestextarchiv.de/book/view/humboldt_kosmos04_1858?p=273)
-* [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001).
-* [Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc, Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001).
-
-Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren:
-* Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen?
-* Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum?
-* Welche Art von Skizzen hat Humboldt hier gezeichnet? Wie stellt sich in diesen der Raum dar?
+Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren: Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum? Welche Art von Skizzen hat Humboldt hier gezeichnet? Wie stellt sich in diesen der Raum dar?
 
 **Aufgabenstellung 02-1-L2:** Nennen Sie bitte die wesentlichen Merkmale der beiden Skizzen und bewerten Sie den Informationsgehalt der beiden Skizzen mit jeweils maximal drei Sätzen. Vergleichen Sie anschließend den Informationsgehalt der Skizzen mit den Information im Text. Welche Arten von Informationen über den Raum finden sich (i) nur im Text, (ii) nur in den Skizzen und (iii) in beiden Medien gleichermaßen. Stellen sie die Informationsarten in einer dreispaltigen Tabelle gegenüber.
 {: .notice--success}
@@ -108,10 +98,7 @@ Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 ### Aufgabe 02-1-L3
 In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.
 
-Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren:
-* Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen?
-* Sind die Kategorien als Information für Dritte geeignet?
-* Ist Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
+Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren: Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen? Sind die Kategorien als Information für Dritte geeignet? Ist Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
 
 
