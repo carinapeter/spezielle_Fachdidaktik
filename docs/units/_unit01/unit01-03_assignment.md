@@ -1,6 +1,11 @@
 ---
 title: Aufgaben
 toc: true
+header:
+  image: /assets/images/01-splash.jpg
+  image_description: "John Snows "
+  caption: "Map: [**John Snow, Wellcome Library via wikimedia**](https://w.wiki/QtV)"
+
 ---
 
 Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.

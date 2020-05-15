@@ -1,6 +1,11 @@
 ---
 title: Inhalt
 toc: true
+header:
+  image: /assets/images/01-splash.jpg
+  image_description: "John Snows "
+  caption: "Map: [**John Snow, Wellcome Library via wikimedia**](https://w.wiki/QtV)"
+
 ---
 
 {% include video id="C0V2zejaTz4" provider="youtube" %}
