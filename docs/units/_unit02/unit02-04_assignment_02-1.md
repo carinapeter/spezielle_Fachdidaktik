@@ -59,8 +59,8 @@ In der Aufgabe üben Sie räumnliche Abstraktion an Bildern und Skizzen.
 ## Aufgabe 02 L1
 In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgebe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen soll.
 
-**Aufgabenstellung:** Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt ohne auf andere Bilder aus der Reihe zu verweisen.
-Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
+**Aufgabenstellung:** (i) Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt ohne auf andere Bilder aus der Reihe zu verweisen. (ii) Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
+{: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
@@ -98,6 +98,7 @@ Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orien
 * Welche Art von Skizzen hat Humboldt hier gezeichnet? Wie stellt sich in diesen der Raum dar?
 
 **Aufgabenstellung:** Nennen Sie bitte die wesentlichen Merkmale der beiden Skizzen und bewerten Sie den Informationsgehalt der beiden Skizzen mit jeweils maximal drei Sätzen. Vergleichen Sie anschließend den Informationsgehalt der Skizzen mit den Information im Text. Welche Arten von Informationen über den Raum finden sich (i) nur im Text, (ii) nur in den Skizzen und (iii) in beiden Medien gleichermaßen. Stellen sie die Informationsarten in einer dreispaltigen Tabelle gegenüber.
+{: .notice--success}
 
 Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 
@@ -117,12 +118,8 @@ Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orien
 
 
 
-**Aufgabenstellung:** Erfassen Sie folgende Kategorien in einer Handskizze:
-* Landnutzung in Form von Landnutzungsarten
-* Straßennetz
-* Bebauungsfläche
-
- 1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts unter Berücksichtigung der geforderten Kategorien. Fassen Sie in Ihrer Skizze die Kategorien räumlich in geeigneter Weise zusammen.
- 1. Schreiben Sie in Stichpunkten Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte auf.
+**Aufgabenstellung:** Erfassen Sie folgende Kategorien (a) **Landnutzung** (in Form von Landnutzungsarten), (b) **Straßennetz** und (c) **Bebauungsfläche** in einer Handskizze.
+(i) Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts unter Berücksichtigung der geforderten Kategorien. Fassen Sie in Ihrer Skizze die Kategorien räumlich in geeigneter Weise zusammen. (ii) Schreiben Sie in Stichpunkten Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte auf.
+{: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
