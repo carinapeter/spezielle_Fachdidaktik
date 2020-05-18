@@ -51,7 +51,7 @@ panel4:
 ---
 
 
-Bitte beachten Sie die bindenden [formalen Anforderungen]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}) für Ihre Abgabe.
+Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
 
