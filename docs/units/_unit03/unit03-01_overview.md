@@ -1,15 +1,28 @@
 ---
 title: Übersicht
+header:
+  image: /assets/images/02-splash.jpg
+  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
+  caption: "Foto: T. Nauss / CC0"
 ---
-## Datenerfassung und Standardisierung
-
-Die Welt ist prinzipiell beliebig komplex und Sie haben sich deshalb in der letzten Lerneinheit mit der Abstraktion von Räumen beschäftigt. Unsere Computer hingegen sind in ihren Möglichkeiten Merkmalsausprägungen zu verarbeiten und abzuspeichern extrem endlich! Die Möglichkeiten unseres Gehirns liegen irgendwo dazwischen. Als Folge kann, aufgrund mentaler und technischer Beschränktheit, nur eine außerordentlich limitierte Anzahl von Merkmalsausprägungen in die Repräsentation von Echtwelt eingehen. Es besteht folglich die Notwendigkeit zur zielgerichteten Vereinfachung der Echtwelt. Um während der Entwicklung geographischer Repräsentationen einen objektivierbaren Rahmen für diese Vereinfachungen zu haben, werden diese immer skalenorientiert auf der Raum- und Zeitskala durchgeführt.
-
-Aufgrund der Vielzahl von Möglichkeiten zur Reduktionen in der Erdbeschreibung gibt es für diesen Prozess innerhalb der GI eine unüberschaubare Vielzahl von Konzepten und Vorgehensweisen. Die Frage einer sinnhaften, gültigen und zweckdienlichen Vereinfachung von Repräsentationen von Echtwelt wird uns ständig beschäftigen. Um Räume in Geomedien darstellen zu können lernen Sie Grundlagen der kartographischen Modellierung von Räumen kennen und erfassen selbst und systematisch einen Raum.
-
-
-
 
 
 
 <!--more-->
+
+## Was bisher geschah
+
+In der letzten Lerneinheit haben wir uns mit der Abstraktion von Räumen beschäftigt. Sie haben sowohl fremde Raummodelle beschrieben als auch selbst eines erstellt und skizziert. Wir haben bislang ständig und ohne besondere Vorüberlegungen mit dem Begriff Raum gearbeitet. Doch wie können wir Raum definieren?
+
+## Was wir in dieser Einheit vor haben
+
+Um Raumkonzepte (diskrete Geoobjekte, kontinuierliche Räume) in Karten und geographischen Informations-Systemen und letztlich auch insgesamt wissenschaftlich nutzbar zu machen, müssen wir jetzt den Begriff Raum etwas konkreter fassen. Dazu müssen wir Objekte  verorten, ihre Dimensionen bemessen und ihre Lage zueinander beschreiben können. Erst damit haben wir die Möglichkeit auch ihre Eigenschaften (z.B. Wassertiefe von Flüssen, Lufttemperatur einer Messstation, Fläche eines Waldbrands, Höhe über normal Null eines Gipfels) zuzuordnen, zu analysieren und zu nutzen um räumliche Informationen zu generieren. Dazu werden wir uns in dieser Lerneinheit mit der mathematischen Repräsentation von Raum zu befassen. Sie lernen verschiedene Koordinatensysteme und Datentypen kennen um Geoobjekte und Ihre Eigenschaften zu verorten, erfassen und selbst einzumessen.
+
+## Lernziele
+
+Am Ende dieser Lerneinheit können Sie
+
+* Geoobjekte im Raum verorten
+* eine adäquate null-, ein-, oder zwei-dimensionale Repräsentation für Geoobjekten auf Karten auswählen
+* Messungen durchführen und räumlich erfassen
+* die Subjektivität in der Darstellung objektiv gemessener Daten erkennen

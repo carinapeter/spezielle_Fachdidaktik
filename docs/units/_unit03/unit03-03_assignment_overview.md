@@ -2,23 +2,21 @@
 title: Aufgaben
 toc: true
 header:
+  image: /assets/images/02-splash.jpg
+  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
+  caption: "Foto: T. Nauss / CC0"
 ---
 
+Um von der Abstraktion vorgegebener Raumausschnitte in ein aktives Erfassen von Räumen zu kommen, werden Sie heute selbst rausgehen, ein geeignetes Untersuchungsgebiet für eine Fragestellung wählen, verschiedene Messungen durchführen und verorten sowie anschließend Ihre Ergebnisse Zielgruppengerecht darstellen.
 
-
-Nachdem wir uns in der letzten Kurseinheit mit der Abstraktion von Raum auseinandergesetzt haben wollen sollen Sie in den zwei folgenden Aufgaben üben selbst Messungen durchzuführen und zu verorten.
-=======
-Nachdem wir uns in der letzten Kurseinheit mit der Abstraktion von Raum auseinandergesetzt haben wollen sollen Sie in den zwei folgenden Aufgaben üben Geoobjekte und Ihre Eigenschaften systematisch zu erfassen und die Unterschiede verschiedener Herangehensweisen zu erkennen, zu beschreiben und im Kontext der Fragestellung zu bewerten.
->>>>>>> bca2d917dd6c3b4579d56c33450899983479042d
-
-Hierzu werden Sie in Aufgabe 1 Häuser anhand verschiedener Merkmale charakterisieren und Ihre Ergebnisse in Aufgabe 2 mit den Ergebnissen von Kommilitonen vergleichen. Für die Bearbeitung von Aufgabe 1 haben Sie die üblichen 2 Wochen Zeit. Anschließend weisen wir Ihnen eine*n Partner*in zu und Sie haben eine weitere Woche für die Abgabe von Aufgabe 2 Zeit.
 
 ## Benötigte Materialien für die Aufgaben
 * Papier und Stifte
 * Internetzugang
-* Übersichtskarte des Straßenzugs
-* Tabelle mit Haus-IDs
-* Kalkulationsprogramm zum ausfüllen der Tabelle
+* Tablet oder Smartphone mit GPS und App zum Lärmpegel messen
+
+**Hinweis:** Sollten Ihnen die entsprechenden Geräte/Apps nicht zur Verfügung stehen, wenden Sie sich bitte an uns.
+{: .notice}
 
 ## Aufgaben
-* [Aufgabe 03-1 - Kategorisierung und Analyse von Raumbeschreibungen]({{ site.baseurl }}{% link _unit03/unit03-04_assignment_03-1.md %})
+* [Aufgabe 03-1 - Verortung und Messung räumlicher Phänomene]({{ site.baseurl }}{% link _unit03/unit03-04_assignment_03-1.md %})
