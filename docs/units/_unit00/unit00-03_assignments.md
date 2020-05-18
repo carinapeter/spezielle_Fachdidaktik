@@ -27,7 +27,7 @@ Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungspr
 
 ```Aufgabe XX-LY: Vorname Nachname, Matrikelnummer``` (z.B. Aufgabe 02-L3 - Thomas Nauss, 1234567) folgen.
 
-Stellen Sie bitte unbedingt sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies erleichtert uns die Navigation in Ihrem finalen Dokument.
+<!-- Stellen Sie bitte unbedingt sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies erleichtert uns die Navigation in Ihrem finalen Dokument. -->
 
 Für jede Teilaufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Nutzen Sie genau diese Anzahl an Seiten, auch wenn die Seiten nicht ganz voll oder sogar leer sind. Selbst wenn Sie die Teilaufgabe also gar nicht bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie mit der nächsten Teilaufgabe weitermachen.
 

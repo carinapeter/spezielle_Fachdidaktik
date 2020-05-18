@@ -8,7 +8,7 @@ header:
 
 ---
 
-Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
+Bitte beachten Sie die bindenden [formalen Anforderungen]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}) für Ihre Abgabe.
 {: .notice--danger}
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
