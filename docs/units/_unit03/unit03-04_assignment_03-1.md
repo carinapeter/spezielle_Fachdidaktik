@@ -46,3 +46,7 @@ Sie haben inzwischen viele Informationen zu Ihrer Ortsumgehung gesammelt und im 
 
 Tipps: Ob Sie die Übersicht Ihrer Bilder mit einem WebGIS (z.B. [Google MyMaps](https://www.google.de/intl/de/maps/about/mymaps), digital in einem Zeichenprogramm oder komplett analog auf Papier gestalten ist Ihnen freigestellt. Wichtig ist, dass Sie mit dieser Übersicht klar verständlich dokumentieren und kommunizieren können wie ihr Raumausschnitt strukturiert ist. Wenn Sie ein WebGIS nutzen, stellen Sie bitte auch den Link zu Ihrer Karte bereit.
 Umfang: 6 Seiten (Je Flyer 2 Seiten in Ihrer pdf-Datei und eine Seite Beschreibungstext).
+
+
+### Aufgabe 03_02
+In dieser Aufgabe können Sie drei (Zusatz-)Punkte erzielen, wenn Sie die Fragen zu Projektionen richtig beantworten. Für jede richtige Antwort gibt es 0,5 Punkte, für jede falsche -0,5. In der Summe werden Sie in dieser Aufgabe minimal mit null Punkten bewertet. (So könnten wir mehr Inhalt platzieren ohne den zeitlichen Arbeitsaufwand deutlich zu erhöhen). 
