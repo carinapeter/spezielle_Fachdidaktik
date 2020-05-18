@@ -29,7 +29,7 @@ Umfang: 4 Seiten in Ihrer pdf-Datei
 
 
 ### Aufgabe 03-1-L2 Aufbereitung und Analyse der erhobenen Daten
-Sie sollen Ihre erhobenen Daten nun analysieren. Da die Schallausbreitung stark vom Gelände abhängt, sollen Sie auch die dritte Dimension des Raumes einbeziehen und Ihre Messungen in Geländeprofilen verorten. Überprüfen Sie die Postionierung Ihrer Messpunkte in der Datengrundlage des Höhenprofils, um die Vereinbarkeit der jeweiligen Referenzsysteme zu gewährleisten.  
+Sie sollen Ihre erhobenen Daten nun analysieren. Da die Schallausbreitung stark vom Gelände abhängt, sollen Sie auch die dritte Dimension des Raumes einbeziehen und Ihre Messungen in Geländeprofilen verorten. Überprüfen Sie die Postionierung Ihrer Messpunkte in der Datengrundlage des Höhenprofils, um die Vereinbarkeit der jeweiligen Referenzsysteme zu gewährleisten. Wenn auf der Grundlage, in der Sie die Transekte eingezeichnet haben, die Höhe verortet ist, können Sie diese praktischer Weiser als Grundlage für das Geländeprfil nutzen.
 
 **Aufgabenstellung 03-1-L2:** (i) Erstellen Sie jeweils ein Geländeprofil (siehe Tipps) für Ihre Transekte. (ii) Stellen Sie Ihre Lärmwerte tabellarisch und graphisch mit Bezug auf das Geländeprofil dar. (iii) Beschreiben Sie möglichst objektiv und neutral in maximal drei Sätzen, wie sich Ihr Lärmpegel an den unterschiedlichen Punkten zu unterschiedlichen Zeiten darstellt.
 
