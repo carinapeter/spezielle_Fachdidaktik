@@ -48,5 +48,5 @@ Tipps: Ob Sie die Übersicht Ihrer Bilder mit einem WebGIS (z.B. [Google MyMaps]
 Umfang: 6 Seiten (Je Flyer 2 Seiten in Ihrer pdf-Datei und eine Seite Beschreibungstext).
 
 
-### Aufgabe 03_02
+### Aufgabe 03-02
 In dieser Aufgabe können Sie drei (Zusatz-)Punkte erzielen, wenn Sie die Fragen zu Projektionen richtig beantworten. Für jede richtige Antwort gibt es 0,5 Punkte, für jede falsche -0,5. In der Summe werden Sie in dieser Aufgabe minimal mit null Punkten bewertet. (So könnten wir mehr Inhalt platzieren ohne den zeitlichen Arbeitsaufwand deutlich zu erhöhen). 
