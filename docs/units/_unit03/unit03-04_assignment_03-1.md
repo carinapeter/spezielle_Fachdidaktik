@@ -8,7 +8,7 @@ header:
 ---
 
 
-Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
+Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
 
@@ -27,9 +27,9 @@ Tipp: Die Koordinaten können Sie, falls Ihr Smartphone einen GPS-Sensor besitzt
 
 ### Aufgabe 03-1-L2
 
-Nachdem Sie sich einen generellen Eindruck von der Situation gemacht haben, sollen Sie nun belastbare Daten erheben. Sie sollen in dieser Aufgabe eine Lärmmessung durchführen. Da die Schallausbreitung stark vom Gelände abhängt, sollen Sie nun auch die dritte Dimension des Raumes erfassen und Ihre Messungen in einem Geländeprofil verorten. Mit Ihrem Smartphone können Sie leicht eine Lärmerfassung durchführen (siehe Tipps). Erfassen Sie den räumlichen und ggf. zeitlichen Verlauf des Lärms an Ihrer Ortsumgehung. Messen Sie entlang mindestens eines Transekts von Ihrer Ortsumgehung bis zur Ortschaft. Orientieren Sie sich an folgenden Leitfragen: Wie können Sie eine möglichst repräsentative Erfassung durchführen?  Können/wollen Sie zeitliche Unterschiede (Berufsverkehr, nächtlicher Verkehr) berücksichtigen? Können/wollen Sie mit mehreren parallelen Transekten auf räumliche Unterschiede (Messung hinter einer Hecke, neben einer Kreuzung, verschiedene Geländeeigenschaften) eingehen?
+Nachdem Sie sich einen generellen Eindruck von der Situation gemacht haben, sollen Sie nun belastbare Daten erheben. Sie sollen in dieser Aufgabe eine Lärmmessung durchführen. Da die Schallausbreitung stark vom Gelände abhängt, sollen Sie nun auch die dritte Dimension des Raumes erfassen und Ihre Messungen in einem Geländeprofil verorten. Mit Ihrem Smartphone können Sie leicht eine Lärmerfassung durchführen (siehe Tipps). Erfassen Sie den räumlichen und ggf. zeitlichen Verlauf des Lärms an Ihrer Ortsumgehung. Messen Sie entlang mindestens eines Transekts von Ihrer Ortsumgehung bis zur Ortschaft. Orientieren Sie sich an folgenden Leitfragen: Wie können Sie eine möglichst repräsentative Erfassung durchführen?  Erwarten Sie zeitliche Unterschiede (Berufsverkehr, nächtlicher Verkehr)? Können Sie mit mehreren parallelen Transekten auf räumliche Unterschiede (Messung hinter einer Hecke, neben einer Kreuzung, verschiedene Geländeeigenschaften) eingehen?
 
-**Aufgabenstellung 03-1-L2:** (i) Überlegen Sie sich eine Vorgehensweise und messen Sie den Lärmpegel gemäß Ihrer Vorstellungen auf Transekten von Ihrer Ortsumgehung zur Ortschaft. Begründen Sie Ihr Vorgehen (Zeitpunkt (Wochentag und Tageszeit), Messzeitraum, Aggregation, Lage der Transekte, ...) in maximal drei Sätzen pro Transekt. (ii) Erstellen Sie jeweils ein Geländeprofil (siehe Tipps) für Ihre Transekte. (iii) Stellen Sie Ihre Werte tabellarisch oder graphisch mit Bezug auf das Geländeprofil dar. (iv) Beschreiben Sie möglichst objektiv und neutral in maximal drei Sätzen, wie sich Ihr Lärmpegel an den unterschiedlichen Punkten/zu unterschiedlichen Zeiten darstellt.
+**Aufgabenstellung 03-1-L2:** (i) Überlegen Sie sich eine Vorgehensweise und messen Sie den Lärmpegel gemäß Ihrer Vorstellungen auf Transekten von Ihrer Ortsumgehung zur Ortschaft. Begründen Sie Ihr Vorgehen (Zeitpunkt (Wochentag und Tageszeit), Messzeitraum, Aggregation, Lage der Transekte, ...) in maximal drei Sätzen pro Transekt. (ii) Erstellen Sie jeweils ein Geländeprofil (siehe Tipps) für Ihre Transekte. (iii) Stellen Sie Ihre Werte tabellarisch oder graphisch mit Bezug auf das Geländeprofil dar. (iv) Beschreiben Sie möglichst objektiv und neutral in maximal drei Sätzen, wie sich Ihr Lärmpegel an den unterschiedlichen Punkten zu unterschiedlichen Zeiten darstellt.
 
 Tipp: Das Geländeprofil können Sie analog oder digital erstellen. Entweder Sie beziehen die Höheninformationen aus Karten, Google Maps, etc. und zeichnen es selbst (siehe z.B. Diercke Weltatlas(2002) - Einführung in das Kartenlesen) oder Sie nutzen [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro) und diese [Anleitung](https://support.google.com/earth/answer/148134?hl=de) um eines digital zu erstellen.
 
