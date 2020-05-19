@@ -14,11 +14,11 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 
 ## Aufgabe 03-1 Übungen zur Verortung und Messung räumlicher Phänomene
 
-Diesmal werden Sie sich mit der Fragestellung **“Lärmentlastung oder unnötige Kosten - sollen an der Hauptstraße X Lärmschutzwände aufgebaut werden?”** beschäftigen. Sie sollen sich hierbei nicht für eine Seite entscheiden, sondern der Fragestellung zunächst in verschiedenen Schritten wissenschaftlich-objektiv nachgehen, exakt verortete Messungen durchführen und die Situation dokumentieren. Anschließend nehmen Sie beide Standpunkte einer solchen Diskussion ein und nutzen die erhobenen Rohdaten, um jeweils einen unterstützenden Flyer zu erstellen.
+Diesmal werden Sie sich mit der Fragestellung **“Lärmentlastung oder unnötige Kosten - sollen an der Hauptverkehrsstraße X Lärmschutzwände aufgebaut werden?”** beschäftigen. Sie sollen sich hierbei nicht für eine Seite entscheiden, sondern der Fragestellung zunächst in verschiedenen Schritten wissenschaftlich-objektiv nachgehen, exakt verortete Messungen durchführen und die Situation dokumentieren. Anschließend nehmen Sie beide Standpunkte einer solchen Diskussion ein und nutzen die erhobenen Rohdaten, um jeweils einen unterstützenden Flyer zu erstellen.
 
 ### Aufgabe 03-1-L1 Erhebung von Daten im Raum
 
-Suchen Sie eine Hauptstraße ohne Lärmschutzwände in Ihrer Nähe. Sie sollen den Verlauf des Lärmpegels entlang zweier [Transekte](https://de.wikipedia.org/wiki/Transekt) messen. Bereiten Sie Ihre Feldarbeit vor indem Sie auf einer Karte eine geeigneten Stellen auswählen und orthogonal zur Straße auf beiden Straßenseiten Messpunkte mit je 25 m Abstand auf 300 m langen Transekten einzeichnen. Versuchen Sie eine möglichst repräsentative Erfassung durchzuführen und bedenken Sie dafür zeitliche Variabilitäten (Berufsverkehr, Wochenendverkehr, ...).
+Suchen Sie eine Hauptverkehrsstraße ohne Lärmschutzwände in Ihrer Nähe. Sie sollen den Verlauf des Lärmpegels entlang zweier [Transekte](https://de.wikipedia.org/wiki/Transekt) messen. Bereiten Sie Ihre Feldarbeit vor indem Sie auf einer Karte geeigneten Stellen auswählen und orthogonal zur Straße auf beiden Straßenseiten Messpunkte mit je 25 m Abstand auf 300 m langen Transekten einzeichnen. Versuchen Sie eine möglichst repräsentative Erfassung durchzuführen und bedenken Sie dafür zeitliche Variabilitäten (Berufsverkehr, Wochenendverkehr, ...).
 Dokumentieren Sie die Situation vor Ort dann mit aussagekräftigen Fotos, die die Charakteristika des Raumes adäquat erfassen und führen Sie Ihre Lärmpegelmessung durch.
 
 **Aufgabenstellung 03-1-L1:** (i) Erstellen Sie eine Übersicht mit je 3 Fotos pro Transekt, geben Sie die Koordinaten und je drei Schlagworte an. (ii) Messen Sie den Lärmpegel auf den Transekten und dokumentieren Sie Ihre Messergebnisse mit jeweiligen Koordinaten in einer Tabelle. (iii) Begründen Sie Ihr Vorgehen (Zeitpunkt (Wochentag und Tageszeit), Messzeitraum, Aggregation, Lage der Transekte, ...) in drei Sätzen pro Transekt.
@@ -29,7 +29,7 @@ Umfang: 4 Seiten in Ihrer pdf-Datei
 
 
 ### Aufgabe 03-1-L2 Aufbereitung und Analyse der erhobenen Daten
-Sie sollen Ihre erhobenen Daten nun analysieren. Da die Schallausbreitung stark vom Gelände abhängt, sollen Sie auch die dritte Dimension des Raumes einbeziehen und Ihre Messungen in Geländeprofilen verorten. <!---Überprüfen Sie die Positionierung Ihrer Messpunkte in der Datengrundlage des Höhenprofils, um die Vereinbarkeit der jeweiligen Referenzsysteme zu gewährleisten. Wenn auf der Karte, in der Sie die Transekte eingezeichnet haben, die Höhe verortet ist, können Sie diese praktischer Weise als Grundlage für das Geländeprofil nutzen. --->
+Sie sollen Ihre erhobenen Daten nun analysieren. Da die Schallausbreitung stark vom Gelände abhängt, sollen Sie auch die dritte Dimension des Raumes einbeziehen und Ihre Messungen in Geländeprofilen verorten. <!---Überprüfen Sie die Positionierung Ihrer Messpunkte in der Datengrundlage des Höhenprofils, um die Vereinbarkeit der jeweiligen Referenzsysteme zu gewährleisten. --> Wenn auf der Karte, in der Sie die Transekte eingezeichnet haben, die Höhe verortet ist, können Sie diese praktischer Weise als Grundlage für das Geländeprofil nutzen.
 
 **Aufgabenstellung 03-1-L2:** (i) Erstellen Sie jeweils ein Geländeprofil (siehe Tipps) für Ihre Transekte. (ii) Verorten Sie die Lärmmessungen in Ihrem Geländeprofil. (iii) Beschreiben Sie möglichst objektiv und neutral in maximal drei Sätzen, wie sich Ihr Lärmpegel an den unterschiedlichen Punkten darstellt.
 
