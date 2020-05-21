@@ -1,5 +1,5 @@
 ---
-title: Übersicht
+title: Überblick
 header:
   image: /assets/images/02-splash.jpg
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
@@ -10,20 +10,23 @@ header:
 
 <!--more-->
 
+Die Erde ist keine Kugel. Sie ist an den Polen um ca. 21 km abgeplattet und hat ein komplexes Relief, dass vom Mariannengraben bis zum Mt. Everest einen Höhenunterschied von etwa 20 km aufweist. Wenn wir Lage und Geometrie von Raummodellen mathematisch in zweidimensionalen Medien abbilden wollen, stehen wir vor der Frage: Wie kommt das Runde in das Eckige?
+
 ## Was bisher geschah
 
-In der letzten Lerneinheit haben wir uns mit der Abstraktion von Räumen beschäftigt. Sie haben sowohl fremde Raummodelle beschrieben als auch selbst eines erstellt und skizziert. Wir haben bislang ständig und ohne besondere Vorüberlegungen mit dem Begriff Raum gearbeitet. Doch wie können wir Raum definieren?
+In der vorangegangenen Lerneinheit haben wir uns mit der Modellierung von Räumen beschäftigt. Sie haben sowohl fremde Raummodelle beschrieben und analysiert als auch selbst einen Raum eingegrenzt, seine Eigenschaften abstrahiert und Ihr Raummodell durch eine Skizze dokumentiert. Dabei spielte aber weder die absolute Verortung der Raummodelle auf der Erde, noch deren korrekte Geometrie, also deren maßstabsgetreue Abbildung eine konkrete Rolle.
+
 
 ## Was wir in dieser Einheit vor haben
 
-Um Raumkonzepte (diskrete Geoobjekte, kontinuierliche Räume) in Karten und geographischen Informations-Systemen und letztlich auch insgesamt wissenschaftlich nutzbar zu machen, müssen wir jetzt den Begriff Raum etwas konkreter fassen. Dazu müssen wir Objekte verorten, ihre Dimensionen bemessen und ihre Lage zueinander beschreiben können. Erst damit haben wir die Möglichkeit auch ihre Eigenschaften (z.B. Wassertiefe von Flüssen, Lufttemperatur einer Messstation, Fläche eines Waldbrands, Höhe über normal Null eines Gipfels) zuzuordnen, zu analysieren und zu nutzen um räumliche Informationen zu generieren. Dazu werden wir uns in dieser Lerneinheit mit der mathematischen Repräsentation von Raum zu befassen. Sie lernen verschiedene Koordinatensysteme und Datentypen kennen um Geoobjekte und Ihre Eigenschaften zu verorten, erfassen und selbst einzumessen.
+Die aktuelle Lerneinheit setzt in der kartographischen  Beschreibung von Räumen an. Wir tauchen in die mathematische Abbildung der Erde ein und verorten Objekte in Koordinatensystemen. Damit eröffnen wir uns die Möglichkeit, Lageeigenschaften von Objekten wie die Höhe eines Gipfels und Lagebeziehungen zwischen Objekten wie den Abstand zwischen zwei Flughäfen ziemlich exakt beschreiben zu können. Gleiches gilt für die Verortung von Eigenschaften, die mit Objekten verbunden sind, wie z.B. die an einer Klimastation gemessene Lufttemperatur. Sie lernen Geokoordinatensysteme und Geodatentypen kennen, erfassen und verorten selbst Objekte und deren Eigenschaften im Raum und kommunizieren diese in einer Karte.
+
 
 ## Lernziele
 
 Am Ende dieser Lerneinheit können Sie
 
-* Geoobjekte im Raum verorten
-* eine adäquate null-, ein-, oder zwei-dimensionale Repräsentation für Geoobjekten auf Karten auswählen
-* Messungen durchführen und räumlich erfassen
-* die Subjektivität in der Darstellung objektiv gemessener Daten erkennen
-* Sie lernen namentliche, lineare und räumliche Referenzierungsmethoden unterscheiden
+* namentliche, lineare und räumliche Referenzierungsmethoden unterscheiden,
+* Geoobjekte und Messungen im Raum verorten,
+* eine adäquate null-, ein-, oder zwei-dimensionale Repräsentation für Geoobjekten auf Karten auswählen und
+* die Subjektivität in der Darstellung objektiv gemessener Daten erkennen.
