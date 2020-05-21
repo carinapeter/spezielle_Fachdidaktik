@@ -25,10 +25,13 @@ panel3:
     alt: "Durch Winkel abgebildete, geographische Koordinaten auf einer Kugel."
 ---
 
-## Positionsbestimmung und Datenerfassung im Raum
+## Vermessung von Räumen und erstellen von Geodaten
 
 ## Verortung im Raum
-Für eine präzise Kommunikation und Analyse von räumlichen Phänomenen ist es notwendig, die Beschreibung von Objekten im Raum mit einer Konvention zur räumlichen Verortung zu verknüpfen. Wir müssen Objekte und deren Merkmale an geographisch identifizierbare und kartographisch abbildbare Positionen binden. Diesen Vorgang nennt man Georeferenzieren, Geolozieren, Verorten oder Geotaggen. Eine Georeferenzierung muss nicht mathematisch sein. Vielmehr ist sie Teil des räumlichen Modellierungsprozesses und die Auswahl der Konvention zur räumlichen Verortung wird deshalb von der individuellen Fragestellung bestimmt. Im Folgenden lernen wir verschiedene Konventionen zur räumlichen Verortung kennen.
+Für die Analyse und Darstellung von räumlichen Phänomenen müssen die Beschreibungen von Objekten im Raum mit einer Konvention zur räumlichen Verortung verknüpft werden. Wir müssen Objekte geographisch vermessen und kartographisch abbilden. Diesen Vorgang nennt man Georeferenzieren, Geolozieren, Verorten oder Geotaggen. Eine Georeferenzierung muss nicht mathematisch sein. Vielmehr ist sie Teil des räumlichen Modellierungsprozesses und die Auswahl der Konvention zur räumlichen Verortung wird deshalb von der individuellen Fragestellung bestimmt. Im Folgenden lernen wir verschiedene Konventionen zur räumlichen Verortung kennen.
+
+{% include video id="mELVmkhvG9Y" provider="youtube" %}
+*Dummy Video*
 
 ### Räumliche Verortung durch Namen und Adressen
 
@@ -50,7 +53,7 @@ Die Konvention funktioniert, weil die Kilometerangabe eindeutig ist. Nullpunkt i
 {: .notice--info}
 
 
-## Geometrisch exakte maßstäbliche Raumabbildung
+### Geometrisch exakte maßstäbliche Raumabbildung
 
 Die geometrisch exakte und maßtsäbliche Raumabbildung ist eine zweidimensionale Erweiterung der linearen Referenzierung. Grundlage ist die von Carl Friedrich Gauß (1777 - 1855) entwickelte Vermessungsmethode, die eine Abbildung von Objekten relativ und in beliebiger Lage zueinander ermöglicht. Ein Beispiel für diese Form der Raumbeschreibung sind die Flurkarten, die als Teil der Kataster die Flurstücken und deren Eigentumsverhältnissen definieren.
 
@@ -62,7 +65,7 @@ Während bei modernen Flurkarten und digitalen Katastern natürlich ein geograph
 {: .notice--info}
 
 
-## Geographische Raumabbildung
+### Geographische Raumabbildung
 
 Sollen Objekte in Raumabbildungen nicht nur relativ exakt zueinander, sondern auch absolut auf der Erde verortet werden, müssen die Objekte in einem mit der Erde verbundenen Koordinatensystem verortet werden. Wenn wir für die Erde in erster Näherung eine Kugelgestalt annehmen, dann können beliebige Punkte an ihrer Oberfläche durch zwei Winkel bestimmt werden: Der Zenit beschreibt die geographische Breite, der Azimuth die geographische Länge. Eine geographische Breite von 0° beschreibt Orte entlang des Äquators. Nördliche Breiten werden durch positive Gradangaben oder durch die Bezeichnung "Nord", südliche Breiten durch negative Gradangabne oder die Bezeichnung "Süd" beschrieben. Eine geographische Länge von 0° beschreibt Orte entlang des Längenkreises, der durch die Londoner Sternwarte Greenwich verläuft. Diesen Längengrad bezeichnet man als Hauptmeridian. Östliche Breiten werden durch positive Gradangaben oder die Bezeichnung "Ost", westliche Breiten durch negative Gradangaben oder die Bezeichnung "West" beschrieben.
 
@@ -77,7 +80,7 @@ Für die geographische Raumabbildung *geodätisches Bezugssystem* notwendig. Es 
 {: .notice--info}
 
 
-## Geodätische Raumabbildung
+### Geodätische Raumabbildung
 
 Mit Hilfe von geographischen Raumabbildungen können Objekte absolut auf der Erde verortet werden. Die Abbildung von Räumen basiert aber häufig auf zweidimensionalen Medien - sowohl in der Aufnahme durch z.B. Luft- oder Satellitenbilder, als auch in der Darstellung z.B. in gedruckten oder digitalen Karten. Die dreidimensionale geographische Raumabbildung muss also in eine zweidimensionale, verebnete Projektionen der Erdoberfläche überführt werden. Dieser Vorgang wird häufig kartographische oder geodtätische Projektion bzw. Abbildung genannt. Die mathematische Transformationsvorschrift wird als Kartennetzentwurf oder (Karten-)Projektsionssystem bezeichnet. Für eine Kartenprojektion benötigt man analog zur geographischen Raumabbildung geodätisches Bezugssystem zur Abbildung der Erde und zusätzlich eine Transformationsvorschrift, die die geographischen Koordinaten (Länge und Breite) in ein kartesisches Koordinatensystem (Rechtswert und Hochwert) überführt. Zusammen ergibt sich so aus geodätischem Bezugssystem (Geodätisches Datum und Referenzrahmen) und Projektionssystem das eindeutige *Koordinatenreferenzsystems*.
 
@@ -85,6 +88,9 @@ Mit Hilfe von geographischen Raumabbildungen können Objekte absolut auf der Erd
 {: .notice--info}
 
 Geodätische und kartographische Abbildung wird oft synonym verwendet. Die kartographsiche Abbildung beschreibt strenggenommen aber nur solche Projektionen, die unmittelbar geometrisch für die ganze Erde oder zumindest die Erdhalbkugel konstruiert werden können. Damit ist sie nur für kleinmaßstäbige Abbildungen geeignet. Geodätische Abbildungen bezeichnen demgegenüber die weitgehend verzerrungsfreien, großmaßstäbigen Darstellungen, die getrennt für schmalen Streifen auf der Erde berechnet werden.
+
+
+
 
 
 <!--tnauss: Überarbeitet bis hierher-->
