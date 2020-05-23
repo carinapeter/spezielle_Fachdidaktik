@@ -1,16 +1,11 @@
 ---
-title: A03 - Verortung und Messung räumlicher Phänomene
+title: A03 - Analyse von Geodaten
 toc: true
 header:
   image: /assets/images/02-splash.jpg
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
 ---
-
-
-Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
-{: .notice--danger}
-
 
 ## Aufgabe 03-1 Übungen zur Verortung und Messung räumlicher Phänomene
 
@@ -49,3 +44,6 @@ Umfang: 6 Seiten (Je Flyer 2 Seiten in Ihrer pdf-Datei und eine Seite Beschreibu
 
 ## Aufgabe 03-02 Projektionen
 In dieser Aufgabe können Sie drei (Zusatz-)Punkte erzielen, wenn Sie die Fragen zu Projektionen richtig beantworten. Für jede richtige Antwort gibt es 0,5 Punkte, für jede falsche -0,5. In der Summe werden Sie in dieser Aufgabe minimal mit null Punkten bewertet. (So könnten wir mehr Inhalt platzieren ohne den zeitlichen Arbeitsaufwand deutlich zu erhöhen).
+
+**Wichtig**: Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
+{: .notice--danger}
