@@ -21,6 +21,8 @@ In der vorangegangenen Lerneinheit haben wir uns mit der Modellierung von Räume
 
 Die aktuelle Lerneinheit setzt in der kartographischen  Beschreibung von Räumen an. Wir tauchen in die mathematische Abbildung der Erde ein und verorten Objekte in Koordinatensystemen. Damit eröffnen wir uns die Möglichkeit, Lageeigenschaften von Objekten wie die Höhe eines Gipfels und Lagebeziehungen zwischen Objekten wie den Abstand zwischen zwei Flughäfen ziemlich exakt beschreiben zu können. Gleiches gilt für die Verortung von Eigenschaften, die mit Objekten verbunden sind, wie z.B. die an einer Klimastation gemessene Lufttemperatur. Sie lernen Geokoordinatensysteme und Geodatentypen kennen, erfassen und verorten selbst Objekte und deren Eigenschaften im Raum und kommunizieren diese in einer Karte.
 
+{% include video id="mELVmkhvG9Y" provider="youtube" %}
+*Dummy Video zur Einheit Kartographische Modellierung*
 
 ## Lernziele
 
