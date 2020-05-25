@@ -51,7 +51,7 @@ panel4:
 ---
 
 
-Bitte beachten Sie die konkreten und bindenden Abgabeformate, die in Ihrer Lernplattform angegeben sind.
+Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
 
