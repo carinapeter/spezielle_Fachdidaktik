@@ -28,7 +28,7 @@ Die Anwohner einer Hauptverkehrsstraße beschweren sich über die Lärmbelastung
 
 ### Aufgabe 03-L1: Erhebung von Geodaten
 
-In der Aufgabe planen Sie selbst eine Messkampagne und erfassen Geodaten. Suchen Sie sich eine Hauptverkehrsstraße ohne Lärmschutzwände in Ihrer Nähe. Ihre Aufgabe ist es, die Ausbreitung des Straßenlärms stichprobenartig  entlang eines senkrecht zur Straße verlaufenden, ca. 600 m langen Transekts zu messen. Die Straße soll etwa auf in der Mitte der Transektstrecke, so dass links und rechts jeweils ca. 300 m Transektstrecke liegen. Zur Vorbereitung Ihrer Messkampagne wählen Sie auf einer Karte einen geeigneten Transektverlauf aus und legen orthogonal zur Straße auf beiden Straßenseiten 12 Messpunkte im Abstand von ca. 25 m fest. Planen Sie mit Blick auf eine möglichst repräsentative Erfassung den Zeitraum Ihrer Messkampagne, führen Sie die Messung durch und bereiten Sie die Messung als Geodatensatz auf. Zur Dokumentation Ihrer Messung nutzten Sie aussagekräftige, geokodierte Fotos der Situation vor Ort, die die Charakteristika des Raumes adäquat erfassen.
+In der Aufgabe planen Sie selbst eine Messkampagne und erfassen Geodaten. Suchen Sie sich eine Hauptverkehrsstraße ohne Lärmschutzwände in Ihrer Nähe. Ihre Aufgabe ist es, die Ausbreitung des Straßenlärms stichprobenartig  entlang eines senkrecht zur Straße verlaufenden, ca. 600 m langen Transekts zu messen. Die Straße soll etwa in der Mitte verlaufen, so dass links und rechts jeweils ca. 300 m Transektstrecke liegen. Zur Vorbereitung Ihrer Messkampagne wählen Sie auf einer Karte einen geeigneten Transektverlauf aus und legen orthogonal zur Straße auf beiden Straßenseiten 12 Messpunkte im Abstand von ca. 25 m fest. Planen Sie mit Blick auf eine möglichst repräsentative Erfassung den Zeitraum Ihrer Messkampagne, führen Sie die Messung durch und bereiten Sie die Messung als Geodatensatz auf. Zur Dokumentation Ihrer Messung nutzten Sie aussagekräftige, geokodierte Fotos der Situation vor Ort, die die Charakteristika des Raumes adäquat erfassen.
 
 {% capture A03-L1 %}
 Erstellen Sie eine Kurzdokumentation Ihrer Messkampagne.
@@ -51,7 +51,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (1 Seite für Begründung und tabellarischen
 
 ### Aufgabe 03-L2: Aufbereitung von Geodaten und Beschreibung der Ergebnisse
 
-In der Aufgabe beschreiben Sie Ihren erhobenen Schallmessungen. Da die Schallausbreitung u.a. von der Topographie abhängt, erstellen Sie hierfür ein maßstabsgetreues Geländeprofil entlang Ihres Meßtranseks. Dieses nutzten Sie zur Angabe Ihrer quantitativen Messungen, die sie anschließend bzgl. ihrer zweidimensionalen Position zur Straße (Abstand in der Horizontalen, Abstand in der Vertikalen) analysieren.
+In der Aufgabe beschreiben Sie Ihren erhobenen Schallmessungen. Da die Schallausbreitung u.a. von der Topographie abhängt, erstellen Sie hierfür ein maßstabsgetreues Geländeprofil entlang Ihres Messtranseks. Dieses nutzten Sie zur Angabe Ihrer quantitativen Messungen, die sie anschließend bzgl. ihrer zweidimensionalen Position zur Straße (Abstand in der Horizontalen, Abstand in der Vertikalen) analysieren.
 
 {% capture A03-L2 %}
 Analysieren Sie die Ausbreitung des Straßenlärms mit Hilfe eines Geländeprofils.
@@ -77,7 +77,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei (Sie können die Seite auch im Querformat nut
 In der Aufgabe diskutieren Sie Ihre Schallmessungen und nehmen dafür zwei vorgegebene Perspektiven ein. Die erste Perspektive rechtfertigt den Status Quo, soll also den Straßenlärm als wenig entscheidenden Raumfaktor einordnen. Die zweite Perspektive rechtfertigt den Bau einer Schallschutzwand, weil der Straßenlärm den umliegenden Raum stark beeinflusst. Diese Übung soll Ihnen helfen, die Subjektivität einer Kartendarstellung besser fassen zu können.
 
 {% capture A03-L3 %}
-Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der Perspektive einer (i) geringen und einer (ii) starken Raumbeeinflussung in einer selbst erstellten Karte dar. Diskutieren Sie die Bedeutung des Straßenlärms unter der jeweiligen Perspektive, in dem Sie die Karten mit einer aussagekräftigen Bildunterschrift vergleichbar zu den ausführlichen Bildunterschriften in *Nature* mit maximal 250 Wörtern versehen.
+Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der Perspektive einer (i) geringen und einer (ii) starken Raumbeeinflussung in einer selbst erstellten Karte dar. Diskutieren Sie die Bedeutung des Straßenlärms unter der jeweiligen Perspektive, in dem Sie die Karten mit einer aussagekräftigen Bildunterschrift vergleichbar zu den ausführlichen Bildunterschriften in der wissenschaftlichen Fachzeitschrift *Nature* mit maximal 250 Wörtern versehen.
 
 1. Erstellen Sie eine Karte für die Perspektive der geringen Raumbeeinflussung und diskutieren Sie entsprechend die Bedeutung des Straßenlärms in der Bildunterschrift.
 1. Erstellen Sie eine Karte für die Perspektive der starken Raumbeeinflussung und diskutieren Sie entsprechend die Bedeutung des Straßenlärms in der Bildunterschrift.
@@ -86,7 +86,7 @@ Umfang: 2 Seite in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nu
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 03-L2:</h4>
+  <h4 class="no_toc">Aufgabenstellung 03-L3:</h4>
   {{ A03-L3 | markdownify }}
 </div>
 

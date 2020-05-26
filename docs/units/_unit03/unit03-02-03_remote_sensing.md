@@ -18,7 +18,7 @@ Die Fernerkundung, also die kontaktfreie Erfassung von Objekteigenschaften, ist 
 
 ## Topographische Kartenprojektion
 
-Im Beispiel der Fernerkundung als eine Form der Geodatenerfassung wurde deutlich, dass eine verlustfreie, flächendeckende Datenaufnahme nicht möglich ist. Informationsverlusten treten aber nicht nur bei der Datenaufnahme, sondern auch bei der Übertragung der Daten in eine menschenlesbare Darstellung, z.B. in Form einer Karte auf. Hier kommt wieder der subjektive Aspekt der Modellierung zum tragen, den wir am Beispiel von topographischen Karten illustrieren.
+Im Beispiel der Fernerkundung als eine Form der Geodatenerfassung wurde deutlich, dass eine verlustfreie, flächendeckende Datenaufnahme nicht möglich ist. Informationsverluste treten aber nicht nur bei der Datenaufnahme, sondern auch bei der Übertragung der Daten in eine menschenlesbare Darstellung, z.B. in Form einer Karte auf. Hier kommt wieder der subjektive Aspekt der Modellierung zum tragen, den wir am Beispiel von topographischen Karten illustrieren.
 
 {% include video id="mELVmkhvG9Y" provider="youtube" %}
 *Dummy Video zu Topographische Karten*

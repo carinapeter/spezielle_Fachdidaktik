@@ -25,9 +25,9 @@ panel3:
     alt: "Durch Winkel abgebildete, geographische Koordinaten auf einer Kugel."
 ---
 
-Sind Objekte im Raum eingemessen, können sie zusammen mit Ihren Merkmalsausprägungen als geographische Daten gespeichert werden. Der Begriff Objekt ist sehr weit gefasst. Es kann sich um einen individuellen Baum oder ein individuelles Haus handeln, die z.B. von Hand eingemessen sind, oder aber um ganze Landschaften handeln, die z.B. durch Satellitenmessungen erfasst wurden. Gleiches gilt für Merkmalsausprägungen. Es  können sowohl unmittelbare Eigenschaften der Objekte sein, z.B. die Baumart oder die Wandfarbe von des Hauses, oder durch sie erfasste Eigenschaften, wie z.B. die Lufttemperatur, die durch das Objekt "Klimastation" gemessen wird oder die Reflexion der Landoberfläche, die durch den Satellitensensor erfasst wird.
+Sind Objekte im Raum eingemessen, können sie zusammen mit Ihren Merkmalsausprägungen als geographische Daten gespeichert werden. Der Begriff Objekt ist sehr weit gefasst. Es kann sich um einen individuellen Baum oder ein individuelles Haus handeln, die z.B. von Hand eingemessen sind, oder aber um ganze Landschaften, die z.B. durch Satellitenmessungen erfasst wurden. Gleiches gilt für Merkmalsausprägungen. Es können sowohl unmittelbare Eigenschaften der Objekte sein, z.B. die Baumart oder die Wandfarbe des Hauses, oder durch sie erfasste Eigenschaften, wie z.B. die Lufttemperatur, die durch das Objekt "Klimastation" gemessen wird oder die Reflexion der Landoberfläche, die durch den Satellitensensor erfasst wird.
 
-## Geodaten Daten
+## Geodaten
 
 Geographische Daten oder Geodaten repräsentieren Informationen durch räumlich fixierte, maschinenlesbare Konstrukte aus Zeichen, Bildern oder Funktionen. Die zentrale Fragestellung lautet: Was ist spezifisch geographisch an einer bestimmten Information? Ein Beispiel:
 
@@ -58,7 +58,7 @@ Geoobjekte können real existierende, diskrete Objekte (z.B. Baum, Haus, Fluss) 
 In einem kartesischen Koordinatensystem können aus den Grundelementen Punkt, Richtung und Strecke beliebig komplexe räumliche Strukturen zur Modellierung von Geoobjekten aufgebaut werden:
 * Punkt: Ein Punkt wird durch die Angabe seiner Koordinaten definiert. Die Punktvektoren werden als Knoten bezeichnet.
 * Linie: Eine Linie wird durch zwei Knoten im Koordinatensystem referenziert, die durch eine Linie verbunden werden. Die Linienverbindungen werden als Kante bezeichnet.
-* Polygon: Ein Polygon beschreibt eine durch mindestens drei Knoten und zwei Kanten definierte Fläche. Polygone werden als Maschen bezeichnet. Wichtig ist, dass im digitalen Datensatz die Schließung der Fläche explizit definiert ist. Sonst ist z.B. ein augenscheinlich geschlossenen Dreieck nur für den menschlichen Betrachter, nicht aber für den Computer geschlossen.
+* Polygon: Ein Polygon beschreibt eine durch mindestens drei Knoten und zwei Kanten definierte Fläche. Polygone werden als Maschen bezeichnet. Wichtig ist, dass im digitalen Datensatz die Schließung der Fläche explizit definiert ist. Sonst ist z.B. ein augenscheinlich geschlossenes Dreieck nur für den menschlichen Betrachter, nicht aber für den Computer geschlossen.
 
 Merkmalsausprägung werden in Attributtabellen gespeichert, die mit den geometrischen Informationen der Vektoren verbunden sind. Über die Attributtabelle können beliebig viele Merkmale mit einem Vektor verknüpft werden.
 
