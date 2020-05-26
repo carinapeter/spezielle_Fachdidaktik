@@ -74,8 +74,8 @@ Die Erde ist keine Kugel. Sie kann durch einen Geoid beschrieben werden, das dur
 **Info**: Da es viele Referenzellipsoide und Referenzrahmen gibt muss das jeweils verwendete, geodätische Bezugssystem zwingend bekannt sein. Die gleichen Koordinaten beschreiben bei falscher geodätischer Zuordnung sonst Orte, die um mehrere Zehnerkilometer auseinander liegen können.
 {: .notice--info}
 
-{% include video id="mELVmkhvG9Y" provider="youtube" %}
-*Dummy Video zu Geographische Raumabbildung*
+{% include video id="ZPSSlinFmMA" provider="youtube" %}
+
 
 ## Geodätische Raumabbildung
 
@@ -86,5 +86,4 @@ Mit Hilfe von geographischen Raumabbildungen können Objekte absolut auf der Erd
 
 Geodätische und kartographische Abbildung wird oft synonym verwendet. Die kartographsiche Abbildung beschreibt strenggenommen aber nur solche Projektionen, die unmittelbar geometrisch für die ganze Erde oder zumindest die Erdhalbkugel konstruiert werden können. Damit ist sie nur für kleinmaßstäbige Abbildungen geeignet. Geodätische Abbildungen bezeichnen demgegenüber die weitgehend verzerrungsfreien, großmaßstäbigen Darstellungen, die getrennt für schmalen Streifen auf der Erde berechnet werden.
 
-{% include video id="mELVmkhvG9Y" provider="youtube" %}
-*Dummy Video zu Geodätische Raumabbildung*
+{% include video id="RS8SJGUcQyU" provider="youtube" %}
