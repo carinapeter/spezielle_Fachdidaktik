@@ -3,8 +3,14 @@
 # Author: Alice Ziegler, David Langenohl
 # Date: 2020-05-25
 
+# install needed packages if not installed yet; load packages
+packages_to_install <- c("pdftools")
+new_packages <- packages_to_install[!(packages_to_install %in% installed.packages()[,"Package"])]
+if(length(new_packages)) install.packages(new_packages)
+
 library(pdftools)
 
+# define function
 split_pdfs <- function(inpath, unit, split_rule, testing_for_names = F){
   problems <- data.frame(student = c(), problem_with_file_format = c(), problem_with_pages = c(), name_not_on_each_page = c())
 
@@ -63,7 +69,15 @@ split_pdfs <- function(inpath, unit, split_rule, testing_for_names = F){
     
     #testing for name on every slide if testing_for_names is set to True
     if(testing_for_names==T && substr(file_nm, nchar(file_nm)-3,nchar(file_nm))==".pdf" && pages==sum(split_rule$no_of_pages)){
-      extracted_text <- as.vector(pdf_ocr_text(file.path(inpath, j, file_nm)))
+      
+      students_pdf <- as.list(file.path(inpath, j, file_nm))
+      
+      extracted_text <- lapply(students_pdf, function(x){
+        pngfile <- pdftools::pdf_convert(x, dpi = 72)
+        text <- tesseract::ocr(pngfile, engine = tesseract(language = "deu"))
+        file.remove(pngfile)
+        return(text)})
+      extracted_text <- unlist(extracted_text)
       
       for(u in seq(length(extracted_text))){
         if(grepl(j_elements[[1]][length(j_elements[[1]])], extracted_text[u]) == F){

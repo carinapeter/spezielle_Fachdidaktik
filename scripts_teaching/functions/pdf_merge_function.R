@@ -3,6 +3,11 @@
 # Author: Alice Ziegler, David Langenohl
 # Date: 2020-05-25
 
+# install needed packages if not installed yet; load packages
+packages_to_install <- c("pdftools")
+new_packages <- packages_to_install[!(packages_to_install %in% installed.packages()[,"Package"])]
+if(length(new_packages)) install.packages(new_packages)
+
 library(pdftools)
 
 merge_pdfs <- function(inpath, unit, split_rule){
