@@ -1,147 +1,86 @@
-# Description: split and reassemble hand_ins for Meko by task
+# Description: split hand_ins for Meko by task
 ##main source: https://www.r-bloggers.com/join-split-and-compress-pdf-files-with-pdftools/
-# Author: Alice Ziegler
-# Date: 2020-05-08 12:07:30
-# to do: WARNING: ...(object 10 0): object has offset 0 ??was bedeutet das? stört das?
-# even if not enough pages - should run + at least be put into numbers that are valid
-# stamp with name and Matrikelnummer on pdf. ?possible?
-rm(list=ls())
+# Author: Alice Ziegler, David Langenohl
+# Date: 2020-05-25
 
-#####
-###abgefangene Fehler
-#####
-# different number of pages
-# not a pdf
-########################################################################################
-###Presettings
-########################################################################################
-#####
-###load packages
-#####
 library(pdftools)
-#####
-###set paths
-#####
-setwd(dirname(rstudioapi::getSourceEditorContext()[[2]]))
-inpath <- "../Abgaben/Unit01/Lerneinheit01_22269/"
 
-#####
-###sinnvolle Ordnerstruktur mit diesem Skript (# als Ebenen)
-#####
+split_pdfs <- function(inpath, unit, split_rule, testing_for_names = F){
+  problems <- data.frame(student = c(), problem_with_file_format = c(), problem_with_pages = c(), name_not_on_each_page = c())
 
-#src
-##dieses Script
-
-#Abgaben
-##Unit01
-###Lerneinheit01_22269 (automatischer ILIAS Name - aber entfernte Leerzeichen!)
-####studi1
-#####Abgabe.pdf
-####studi2
-#####Abgabe.pdf
-#...
-###pdf_merged (wird erstellt)
-####finale pdfs je Teilaufgabe
-#...
-###pdf_splits
-####unit1_1L1
-#####einzel pdfs aller studis jeweils nur 1 Teilaufgabe
-####unit01_1L2
-#####einzel pdfs aller studis jeweils nur 1 Teilaufgabe
-
-
-
-#####
-###read files
-#####
-#name of unZipped-folder from ILIAS
-folder_nms <- list.files(inpath, recursive = F)
-
-#####
-###Settings
-#####
-unit <- 1
-
-split_rule <- data.frame(exs = c("1L1", "1L2", "1L3", "2L1", "2L2", "2L3", "3L1", "3L2", "3L3"), 
-                         ex_end = c(1,2,3,4,5,6,7,8,9))
-
-########################################################################################
-###functions
-########################################################################################
-#######################
-###split pdfs into different folders per exercise. each student has one pdf per exercise
-#######################
-
-pdf_folder_by_task <- function(inpath, folder_nms, unit, split_rule){
-  problems <- c()
+  folder_nms <- list.files(inpath, recursive = F)
+  
   for (j in folder_nms){ #loop over students folders
     print(j)
-    file_nm <- list.files(paste0(inpath,j))
-    if((substr(file_nm,nchar(file_nm)-3,nchar(file_nm))) == ".pdf"){ # check if pdf
-    pages <- pdf_info(paste0(inpath, j, "/", file_nm))$pages
-    #Fehler abfangen: 
-    if (pages == max(split_rule$ex_end)){ # check if right number of pages
-    for (i in seq(nrow(split_rule))){
-      print(i)
-        #Ordner für jede Teilaufgabe erstellen
-        ex_nm <- paste0("unit", unit, "_", split_rule$exs[i])
-        subfolder <- paste0(inpath, "../pdf_splits/", ex_nm, "/")
-        
-        #check if folder exists
-        if (file.exists(subfolder)==F){
-          dir.create(file.path(subfolder), recursive = T)
+    file_nm <- list.files(file.path(inpath,j))
+    if(substr(file_nm, nchar(file_nm)-3,nchar(file_nm)) == ".pdf"){ # check if pdf
+      pages <- pdf_info(file.path(inpath, j, file_nm))$pages
+      #Fehler abfangen: 
+      if(pages == sum(split_rule$no_of_pages)){ # check if right number of pages
+        for (i in seq(nrow(split_rule))){
+          #print(i)
+            #Ordner f?r jede Teilaufgabe erstellen
+            ex_nm <- paste0("unit", unit, "_", split_rule$exs[i])
+            subfolder <- paste0(inpath, "_pdf_splits/", ex_nm, "/")
+            
+            #check if folder exists
+            if (file.exists(subfolder)==F){
+              dir.create(file.path(subfolder), recursive = T)
+            }
+            #start und end Seiten festlegen
+            if (i == 1){
+              ex_start <- 1
+            } else{
+              ex_start <- sum(split_rule$no_of_pages[c(1:(i-1))])+1
+            }
+            
+            ex_end <- sum(split_rule$no_of_pages[c(1:(i))])
+            
+            j_elements <- strsplit(j, "_")
+            studi <- paste0(j_elements[[1]][length(j_elements[[1]]) - 3], "_", j_elements[[1]][length(j_elements[[1]])])
+            #studi <- substr(j, nchar(j)-6, nchar(j))
+            
+            #file splitten und in Ordner aufteilen
+            pdf_subset(file.path(inpath, j,"/", file_nm), pages = ex_start:ex_end, 
+                       output = paste0(subfolder, studi, "_", ex_nm, ".pdf"))
         }
-        #start und end Seiten festlegen
-        if (i == 1){
-          ex_start <- 1
-        } else{
-          ex_start <- split_rule$ex_end[i-1]+1
-        }
-        
-        ex_end <- split_rule$ex_end[i]
-        
+      }else{
         j_elements <- strsplit(j, "_")
-        studi <- paste0(j_elements[[1]][length(j_elements[[1]]) - 3], "_", j_elements[[1]][length(j_elements[[1]])])
-        #file splitten und in Ordner aufteilen
-        pdf_subset(paste0(inpath, j,"/", file_nm), pages = ex_start:ex_end, 
-                   output = paste0(subfolder, studi, ex_nm, ".pdf"))
-    }
+        problem_tmp <- data.frame(student = paste0(j_elements[[1]][length(j_elements[[1]]) - 3], "_", j_elements[[1]][length(j_elements[[1]])]),
+                         problem_with_file_format = F,
+                         problem_with_pages = T,
+                         name_not_on_each_page = F)
+        problems <- rbind(problems, problem_tmp)
+      }
     }else{
-      problems <- c(problems, j)
+      j_elements <- strsplit(j, "_")
+      problem_tmp <- data.frame(student = paste0(j_elements[[1]][length(j_elements[[1]]) - 3], "_", j_elements[[1]][length(j_elements[[1]])]),
+                       problem_with_file_format = T,
+                       problem_with_pages = F,
+                       name_not_on_each_page = F)
+      problems <- rbind(problems, problem_tmp)
     }
-    }else{
-      problems <- c(problems, j)
-    }
-  }
-  return(problems)
-}
-
-#######################
-###merge all students of one exercise together
-#######################
-
-
-pdf_merge_by_folder <- function(inpath, unit, split_rule){
-  inpath_folders <- paste0(inpath, "../pdf_splits/")
-  merged_folder <- paste0(inpath, "../pdf_merged/")
-  if (file.exists(merged_folder)==F){
-    dir.create(file.path(merged_folder), recursive = T)
-  }
-  folders <- list.files(path = inpath_folders, recursive = F, include.dirs = T)
-  for (i in folders){
-    print(i)
-    pdf_nms <- list.files(paste0(inpath_folders, i), full.names = T)
     
-    pdf_combine(pdf_nms, output = paste0(merged_folder, i, "_all_merged.pdf")) #"merged.pdf" )#
+    #testing for name on every slide if testing_for_names is set to True
+    if(testing_for_names==T && substr(file_nm, nchar(file_nm)-3,nchar(file_nm))==".pdf" && pages==sum(split_rule$no_of_pages)){
+      extracted_text <- as.vector(pdf_ocr_text(file.path(inpath, j, file_nm)))
+      
+      for(u in seq(length(extracted_text))){
+        if(grepl(j_elements[[1]][length(j_elements[[1]])], extracted_text[u]) == F){
+          name_on_every_page <- F
+        }
+      }
+      
+      if(name_on_every_page == F){
+        problem_tmp <- data.frame(student = paste0(j_elements[[1]][length(j_elements[[1]]) - 3], "_", j_elements[[1]][length(j_elements[[1]])]),
+                                  problem_with_file_format = F,
+                                  problem_with_pages = F,
+                                  name_not_on_each_page = T)
+        problems <- rbind(problems, problem_tmp)
+      }
+    }
+    
   }
   
+  return(problems)
 }
-
-########################################################################################
-###Do it
-########################################################################################
-#split
-split_problems <- pdf_folder_by_task(inpath = inpath, folder_nms = folder_nms, unit = unit, split_rule = split_rule)
-
-#merge
-pdf_merge_by_folder(inpath = inpath, unit = unit, split_rule = split_rule)
