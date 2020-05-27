@@ -7,7 +7,7 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-In Aufgabe 03 trainieren Sie selbst Eigenschaften von echten Räumen zu erfassen und darzustellen. Sie erheben zunächst selbst Geodaten, modellieren Geoobjekte und analysieren die räumlichen Merkmalsausprägungen mit Hilfe eines Geländeprofils. Anschließend stellen Sie Ihre Analyseergebnisse in zwei Varianten dar, die jeweils eine bestimmte Interpretationsperspektive auf die Ergebnisse unterstützten.
+In Aufgabe 03 üben Sie eigenständig Eigenschaften von echten Räumen zu erfassen und darzustellen. Sie erheben Geodaten, modellieren Geoobjekte und analysieren die räumlichen Merkmalsausprägungen auf der Grundlage eines selbst gewählten Geländeprofils. Als Vertiefung stellen Sie Ihre Analyseergebnisse unter zwei unterschiedlichen  Interpretationsperspektiven dar.
 
 
 ## Benötigte Materialien für die Aufgaben
@@ -17,24 +17,25 @@ In Aufgabe 03 trainieren Sie selbst Eigenschaften von echten Räumen zu erfassen
 * App zur Messung und zum Export Ihrer Standortkoordinaten (z.B. Geo Tracker)
 * App zur Messung von Schallpegeln (z.B. Dezibel Messer Pro)
 
-**Hinweis:** Wenn Sie nicht Ihr eigenes Tablet oder Smartphone nutzen möchten, wenden Sie sich bitte an die Kursleitung.
+**Hinweis:** Wenn Sie nicht Ihr eigenes Tablet oder Smartphone nutzen können, wenden Sie sich bitte an die Kursleitung.
 {: .notice}
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen) an die Abgabe von Aufgaben.
 
 ## Problemstellung
-In einem Ort sorgt die Hauptverkehrsstraße (wie z.B. die B3 in Marburg) für Beschwerden der Anwohner der umliegenden Wohnegebiete. Sie sollen die Lärmbelastung erfassen, analysieren und Ihre Untersuchungen dokumentieren.
+In vielen Orten sorgt die Hauptverkehrsstraße (wie z.B. die B3 in Marburg) für Beschwerden der Anwohner der umliegenden Wohngebiete. Doch wie werden diese subjektiven Eindrücke räumlich und zeitlich valide erfasst und analysiert? Um dieser Problematik näher zu kommen sollen Sie Lärmbelastungen erfassen, analysieren und Ihre Untersuchungen dokumentieren und unter definierten Blickwinkeln diskutieren.
 
 ### Aufgabe 03-L1: Erhebung von Geodaten
 
-In der Aufgabe planen Sie selbst eine Messkampagne und erfassen Geodaten. Suchen Sie sich eine Hauptverkehrsstraße ohne Lärmschutzwände in Ihrer Nähe. Ihre Aufgabe ist es, die Ausbreitung des Straßenlärms stichprobenartig  entlang eines senkrecht zur Straße verlaufenden, ca. 600 m langen Transekts zu messen. Die Straße soll etwa in der Mitte verlaufen, so dass links und rechts jeweils ca. 300 m Transektstrecke liegen. Zur Vorbereitung Ihrer Messkampagne wählen Sie auf einer Karte einen geeigneten Transektverlauf aus und legen orthogonal zur Straße auf beiden Straßenseiten 12 Messpunkte im Abstand von ca. 25 m fest. Planen Sie mit Blick auf eine möglichst repräsentative Erfassung den Zeitraum Ihrer Messkampagne, führen Sie die Messung durch und bereiten Sie die Messung als Geodatensatz auf. Zur Dokumentation Ihrer Messung nutzten Sie aussagekräftige, geokodierte Fotos der Situation vor Ort, die die Charakteristika des Raumes adäquat erfassen.
+In der Aufgabe planen Sie selbständig eine einfache Messkampagne. Hierzu müssen Sie auf adäquate Weise Geodaten erfassen. Identifizieren Sie in Ihrer Nähe einen Abschnitt einer Hauptverkehrsstraße ohne Lärmschutzwände. Bestimmen Sie die Ausbreitung des Straßenlärms entlang eines rechtwinklig zur Straße verlaufenden, maximal ca. 50 m langen Transekts durch Messungen des Geräuschpegels. Die Straße soll etwa in der Mitte des Transekts liegen, so dass in beide Richtungen jeweils ca. 250 m Transektstrecke liegen. Zur Vorbereitung Ihrer Messkampagne wählen Sie auf einer Karte einen geeigneten Transektverlauf aus und legen orthogonal zur Straße auf beiden Straßenseiten 10 Messpunkte im Abstand von ca. 25 m fest (also insgesamt 20 Messpunkte). Planen Sie mit Blick auf eine möglichst repräsentative Erfassung den Zeitpunkt Ihrer Messkampagne. Führen Sie die Messungen durch und bereiten Sie die Messung als Geodatensatz auf. Zur Dokumentation Ihrer Messung integrieren Sie aussagekräftige und geokodierte Fotos der Situation vor Ort, die die Charakteristika des Raumes sinnvoll wiedergeben.
 
 {% capture A03-L1 %}
+
 Erstellen Sie eine Kurzdokumentation Ihrer Messkampagne.
 
-1. Begründen Sie in dieser Ihre Planung (z.B. Transektwahl, Messzeitpunkt) mit maximal fünf Sätzen.
-1. Fügen Sie Ihre Schallmessungen als tabellarischen Geodatensatz ein.
-1. Ergänzen Sie Ihre Dokumentation durch eine Handskizze des Raums mit allen Elementen, die für die Fragestellung relevant sind. Fügen Sie auch Fotos mit kurzen Bildunterschriften in Ihre Handskizze ein.
+1. Begründen Sie in dieser Ihre Planung (z.B. Transektwahl, Messperiode, Repräsentativität...) mit maximal fünf Sätzen.
+1. Integrieren Sie Ihre Daten zur Schallmessungen als Tabelle, die zur jeder Messung auch Geokoordinaten enthält.
+1. Fertigen Sie eine Handskizze des Raums mit allen Elementen, die für die Fragestellung relevant sind, an. Fügen Sie auch Fotos mit kurzen Bildunterschriften möglichst korrekt verortet in Ihre Handskizze ein.
 
 Umfang: 3 Seiten in Ihrer PDF-Datei
 {% endcapture %}
@@ -44,20 +45,20 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
   {{ A03-L1 | markdownify }}
 </div>
 
-**Tipp**: Fotos, die Sie mit dem Smartphone machen, können bereits bei der Aufnahme geokodiert werden. Recherchieren Sie die hierzu notwendigen Einstellungen. Zur Verortung Ihrer Messpunkte und zur Schallmessungen finden Sie diverse Apps im für Ihr Betriebssystem relevanten App-Store.
+**Tipp**: Fotos, die Sie mit dem Smartphone machen, können in der Regel bereits während der Aufnahme geokodiert werden. Recherchieren Sie die hierzu notwendigen Einstellungen ihres Geräts. Sowohl zur Verortung Ihrer Messpunkte als auch zur Schallmessung finden Sie diverse Apps im App-Store Ihres Betriebssystems.
 {: .notice--info}
 
 
 ### Aufgabe 03-L2: Aufbereitung von Geodaten und Beschreibung der Ergebnisse
 
-In der Aufgabe beschreiben Sie Ihren erhobenen Schallmessungen. Da die Schallausbreitung u.a. von der Topographie abhängt, erstellen Sie hierfür ein maßstabsgetreues Geländeprofil entlang Ihres Messtranseks. Dieses nutzten Sie zur Angabe Ihrer quantitativen Messungen, die sie anschließend bzgl. ihrer zweidimensionalen Position zur Straße (Abstand in der Horizontalen, Abstand in der Vertikalen) analysieren.
+In der Aufgabe beschreiben Sie Ihre Daten zur Schallmessung. Da die Schallausbreitung stark von der Topographie abhängt, erstellen Sie für die Analyse der Daten im Verhältnis zur Oberflächenform ein maßstabsgetreues Geländeprofil entlang Ihres Messtransekt. 
 
 {% capture A03-L2 %}
-Analysieren Sie die Ausbreitung des Straßenlärms mit Hilfe eines Geländeprofils.
+Analysieren Sie die Ausbreitung des Straßenlärms mit Bezug auf das Geländeprofil Ihres Transekts.
 
-1. Erstellen Sie ein maßstabsgetreues Geländeprofil (analog oder digital) entlang Ihres Transekts, das Höhendifferenzen ausreichend genau, jedoch mindestens mit einer Auflösung von 10 Höhenmetern angibt.
-1. Verorten Sie Ihre Schallmessungen im Geländeprofil und geben Sie die Messergebnisse an.
-1. Beschreiben Sie objektiv und neutral in maximal drei Sätzen, wie sich der Schallpegel im Raum darstellt.
+1. Erstellen Sie ein maßstabsgetreues Geländeprofil entlang Ihres Transekts, das Höhendifferenzen ausreichend genau, jedoch mindestens mit einer Auflösung von 10 Höhenmetern angibt.
+1. Übertragen Sie die Positionen Ihrer Schallmessungen ins Geländeprofil und geben Sie die Messergebnisse an.
+1. Beschreiben Sie anhand der Daten und unter Berücksichtigung des Höhenprofils in maximal drei Sätzen, wie sich der Schallpegel entlang Ihres Transekt ausprägt.
 
 Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzten).
 {% endcapture %}
@@ -67,7 +68,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
   {{ A03-L2 | markdownify }}
 </div>
 
-**Tipp**: Höheninformationen können Sie analogen oder digitalen Karten entnehmen. Für digitales Arbeiten eignet sich u.a. die [Cycle Map von OpenStreetMap](https://www.openstreetmap.de/karte.html) oder [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro).
+**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topograpische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topograpische Karte auf der Grundlage von [OpenTopoMap](https://opentopomap.org/#map=14/50.80851/8.76529) ) erzeugen und ausdrucken.
 {: .notice--info}
 
 
