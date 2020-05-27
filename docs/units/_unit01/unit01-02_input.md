@@ -14,7 +14,7 @@ header:
 
 ## Karten als Werkzeug der Raumbeschreibung und Interpretation
 
-Es gibt, wie Sie gerade gesehen haben, viele verschiedene Arten von Karten. Verbindendes Merkmal ist nach allgemeiner Auffassung, dass allen Karten ein orientiertes, verkleinertes, verebnetes Grundrissbild eines Teils der Erdoberfläche oder in weiterem Sinne eines Himmelskörpers oder gar Ausschnitts des Kosmos' sind. Dieses Grundrissbild gibt die Gesamtheit der für diesen Teil bedeutungsvollen Erscheinungen oder eine beschränkte Auswahl daraus wieder (Bartelme 2005). Lehmann spricht die Probleme, die dieser Definition zugrunde liegen, folgendermaßen an: “Die Karten geben kein Abbild der Wirklichkeit, sondern nur die Möglichkeit, sich die Wirklichkeit vorzustellen [...]. Sie reden eine eigene Sprache, die übersetzt sein will” (Lehmann 1952, S. 73). Integriert man diese Auffassung in eine geographische Definition der Karte, so ist sie:
+Es gibt, wie Sie gerade gesehen haben, viele verschiedene Arten von Karten. Verbindendes Merkmal ist nach allgemeiner Auffassung, dass alle Karten ein orientiertes, verkleinertes, verebnetes Grundrissbild eines Teils der Erdoberfläche oder in weiterem Sinne eines Himmelskörpers oder gar Ausschnitts des Kosmos' sind. Dieses Grundrissbild gibt die Gesamtheit der für diesen Teil bedeutungsvollen Erscheinungen oder eine beschränkte Auswahl daraus wieder (Bartelme 2005). Lehmann spricht die Probleme, die dieser Definition zugrunde liegen, folgendermaßen an: “Die Karten geben kein Abbild der Wirklichkeit, sondern nur die Möglichkeit, sich die Wirklichkeit vorzustellen [...]. Sie reden eine eigene Sprache, die übersetzt sein will” (Lehmann 1952, S. 73). Integriert man diese Auffassung in eine geographische Definition der Karte, so ist sie:
 
 *     ein *Bild* der Erde
 *     eine Darstellung der als *wesentlich aufgefassten* Erscheinungen
@@ -27,7 +27,7 @@ Um diesen Zusammenhang an einem Beispiel zu verdeutlichen, betrachten Sie bitte 
 </html>
 
 
-*Abbildung 01-01: Weltkarte des Ptolemäus. Die hier gezeigte Weltkarte ist mit den zwölf Winden illustriert und eine der 32 Karten aus der „Cosmographia“ die von Lienhart Holle aus Ulm am 6. Juli 1482 herausgegeben wurde. Dies war die erste gedruckte Kartenausgabe nördlich der Alpen (Lienhart 1482)*
+*Abbildung 01-01: Weltkarte des Ptolemäus. Die hier gezeigte Weltkarte ist mit den zwölf Winden illustriert und eine der 32 Karten aus der „Cosmographia“ die von Lienhart Holle aus Ulm am 6. Juli 1482 herausgegeben wurde. Dies war die erste gedruckte Kartenausgabe nördlich der Alpen (Lienhart 1482).*
 
 
 Diese kann als frühes, idealtypisches Beispiel für die zuvor definierten Eigenschaften einer Karte betrachtet werden. Dargestellt ist die zu diesem Zeitpunkt gültige europäische Wahrnehmung der Welt. Wenige Jahre später wurde mit Kolumbus und seinen Entdeckungsfahrten diese Weltsicht revolutioniert und umfassend korrigiert.
@@ -39,8 +39,8 @@ Trotz der Einschränkung, dass Karten nicht die Welt, sondern eine Interpretatio
 {% include video id="QBxNinssoOQ" provider="youtube" %}
 
 ## Medien in der Geographie
-Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung der Erde bzw. Erdoberfläche und ihrem Verständnis und ihrer Beschreibung verbunden sind, sind für viele Menschen sehr unscharf. <!--more--> Die professionelle Beschreibung der Erde, also wie kommt es zu einer nachvollziehbaren Abstraktion einer kognitiven Welterfahrung, steht im Fokus einer erkenntnisgeleiteten Geographie. Für die solide Interpretation von geographischen Medien oder Informationen sollten Sie zunächst einige Grundkonzepte zur Wahrnehmung und Abstraktion sowie zur Kommunikation geographischer Weltebeschreibung kennen und verstanden haben. Gerade die formale Beschreibung von Raum mit Hilfe kartograpischer Konzepte sind ein guter Startpunkt.
-Definieren wir also Geographie wie oben so benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
+Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung der Erde bzw. Erdoberfläche und ihrem Verständnis und ihrer Beschreibung verbunden sind, sind für viele Menschen sehr unscharf. <!--more--> Die professionelle Beschreibung der Erde, also wie kommt es zu einer nachvollziehbaren Abstraktion einer kognitiven Welterfahrung, steht im Fokus einer erkenntnisgeleiteten Geographie. Für die solide Interpretation von geographischen Medien oder Informationen sollten Sie zunächst einige Grundkonzepte zur Wahrnehmung und Abstraktion sowie zur Kommunikation geographischer Weltbeschreibung kennen und verstanden haben. Gerade die formale Beschreibung von Raum mit Hilfe kartographischer Konzepte sind ein guter Startpunkt.
+Definieren wir also Geographie wie oben, so benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
 
 {% include video id="CX8Q7XxsL-c" provider="youtube" %}
 
