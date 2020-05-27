@@ -2,9 +2,9 @@
 title: Verortung im Raum
 toc: true
 header:
-  image: /assets/images/02-splash.jpg
-  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
-  caption: "Foto: T. Nauss / CC0"
+  image: /assets/images/03-splash.jpg
+  image_description: "Cutout from  Measured carbon dioxide concentrations in Vancouver"
+  caption: "Bild: [flickr](https://flic.kr/p/RNxn74) / CC-BY-2.0"
 
 panel1:  
   - url: https://www.flickr.com/photos/environmentalinformatics-marburg/13981635311
@@ -25,12 +25,12 @@ panel3:
     alt: "Durch Winkel abgebildete, geographische Koordinaten auf einer Kugel."
 ---
 
-Für die Analyse und Darstellung von räumlichen Phänomenen müssen die Beschreibungen von Objekten im Raum mit einer Konvention zur räumlichen Verortung verknüpft werden. Wir müssen Objekte geographisch vermessen und kartographisch abbilden. Diesen Vorgang nennt man Georeferenzieren, Geolozieren, Verorten oder Geotaggen. Eine Georeferenzierung muss nicht mathematisch sein. Vielmehr ist sie Teil des räumlichen Modellierungsprozesses und die Auswahl der Konvention zur räumlichen Verortung wird deshalb von der individuellen Fragestellung bestimmt. Im Folgenden lernen Sie verschiedene Konventionen zur räumlichen Verortung kennen.
+Für die Analyse und Darstellung von räumlichen Phänomenen müssen die Beschreibungen von Objekten im Raum räumlich verortet werden. Diesen Vorgang nennt man Georeferenzieren, Geolozieren, Verorten oder Geotaggen. Eine Georeferenzierung muss nicht mathematisch sein. Vielmehr ist sie Teil des räumlichen Modellierungsprozesses und die Auswahl der Konvention zur räumlichen Verortung wird deshalb von der individuellen Fragestellung bestimmt. Im Folgenden lernen Sie verschiedene Konventionen zur räumlichen Verortung kennen.
 
 
 ## Räumliche Verortung durch Namen und Adressen
 
-Orte durch Benennung zu lokalisieren gehört zu den ältesten Kulturtechniken der Menschheit. Durch die Kombination von Namen und Ziffern ergibt sich beispielsweise die postalische Kodierung. In dieser Konvention ist *Deutschhaustrasse 10, 35032 Marburg, Deutschland* die Georeferenzierung für eines der Gebäude des Fachbereichs Geographie in Marburg. Sie ist ausreichend, um die Post zuverlässig zuzustellen und funktioniert ohne Mathematik, ohne geographische Koordinaten durch eine Kette von Namenskodierung vom Gebäude bis zum Nationalstaat. Wenn sich die Kodierung ändert, beispielsweise durch die Umbenennung von Karl-Marx-Stadt in Chemnitz, bleibt der geographische Raumbezug immer noch erhalten. Voraussetzung für das System ist aber die Eineindeutigkeit der Beschreibung. Allein die Angabe eines Ortsnamens, z.B. London oder Neunkirchen, wäre zu wenig, da diese Namen vielfach auf der Erde vorkommen. Es braucht also ein übergeordnetes Zuordnungssystem, wie z.B. Landkreise oder Nationalstaaten. Noch besser ist eine möglichst allgemeingültiges Zuordnungssystem, weshalb die Thurn und Taxis Post 1853 in Deutschland Ortsnamen mit einem Zahlenschlüssel kodiert, der eine abstrakte, nachvollziehbare Identifikation der Raumposition dieser Orte möglich macht.
+Orte durch Benennung zu lokalisieren gehört zu den ältesten Kulturtechniken der Menschheit. Durch die Kombination von Namen und Ziffern ergibt sich beispielsweise die postalische Kodierung. In dieser Konvention ist *Deutschhaustrasse 10, 35032 Marburg, Deutschland* die Georeferenzierung für eines der Gebäude des Fachbereichs Geographie in Marburg. Sie ist ausreichend, um die Post zuverlässig zuzustellen und funktioniert ohne Mathematik, ohne geographische Koordinaten durch eine hierarchische Kette von Namenskodierung vom Gebäude bis zum Nationalstaat. Wenn sich die Kodierung ändert, beispielsweise durch die Umbenennung von Karl-Marx-Stadt in Chemnitz, bleibt der geographische Raumbezug dennoch erhalten. Voraussetzung für dieses System ist aber die Eineindeutigkeit der Beschreibung. Allein die Angabe eines Ortsnamens, z.B. London oder Neunkirchen, wäre zu wenig, da diese Namen vielfach auf der Erde vorkommen. Es braucht also ein übergeordnetes Zuordnungssystem, wie z.B. Landkreise oder Nationalstaaten. Noch besser ist eine möglichst allgemeingültiges Zuordnungssystem, weshalb die Thurn und Taxis Post 1853 in Deutschland Ortsnamen mit einem Zahlenschlüssel kodiert, der eine abstrakte, nachvollziehbare Identifikation der Raumposition dieser Orte möglich macht.
 
 **Info**: Allen geographischen Informationen liegt eine eindeutige räumliche Zuordnung zugrunde.
 {: .notice--info}

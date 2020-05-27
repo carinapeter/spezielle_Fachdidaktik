@@ -2,9 +2,9 @@
 title: Datenerfassung und Darstellung
 toc: true
 header:
-  image: /assets/images/02-splash.jpg
-  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
-  caption: "Foto: T. Nauss / CC0"
+  image: /assets/images/03-splash.jpg
+  image_description: "Cutout from  Measured carbon dioxide concentrations in Vancouver"
+  caption: "Bild: [flickr](https://flic.kr/p/RNxn74) / CC-BY-2.0"
 
 ---
 
