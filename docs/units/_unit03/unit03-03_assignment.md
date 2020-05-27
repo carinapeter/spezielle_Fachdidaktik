@@ -2,9 +2,9 @@
 title: A03 - Erfassung und Analyse von Geodaten
 toc: true
 header:
-  image: /assets/images/03-splash.jpg
-  image_description: "Cutout from  Measured carbon dioxide concentrations in Vancouver"
-  caption: "Bild: [flickr](https://flic.kr/p/RNxn74) / CC-BY-2.0"
+  image: /assets/images/02-splash.jpg
+  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
+  caption: "Foto: T. Nauss / CC0"
 ---
 
 In Aufgabe 03 üben Sie eigenständig Eigenschaften von echten Räumen zu erfassen und darzustellen. Sie erheben Geodaten, modellieren Geoobjekte und analysieren die räumlichen Merkmalsausprägungen auf der Grundlage eines selbst gewählten Geländeprofils. Als Vertiefung stellen Sie Ihre Analyseergebnisse unter zwei unterschiedlichen  Interpretationsperspektiven dar.
@@ -51,14 +51,14 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 
 ### Aufgabe 03-L2: Aufbereitung von Geodaten und Beschreibung der Ergebnisse
 
-In der Aufgabe beschreiben Sie Ihre Daten zur Schallmessung. Da die Schallausbreitung stark von der Topographie abhängt, erstellen Sie für die Analyse der Daten im Verhältnis zur Oberflächenform ein maßstabsgetreues Geländeprofil entlang Ihres Messtransekt. 
+In der Aufgabe beschreiben Sie Ihre Daten zur Schallmessung. Da die Schallausbreitung stark von der Topographie abhängt, erstellen Sie für die Analyse der Daten im Verhältnis zur Oberflächenform ein maßstabsgetreues Geländeprofil entlang Ihres Messtransekts. 
 
 {% capture A03-L2 %}
 Analysieren Sie die Ausbreitung des Straßenlärms mit Bezug auf das Geländeprofil Ihres Transekts.
 
 1. Erstellen Sie ein maßstabsgetreues Geländeprofil entlang Ihres Transekts, das Höhendifferenzen ausreichend genau, jedoch mindestens mit einer Auflösung von 10 Höhenmetern angibt.
 1. Übertragen Sie die Positionen Ihrer Schallmessungen ins Geländeprofil und geben Sie die Messergebnisse an.
-1. Beschreiben Sie anhand der Daten und unter Berücksichtigung des Höhenprofils in maximal drei Sätzen, wie sich der Schallpegel entlang Ihres Transekt ausprägt.
+1. Beschreiben Sie anhand der Daten und unter Berücksichtigung des Höhenprofils in maximal drei Sätzen, wie sich der Schallpegel entlang Ihres Transekts ausprägt.
 
 Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzten).
 {% endcapture %}
@@ -68,7 +68,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
   {{ A03-L2 | markdownify }}
 </div>
 
-**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topograpische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
+**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. (Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topographische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
 {: .notice--info}
 
 
@@ -77,7 +77,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
 In der Aufgabe diskutieren Sie Ihre Schallmessungen und nehmen dafür zwei vorgegebene Perspektiven ein. Die erste Perspektive rechtfertigt den Status Quo, soll also den Straßenlärm als wenig entscheidenden Raumfaktor einordnen. Die zweite Perspektive rechtfertigt den Bau einer Schallschutzwand, weil der Straßenlärm den umliegenden Raum stark beeinflusst. Diese Übung soll Ihnen helfen, die Subjektivität einer Kartendarstellung besser fassen zu können.
 
 {% capture A03-L3 %}
-Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der Perspektive einer (i) geringen und einer (ii) starken Raumbeeinflussung in einer selbst erstellten Karte dar. Diskutieren Sie die Bedeutung des Straßenlärms unter der jeweiligen Perspektive, in dem Sie die Karten mit einer aussagekräftigen Bildunterschrift vergleichbar zu den ausführlichen Bildunterschriften in der wissenschaftlichen Fachzeitschrift *Nature* mit maximal 250 Wörtern versehen (wie etwa in diesem Beispiel [Augengeometrie von Fischen bei  Neuorientierungsaufgaben](https://www.nature.com/articles/s41598-020-64690-1)).
+Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der Perspektive einer (i) geringen und einer (ii) starken Raumbeeinflussung in einer selbst erstellten Karte dar. Diskutieren Sie die Bedeutung des Straßenlärms unter der jeweiligen Perspektive, indem Sie die Karten mit einer aussagekräftigen Bildunterschrift, vergleichbar zu den ausführlichen Bildunterschriften in der wissenschaftlichen Fachzeitschrift *Nature*, mit maximal 250 Wörtern versehen (wie etwa in diesem Beispiel [Augengeometrie von Fischen bei  Neuorientierungsaufgaben](https://www.nature.com/articles/s41598-020-64690-1)).
 
 1. Erstellen Sie eine Karte die die Perspektive einer geringen Raumbeeinflussung durch Lärm unterstützt und erläutern Sie Sie den Einfluss des Straßenlärms auf der Grundlage Ihrer Messungen im Zusammenhang mit der Geländeform in der Kartenunterschrift.
 1.  Erstellen Sie eine Karte die die Perspektive einer hohen Raumbeeinflussung durch Lärm unterstützt und erläutern Sie Sie den Einfluss des Straßenlärms auf der Grundlage Ihrer Messungen im Zusammenhang mit der Geländeform in der Kartenunterschrift.
