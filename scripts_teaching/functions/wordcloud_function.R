@@ -15,7 +15,7 @@ library(pdftools)
 library(tesseract)
 
 # define function
-meko_wordcloud <- function(unit, task, folder_name_splitted, max_words){
+meko_wordcloud <- function(unit, task, folder_name_splitted, max_words, excluded_words = NULL){
   
   #check, if the german-language package is loaded in tesseract
   if(c("deu" %in% tesseract::tesseract_info()$available) == F){
@@ -25,6 +25,11 @@ meko_wordcloud <- function(unit, task, folder_name_splitted, max_words){
   path <- file.path(getwd(), folder_name_splitted, paste0("unit", unit, "_", task))
   
   task_pdfs <- as.list(list.files(path, full.names = T))
+  
+  #check if task_pdfs is empty and gives out warning, if so
+  if(length(task_pdfs)==0){
+    stop("please check, if unit was set correctly")
+  }
   
   extracted_text <- lapply(task_pdfs, function(x){
     pngfile <- pdftools::pdf_convert(x, dpi = 72)
@@ -44,11 +49,15 @@ meko_wordcloud <- function(unit, task, folder_name_splitted, max_words){
   #stopwords("german) #shows which stopwords are removed
   pdf_text_corp <- tm_map(pdf_text_corp, removeWords, stopwords("german"))
   # specify additional stopwords as a character vector
-  pdf_text_corp <- tm_map(pdf_text_corp, removeWords, c("dass", "aufgabe", "sose", "dr", "thomas", "nauss", "meko", "medienkompetenz")) 
+  pdf_text_corp <- tm_map(pdf_text_corp, removeWords, c("dass", "aufgabe", "sose", "dr", "thomas", "nauss", "meko", "medienkompetenz"))
   # Remove punctuations
   pdf_text_corp <- tm_map(pdf_text_corp, removePunctuation)
   # Eliminate extra white spaces
   pdf_text_corp <- tm_map(pdf_text_corp, stripWhitespace)
+  # if excluded_words were specified, exlude those
+  if(is.null(excluded_words)==F){
+    pdf_text_corp <- tm_map(pdf_text_corp, removeWords, excluded_words)
+  }
   
   #inspect(pdf_text_corp)
   
