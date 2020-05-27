@@ -23,8 +23,7 @@ In Aufgabe 03 trainieren Sie selbst Eigenschaften von echten Räumen zu erfassen
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen) an die Abgabe von Aufgaben.
 
 ## Problemstellung
-
-Die Anwohner einer Hauptverkehrsstraße beschweren sich über die Lärmbelastung. Sie sollen die Lärmbelastung erfassen, analysieren und Ihre Untersuchungen dokumentieren.
+In einem Ort sorgt die Hauptverkehrsstraße (wie z.B. die B3 in Marburg) für Beschwerden der Anwohner der umliegenden Wohnegebiete. Sie sollen die Lärmbelastung erfassen, analysieren und Ihre Untersuchungen dokumentieren.
 
 ### Aufgabe 03-L1: Erhebung von Geodaten
 
@@ -35,9 +34,9 @@ Erstellen Sie eine Kurzdokumentation Ihrer Messkampagne.
 
 1. Begründen Sie in dieser Ihre Planung (z.B. Transektwahl, Messzeitpunkt) mit maximal fünf Sätzen.
 1. Fügen Sie Ihre Schallmessungen als tabellarischen Geodatensatz ein.
-1. Ergänzen Sie Ihre Dokumentation durch eine Handskizze Ihres Transekts, in der Sie auch Ihre Fotos einfügen und mit Bildunterschriften versehen.
+1. Ergänzen Sie Ihre Dokumentation durch eine Handskizze des Raums mit allen Elementen, die für die Fragestellung relevant sind. Fügen Sie auch Fotos mit kurzen Bildunterschriften in Ihre Handskizze ein.
 
-Umfang: 2 Seiten in Ihrer PDF-Datei (1 Seite für Begründung und tabellarischen Geodatensatz, 1 Seite für die Handskizze inkl. Fotos).
+Umfang: 3 Seiten in Ihrer PDF-Datei
 {% endcapture %}
 
 <div class="notice--success">
@@ -56,11 +55,11 @@ In der Aufgabe beschreiben Sie Ihren erhobenen Schallmessungen. Da die Schallaus
 {% capture A03-L2 %}
 Analysieren Sie die Ausbreitung des Straßenlärms mit Hilfe eines Geländeprofils.
 
-1. Erstellen Sie ein maßstabsgetreues Geländeprofil entlang Ihres Transekts, das Höhendifferenzen ausreichend genau, jedoch mindestens mit einer Auflösung von 10 Höhenmetern angibt.
+1. Erstellen Sie ein maßstabsgetreues Geländeprofil (analog oder digital) entlang Ihres Transekts, das Höhendifferenzen ausreichend genau, jedoch mindestens mit einer Auflösung von 10 Höhenmetern angibt.
 1. Verorten Sie Ihre Schallmessungen im Geländeprofil und geben Sie die Messergebnisse an.
 1. Beschreiben Sie objektiv und neutral in maximal drei Sätzen, wie sich der Schallpegel im Raum darstellt.
 
-Umfang: 1 Seite in Ihrer PDF-Datei (Sie können die Seite auch im Querformat nutzten).
+Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzten).
 {% endcapture %}
 
 <div class="notice--success">
@@ -81,8 +80,9 @@ Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der Perspekti
 
 1. Erstellen Sie eine Karte für die Perspektive der geringen Raumbeeinflussung und diskutieren Sie entsprechend die Bedeutung des Straßenlärms in der Bildunterschrift.
 1. Erstellen Sie eine Karte für die Perspektive der starken Raumbeeinflussung und diskutieren Sie entsprechend die Bedeutung des Straßenlärms in der Bildunterschrift.
+1. Beschreiben Sie kurz welche Strategien Sie verwendet haben, um auf der gleichen Datengrundlage die zwei kontrahierenden Positionen gezielt durch die Darstellungen und Ihre Beschreibung zu unterstützen.
 
-Umfang: 2 Seite in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzten).
+Umfang: 3 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzen).
 {% endcapture %}
 
 <div class="notice--success">
