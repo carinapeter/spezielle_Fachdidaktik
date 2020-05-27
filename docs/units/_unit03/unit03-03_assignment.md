@@ -68,7 +68,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat n
   {{ A03-L2 | markdownify }}
 </div>
 
-**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topograpische Karte auf der Grundlage von [OpenTopoMap](https://opentopomap.org/#map=14/50.80851/8.76529) ) erzeugen und ausdrucken.
+**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topograpische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
 {: .notice--info}
 
 
