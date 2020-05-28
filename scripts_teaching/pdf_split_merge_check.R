@@ -48,6 +48,6 @@ merge_pdfs(inpath = inpath, unit = unit, split_rule = split_rule)
 ## writes the result of every checked assignment into a csv-file
 
 ## specifiy directory the pdf-files you want to check are stored at
-foldername_merged <- "Lerneinheit_01_pdf_merged"
+foldername_merged <- paste0(folder_name, "_pdf_merged")
 
 similarity_checker(foldername_merged = foldername_merged)
