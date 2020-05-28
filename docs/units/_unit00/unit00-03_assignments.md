@@ -31,6 +31,8 @@ Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich formal als �
 
 Für jede Teilaufgabe ist in der Aufgabenstellung der Seitenumfang angegeben. Nutzen Sie genau diese Anzahl an Seiten, auch wenn die Seiten nicht ganz voll oder sogar leer sind. Selbst wenn Sie die Teilaufgabe also gar nicht bearbeiten, fügen Sie bitte dennoch die entsprechende Überschrift der Aufgabe ein und lassen Sie die angegebenen Anzahl an Seiten frei bevor Sie mit der nächsten Teilaufgabe weitermachen.
 
+Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese bitte direkt innerhalb der Aufgabe und nicht in einem separaten Quellenverzeichnis an. 
+
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese Version in ILIAS hoch. 
 
 ### Bestehen der Studienleistung
