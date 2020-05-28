@@ -143,7 +143,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "03 Datenerfassung & Standardisierung"
+      category: "03 Kartographische Modellierung"
       tags: "Unit 03"
       layout: single
       sidebar:
