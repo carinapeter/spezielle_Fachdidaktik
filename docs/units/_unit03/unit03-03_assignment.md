@@ -51,7 +51,7 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 
 ### Aufgabe 03-L2: Aufbereitung von Geodaten und Beschreibung der Ergebnisse
 
-In der Aufgabe beschreiben Sie Ihre Daten zur Schallmessung. Da die Schallausbreitung stark von der Topographie abhängt, erstellen Sie für die Analyse der Daten im Verhältnis zur Oberflächenform ein maßstabsgetreues Geländeprofil entlang Ihres Messtransekts. 
+In der Aufgabe beschreiben Sie Ihre Daten zur Schallmessung. Da die Schallausbreitung stark von der Topographie abhängt, erstellen Sie für die Analyse der Daten im Verhältnis zur Oberflächenform ein maßstabsgetreues Geländeprofil entlang Ihres Messtransekts.
 
 {% capture A03-L2 %}
 Analysieren Sie die Ausbreitung des Straßenlärms mit Bezug auf das Geländeprofil Ihres Transekts.
@@ -82,7 +82,7 @@ Stellen Sie die Bedeutung der Ausbreitung des Straßenlärms unter der Perspekti
 1. Erstellen Sie eine Karte die die Perspektive einer geringen Raumbeeinflussung durch Lärm unterstützt und erläutern Sie Sie den Einfluss des Straßenlärms auf der Grundlage Ihrer Messungen im Zusammenhang mit der Geländeform in der Kartenunterschrift.
 1.  Erstellen Sie eine Karte die die Perspektive einer hohen Raumbeeinflussung durch Lärm unterstützt und erläutern Sie Sie den Einfluss des Straßenlärms auf der Grundlage Ihrer Messungen im Zusammenhang mit der Geländeform in der Kartenunterschrift.
 
-Umfang: 3 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzen).
+Umfang: 3 Seiten in Ihrer PDF-Datei (Sie können die Seiten auch im Querformat nutzen; die dritte Seite dient für die Bildunterschriften zu beiden Karten für den Fall, dass diese nicht mehr auf die selbe Seite wie die jeweilige Karte passen).
 {% endcapture %}
 
 <div class="notice--success">
