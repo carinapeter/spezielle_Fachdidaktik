@@ -10,5 +10,10 @@ header:
 Nachdem die letzten Übungen die Erfassung von Raum sei es durch ganzheitliche Abstraktion oder gezielte Datenerhebung im Gelände zum Thema hatten, wird in dieser Übungn die Aufarbeitung und Analyse dieser Daten fokussiert. Die Aufbereitung von Daten ist notwendig, da dieser Prozess erst eine lesbare Information generiert. Auch wenn diese Weiterverarbeitung von Daten methodische fundiert erfolgt, stellt sie immer eine Interpretation von den Daten dar. 
 
 ## Datenvisualisierung
+Daten aufarbeiten. Deskriptive Statistik. Was gibt es zu beachten? Skalen, Diagrammtypen, Farben... 
+Verschneidung verschiedener Datentypen
+Analytische Statsitik
 
-## thematische Karten
+
+## Thematische Karten
+Thema in Karte aufgearbeitet. Diagramme in Karte einbinden, verschiedene Kartentypen. Zu beachten angemessene räumliche Darstellung. Bei Einbindung von Diagrammen Skalierung. 
