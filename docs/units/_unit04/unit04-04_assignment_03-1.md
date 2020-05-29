@@ -1,7 +1,29 @@
 ---
-title: Aufgabe 04-1 - Kartierung eines Straßenzuges
+title: Aufgaben 04
 toc: true
 header:
 
 ---
+## Für die Bearbeitung dieser Aufgabe benötigen Sie...
+* Tabellenkalkulationssoftware — z. B. Microsoft Excel, OpenOffice Calc, LibreOffice Calc oder Google Sheets.
+* Klimastation Cölbe - ein Datensatz der Klimstation Cölbe des DWD (siehe Interner Datensatz Klimadaten)
+* Infosheet zum Walter-Lieth-Diagramm und zur potetiellen Evapotranspiration nach Haude
+
+
+## Aufgabe 04-01 Walter-Lieth-Diagramm
+Walter-Lieth-Diagramme sind trotzt aller Ungenauigkeit immer noch ein beliebtes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Im Rahmen dieses Arbeitsblatts sollen Sie sowohl das hygrische Klima mittels eines Walter-Lieth-Diagramms als auch eine Verdunstungsabschätzung nach Haude vergleichen.
+
+L1: Bitte erstellen Sie ein Walter-Lieth-Diagramm auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die Station Cölbe auf Basis des in der zur Verfügung gestellten Datei enthaltenen Zeitraums. Lücken in der zur Verfügung gestellten Zeitserie müssen Sie dabei nicht explizit berücksichtigen.
+L2: Zur Einschätzung des Walter-Lieth-Diagramms sollen Sie die potentielle Evapotranspiration nach einer Abschätzung von Haude berechnen und den Niederschlägen an der Station Cölbe gegenüberstellen. Berechnen Sie die potentielle Evapotranspiration auf Basis der langjährigen Monatsmittel in mm und stellen Sie diese in einem Diagramm der langjährigen monatlichen Niederschlagssumme gegenüber.
+L3: Diskutieren Sie das in L2 erstellte Diagramm im Vergleich zur Walter-Lieth-Visualisierung.
+
+## Aufgabe 04-02 Protestanten wählen AfD?
+Im Rahmen einer Unterrichtseinheit zur politischen Geographie nehmen Sie ein Interview aus einer HR Info Sendung im Rahmen des katholischen Kirchentags 2018 zum Anlass, den (vermeintlichen) Zusammenhang zwischen AfD-Wähler/-innen und der Zugehörigkeit zur evangelischen Kirche zu untersuchen. Im statista-Portal sind Sie bzgl. der notwendigen Ausgangsdaten zur Zweitstimmenverteilung nach Bundesländern bei der Bundestagswahl 2017 und der * Religionszugehörigkeit nach Bundesländern fündig geworden.
+
+L1: Bitte fertigen Sie eine aussagekräftige Grafik an, aus der der Zweitstimmenanteil pro Bundesland sowie der jeweilige Anteil an katholischen und protestantischen Deutschen hervorgeht.
+L2: Berechnen Sie zudem die beiden Korrelationen zwischen der Zweitstimmenvergabe und dem Anteil der Deutschen mit protestantischem Glauben bzw. mit katholischem Glauben.
+L3: Bitte fertigen Sie anschließend zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Nutzen Sie hierfür UMN Mapserver, GeoServer, QGis-WebClient (?). Laden Sie die Karte im PDF-Format hoch.
+
+Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD" vor dem Hintergrund des Diagramms, der Korrelationen und der erstellten Karten (je nach Niveau).
+
 
