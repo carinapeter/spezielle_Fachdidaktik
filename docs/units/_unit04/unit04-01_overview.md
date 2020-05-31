@@ -2,9 +2,12 @@
 title: Übersicht
 ---
 
+## Was bisher geschah
+
+## Was wir in dieser Einheit vorhaben
 Sie lernen Grundzüge der Datenvisualisierung kennen und analysieren, visualisieren und verschneiden selbst räumliche Daten mit Hilfe von einem Tabellenkalukalationsprogramm und stellen Sie in Form thematischer Karten dar.
 
-
+## Lernziele
 Am Ende dieser Lehreinheit können Sie
 * statistische Daten aus Tabellen angemessen graphisch aufarbeiten
 * Daten verschiedenen Ursprungs sinnvoll miteinander verschneiden
