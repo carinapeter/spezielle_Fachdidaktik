@@ -6,15 +6,15 @@ header:
 ---
 ## Für die Bearbeitung dieser Aufgabe benötigen Sie...
 * Tabellenkalkulationssoftware — z. B. Microsoft Excel, OpenOffice Calc, LibreOffice Calc oder Google Sheets.
-* Statista Homepage
-* Klimastation Cölbe - ein Datensatz der Klimstation Cölbe des DWD (siehe Interner Datensatz Klimadaten)
+* [Statista Homepage](https://de.statista.com/statistik/daten/studie/754391/umfrage/stimmenanteile-der-afd-in-den-bundeslaendern-bei-der-bundestagswahl/)
+* Klimastation Cölbe - ein Datensatz der Klimstation Cölbe des DWD ([siehe Interner Datensatz Klimadaten](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui))
 * Infosheet zum Walter-Lieth-Diagramm und zur potentiellen Evapotranspiration nach Haude
 
 
 ## Aufgabe 04-01 Walter-Lieth-Diagramm
 Walter-Lieth-Diagramme sind trotzt aller Ungenauigkeit immer noch ein beliebtes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Im Rahmen dieses Arbeitsblatts sollen Sie sowohl das hygrische Klima mittels eines Walter-Lieth-Diagramms als auch eine Verdunstungsabschätzung nach Haude vergleichen.
 
-* L1: Bitte erstellen Sie ein Walter-Lieth-Diagramm auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die Station Cölbe auf Basis des in der zur Verfügung gestellten Datei enthaltenen Zeitraums. Lücken in der zur Verfügung gestellten Zeitserie müssen Sie dabei nicht explizit berücksichtigen.
+* L1: Bitte erstellen Sie ein Walter-Lieth-Diagramm auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die Station Cölbe auf Basis des in der [zur Verfügung gestellten Datei](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) enthaltenen Zeitraums . Lücken in der zur Verfügung gestellten Zeitserie müssen Sie dabei nicht explizit berücksichtigen.
 * L2: Zur Einschätzung des Walter-Lieth-Diagramms sollen Sie die potentielle Evapotranspiration nach einer Abschätzung von Haude berechnen und den Niederschlägen an der Station Cölbe gegenüberstellen. Berechnen Sie die potentielle Evapotranspiration auf Basis der langjährigen Monatsmittel in mm und stellen Sie diese in einem Diagramm der langjährigen monatlichen Niederschlagssumme gegenüber.
 * L3: Diskutieren Sie das in L2 erstellte Diagramm im Vergleich zur Walter-Lieth-Visualisierung.
 
