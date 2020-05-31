@@ -2,11 +2,17 @@
 title: Übersicht
 ---
 
-Sie lernen Grundlagen geographischer Informationssysteme kennen und analysieren und visualisieren selbst räumliche Daten mit Hilfe der Software.
+Sie lernen Grundzüge der Datenvisualisierung kennen und analysieren, visualisieren und verschneiden selbst räumliche Daten mit Hilfe von einem Tabellenkalukalationsprogramm und stellen Sie in Form thematischer Karten dar.
 
-<!--more-->
+<!--more→
 
 Am Ende dieser Lehreinheit können Sie
-  * grundlegende Funktionen eines webbasierten geographischen Informationssystems (GIS) nutzen.
-  * verschiedene Daten kartographisch in einem GIS angemessen darstellen.
+* statistische Daten aus Tabellen angemessen graphisch aufarbeiten
+* Daten verschiedenen Ursprungs sinnvoll miteinander verschneiden
+* sich selbstständig statistische Analysen aneigenen und durchführen
+* statistische Zusammenhänge räumlich mithilfe von thematischen Karten darstellen
+* statistische Zusammenhänge kritisch reflektieren
+* verschiedene Diagrammtypen unterscheiden
+* Diagramme analysieren
+* Diagramme kritisch zu reflektieren
 
