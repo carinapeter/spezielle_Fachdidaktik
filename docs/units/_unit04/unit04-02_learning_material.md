@@ -18,6 +18,6 @@ Analytische Statsitik
 
 
 ## Thematische Karten
-Thema in Karte aufgearbeitet. Diagramme in Karte einbinden, verschiedene Kartentypen. Zu beachten angemessene räumliche Darstellung. Bei Einbindung von Diagrammen Skalierung. 
+Topographische Karten sichtbarer Teil Erdoberfläche, Thematische Karte andere räumliche Information. Auch hier Unterschiede zwischen diskreten und kontinuierlichen Daten in Darstellung zu beachten. Diagramme in Karte einbinden, verschiedene Kartentypen. Zu beachten angemessene räumliche Darstellung. Bei Einbindung von Diagrammen Skalierung. 
 
 {% include pdf pdf="04_Thematische_Karten.pdf" %}
