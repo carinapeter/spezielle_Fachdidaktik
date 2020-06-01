@@ -14,6 +14,10 @@ Daten aufarbeiten. Deskriptive Statistik. Was gibt es zu beachten? Skalen, Diagr
 Verschneidung verschiedener Datentypen
 Analytische Statsitik
 
+{% include pdf pdf="04_Datenvisualisierung.pdf" %}
+
 
 ## Thematische Karten
 Thema in Karte aufgearbeitet. Diagramme in Karte einbinden, verschiedene Kartentypen. Zu beachten angemessene räumliche Darstellung. Bei Einbindung von Diagrammen Skalierung. 
+
+{% include pdf pdf="04_Thematische_Karten.pdf" %}
