@@ -21,5 +21,5 @@ Am Ende dieser Lehreinheit können Sie
 * statistische Zusammenhänge kritisch reflektieren
 * verschiedene Diagrammtypen unterscheiden
 * Diagramme analysieren
-* Diagramme kritisch zu reflektieren
+* Diagramme kritisch reflektieren
 
