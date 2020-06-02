@@ -29,7 +29,7 @@ Im Rahmen einer Unterrichtseinheit zur politischen Geographie nehmen Sie ein Int
 Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
 * L2: Berechnen Sie zudem die beiden Korrelationen zwischen der Zweitstimmenvergabe und dem Anteil der Deutschen mit protestantischem Glauben bzw. mit katholischem Glauben. 
 Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
-* L3: Bitte fertigen Sie anschließend zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Nutzen Sie hierfür UMN Mapserver, GeoServer, QGis-WebClient (?). Laden Sie die Karte im PDF-Format hoch.
+* L3: Bitte fertigen Sie anschließend zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Sie können Ihre Karte digital oder analog erstellen.
 Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
 
 Umfang: 6 Seiten Ihres PDF-Dokuments (eine für L1, eine für L2, drei für L3)
