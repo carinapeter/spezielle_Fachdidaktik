@@ -1,8 +1,10 @@
 ---
-title: Aufgabe 04-2 - Vergleich verschiedener Kartierungen
+title: Lernmaterialien
 toc: true
 header:
-
+   image: https://commons.wikimedia.org/wiki/File:Portal_Math_Banner_Background_ka.jpg#/media/File:Portal_Math_Banner_Background_ka.jpg
+  image_description: "Unübersichtlich beschriebene Universitätstafel"
+  caption: "Foto: Wikimedia Commons / CC0"
 ---
 Verdunstung nach Haude
 Die Berechnung basiert auf dieser Formel:
