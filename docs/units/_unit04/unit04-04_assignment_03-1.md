@@ -20,6 +20,8 @@ Walter-Lieth-Diagramme sind trotzt aller Ungenauigkeit immer noch ein beliebtes 
 * L2: Zur Einschätzung des Walter-Lieth-Diagramms sollen Sie die potentielle Evapotranspiration nach einer Abschätzung von Haude berechnen und den Niederschlägen an der Station Cölbe gegenüberstellen. Berechnen Sie die potentielle Evapotranspiration auf Basis der langjährigen Monatsmittel in mm und stellen Sie diese in einem Diagramm der langjährigen monatlichen Niederschlagssumme gegenüber.
 * L3: Diskutieren Sie das in L2 erstellte Diagramm im Vergleich zur Walter-Lieth-Visualisierung.
 
+Umfang: 3 Seiten Ihres PDF-Dokuments (eine für jedes Leistungsniveau)
+
 ## Aufgabe 04-02 Protestanten wählen AfD?
 Im Rahmen einer Unterrichtseinheit zur politischen Geographie nehmen Sie ein Interview aus einer HR Info Sendung im Rahmen des katholischen Kirchentags 2018 zum Anlass, den (vermeintlichen) Zusammenhang zwischen AfD-Wähler/-innen und der Zugehörigkeit zur evangelischen Kirche zu untersuchen. Im statista-Portal sind Sie bzgl. der notwendigen Ausgangsdaten zur [Zweitstimmenverteilung nach Bundesländern bei der Bundestagswahl 2017](https://de.statista.com/statistik/daten/studie/754391/umfrage/stimmenanteile-der-afd-in-den-bundeslaendern-bei-der-bundestagswahl/) und der [Religionszugehörigkeit nach Bundesländern](https://de.statista.com/statistik/daten/studie/201622/umfrage/religionszugehoerigkeit-der-deutschen-nach-bundeslaendern/) fündig geworden.
 
@@ -29,6 +31,8 @@ Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger Af
 Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
 * L3: Bitte fertigen Sie anschließend zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Nutzen Sie hierfür UMN Mapserver, GeoServer, QGis-WebClient (?). Laden Sie die Karte im PDF-Format hoch.
 Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
+
+Umfang: 6 Seiten Ihres PDF-Dokuments (eine für L1, eine für L2, drei für L3)
 
 
 
