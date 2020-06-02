@@ -10,9 +10,7 @@ header:
 Nachdem die letzten Übungen die Erfassung von Raum sei es durch ganzheitliche Abstraktion oder gezielte Datenerhebung im Gelände zum Thema hatten, wird in dieser Übungn die Aufarbeitung und Analyse dieser Daten fokussiert. Die Aufbereitung von Daten ist notwendig, da dieser Prozess erst eine lesbare Information generiert. Auch wenn diese Weiterverarbeitung von Daten methodische fundiert erfolgt, stellt sie immer eine Interpretation von den Daten dar. 
 
 ## Datenvisualisierung
-Daten aufarbeiten. Deskriptive Statistik. Was gibt es zu beachten? Skalen, Diagrammtypen, Farben... 
-Verschneidung verschiedener Datentypen
-Analytische Statsitik
+Wie Sie spätestens seit der letzten Einheit wissen, sind Geodaten immer raumreferenziert. Trotz dieser Besonderheit bleiben Sie aber immer auch Daten, die nach statistischen Prinzipien, die über Disziplinsgrenzen hinweg Gültigkeit haben, analysiert und aufbereitet werden. Wenn die Daten in Diagrammen übersichtlich dargestellt werden sollen, muss geklärt sein welche Struktur die betreffenden Skalen haben und welcher Diagrammtyp entsprechend geeignet ist. Sollen Aussagen über Zusammenhänge getroffen werden, müssen diese auf statistischen Analysen begründet sein. Eine Herausforderung, die geographiespezifisch ist, ist die Verscheidung von Daten, denen verschiedene Raumbezüge zu Grunde liegen. 
 
 {% include pdf pdf="04_Datenvisualisierung.pdf" %}
 
