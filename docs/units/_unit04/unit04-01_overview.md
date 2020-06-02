@@ -1,5 +1,8 @@
 ---
-title: Übersicht
+  title: Übersicht
+  image: https://commons.wikimedia.org/wiki/File:Portal_Math_Banner_Background_ka.jpg#/media/File:Portal_Math_Banner_Background_ka.jpg
+  image_description: "Unübersichtlich beschriebene Universitätstafel"
+  caption: "Foto: Wikimedia Commons / CC0"
 ---
 Medien stellen raumzeitliche Informationen in einer aufbereiteten Form dar. Sie konfrontieren die Nutzer/innen nicht mit unübersichtlichen Tabellen von Datensätzen, sondern die Hersteller/innen haben die Daten auf aussagekräftige Informationen hin anlaysiert und diese Analyse in übersichtlerlicher Form visulisiert. Durch diese Aufbereitung sind Medien für eine breite Leserschaft mit begrenzten Zeitressourcen lesbar. 
 
