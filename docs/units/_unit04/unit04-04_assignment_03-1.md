@@ -1,8 +1,10 @@
 ---
-title: Aufgaben 04
+title: Lernmaterialien
 toc: true
 header:
-
+   image: https://commons.wikimedia.org/wiki/File:Portal_Math_Banner_Background_ka.jpg#/media/File:Portal_Math_Banner_Background_ka.jpg
+  image_description: "Unübersichtlich beschriebene Universitätstafel"
+  caption: "Foto: Wikimedia Commons / CC0"
 ---
 ## Für die Bearbeitung dieser Aufgabe benötigen Sie...
 * Tabellenkalkulationssoftware — z. B. Microsoft Excel, OpenOffice Calc, LibreOffice Calc oder Google Sheets.
