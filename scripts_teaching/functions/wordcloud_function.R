@@ -15,14 +15,14 @@ library(pdftools)
 library(tesseract)
 
 # define function
-meko_wordcloud <- function(unit, task, folder_name_splitted, max_words, excluded_words = NULL){
+meko_wordcloud <- function(unit, task, split_path, max_words, excluded_words = NULL, output_dir){
   
   #check, if the german-language package is loaded in tesseract
   if(c("deu" %in% tesseract::tesseract_info()$available) == F){
     tesseract::tesseract_download("deu")
   }
   
-  path <- file.path(getwd(), folder_name_splitted, paste0("unit", unit, "_", task))
+  path <- file.path(split_path, paste0("unit", unit, "_", task))
   
   task_pdfs <- as.list(list.files(path, full.names = T))
   
@@ -32,7 +32,7 @@ meko_wordcloud <- function(unit, task, folder_name_splitted, max_words, excluded
   }
   
   extracted_text <- lapply(task_pdfs, function(x){
-    pngfile <- pdftools::pdf_convert(x, dpi = 72)
+    pngfile <- pdftools::pdf_convert(x, dpi = 300)
     text <- tesseract::ocr(pngfile, engine = tesseract(language = "deu"))
     file.remove(pngfile)
     return(text)})
@@ -68,8 +68,13 @@ meko_wordcloud <- function(unit, task, folder_name_splitted, max_words, excluded
   head(d, 10)
   
   set.seed(1234)
-  students_wordcloud <- wordcloud(words = d$word, freq = d$freq, min.freq = 1,
+  
+  png(filename = file.path(output_dir, paste0("wordcloud_task_", task, ".png")),
+      width = 480,
+      height = 480,
+      res = 180)
+  students_wordcloud <- wordcloud(words = d$word, freq = d$freq, min.freq = 2,
                                   max.words=max_words, random.order=FALSE, rot.per=0.35, 
                                   colors=brewer.pal(8, "Dark2"))
-  return(students_wordcloud)
+  dev.off()
 }
