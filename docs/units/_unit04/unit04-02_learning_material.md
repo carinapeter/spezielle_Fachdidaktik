@@ -1,5 +1,5 @@
 ---
-title: Lernmaterialien
+  title: Lernmaterialien
 toc: true
 header:
    image: https://commons.wikimedia.org/wiki/File:Portal_Math_Banner_Background_ka.jpg#/media/File:Portal_Math_Banner_Background_ka.jpg
@@ -9,7 +9,7 @@ header:
 
 
 ## Datenvisualisierung
-Wie Sie spätestens seit der letzten Einheit wissen, sind Geodaten immer raumreferenziert. Trotz dieser Besonderheit bleiben Sie aber auch immer einfach Daten und werden nach statistischen Prinzipien, die über Disziplinsgrenzen hinweg Gültigkeit haben, analysiert und aufbereitet. Wenn die Daten in Diagrammen übersichtlich dargestellt werden sollen, muss geklärt sein welche Struktur die betreffenden Skalen haben und welcher Diagrammtyp entsprechend geeignet ist. Sollen Aussagen über Zusammenhänge getroffen werden, müssen diese durch statistisch tragfähige Analysen begründet werden. Eine Herausforderung, die geographiespezifisch ist, ist die Verscheidung von Daten, denen verschiedene Raumbezüge zu Grunde liegen. 
+Wie Sie spätestens seit der letzten Einheit wissen, sind Geodaten immer raumreferenziert. Trotz dieser Besonderheit bleiben Sie aber auch immer einfach Daten und werden nach statistischen Prinzipien, die über Disziplinsgrenzen hinweg Gültigkeit haben, analysiert und aufbereitet. Wenn die Daten in Diagrammen übersichtlich dargestellt werden sollen, muss geklärt sein welche Struktur die betreffenden Skalen haben und welcher Diagrammtyp entsprechend geeignet ist. Sollen Aussagen über Zusammenhänge getroffen werden, müssen diese durch statistisch tragfähige Analysen begründet werden. Eine Herausforderung, die geographiespezifisch ist, ist die Verscheidung von Daten, denen verschiedene Raumbezüge zu Grunde liegen.
 
 {% include pdf pdf="04_Datenvisualisierung.pdf" %}
 

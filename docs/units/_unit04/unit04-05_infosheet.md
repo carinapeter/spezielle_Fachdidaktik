@@ -1,5 +1,5 @@
 ---
-title: Lernmaterialien
+  title: Infosheet
 toc: true
 header:
    image: https://commons.wikimedia.org/wiki/File:Portal_Math_Banner_Background_ka.jpg#/media/File:Portal_Math_Banner_Background_ka.jpg
@@ -16,27 +16,17 @@ e = 6,11 ∗ 10^(7,48 ∗ T / (237 + T)) [hPa]
 mit T als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
 Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden.
 Die Haude-Faktoren sind in der nachfolgenden Tabelle dargestellt Hupfer et al. (2006):
-Januar
-0,20
-Februar
-0,20
-März
-0,21
-April
-0,29
-Mai
-0,29
-Juni
-0,28
-Juli
-0,26
-August
-0,25
-September
-0,23
-Oktober
-0,22
-November
-0,20
-Dezember
-0,20
+
+| Januar    | 0,20 |
+|-----------|------|
+| Februar   | 0,20 |
+| März      | 0,21 |
+| April     | 0,29 |
+| Mai       | 0,29 |
+| Juni      | 0,28 |
+| Juli      | 0,26 |
+| August    | 0,25 |
+| September | 0,23 |
+| Oktober   | 0,22 |
+| November  | 0,20 |
+| Dezember  | 0,20 |
