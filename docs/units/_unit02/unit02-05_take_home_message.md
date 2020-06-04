@@ -8,9 +8,14 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-## 02_01-L1
+Die ausführliche Nachbesprechung der Aufgabe finden Sie im ILIAS. Die zentralen Einsichten daraus sind hier zusammengefasst. 
 
-Raumabstraktion entlang des Interessensthema
+## 02_01-L1 Übung zur räumlichen Abstraktion
+
+Eine Raumabstraktion verfolgt ein Interessen, dieses leitet die Abstraktion und gibt vor, was in welcher Differenzierung beachtet wird. Dabei werden sichtbare Objekte und ihre räumliche Anordnung möglichst stringent beschrieben, dies gelingt mit schlichter Sprache besser als mit poetischen Ambitionen. In einer Beschreibung sollte nicht spekuliert werden 
+
+
+
 Raumbeschreibung ist kein literarischer Wettbewerb
 Keine Spekulationen
 Räumliche Anordnung beschreiben
