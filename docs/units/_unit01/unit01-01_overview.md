@@ -19,8 +19,8 @@ Dieser Umgang soll in dieser ersten Übung mit einem altbekannten Medium des Erd
 ## Lernziele
 
 Am Ende dieser Lehreinheit können Sie
-  * kritische Fragen an die Darstellung einer Karte stellen, die Unklarheiten bzgl. Informationsquellen und räumlicher Modellierung adressieren.
-  * anhand von Informationen zur Karte die Belastbarkeit fachlicher Aussagen bewerten.
-  * eine externe Informationsquelle nutzen um die Klassifikation eines Messwerts zu bewerten.
-  * auf Basis der Gegenüberstellung von Messwerten die Verwendung von Signaturen kritisch hinterfragen.
+  * kritische Fragen an die Darstellung einer Karte stellen, die Unklarheiten bzgl. Informationsquellen und räumlicher Modellierung adressieren,
+  * anhand von Informationen zur Karte die Belastbarkeit fachlicher Aussagen bewerten,
+  * eine externe Informationsquelle nutzen um die Klassifikation eines Messwerts zu bewerten,
+  * auf Basis der Gegenüberstellung von Messwerten die Verwendung von Signaturen kritisch hinterfragen,
   * für einzelne Informationen eine eigene kartenähnliche Visualisierung erstellen und Unterschiede in den räumlichen Mustern analysieren.

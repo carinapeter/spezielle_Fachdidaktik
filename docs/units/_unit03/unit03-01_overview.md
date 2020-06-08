@@ -30,5 +30,5 @@ Am Ende dieser Lerneinheit können Sie
 
 * namentliche, lineare und räumliche Referenzierungsmethoden unterscheiden,
 * Geoobjekte und Messungen im Raum verorten,
-* eine adäquate null-, ein-, oder zwei-dimensionale Repräsentation von Geoobjekten auf Karten auswählen und
+* eine adäquate null-, ein-, oder zwei-dimensionale Repräsentation von Geoobjekten auf Karten auswählen,
 * die Subjektivität in der Darstellung objektiv gemessener Daten erkennen.

@@ -1,8 +1,8 @@
 ---
-  title: Lernmaterialien
+title: Lernmaterialien
 toc: true
 header:
-   image: assets/Portal_Math_Banner_Background_ka.jpg
+  image: assets/Portal_Math_Banner_Background_ka.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
 ---

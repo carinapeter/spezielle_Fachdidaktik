@@ -6,20 +6,19 @@ header:
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
 ---
-Medien stellen raumzeitliche Informationen in einer aufbereiteten Form dar. Sie konfrontieren die Nutzer/innen nicht mit unübersichtlichen Tabellen von Datensätzen, sondern die Hersteller/innen haben die Daten auf aussagekräftige Informationen hin anlaysiert und diese Analyse in übersichtlicher Form visulisiert. Durch diese Aufbereitung sind Medien für eine breite Leserschaft mit begrenzten Zeitressourcen lesbar.
+Medien präsentieren raumzeitliche Informationen in einer aufbereiteten Form. Sie konfrontieren uns nicht mit unübersichtlichen Tabellen von Datensätzen, sondern mit der Sicht der Herstellerinnen und Hersteller, die die Daten aufbereitet und beispielsweise als Grafiken dargestellt haben. Durch diese Aufbereitung verschwimmen Datensätze und deren Interpretation. Die Frage ist: Wie können wir Interpretation und Information trennen?
 
 ## Was bisher geschah
-Die vergangenen Lerneinheiten hatten die Erfassung von Raum, sei es durch ganzheitliche Abstraktion, durch Referenzsysteme, die eine präzise Verortung erlauben oder gezielte Datenerhebung im Gelände, zum Thema. In dieser Übung wird die Aufarbeitung und Analyse dieser Daten fokussiert. Die Aufbereitung von Daten ist notwendig, da dieser Prozess erst eine lesbare Information generiert. Auch wenn diese Weiterverarbeitung von Daten methodisch fundiert erfolgt, stellt sie immer eine Interpretation der Daten dar.
+In den vergangenen Lerneinheiten haben Sie Räume und deren Eigenschaften durch Skizzen, durch die Verwendung von Georeferenzsystemen oder durch gezielte Geodatenerhebung erfasst und beschrieben. Dabei haben Sie von Anfang an Daten aufbereitet und visualisiert oder Darstellungsformen hinterfragt. Dies geschah immer sehr Datenbezogen, weniger aus der Perspektive der (visuellen) Modellierung von Daten und Informationen.
 
 ## Was wir in dieser Einheit vorhaben
-Sie lernen Grundzüge der Datenvisualisierung kennen und analysieren, visualisieren und verschneiden selbst räumliche Daten mit Hilfe eines Tabellenkalukalationsprogramms und stellen Sie in Form thematischer Karten dar.
+In der aktuellen Lerneinheit fokussieren wir auf die Visualisierung von Daten und Informationen und den damit verbundenen Modellierungsprozess. Es geht darum, Daten unter einer bestimmten Interpretationsperspektive aufzubereiten und darzustellen, so dass letztendlich aus Daten Informationen werden, die uns helfen, eine Fragestellung zu beantworten oder ein Ergebnis zu kommunizieren. Sie lernen Grundzüge der Datenvisualisierung kennen und analysieren, visualisieren und verschneiden selbst räumliche Daten mit Hilfe eines Tabellenkalkulationsprogramms und stellen Ihre Ergebnisse in Form thematischer Karten dar.
 
 ## Lernziele
 Am Ende dieser Lehreinheit können Sie
-* statistische Daten aus Tabellen angemessen graphisch aufbereiten
+* Diagrammtypen nennen und Anwendungsfälle unterscheiden,
 * Daten verschiedenen Ursprungs sinnvoll miteinander verschneiden
-* sich selbstständig statistische Analysen aneigenen und durchführen
-* statistische Zusammenhänge räumlich mithilfe von thematischen Karten darstellen
-* statistische Zusammenhänge kritisch reflektieren
-* verschiedene Diagrammtypen unterscheiden
-* Diagramme und thematische Karten analysieren und kritisch reflektieren.
+* einfache statistische Analysen recherchieren, bewerten und durchführen,
+* tabellarische Daten fragestellungsorientiert visualisieren,
+* räumliche Muster in den Daten mithilfe von thematischen Karten darstellen,
+* Visualisierungen und thematische Karten analysieren und bzgl. Datenbasis und Darstellung reflektieren.
