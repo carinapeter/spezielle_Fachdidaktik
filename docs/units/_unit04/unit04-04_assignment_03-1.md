@@ -1,6 +1,6 @@
 ---
   title: Aufgaben
-  
+
 toc: true
 header:
    image: https://commons.wikimedia.org/wiki/File:Portal_Math_Banner_Background_ka.jpg#/media/File:Portal_Math_Banner_Background_ka.jpg
@@ -34,6 +34,6 @@ Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger Af
 **Aufgabenstellung L2:** Berechnen Sie zudem die beiden Korrelationen zwischen der Zweitstimmenvergabe und dem Anteil der Deutschen mit protestantischem Glauben bzw. mit katholischem Glauben.
 Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
 
-**Aufgabenstellung L3:** Bitte fertigen Sie anschließend zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Sie können Ihre Karte digital oder analog erstellen.
+**Aufgabenstellung L3:** Bitte fertigen Sie anschließend zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Sie können Ihre Karte digital oder analog erstellen. Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
 
 Umfang: 6 Seiten Ihres PDF-Dokuments (eine für L1, eine für L2, drei für L3)
