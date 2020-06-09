@@ -48,7 +48,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A04-2-L3 %}
 
-Bitte fertigen Sie zwei thematische Karte an. Die erste Karte zeigt die Verteilung der Zweitstimmenanteile der AfD nach Bundesländern. Die zweite Karte zeigt den Anteil der Deutschen mit protestantischem Glauben. Sie können Ihre Karte digital oder analog erstellen. Diskutieren Sie in max. 5 Sätzen die Aussage "Protestanten wählen häufiger AfD".
+Bitte fertigen Sie zwei thematische Karte an, die den Zweitstimmenanteil der AfD nach Bundesländern mit einer oder mehrerer Glaubensrichtungen in Verbindung bring. Zeien Sie in max. 5 Sätzen, dass der Aufhänger "Protestanten wählen häufiger AfD" nicht haltbar ist.
 
 Umfang: 3 Seite in Ihrer PDF-Datei.
 {% endcapture %}

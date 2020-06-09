@@ -58,7 +58,6 @@ In Aufgabe 02 trainieren Sie die Modellierung von Raumeigenschaften. Sie üben d
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
-
 ## Aufgabe 02-L1: Beschreibung von Raumausschnitten
 In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgabe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen sollen.
 

@@ -43,13 +43,3 @@ Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung de
 Definieren wir also Geographie wie oben, so benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
 
 {% include video id="CX8Q7XxsL-c" provider="youtube" %}
-
-
-## Folien der Videos als PDF
-{% include pdf pdf="Unit 01 - 00 Raumbeschreibung und Interpretation.pdf" %}
-
-## Zusatzmaterial zu den Aufgaben
-
-### Zusatzmaterial zur Aufgabe 01-3 L1:
-
-Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179).

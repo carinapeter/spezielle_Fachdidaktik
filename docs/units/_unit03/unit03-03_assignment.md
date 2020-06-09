@@ -21,6 +21,7 @@ In Aufgabe 03 üben Sie eigenständig Eigenschaften von echten Räumen zu erfass
 {: .notice}
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen) an die Abgabe von Aufgaben.
+{: .notice--danger}
 
 ## Problemstellung
 In vielen Orten sorgt die Hauptverkehrsstraße (wie z.B. die B3 in Marburg) für Beschwerden der Anwohner der umliegenden Wohngebiete. Doch wie werden diese subjektiven Eindrücke räumlich und zeitlich valide erfasst und analysiert? Um dieser Problematik näher zu kommen sollen Sie Lärmbelastungen erfassen, analysieren und Ihre Untersuchungen dokumentieren und unter definierten Blickwinkeln diskutieren.

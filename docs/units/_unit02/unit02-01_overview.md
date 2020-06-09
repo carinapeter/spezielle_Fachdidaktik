@@ -21,3 +21,6 @@ Die aktuelle Lerneinheit setzt genau hier an. Wir erforschen die Eigenschaften v
 Am Ende dieser Lerneinheit können Sie
 * dargestellte Räume typisieren und analysieren,
 * einen Raum mit Hilfe von Beschreibungen, Skizzen oder Fotos modellieren.
+
+## Folien der Videos als PDF
+{% include pdf pdf="Unit 02 - 00 Räumliche Modellierung.pdf" %}

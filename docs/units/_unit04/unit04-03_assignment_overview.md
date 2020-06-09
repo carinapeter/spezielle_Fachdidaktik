@@ -21,6 +21,9 @@ In den Aufgaben trainieren Sie die Aufbereitung und Visualisierung von Daten. Si
 * [Religionszugehörigkeit nach Bundesländern, Statista Homepage](https://de.statista.com/statistik/daten/studie/201622/umfrage/religionszugehoerigkeit-der-deutschen-nach-bundeslaendern/)
 * Infosheet zur potentiellen Evapotranspiration nach Haude
 
+Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen) an die Abgabe von Aufgaben.
+{: .notice--danger}
+
 ## Aufgabe
 * [Aufgabe 04-01: Hygrisches Klima]({{ site.baseurl }}{% link _unit04/unit04-04_assignment_04-01.md %})
 * [Aufgabe 04-02: Wahlglauben]({{ site.baseurl }}{% link _unit04/unit04-05_assignment_04-02.md %})

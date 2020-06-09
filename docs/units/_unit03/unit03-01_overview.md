@@ -32,3 +32,6 @@ Am Ende dieser Lerneinheit können Sie
 * Geoobjekte und Messungen im Raum verorten,
 * eine adäquate null-, ein-, oder zwei-dimensionale Repräsentation von Geoobjekten auf Karten auswählen,
 * die Subjektivität in der Darstellung objektiv gemessener Daten erkennen.
+
+## Folien der Videos als PDF
+{% include pdf pdf="Unit 03 - 00 Kartographische Modellierung.pdf" %}

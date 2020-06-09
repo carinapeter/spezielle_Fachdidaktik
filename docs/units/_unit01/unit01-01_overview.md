@@ -24,3 +24,6 @@ Am Ende dieser Lehreinheit können Sie
   * eine externe Informationsquelle nutzen um die Klassifikation eines Messwerts zu bewerten,
   * auf Basis der Gegenüberstellung von Messwerten die Verwendung von Signaturen kritisch hinterfragen,
   * für einzelne Informationen eine eigene kartenähnliche Visualisierung erstellen und Unterschiede in den räumlichen Mustern analysieren.
+
+## Folien der Videos als PDF
+{% include pdf pdf="Unit 01 - 00 Raumbeschreibung und Interpretation.pdf" %}

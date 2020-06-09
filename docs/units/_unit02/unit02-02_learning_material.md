@@ -56,9 +56,6 @@ Wie wir Räume mit Ihren Kontinua erfassen und sinnvoll abgrenzen können und wi
 
 
 
-## Folien der Videos als PDF
-{% include pdf pdf="Unit 02 - 00 Räumliche Modellierung.pdf" %}
-
 
 <!--
 Vorlesung:
