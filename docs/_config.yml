@@ -163,7 +163,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "05 Informationsaufbereitung & Visualisierung"
+      category: "05 geographische Informationssysteme"
       tags: "Unit 05"
       layout: single
       sidebar:
