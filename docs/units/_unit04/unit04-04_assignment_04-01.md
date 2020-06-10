@@ -7,8 +7,7 @@ header:
   caption: "Foto: Wikimedia Commons / CC0"
 ---
 
-Walter-Lieth-Diagramme sind trotzt aller Ungenauigkeit immer noch ein beliebtes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Im Rahmen dieses Arbeitsblatts sollen Sie Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
-
+Die Verwendung von Walter-Lieth-Diagramme ist trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) ein, hinischtlich Datenverfügbarkeit und die visuell leicht erfassbare Aussage, weitverbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Sie stützen sich auf eine spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
 ## Aufgabe 04-1-L1: Walter-Lieth-Diagramm
 
@@ -30,7 +29,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A04-1-L2 %}
 
-Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 bereits aufbereiteten Datensatz (siehe [Memo unten](#memo-verdunstung-nach-haude). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssumme gegenüberstellt.
+Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 bereits aufbereiteten Datensatz (siehe [Info unten](#memo-verdunstung-nach-haude). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssumme gegenüberstellt.
 
 Interpretieren Sie mit maximal zwei sätzen das Diagramm auf Basis der berechneten Evapotranspiration.
 
@@ -58,7 +57,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Memo: Verdunstung nach Haude
+## Info: Verdunstung nach Haude
 
 Die Berechnung der Verdunstung nach Hause basiert auf der Formel:
 ```
