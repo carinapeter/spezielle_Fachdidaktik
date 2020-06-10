@@ -5,7 +5,25 @@ header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
+mathjax: true
+
 ---
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     extensions: ["tex2jax.js"],
+     jax: ["input/TeX", "output/HTML-CSS"],
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+       processEscapes: true
+     },
+     "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
 
 Die Verwendung von Walter-Lieth-Diagrammen ist trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) ein, hinsichtlich Datenverfügbarkeit und die visuell leicht erfassbare Aussage, weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Sie stützen sich auf eine spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
@@ -29,7 +47,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A04-1-L2 %}
 
-Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 bereits aufbereiteten Datensatz (siehe [Info unten](#memo-verdunstung-nach-haude). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssumme gegenüberstellt.
+Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 bereits aufbereiteten Datensatz (siehe [Info unten](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssumme gegenüberstellt.
 
 Interpretieren Sie mit maximal zwei Sätzen das Diagramm auf Basis der berechneten Evapotranspiration.
 
@@ -57,17 +75,20 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Info: Verdunstung nach Haude
 
+{% capture haude %}
+#### Info: Verdunstung nach Haude
 Die Berechnung der Verdunstung nach Hause basiert auf der Formel:
-```
-PET = k ∗ e ∗ (1 - F / 100) [mm/d]
-```
-mit PET als die potentielle Evapotranspiration, k als der Haude-Faktor (siehe Tabelle), e als der Sättigungsdampfdruck um 14:00 in hPa, F als die relative Luftfeuchte in Prozent.
 
-Der Sättigungsdampfdruck e [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden:
-e = 6,11 ∗ 10^(7,48 ∗ T / (237 + T)) [hPa]
-mit T als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
+$$ PET = k ∗ e ∗ (1 - F / 100) [mm/d]$$
+
+mit $PET$ als die potentielle Evapotranspiration, $k$ als der Haude-Faktor (siehe Tabelle), $e$ als der Sättigungsdampfdruck um 14:00 in hPa, $F$ als die relative Luftfeuchte in Prozent.
+
+Der Sättigungsdampfdruck $e$ [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden: 
+
+$$e = 6,11 ∗ 10^(7,48 ∗ T / (237 + T)) [hPa]$$
+
+mit $T$ als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
 Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden.
 Die Haude-Faktoren sind in der nachfolgenden Tabelle nach [Hupfer et al. (2006)](https://www.springer.com/de/book/9783322967497) dargestellt:
 
@@ -85,3 +106,9 @@ Die Haude-Faktoren sind in der nachfolgenden Tabelle nach [Hupfer et al. (2006)]
 | Oktober   | 0,22 |
 | November  | 0,20 |
 | Dezember  | 0,20 |
+{% endcapture %}
+
+<div class="notice--info">
+    
+  {{ haude | markdownify }}
+</div>
