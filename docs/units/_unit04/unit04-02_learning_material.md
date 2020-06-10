@@ -2,7 +2,7 @@
 title: Datenvisualisierung
 toc: true
 header:
-  image: assets/Portal_Math_Banner_Background_ka.jpg
+  image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
 ---
