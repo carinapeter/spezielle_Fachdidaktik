@@ -8,6 +8,8 @@ header:
 ---
 Medien präsentieren raumzeitliche Informationen in einer aufbereiteten Form. Sie konfrontieren uns nicht mit unübersichtlichen Tabellen von Datensätzen, sondern mit der Sicht der Herstellerinnen und Hersteller, die die Daten aufbereitet und beispielsweise als Grafiken dargestellt haben. Durch diese Aufbereitung verschwimmen Datensätze und deren Interpretation. Die Frage ist: Wie können wir Interpretation und Information trennen?
 
+<!--more-->
+
 ## Was bisher geschah
 In den vergangenen Lerneinheiten haben Sie Räume und deren Eigenschaften durch Skizzen, durch die Verwendung von Georeferenzsystemen oder durch gezielte Geodatenerhebung erfasst und beschrieben. Dabei haben Sie von Anfang an Daten aufbereitet und visualisiert oder Darstellungsformen hinterfragt. Dies geschah immer sehr Datenbezogen, weniger aus der Perspektive der (visuellen) Modellierung von Daten und Informationen.
 

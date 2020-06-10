@@ -8,9 +8,9 @@ header:
 
 
 
-<!--more-->
-
 Die Erde ist keine Kugel. Sie ist an den Polen um ca. 21 km abgeplattet und hat ein komplexes Relief, das zudem vom Marianengraben bis zum Mt. Everest einen Höhenunterschied von etwa 20 km aufweist. Wenn wir Lage und Geometrie von dreidimensionalen Raummodellen mathematisch in zweidimensionalen Medien abbilden wollen, stehen wir vor der Frage: Wie kommt das Runde in das Eckige?
+
+<!--more-->
 
 ## Was bisher geschah
 
