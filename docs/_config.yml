@@ -153,7 +153,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "04 Datenanalyse & Informationsgewinn"
+      category: "04 Datenanalyse & Ableitung von Informationen"
       tags: "Unit 04"
       layout: single
       sidebar:
