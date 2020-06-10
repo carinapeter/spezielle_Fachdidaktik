@@ -25,7 +25,7 @@ mathjax: true
    });
 </script>
 
-Die Verwendung von Walter-Lieth-Diagrammen ist trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) ein, hinsichtlich Datenverfügbarkeit und die visuell leicht erfassbare Aussage, weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Sie stützen sich auf eine spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
+Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen  Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Tempereatur. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
 ## Aufgabe 04-1-L1: Walter-Lieth-Diagramm
 
