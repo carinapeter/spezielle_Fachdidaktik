@@ -50,22 +50,30 @@ panel4:
 
 ---
 
+In Aufgabe 02 trainieren Sie die Modellierung von Raumeigenschaften. Sie üben die erforderliche Abstraktionsleistung zunächst an vorgegebenen Bildern und Skizzen. Anschließend modellieren Sie selbst einen Raum und nutzen dabei qualitative Methoden. Zum Abschluss stellen Sie den Raum in einer kartenähnlichen Skizze dar.
+
+## Benötigte Materialien für die Aufgaben
+* Papier und Stifte
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
-
-
-## Aufgabe 02-1 Übungen zur räumlichen Abstraktion
-In der Aufgabe üben Sie räumliche Abstraktion an Bildern und Skizzen.
-
-### Aufgabe 02-1-L1
+## Aufgabe 02-L1: Beschreibung von Raumausschnitten
 In der Aufgabe üben Sie Raumausschnitte unter vorgegebenen Gesichtspunkten zu beschreiben. Sie finden nachstehend drei Bilderreihen, die jeweils offensichtliche Gemeinsamkeiten aufweisen. Die Bilder sollen für eine webbasierte Kampagne des BUND (Bund für Umwelt und Naturschutz Deutschland e.V.) zur Illustration benutzt werden. Die Bilderreihen sollen für die Lebensräume *Gehölzstreifen*, *Auenlandschaft* und *Parks* mit ihren typischen Strukturmerkmalen sensibilisieren. Ihre Aufgabe ist es, aussagekräftige Beschreibungstexte für jedes einzelne Bild zu erstellen. Zusätzlich sollen sie jede Bilderreihe insgesamt mit geeigneten Schlagworten typisieren. Stellen Sie sich vor, dass Ihre Beschreibungen und Schlagworte blinden Menschen einen Zugang zum Charakter der dargestellten Räume ermöglichen sollen.
 
-**Aufgabenstellung 02-1-L1**: (i) Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt, ohne auf andere Bilder aus der Reihe zu verweisen. (ii) Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
-{: .notice--success}
+{% capture A02-L1 %}
+
+1. Beschreiben Sie jedes Bild mit einem prägnanten Satz, der die wesentlichen Raumelemente beschreibt, ohne auf andere Bilder aus der Reihe zu verweisen.
+1. Verschlagworten Sie jede Bildreihe gemeinsam mit maximal 5 Schlagworten, die die zentralen Merkmale innerhalb der Bildreihe abdecken.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
+
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Aufgabenstellung 02-L1:</h4>
+  {{ A02-L1 | markdownify }}
+</div>
 
 **Tipp**: Analysieren Sie die Raummerkmale kontrastierend, durch eine Gegenüberstellung der dominierenden Raumstrukturen. Dies hilft Ihnen relevante Elemente möglichst klar herauszuarbeiten. Listen Sie keine Details auf.
 {: .notice--info}
@@ -86,33 +94,48 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% include gallery id="panel3"  caption= "Fotos: (links) [Bild 3a](https://w.wiki/Qtj) Simon-Martin, (mitte) [Bild 3b](https://w.wiki/Qtk) Penguin2008, (rechts) [Bild 3c](https://w.wiki/Qtm) Ffruehstueck, alle Bilder CC BY-SA via commons.wikimedia.org" %}
 
 
+## Aufgabe 02-L2: Bewertung von Raumabstraktionen
 
-
-### Aufgabe 02-1-L2
 In der Aufgabe üben Sie schematische Raumbeschreibungen einzuschätzen. Als Grundlage dienen ein Text und zwei Skizzen von Alexander v. Humboldt. Er erforschte 1802 den Pichincha Vulkan in der Nähe von Quito, Ecuador, und beschrieb erstmalig systematisch den Vulkan. Seine Aufzeichnungen und Skizzen finden sie nachfolgend verlinkt: (a) [Entwurf einer physischen Weltbeschreibung](http://www.deutschestextarchiv.de/book/view/humboldt_kosmos04_1858?p=273) (Humboldt, A.v. (1858) Kosmos. Bd. 4. Stuttgart u. a., 268-290), (b) [Querschnittskizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0806&view=overview-toc&DMDID=DMDLOG_0001) (Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc), (c) [Topographische Skizze des Pichincha](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN779884310&PHYSID=PHYS_0820&view=overview-toc&DMDID=DMDLOG_0001) (Humboldt, A.v., Tagebücher der Amerikanischen Reise VIIbb et VIIc).
 
 Für die Bearbeitung der Aufgabe können Sie sich an folgenden Leitfragen orientieren: Wie ist Humboldt bei der Abstraktion des Raumes vorgegangen? Nach welchen Merkmalen strukturiert Humboldt seinen Text und abstrahiert damit auch den Raum? Welche Art von Skizzen hat Humboldt hier gezeichnet? Wie stellt sich in diesen der Raum dar?
 
-**Aufgabenstellung 02-1-L2**: Nennen Sie bitte die wesentlichen Merkmale der beiden Skizzen und bewerten Sie den Informationsgehalt der beiden Skizzen mit jeweils maximal drei Sätzen. Vergleichen Sie anschließend den Informationsgehalt der Skizzen mit den Informationen im Text. Welche Arten von Informationen über den Raum finden sich (i) nur im Text, (ii) nur in den Skizzen und (iii) in beiden Medien gleichermaßen. Stellen sie die Informationsarten in einer dreispaltigen Tabelle gegenüber.
-{: .notice--success}
+{% capture A02-L2 %}
+
+Nennen Sie bitte die wesentlichen Merkmale der beiden Skizzen und bewerten Sie den Informationsgehalt der beiden Skizzen mit jeweils maximal drei Sätzen. Vergleichen Sie anschließend den Informationsgehalt der Skizzen mit den Informationen im Text. Welche Arten von Informationen über den Raum finden sich (i) nur im Text, (ii) nur in den Skizzen und (iii) in beiden Medien gleichermaßen. Stellen sie die Informationsarten in einer dreispaltigen Tabelle gegenüber.
 
 Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 
+{% endcapture %}
 
-### Aufgabe 02-1-L3
+<div class="notice--success">
+  <h4 class="no_toc">Aufgabenstellung 02-L1:</h4>
+  {{ A02-L2 | markdownify }}
+</div>
+
+### Aufgabe 02-L3: Erstellen von Raumskizzen
 In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.
 
 Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren: Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen? Sind die Kategorien als Information für Dritte geeignet? Ist Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
-
-
 {% include gallery id="panel4"  caption= "Foto: [Felsengarten Sanspareil](https://w.wiki/Qvt) Presse03 / CC BY-SA via commons.wikimedia.org" %}
 
 
+{% capture A02-L3 %}
 
+Erfassen Sie folgende Kategorien
+* Landnutzung (in Form von Landnutzungsarten),
+* Straßennetz und
+* Bebauungsfläche in einer Handskizze.
 
-**Aufgabenstellung 02-1-L3**: Erfassen Sie folgende Kategorien (a) **Landnutzung** (in Form von Landnutzungsarten), (b) **Straßennetz** und (c) **Bebauungsfläche** in einer Handskizze.
-(i) Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts unter Berücksichtigung der geforderten Kategorien. Fassen Sie in Ihrer Skizze die Kategorien räumlich in geeigneter Weise zusammen. (ii) Schreiben Sie in Stichpunkten Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte auf.
-{: .notice--success}
+1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts unter Berücksichtigung der geforderten Kategorien. Fassen Sie in Ihrer Skizze die Kategorien räumlich in geeigneter Weise zusammen.
+1. Schreiben Sie in Stichpunkten Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte auf.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
+
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Aufgabenstellung 02-L1:</h4>
+  {{ A02-L3 | markdownify }}
+</div>

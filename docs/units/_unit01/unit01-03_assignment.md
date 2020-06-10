@@ -39,7 +39,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 **Aufgabenstellung 01-1-L2:** Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? Formulieren Sie mindestens drei Fragen.
 {: .notice--success}
 
-Umfang: 1 Seite in Ihrer PDF-Datei. 
+Umfang: 1 Seite in Ihrer PDF-Datei.
 
 **Aufgabenstellung 01-1-L3:** Vergleichen Sie die Karten, welche Veränderungen sind festzustellen? Womit lassen sich die Veränderungen begründen? Geben Sie die Veränderungen als Stichpunkte an und begründen Sie diese mit ganzen Sätzen.
 {: .notice--success}
@@ -50,7 +50,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 
-**Aufgabenstellung 01-2-L1:** Interpretieren Sie die Ozonverteilung bezüglich räumlicher Muster und möglicher Zusammenhänge. Formulieren Sie drei Sätze 
+**Aufgabenstellung 01-2-L1:** Interpretieren Sie die Ozonverteilung bezüglich räumlicher Muster und möglicher Zusammenhänge. Formulieren Sie drei Sätze
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -60,7 +60,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
-  
+
 **Aufgabenstellung 01-02-L3:** Begründen Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen, nutzen Sie dafür sowohl offizielle Datenreihen als auch Literatur zur Erhebung von aussagekräftigen Ozonwerten. Verfassen Sie Ihre Begründung unter Nennung der Quellen in fünf Sätzen.
 {: .notice--success}
 
@@ -72,6 +72,9 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 **Aufgabenstellung 01-03-L1:** Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung? Beschreiben und bewerten Sie die Art der Darstellung der Schallbelastung und der Lufthygiene in drei Sätzen.
 {: .notice--success}
+
+**Tipp**: Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179).
+{: .notice--info}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 

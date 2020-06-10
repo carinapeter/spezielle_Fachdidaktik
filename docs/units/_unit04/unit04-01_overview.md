@@ -1,12 +1,24 @@
 ---
-title: Übersicht
+  title: Übersicht
+toc: true
+header:
+  image: assets/Portal_Math_Banner_Background_ka.jpg
+  image_description: "Unübersichtlich beschriebene Universitätstafel"
+  caption: "Foto: Wikimedia Commons / CC0"
 ---
+Medien präsentieren raumzeitliche Informationen in einer aufbereiteten Form. Sie konfrontieren uns nicht mit unübersichtlichen Tabellen von Datensätzen, sondern mit der Sicht der Herstellerinnen und Hersteller, die die Daten aufbereitet und beispielsweise als Grafiken dargestellt haben. Durch diese Aufbereitung verschwimmen Datensätze und deren Interpretation. Die Frage ist: Wie können wir Interpretation und Information trennen?
 
-Sie lernen Grundlagen geographischer Informationssysteme kennen und analysieren und visualisieren selbst räumliche Daten mit Hilfe der Software.
+## Was bisher geschah
+In den vergangenen Lerneinheiten haben Sie Räume und deren Eigenschaften durch Skizzen, durch die Verwendung von Georeferenzsystemen oder durch gezielte Geodatenerhebung erfasst und beschrieben. Dabei haben Sie von Anfang an Daten aufbereitet und visualisiert oder Darstellungsformen hinterfragt. Dies geschah immer sehr Datenbezogen, weniger aus der Perspektive der (visuellen) Modellierung von Daten und Informationen.
 
-<!--more-->
+## Was wir in dieser Einheit vorhaben
+In der aktuellen Lerneinheit fokussieren wir auf die Visualisierung von Daten und Informationen und den damit verbundenen Modellierungsprozess. Es geht darum, Daten unter einer bestimmten Interpretationsperspektive aufzubereiten und darzustellen, so dass letztendlich aus Daten Informationen werden, die uns helfen, eine Fragestellung zu beantworten oder ein Ergebnis zu kommunizieren. Sie lernen Grundzüge der Datenvisualisierung kennen und analysieren, visualisieren und verschneiden selbst räumliche Daten mit Hilfe eines Tabellenkalkulationsprogramms und stellen Ihre Ergebnisse in Form thematischer Karten dar.
 
+## Lernziele
 Am Ende dieser Lehreinheit können Sie
-  * grundlegende Funktionen eines webbasierten geographischen Informationssystems (GIS) nutzen.
-  * verschiedene Daten kartographisch in einem GIS angemessen darstellen.
-
+* Diagrammtypen nennen und Anwendungsfälle unterscheiden,
+* Daten verschiedenen Ursprungs sinnvoll miteinander verschneiden
+* einfache statistische Analysen recherchieren, bewerten und durchführen,
+* tabellarische Daten fragestellungsorientiert visualisieren,
+* räumliche Muster in den Daten mithilfe von thematischen Karten darstellen,
+* Visualisierungen und thematische Karten analysieren und bzgl. Datenbasis und Darstellung reflektieren.
