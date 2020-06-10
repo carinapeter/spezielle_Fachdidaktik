@@ -1,5 +1,5 @@
 ---
-title: Lernmaterialien
+title: Datenvisualisierung
 toc: true
 header:
   image: assets/Portal_Math_Banner_Background_ka.jpg
@@ -7,14 +7,17 @@ header:
   caption: "Foto: Wikimedia Commons / CC0"
 ---
 
+Für die Analyse von Datensätzen und die Kommunikation der Ergebnisse sind Grafiken sehr häufig das Mittel der Wahl. Die Visualisierung von Datensätzen bietet den Betrachterinnen und Betrachtern einen einfacheren Zugang auch zu komplexen Datensätzen und das menschliche Gehirn ist per se gut in der Mustererkennung trainiert. Grafiken sollten gerade deshalb nicht als Ergebnisdarstellung verstanden werden, sondern im gesamten Arbeitsprozess, also auch bei z.B. der Fehlerkontrolle oder Analyse, genutzt werden. Verteilungen, Muster oder Ausreißer in den Daten sind durch einen Blick auf die Grafik häufig leichter zu erkennen, als durch aufwendige maschinelle Verfahren. Der Paradigmenwechsel von der Grafik als Endprodukt hin zum Arbeitsmittel bildet auch die Grundlage für eine interdisziplinär zusammenarbeitenden Wissenschaftsrichtung, die mit "Visual Analytics" die Visualisierung von Daten entlang des gesamten Arbeitsablaufs integriert.
 
-## Datenvisualisierung
-Wie Sie spätestens seit der letzten Einheit wissen, sind Geodaten immer raumreferenziert. Trotz dieser Besonderheit bleiben Sie aber auch immer einfach Daten und werden nach statistischen Prinzipien, die über Disziplinsgrenzen hinweg Gültigkeit haben, analysiert und aufbereitet. Wenn die Daten in Diagrammen übersichtlich dargestellt werden sollen, muss geklärt sein welche Struktur die betreffenden Skalen haben und welcher Diagrammtyp entsprechend geeignet ist. Sollen Aussagen über Zusammenhänge getroffen werden, müssen diese durch statistisch tragfähige Analysen begründet werden. Eine Herausforderung, die geographiespezifisch ist, ist die Verscheidung von Daten, denen verschiedene Raumbezüge zu Grunde liegen.
+Im Folgenden lernen Sie zwei Varianten der Visualisierung (noch einmal) näher kennen.
 
-{% include pdf pdf="04_Datenvisualisierung.pdf" %}
+## Visualisierung von Daten in Grafiken
+Daten in Grafiken zu visualisieren ist uns aus dem Alltag und der Wissenschaft vertraut. Grundsätzlich handelt es sich bei der Datenvisualisierung - wie auch bei der räumlichen und kartographischen Modellierung -  um einen Modellierungsprozess. Auch hier spielt also die Fragestellung, unter der die Daten visualisiert werden, eine entscheidende Rolle. Hinzu kommt die Kompetenz und Motivation der Person, die die Visualisierung erstellt. Im Ergebnis heißt das: Eine Grafik ist ein Modell, entsprechen eingeschränkt gültig, subjektiv und damit immer auch potentiell manipulativ. Seien Sie sich dessen bewusst, wenn Sie eine Grafik betrachten und hinterfragen Sie immer, wieso die Grafik so auf sie wirkt, wie sie es bei sich feststellen.
+
+{% include video id="WZ6DBsOVixU" provider="youtube" %}
 
 
-## Thematische Karten
-In Geodaten können auch Informationen codiert sein, deren räumliche Betrachtung interessant ist, obgleich sie nicht zum sichtbaren Teil der Erdoberfläche gehören und folglich keinen Einzug in die bereits eingeführten topographischen Karten erhalten. Um diesen Daten in ihrer räumlichen Komponente übersichtlich darzustellen, werden thematische Karte eingesetzt. Hier gilt es wieder die aus der Einheit zur Abstraktion bekannten Unterschiede zwischen diskreten und kontinuierlichen Raumobjekten zu beachten. Es ist zwingend zunächst zu erfassen für welchen Raum die Daten Aussagekraft haben, um anschließend die passende kartographische Darstellungsform wählen zu können. Häufig bietet es sich auch an Diagramme in thematische Karten einzubinden, deren Güte ist natürlich wie oben zu refelektieren.
+## Visualisierung von Daten in thematischen Karten
+Während topographische Karten Informationen zur physischen Erdoberfläche liefern, können thematische Karten alle anderen Informationen und deren geographische Verteilung enthalten. Thematische Karten sind damit eine weitere Modellform der Datenvisualisierung. Grundsätzlich muss man dabei die Visualisierungsmöglichkeiten nach der Art der Daten (qualitativ, quantitativ) und des Raumbezugs (diskret, kontinuierlich) unterscheiden, der im folgenden kurz illustriert wird.
 
-{% include pdf pdf="04_Thematische_Karten.pdf" %}
+{% include video id="hoewwGqwZUs" provider="youtube" %}

@@ -1,5 +1,5 @@
 ---
-title: Lernmaterialien
+title: Modellierung und Abbildung von Räumen
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -7,7 +7,6 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-## Modellierung und Abbildung von Räumen
 
 {% include video id="LgwetO8etR4" provider="youtube" %}
 

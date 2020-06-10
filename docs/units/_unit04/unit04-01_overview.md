@@ -1,5 +1,5 @@
 ---
-  title: Übersicht
+title: Übersicht
 toc: true
 header:
   image: assets/Portal_Math_Banner_Background_ka.jpg
@@ -13,6 +13,8 @@ In den vergangenen Lerneinheiten haben Sie Räume und deren Eigenschaften durch 
 
 ## Was wir in dieser Einheit vorhaben
 In der aktuellen Lerneinheit fokussieren wir auf die Visualisierung von Daten und Informationen und den damit verbundenen Modellierungsprozess. Es geht darum, Daten unter einer bestimmten Interpretationsperspektive aufzubereiten und darzustellen, so dass letztendlich aus Daten Informationen werden, die uns helfen, eine Fragestellung zu beantworten oder ein Ergebnis zu kommunizieren. Sie lernen Grundzüge der Datenvisualisierung kennen und analysieren, visualisieren und verschneiden selbst räumliche Daten mit Hilfe eines Tabellenkalkulationsprogramms und stellen Ihre Ergebnisse in Form thematischer Karten dar.
+
+{% include video id="A9AnS6y0LUI" provider="youtube" %}
 
 ## Lernziele
 Am Ende dieser Lehreinheit können Sie
