@@ -7,7 +7,7 @@ header:
   caption: "Foto: Wikimedia Commons / CC0"
 ---
 
-Die Verwendung von Walter-Lieth-Diagramme ist trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) ein, hinischtlich Datenverfügbarkeit und die visuell leicht erfassbare Aussage, weitverbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Sie stützen sich auf eine spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
+Die Verwendung von Walter-Lieth-Diagrammen ist trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) ein, hinsichtlich Datenverfügbarkeit und die visuell leicht erfassbare Aussage, weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes in Schulbüchern und Atlanten. Sie stützen sich auf eine spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
 ## Aufgabe 04-1-L1: Walter-Lieth-Diagramm
 
@@ -31,7 +31,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 bereits aufbereiteten Datensatz (siehe [Info unten](#memo-verdunstung-nach-haude). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssumme gegenüberstellt.
 
-Interpretieren Sie mit maximal zwei sätzen das Diagramm auf Basis der berechneten Evapotranspiration.
+Interpretieren Sie mit maximal zwei Sätzen das Diagramm auf Basis der berechneten Evapotranspiration.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
@@ -65,7 +65,7 @@ PET = k ∗ e ∗ (1 - F / 100) [mm/d]
 ```
 mit PET als die potentielle Evapotranspiration, k als der Haude-Faktor (siehe Tabelle), e als der Sättigungsdampfdruck um 14:00 in hPa, F als die relative Luftfeuchte in Prozent.
 
-Der Sättigungsdampfdruck e [hPa] kann nach der Magnus-Formel z. B. wie folgt berechnet werden:
+Der Sättigungsdampfdruck e [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden:
 e = 6,11 ∗ 10^(7,48 ∗ T / (237 + T)) [hPa]
 mit T als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
 Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden.
