@@ -46,7 +46,7 @@ LE-01:
     children:
       - title: "Übersicht"
         url: /unit01/unit01-01_overview.html
-      - title: "Lernmaterialen - Raumbeschreibung und Interpretation"
+      - title: "LM - Raumbeschreibung und Interpretation"
         url: /unit01/unit01-02_learning_material.html        
       - title: "Aufgabe A01"
         url: /unit01/unit01-03_assignments_overview.html
@@ -61,7 +61,7 @@ LE-02:
     children:
       - title: "Übersicht"
         url: /unit02/unit02-01_overview.html
-      - title: "Lernmaterialen - Modellierung und Abbildung von Räumen"
+      - title: "LM - Modellierung und Abbildung von Räumen"
         url: /unit02/unit02-02_learning_material.html        
       - title: "Aufgabe A02"
         url: /unit02/unit02-03_assignments_overview.html
@@ -75,11 +75,11 @@ LE-03:
     children:
       - title: "Übersicht"
         url: /unit03/unit03-01_overview.html
-      - title: "Lernmaterialen - Verortung im Raum"
+      - title: "LM - Verortung im Raum"
         url: /unit03/unit03-02-01_learning_material_spatial_reference.html   
-      - title: "Lernmaterialen - Geodaten und Geoobjekte"
+      - title: "LM - Geodaten und Geoobjekte"
         url: /unit03/unit03-02-02_learning_material_geodata.html          
-      - title: "Lernmaterialen - Datenerfassung und Darstellung"
+      - title: "LM - Datenerfassung und Darstellung"
         url: /unit03/unit03-02-03_learning_material_remote_sensing.html                  
       - title: "Aufgabe A03"
         url: /unit03/unit03-03_assignments_overview.html
@@ -94,7 +94,7 @@ LE-04:
     children:
       - title: "Überblick"
         url: /unit04/unit04-01_overview.html
-      - title: "Datenvisualisierung"
+      - title: "LM - Datenvisualisierung"
         url: /unit04/unit04-02_learning_material.html        
       - title: "Aufgabe A04"
         url: /unit04/unit04-03_assignment_overview.html
