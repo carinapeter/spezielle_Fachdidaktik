@@ -1,5 +1,5 @@
 ---
-  title: Mitzunehmen aus der Aufgabenbearbeitung…
+title: Mitzunehmen aus der Aufgabenbearbeitung…
 toc: true
 header:
   image: /assets/images/02-splash.jpg
