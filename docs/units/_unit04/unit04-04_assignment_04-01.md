@@ -32,7 +32,7 @@ Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, 
 
 {% capture A04-1-L1 %}
 
-Erstellen Sie bitte ein Walter-Lieth-Diagramm auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe auf Basis des in dem [zur Verfügung gestellten Datensatzes](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) enthaltenen Zeitraums. Lücken in der zur Verfügung gestellten Zeitserie müssen Sie dabei nicht explizit berücksichtigen.
+Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen sie hierfür den auf ILias verfügbaren [Datensatz](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) und orientieren sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie dass Lücken Zeitserie nicht aufgefüllt oder andersweitig explizit berücksichtigt werden müssen.
 
 Interpretieren Sie mit maximal zwei Sätzen das Walter-Lieth-Diagramm.
 
@@ -48,7 +48,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A04-1-L2 %}
 
-Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 bereits aufbereiteten Datensatz (siehe [Info unten](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssumme gegenüberstellt.
+Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 von Ihnen bereits aufbereiteten Datensatz (zur Berechnung siehe [Info Berechnung Haude](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssummen gegenüberstellt.
 
 Interpretieren Sie mit maximal zwei Sätzen das Diagramm auf Basis der berechneten Evapotranspiration.
 
@@ -65,7 +65,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A04-1-L3 %}
 
-Diskutieren Sie die beiden erstellten Diagramme im Vergleich mit maximal zwei Sätzen. Nennen und Begründen Sie anschließend jeweils einen kritischen Punkt in der jeweiligen Darstellungs- bzw. Berechnungsform mit insgesamt maximal vier Sätzen.
+Vergleichen Sie die beiden erstellten Diagramme und diskutieren Sie ihre Analyse mit maximal zwei Sätzen. Nennen und Begründen Sie anschließend jeweils einen kritischen Aspekt, sowohl in der jeweiligen Darstellungs- als auch Berechnungsform mit insgesamt maximal vier Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
@@ -82,20 +82,20 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 Die Berechnung der Verdunstung nach Hause basiert auf der Formel:
 
 
-$$ PET = k \cdot e \cdot  {(1 - F) \over 100 }[mm/d]$$
+$$ PET = k \cdot e  \cdot  {(1 - F) \over 100 }[mm/d]$$
 
 
 
-mit $PET$ als die potentielle Evapotranspiration, $k$ als der Haude-Faktor (siehe Tabelle), $e$ als der Sättigungsdampfdruck um 14:00 in hPa, $F$ als die relative Luftfeuchte in Prozent.
+mit: $PET$ als die potentielle Evapotranspiration, $k$ als dem Haude-Faktor (siehe nachfolgnde Tabelle), $e$ als der Sättigungsdampfdruck um 14:00 in hPa und $F$ als der relativen Luftfeuchte in Prozent.
 
 Der Sättigungsdampfdruck $e$ [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden: 
 
 
-$$ e = {6,11 \cdot   10} ^ {(7,48 ∗ T) \over (237 + T)} [hPa]$$
+$$ e = {6,11 \cdot   10} ^ {(7,48 ∗ T_{max}) \over (237 + T_{max})} [hPa]$$
 
-mit $T$ als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
-Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden.
-Die Haude-Faktoren sind in der nachfolgenden Tabelle nach [Hupfer et al. (2006)](https://www.springer.com/de/book/9783322967497) dargestellt:
+mit: $T_{max}$ als der maximalen Lufttemperatur in Grad Celsius.
+
+Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden. Die Haude-Faktoren sind in der nachfolgenden Tabelle nach [Hupfer et al. (2006)](https://www.springer.com/de/book/9783322967497) dargestellt:
 
 |Monat      | Haude-Faktor|
 |-----------|------|
@@ -114,6 +114,5 @@ Die Haude-Faktoren sind in der nachfolgenden Tabelle nach [Hupfer et al. (2006)]
 {% endcapture %}
 
 <div class="notice--info">
-    
   {{ haude | markdownify }}
 </div>
