@@ -1,14 +1,11 @@
 ---
-title: A04-1 Hygrisches Klima
+title: A04-1 | Hygrisches Klima
 toc: true
 header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
 mathjax: true
-sidebar:
-  nav: "LE-04"
-
 ---
 <script type="text/javascript" async
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
@@ -89,7 +86,7 @@ $$ PET = k \cdot e  \cdot  {(1 - F) \over 100 }[mm/d]$$
 
 mit: $PET$ als die potentielle Evapotranspiration, $k$ als dem Haude-Faktor (siehe nachfolgnde Tabelle), $e$ als der Sättigungsdampfdruck um 14:00 in hPa und $F$ als der relativen Luftfeuchte in Prozent.
 
-Der Sättigungsdampfdruck $e$ [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden: 
+Der Sättigungsdampfdruck $e$ [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden:
 
 
 $$ e = {6,11 \cdot   10} ^ {(7,48 ∗ T_{max}) \over (237 + T_{max})} [hPa]$$

@@ -5,11 +5,6 @@ header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
-
-sidebar:
-  nav: "LE-04"
-
-  
 ---
 Medien präsentieren raumzeitliche Informationen in einer aufbereiteten Form. Sie ermöglichen uns unübersichtliche Tabellen oder Datensätze aus einer spezifischen Perspektive aufzubereiten und so beispielsweise als Grafiken darzustellen. Durch diese Aufbereitung werden Datensätze und deren Interpretation verschmolzen. Die Frage ist: Wie hängen Interpretation und Information zusammen -lassen sie sich trennen?
 

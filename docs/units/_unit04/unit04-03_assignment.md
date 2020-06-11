@@ -1,12 +1,10 @@
 ---
-title: Aufgabe A04
+title: A04 | Visualisierung
 toc: true
 header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
-sidebar:
-  nav: "LE-04"
 ---
 #  Datenanalyse und Visualisierung
 In den Aufgaben trainieren Sie die Aufbereitung und Visualisierung von Daten. Sie üben in der ersten Aufgabe Zeitreihen zusammenzustellen und klimatische Aussagen zu treffen.  In der zweiten Aufgabe untersuchen Sie ob Wahlverhalten eine Glaubensfrage ist und erstellen thematische Karten.
@@ -27,5 +25,5 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 {: .notice--danger}
 
 ## Aufgaben
-* [Aufgabe 04-01: Hygrisches Klima]({{ site.baseurl }}{% link _unit04/unit04-03-02_assignment.md %})
-* [Aufgabe 04-02-02: Wahlglauben]({{ site.baseurl }}{% link _unit04/unit04-03-03_assignment.md %})
+* [Aufgabe 04-01: Hygrisches Klima]({{ site.baseurl }}{% link _unit04/unit04-04_assignment.md %})
+* [Aufgabe 04-02-02: Wahlglauben]({{ site.baseurl }}{% link _unit04/unit04-05_assignment.md %})

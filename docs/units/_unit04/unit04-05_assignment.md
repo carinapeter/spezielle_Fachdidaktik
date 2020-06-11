@@ -1,12 +1,10 @@
 ---
-title: A04-2 Wahlglauben
+title: A04-2 | Wahlglauben
 toc: true
 header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
-sidebar:
-  nav: "LE-04"  
 ---
 
 Im Rahmen einer Unterrichtseinheit zur politischen Geographie nehmen Sie ein Interview aus einer HR-Info Sendung im Rahmen des katholischen Kirchentags 2018 zum Anlass, den (vermeintlichen) Zusammenhang zwischen AfD-Wählerstimmen und der Zugehörigkeit zur evangelischen Kirche zu untersuchen.

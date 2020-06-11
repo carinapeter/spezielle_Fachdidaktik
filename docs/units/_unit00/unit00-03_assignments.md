@@ -1,13 +1,8 @@
 ---
+title: Studien- & Prüfungsleistung
 header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
-
-
-title: Studien- & Prüfungsleistung
-
-sidebar:
-  nav: "LE-00"
 ---
 
 ## Studienleistung

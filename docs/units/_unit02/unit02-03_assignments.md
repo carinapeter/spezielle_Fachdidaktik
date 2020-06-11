@@ -1,13 +1,10 @@
 ---
-title: Aufgabe A02
+title: A02 | Raummodellierung
 toc: true
 header:
   image: /assets/images/02-splash.jpg
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
-
-sidebar:
-  nav: "LE-02"  
 
 panel1:  
   - url: https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/
@@ -116,7 +113,7 @@ Umfang: 2 Seiten Ihrer PDF-Datei (1 Text, 1 Tabelle).
 </div>
 
 ### Aufgabe 02-L3: Erstellen von Raumskizzen
-In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02-01_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.
+In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.
 
 Für die Bearbeitung der Aufgabe, können Sie sich an folgenden Leitfragen orientieren: Sind die abgeleiteten Kategorien geeignet, die von Ihnen identifizierte Interpretation des Raumes darzustellen? Sind die Kategorien als Information für Dritte geeignet? Ist Ihre Skizze geeignet, Ihre Raumabstraktion zielgerichtet zu illustrieren?
 
