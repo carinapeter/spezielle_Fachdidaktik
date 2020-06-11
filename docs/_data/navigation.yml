@@ -103,3 +103,34 @@ LE-04:
       - title: "A04-2 Wahlglauben"
         url: /unit04/unit04-05_assignment_04-02.html
 
+LE-05:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "05 Aufbereitung von Informationen & Visualisierung"
+    children:
+      - title: "Überblick"
+        url: /unit05/unit05-01_overview.html
+      - title: "LM - "
+        url: /unit05/unit05-02_learning_material.html        
+      - title: "Aufgabe A05"
+        url: /unit05/unit05-03_assignment_overview.html
+#      - title: "A05-1 "
+#        url: /unit05/unit05-04_assignment_05-01.html
+#      - title: "A05-2 "
+#        url: /unit05/unit05-05_assignment_05-02.html
+
+LE-06:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "06 Mediennutzung & Reflexion"
+    children:
+      - title: "Überblick"
+        url: /unit06/unit06-01_overview.html
+      - title: "LM - "
+        url: /unit06/unit06-02_learning_material.html        
+      - title: "Aufgabe A06"
+        url: /unit06/unit06-03_assignment_overview.html
+#      - title: "A06-1 "
+#        url: /unit06/unit06-04_assignment_06-01.html
+#      - title: "A06-2 "
+#        url: /unit06/unit06-05_assignment_06-02.html
