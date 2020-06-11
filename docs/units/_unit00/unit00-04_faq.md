@@ -1,6 +1,11 @@
 ---
 title: FAQ
+header:
+  image: "/assets/images/00-unit-splash.jpg"
+  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 permalink: /faq.html
+sidebar:
+  nav: "LE-00"
 ---
 
 **Wann findet der Kurs statt?**

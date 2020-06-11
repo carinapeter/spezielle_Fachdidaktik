@@ -1,5 +1,10 @@
 ---
 title: Corona-Pandemie und MeKo
+header:
+  image: "/assets/images/00-unit-splash.jpg"
+  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
+sidebar:
+  nav: "LE-00"
 ---
 
 Bedingt durch die Corona-Pandemie findet das Sommersemester umfassend digital statt. Hier finden Sie alle notwendigen Informationen zum Lernen auf Distanz im Rahmen des Moduls Medienkompetenz.

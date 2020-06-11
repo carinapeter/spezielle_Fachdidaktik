@@ -1,6 +1,11 @@
 ---
 title: Digitales Lernen auf Distanz
 toc: true
+sidebar:
+  nav: "LE-00"
+header:
+  image: "/assets/images/00-unit-splash.jpg"
+  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
 
 Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit. Diese beginnen wir mit Videos, Live-Streaming oder Webkonferenz, Texten oder anderen Medien und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Während des Bearbeitungszeitraums für die Aufgabe findet ein begleitendes Tutorium statt.

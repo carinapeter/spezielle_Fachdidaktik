@@ -6,6 +6,9 @@ header:
   image_description: "Cutout from  Measured carbon dioxide concentrations in Vancouver"
   caption: "Bild: [flickr](https://flic.kr/p/RNxn74) / CC-BY-2.0"
 
+sidebar:
+  nav: "LE-03"   
+
 panel1:  
   - url: https://www.flickr.com/photos/environmentalinformatics-marburg/13981635311
     image_path: https://live.staticflickr.com/7325/13981635311_ae1b12e0cf_b.jpg

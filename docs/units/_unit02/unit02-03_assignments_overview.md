@@ -1,11 +1,13 @@
 ---
-title: A02 - Analyse von Raumbeschreibungen
+title: Aufgabe A02
 toc: true
 header:
   image: /assets/images/02-splash.jpg
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
 
+sidebar:
+  nav: "LE-02"  
 
 panel1:  
   - url: https://besjournals.onlinelibrary.wiley.com/cms/asset/49072000-0c42-42a2-b925-a34d2cd4f6e4/

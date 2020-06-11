@@ -10,7 +10,8 @@ main:
     url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
   - title: "Seitenübersicht"
     url: /sitemap.html
-    
+
+
     
 docs:
   - title: Ways out
@@ -21,3 +22,84 @@ docs:
         url: https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui
       - title: "Zum OER"
         url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+
+
+LE-00:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "How-to Meko"
+    children:
+      - title: "Corona-Pandemie und MeKo"
+        url: /unit00/unit00-01_overview.html
+      - title: "Digitales Lernen auf Distanz"
+        url: /unit00/unit00-02_learning.html        
+      - title: "Studien- & Prüfungsleistung"
+        url: /unit00/unit00-03_assignments.html
+      - title: " FAQ"
+        url: /faq.html
+
+
+LE-01:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "01 Raumbeschreibung & Interpretation"
+    children:
+      - title: "Übersicht"
+        url: /unit01/unit01-01_overview.html
+      - title: "Lernmaterialen - Raumbeschreibung und Interpretation"
+        url: /unit01/unit01-02_learning_material.html        
+      - title: "Aufgabe A01"
+        url: /unit01/unit01-03_assignments_overview.html
+      - title: "Mitzunehmen aus der Aufgabenbearbeitung…"
+        url: /unit01/unit01-04_take_home_message.html
+
+
+LE-02:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "02 Räumliche Modellierung"
+    children:
+      - title: "Übersicht"
+        url: /unit02/unit02-01_overview.html
+      - title: "Lernmaterialen - Modellierung und Abbildung von Räumen"
+        url: /unit02/unit02-02_learning_material.html        
+      - title: "Aufgabe A02"
+        url: /unit02/unit02-03_assignments_overview.html
+      - title: "Mitzunehmen aus der Aufgabenbearbeitung…"
+        url: /unit02/unit02-04_take_home_message.html
+
+LE-03:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "03 Kartographische Modellierung"
+    children:
+      - title: "Übersicht"
+        url: /unit03/unit03-01_overview.html
+      - title: "Lernmaterialen - Verortung im Raum"
+        url: /unit03/unit03-02-01_learning_material_spatial_reference.html   
+      - title: "Lernmaterialen - Geodaten und Geoobjekte"
+        url: /unit03/unit03-02-02_learning_material_geodata.html          
+      - title: "Lernmaterialen - Datenerfassung und Darstellung"
+        url: /unit03/unit03-02-03_learning_material_remote_sensing.html                  
+      - title: "Aufgabe A03"
+        url: /unit03/unit03-03_assignments_overview.html
+        
+#      - title: "Mitzunehmen aus der Aufgabenbearbeitung…"
+#        url: /unit03/unit03-04_take_home_message.html
+
+LE-04:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "04 Datenanalyse & Ableitung von Informationen"
+    children:
+      - title: "Überblick"
+        url: /unit04/unit04-01_overview.html
+      - title: "Datenvisualisierung"
+        url: /unit04/unit04-02_learning_material.html        
+      - title: "Aufgabe A04"
+        url: /unit04/unit04-03_assignment_overview.html
+      - title: "A04-1 Hygrisches Klima"
+        url: /unit04/unit04-04_assignment_04-01.html
+      - title: "A04-2 Wahlglauben"
+        url: /unit04/unit04-05_assignment_04-02.html
+

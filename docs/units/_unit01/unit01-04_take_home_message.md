@@ -6,6 +6,8 @@ header:
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 
+sidebar:
+  nav: "LE-01"
 ---
 
 Die ausführliche Nachbesprechung der Aufgabe finden Sie im ILIAS. Die zentralen Einsichten daraus sind hier zusammengefasst.

@@ -1,10 +1,12 @@
 ---
-title: A03 - Erfassung und Analyse von Geodaten
+title: Aufgabe A03
 toc: true
 header:
   image: /assets/images/03-splash.jpg
   image_description: "Cutout from  Measured carbon dioxide concentrations in Vancouver"
   caption: "Bild: [flickr](https://flic.kr/p/RNxn74) / CC-BY-2.0"
+sidebar:
+  nav: "LE-03"     
 ---
 
 In Aufgabe 03 üben Sie eigenständig Eigenschaften von echten Räumen zu erfassen und darzustellen. Sie erheben Geodaten, modellieren Geoobjekte und analysieren die räumlichen Merkmalsausprägungen auf der Grundlage eines selbst gewählten Geländeprofils. Als Vertiefung stellen Sie Ihre Analyseergebnisse unter zwei unterschiedlichen  Interpretationsperspektiven dar.

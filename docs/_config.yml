@@ -157,13 +157,14 @@ defaults:
       tags: "Unit 04"
       layout: single
       sidebar:
-        nav: "units"
+        nav: "units"    
+
   # unit05
   - scope:
       path: ""
       type: unit05
     values:
-      category: "05 Informationsaufbereitung & Visualisierung"
+      category: "05 Aufbereitung von Informationen & Visualisierung"
       tags: "Unit 05"
       layout: single
       sidebar:
