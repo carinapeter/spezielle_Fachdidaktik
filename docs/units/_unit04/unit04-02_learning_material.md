@@ -1,5 +1,5 @@
 ---
-title: Datenvisualisierung
+title: Lernmaterialien - Datenvisualisierung
 toc: true
 header:
   image: /assets/images/04-splash.jpg
