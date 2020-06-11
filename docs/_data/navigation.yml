@@ -92,7 +92,7 @@ LE-04:
     url: /units.html
   - title: "04 Datenanalyse & Ableitung von Informationen"
     children:
-      - title: "Überblick"
+      - title: "Übersicht"
         url: /unit04/unit04-01_overview.html
       - title: "LM - Datenvisualisierung"
         url: /unit04/unit04-02_learning_material.html        
@@ -108,7 +108,7 @@ LE-05:
     url: /units.html
   - title: "05 Aufbereitung von Informationen & Visualisierung"
     children:
-      - title: "Überblick"
+      - title: "Übersicht"
         url: /unit05/unit05-01_overview.html
       - title: "LM - "
         url: /unit05/unit05-02_learning_material.html        
@@ -124,7 +124,7 @@ LE-06:
     url: /units.html
   - title: "06 Mediennutzung & Reflexion"
     children:
-      - title: "Überblick"
+      - title: "Übersicht"
         url: /unit06/unit06-01_overview.html
       - title: "LM - "
         url: /unit06/unit06-02_learning_material.html        
