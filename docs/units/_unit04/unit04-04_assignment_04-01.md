@@ -7,6 +7,7 @@ header:
   caption: "Foto: Wikimedia Commons / CC0"
 mathjax: true
 
+
 ---
 <script type="text/javascript" async
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
@@ -80,13 +81,17 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 #### Info: Verdunstung nach Haude
 Die Berechnung der Verdunstung nach Hause basiert auf der Formel:
 
-$$ PET = k ∗ e ∗ (1 - F / 100) [mm/d]$$
+
+$$ PET = k \cdot e \cdot  {(1 - F) \over 100 }[mm/d]$$
+
+
 
 mit $PET$ als die potentielle Evapotranspiration, $k$ als der Haude-Faktor (siehe Tabelle), $e$ als der Sättigungsdampfdruck um 14:00 in hPa, $F$ als die relative Luftfeuchte in Prozent.
 
 Der Sättigungsdampfdruck $e$ [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden: 
 
-$$e = 6,11 ∗ 10^(7,48 ∗ T / (237 + T)) [hPa]$$
+
+$$ e = {6,11 \cdot   10} ^ {(7,48 ∗ T) \over (237 + T)} [hPa]$$
 
 mit $T$ als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
 Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden.
