@@ -27,5 +27,5 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 {: .notice--danger}
 
 ## Aufgaben
-* [Aufgabe 04-01: Hygrisches Klima]({{ site.baseurl }}{% link _unit04/unit04-04_assignment_04-01.md %})
-* [Aufgabe 04-02: Wahlglauben]({{ site.baseurl }}{% link _unit04/unit04-05_assignment_04-02.md %})
+* [Aufgabe 04-01: Hygrisches Klima]({{ site.baseurl }}{% link _unit04/unit04-03-02_assignment.md %})
+* [Aufgabe 04-02-02: Wahlglauben]({{ site.baseurl }}{% link _unit04/unit04-03-03_assignment.md %})
