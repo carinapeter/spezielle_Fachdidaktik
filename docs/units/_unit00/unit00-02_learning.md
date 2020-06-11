@@ -1,8 +1,6 @@
 ---
 title: Digitales Lernen auf Distanz
 toc: true
-sidebar:
-  nav: "LE-00"
 header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
