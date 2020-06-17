@@ -84,7 +84,7 @@ $$ PET = k \cdot e  \cdot  {(1 - F) \over 100 }[mm/d]$$
 
 
 
-mit: $PET$ als die potentielle Evapotranspiration, $k$ als dem Haude-Faktor (siehe nachfolgende Tabelle), $e$ als dem Sättigungsdampfdruck um 14:00 in hPa und $F$ als der relativen Luftfeuchte in Prozent.
+mit: $PET$ als die potentielle Evapotranspiration, $k$ als dem Haude-Faktor (siehe nachfolgende Tabelle), $e$ als dem Sättigungsdampfdruck um 14:00 Uhr in hPa und $F$ als der relativen Luftfeuchte in Prozent.
 
 Der Sättigungsdampfdruck $e$ [hPa] kann nach der Magnus-Formel z.B. wie folgt berechnet werden:
 
