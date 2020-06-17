@@ -9,7 +9,7 @@ header:
 
 Im Rahmen einer Unterrichtseinheit zur politischen Geographie nehmen Sie ein Interview aus einer HR-Info Sendung im Rahmen des katholischen Kirchentags 2018 zum Anlass, den (vermeintlichen) Zusammenhang zwischen AfD-Wählerstimmen und der Zugehörigkeit zur evangelischen Kirche zu untersuchen.
 
-Im statista-Portal sind Sie bzgl. der notwendigen Ausgangsdaten zur [Zweitstimmenverteilung nach Bundesländern bei der Bundestagswahl 2017](https://de.statista.com/statistik/daten/studie/754391/umfrage/stimmenanteile-der-AfD-in-den-bundeslaendern-bei-der-bundestagswahl/) und der [Religionszugehörigkeit nach Bundesländern](https://de.statista.com/statistik/daten/studie/201622/umfrage/religionszugehoerigkeit-der-deutschen-nach-bundeslaendern/)
+Im statista-Portal sind Sie bzgl. der notwendigen Ausgangsdaten zur [Zweitstimmenverteilung nach Bundesländern bei der Bundestagswahl 2017](https://de.statista.com/statistik/daten/studie/754391/umfrage/stimmenanteile-der-AfD-in-den-bundeslaendern-bei-der-bundestagswahl/) und der [Religionszugehörigkeit nach Bundesländern](https://de.statista.com/statistik/daten/studie/201622/umfrage/religionszugehoerigkeit-der-deutschen-nach-bundeslaendern/) fündig geworden.
 
 ## Aufgabe 04-2-L1: Was wählen Protestanten?
 
