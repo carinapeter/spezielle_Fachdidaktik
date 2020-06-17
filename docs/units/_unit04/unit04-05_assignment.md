@@ -44,11 +44,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Aufgabe 04-2-L2: Geographische Muster in Wahlen?
+## Aufgabe 04-2-L3: Geographische Muster in Wahlen?
 
 {% capture A04-2-L3 %}
 
-Bitte fertigen Sie zwei thematische Karte an, die den Zweitstimmenanteil der AfD nach Bundesländern mit einer oder mehrerer Glaubensrichtungen in Verbindung bring. Zeien Sie in max. 5 Sätzen, dass der Aufhänger "Protestanten wählen häufiger AfD" nicht haltbar ist.
+Bitte fertigen Sie zwei thematische Karten an, die den Zweitstimmenanteil der AfD nach Bundesländern mit einer oder mehrerer Glaubensrichtungen in Verbindung bring. Zeigen Sie in max. 5 Sätzen, dass der Aufhänger "Protestanten wählen häufiger AfD" nicht haltbar ist.
 
 Umfang: 3 Seite in Ihrer PDF-Datei.
 {% endcapture %}

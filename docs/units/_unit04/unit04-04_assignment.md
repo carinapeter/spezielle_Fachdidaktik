@@ -24,15 +24,15 @@ mathjax: true
    });
 </script>
 
-Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen  Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Tempereatur. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
+Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur- und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Tempereatur. Im Rahmen dieses Arbeitsblatts sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
 ## Aufgabe 04-1-L1: Walter-Lieth-Diagramm
 
 {% capture A04-1-L1 %}
 
-Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen sie hierfür den auf ILias verfügbaren [Datensatz](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) und orientieren sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie dass Lücken Zeitserie nicht aufgefüllt oder andersweitig explizit berücksichtigt werden müssen.
+Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) und orientieren sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
 
-Interpretieren Sie mit maximal zwei Sätzen das Walter-Lieth-Diagramm.
+Interpretieren Sie in maximal zwei Sätzen das Walter-Lieth-Diagramm.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
@@ -63,7 +63,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A04-1-L3 %}
 
-Vergleichen Sie die beiden erstellten Diagramme und diskutieren Sie ihre Analyse mit maximal zwei Sätzen. Nennen und Begründen Sie anschließend jeweils einen kritischen Aspekt, sowohl in der jeweiligen Darstellungs- als auch Berechnungsform mit insgesamt maximal vier Sätzen.
+Vergleichen Sie die beiden erstellten Diagramme und diskutieren Sie Ihre Analyse mit maximal zwei Sätzen. Nennen und Begründen Sie anschließend jeweils einen kritischen Aspekt, sowohl in der jeweiligen Darstellungs- als auch Berechnungsform mit insgesamt maximal vier Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
