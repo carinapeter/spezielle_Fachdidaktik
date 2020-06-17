@@ -7,11 +7,11 @@ header:
   caption: "Foto: Wikimedia Commons / CC0"
 ---
 #  Datenanalyse und Visualisierung
-In den Aufgaben trainieren Sie die Aufbereitung und Visualisierung von Daten. Sie üben in der ersten Aufgabe Zeitreihen zusammenzustellen und klimatische Aussagen zu treffen.  In der zweiten Aufgabe untersuchen Sie ob Wahlverhalten eine Glaubensfrage ist und erstellen thematische Karten.
+In den Aufgaben trainieren Sie die Aufbereitung und Visualisierung von Daten. Sie üben in der ersten Aufgabe Zeitreihen zusammenzustellen und klimatische Aussagen zu treffen. In der zweiten Aufgabe untersuchen Sie, ob Wahlverhalten eine Glaubensfrage ist und erstellen thematische Karten.
 
 ## Benötigte Materialien für die Aufgaben
 * Tabellenkalkulationssoftware — z. B. Microsoft Excel, OpenOffice Calc, LibreOffice Calc oder Google Sheets.
-* Klimastation Cölbe - ein Datensatz der Klimstation Cölbe des DWD ([siehe interner Datensatz Klimadaten auf der Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui))
+* Klimastation Cölbe - ein Datensatz der Klimastation Cölbe des DWD ([siehe interner Datensatz Klimadaten auf der Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui))
 * [Zweitstimmenanteile der AfD, Statista Homepage](https://de.statista.com/statistik/daten/studie/754391/umfrage/stimmenanteile-der-afd-in-den-bundeslaendern-bei-der-bundestagswahl/)
 * [Zweitstimmenanteile der CDU/CSU, Statista Homepage](https://de.statista.com/statistik/daten/studie/761845/umfrage/stimmenanteile-der-cdu-csu-den-bundeslaendern-bei-der-bundestagswahl/)
 * [Zweitstimmenanteile der FDP, Statista Homepage](https://de.statista.com/statistik/daten/studie/761832/umfrage/stimmenanteile-der-fdp-den-bundeslaendern-bei-der-bundestagswahl/)
