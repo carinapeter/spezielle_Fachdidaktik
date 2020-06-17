@@ -21,8 +21,8 @@ In der aktuellen Lerneinheit fokussieren wir auf die Visualisierung von Daten un
 ## Lernziele
 Am Ende dieser Lehreinheit können Sie
 * Diagrammtypen nennen und Anwendungsfälle unterscheiden,
-* Daten verschiedenen Ursprungs sinnvoll miteinander verschneiden
+* Daten verschiedenen Ursprungs sinnvoll miteinander verschneiden,
 * einfache statistische Analysen recherchieren, bewerten und durchführen,
 * tabellarische Daten fragestellungsorientiert visualisieren,
-* räumliche Muster in den Daten mithilfe von thematischen Karten darstellen,
+* räumliche Muster in den Daten mit Hilfe von thematischen Karten darstellen,
 * Visualisierungen und thematische Karten analysieren und bzgl. Datenbasis und Darstellung reflektieren.
