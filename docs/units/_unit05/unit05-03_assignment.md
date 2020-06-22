@@ -14,7 +14,8 @@ https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-
 
 * Klett scheint nur noch mit Codes aus Schulbüchern zugönglich zu sein. https://www2.klett.de/sixcms/list.php?page=lehrwerk_extra&titelfamilie=Klett-GIS&extra=Klett-GIS%20Projekte
 * Diercke funktioniert (wobei bei manchen Beispielen falsche Aufgaben dabei stehen) https://diercke.westermann.de/diercke-webgis
-* Leider ist mit dem Diercke tool auch nicht wirklich eine analyse möglich, sondern man kann layer an und ausschalten und die Attribute tabelle anschauen, ein bisschen Filtern. Das ist in den ESRI online Tools auch drin. 
+* Leider ist mit dem Diercke tool auch nicht wirklich eine analyse möglich, sondern man kann layer an und ausschalten und die Attribute tabelle anschauen, ein bisschen Filtern. Das ist in den ESRI online Tools auch drin.
+* Diercke Aufgaben nicht umfangreich (vgl https://diercke.westermann.de/sites/default/files/redaktion/pdf/unterricht/Erde_Verstaedterung.pdf)
  --->
 
 In den Aufgaben bekommen Sie einen ersten Eindruck von geographischen Informationssystemen. Sie können an einigen Beispiele selbst Karten erstellen und verschiedene Informationen so medial ansprechend und schnell erfassbar aufbereiten. Diese Aufgabe setzt sich aus drei Online Kursen zusammen. Bitte bearbeiten Sie diese und beantworten Sie die folgenden Fragen.
