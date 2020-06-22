@@ -6,6 +6,16 @@ header:
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
 ---
+<!---
+Zum Vorschlag von Thomas die alten Klett-GIS und Dierke GIS Aufgaben aus "Digitale Geographie" zu nehmen:  
+* Links zu alten Aufgaben: https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-02
+und
+https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-03
+
+* Klett scheint nur noch mit Codes aus Schulbüchern zugönglich zu sein. https://www2.klett.de/sixcms/list.php?page=lehrwerk_extra&titelfamilie=Klett-GIS&extra=Klett-GIS%20Projekte
+* Diercke funktioniert (wobei bei manchen Beispielen falsche Aufgaben dabei stehen) https://diercke.westermann.de/diercke-webgis
+* Leider ist mit dem Diercke tool auch nicht wirklich eine analyse möglich, sondern man kann layer an und ausschalten und die Attribute tabelle anschauen, ein bisschen Filtern. Das ist in den ESRI online Tools auch drin. 
+ --->
 
 In den Aufgaben bekommen Sie einen ersten Eindruck von geographischen Informationssystemen. Sie können an einigen Beispiele selbst Karten erstellen und verschiedene Informationen so medial ansprechend und schnell erfassbar aufbereiten. Diese Aufgabe setzt sich aus drei Online Kursen zusammen. Bitte bearbeiten Sie diese und beantworten Sie die folgenden Fragen.
 
