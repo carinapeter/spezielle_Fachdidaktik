@@ -68,7 +68,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 ## Aufgabenstellung ex-1-L3: Raumabstraktion 
-{% include gallery id="panel1"  caption= "Foto: [Weinanbau in Australien](https://w.wiki/Qvt) Presse03 / CC BY-SA via commons.wikimedia.org" %}
+{% include gallery id="panel1"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
 
 
 {% capture ex-1-L3 %}
