@@ -5,7 +5,27 @@ header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
+  
+panel1:  
+    /assets/images/exam/Studis2013.jpeg
+    title: "Studienanfängerinnen"  
 ---
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     extensions: ["tex2jax.js"],
+     jax: ["input/TeX", "output/HTML-CSS"],
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+       processEscapes: true
+     },
+     "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
 
 In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte refelktieren. 
 
@@ -28,6 +48,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture ex-2-L2 %}
 
+{% include gallery id="panel1"  caption= "Studienanfänger/innen" %}
 Bwerten Sie die abgebildete thematische Karte zu den Studeinanfänger/-innen in Deutschland im Wintersemester 2013/2014 im Hinblick auf den Sachbezug der dargestellten Daten. 
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
