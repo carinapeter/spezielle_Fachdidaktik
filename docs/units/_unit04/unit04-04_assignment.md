@@ -80,7 +80,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 Die Berechnung der Verdunstung nach Haude basiert auf der Formel:
 
 
-$$ PET = k \cdot e  \cdot  {(1 - F) \over 100 }[mm/d]$$
+$$ PET = k \cdot e  \cdot  {(1 - F \over 100) }[mm/d]$$
 
 
 
