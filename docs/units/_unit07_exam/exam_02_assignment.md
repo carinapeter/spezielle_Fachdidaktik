@@ -7,6 +7,12 @@ header:
   caption: "Foto: T. Nauss / CC0"
   
 panel1:  
+    image_path:/assets/images/exam/Stuttgart2008.jpg
+    title: "Stuttgart 2008"
+     image_path:/assets/images/exam/Stuttgart2015.jpg 
+     title: "Stuttgart 2015"
+  
+panel2:  
   - url: https://w.wiki/Qvs
     image_path: https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg
     title: "kommt noch, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
@@ -36,6 +42,7 @@ panel1:
 
 In den neueren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
 
+{% include gallery id="panel1"  caption= "Stuttgart 2008 & 2015" %}
 
 
 ## Aufgabenstellung ex-1-L1: Kartenbeschreibung
@@ -49,7 +56,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung ex-1-L1:</h4>
-  {{ A04-2-L1 | markdownify }}
+  {{ ex-1-L1 | markdownify }}
 </div>
 
 ## Aufgabenstellung ex-1-L2:
@@ -64,11 +71,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung ex-1-L2:</h4>
-  {{ A02-L3 | markdownify }}
+  {{ ex-1-L2 | markdownify }}
 </div>
 
 ## Aufgabenstellung ex-1-L3: Raumabstraktion 
-{% include gallery id="panel1"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
+{% include gallery id="panel2"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
 
 
 {% capture ex-1-L3 %}
@@ -87,5 +94,5 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung ex-1-L3:</h4>
-  {{ A02-L3 | markdownify }}
+  {{ ex-1-L3 | markdownify }}
 </div>
