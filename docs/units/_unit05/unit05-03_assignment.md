@@ -6,8 +6,30 @@ header:
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
 ---
+
+
 <!---
+<<<<<<< HEAD
 Ich denke die drei Aufgaben sind genug. In MeKo letztes Jahr gab es noch die Nasa Feuerkarte, die Werbung der Autovermietung und Brasilien vielleicht County Karte damit tauschen?!
+=======
+Zum Vorschlag von Thomas die alten Klett-GIS und Dierke GIS Aufgaben aus "Digitale Geographie" zu nehmen:  
+* Links zu alten Aufgaben: https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-02
+und
+https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-03
+
+* Klett scheint nur noch mit Codes aus Schulbüchern zugönglich zu sein. https://www2.klett.de/sixcms/list.php?page=lehrwerk_extra&titelfamilie=Klett-GIS&extra=Klett-GIS%20Projekte
+* Diercke funktioniert (wobei bei manchen Beispielen falsche Aufgaben dabei stehen) https://diercke.westermann.de/diercke-webgis
+* Leider ist mit dem Diercke tool auch nicht wirklich eine analyse möglich, sondern man kann layer an und ausschalten und die Attribute tabelle anschauen, ein bisschen Filtern. Das ist in den ESRI online Tools auch drin. 
+
+
+L1: Karte der von Manhattan in Google Earth zeichnen, Vergleich mit Klett-Karte - Gebäudestruktur vs. Gebäudefunktion
+
+L2: Gebäudestruktur vs. Gebäudefunktion
+
+L3: Abfragen im Landschaftsinformationssystem: https://geodaten.naturschutz.rlp.de/kartendienste_naturschutz/#
+Welche Naturdenkmalgebiete liegen im Umfeld von 5000 m um das Naturdenkmal "Waldbestand Briedeler Schweiz"
+
+>>>>>>> edd105d80459b3e7f510ab8bbe31be032ab3e3d0
  --->
 
  Nach der Bearbeitung dieser Aufgabe sollen Sie in der Lage sein
