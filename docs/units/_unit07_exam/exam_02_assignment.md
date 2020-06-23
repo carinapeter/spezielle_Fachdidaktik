@@ -59,7 +59,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ ex-1-L1 | markdownify }}
 </div>
 
-## Aufgabenstellung ex-1-L2:
+## Aufgabenstellung ex-1-L2: Güte der Karte
 {% capture ex-1-L2 %}
 Schätzen Sie die Aussagekraft und Belastbarkeit der Luftbelastung in der Karte ein. Nutzen Sie hierfür die Auskuft des [LUBW](https://udo.lubw.baden-wuerttemberg.de/public/api/processingChain?ssid=7b886373-2c8b-4e06-88a4-93900826fdc4&selector=luftmessdaten.meros%3Ameros_z_luft_vergleich_messstation_ueber_nmc.sel).
 

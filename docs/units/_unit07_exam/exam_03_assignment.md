@@ -30,7 +30,7 @@ panel1:
 In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte refelktieren. 
 
 
-## Aufgabe ex-2-L1: 
+## Aufgabe ex-2-L1: Datenvisualisierung
 
 {% capture ex-2-L1 %}
 
@@ -44,7 +44,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ ex-2-L1 | markdownify }}
 </div>
 
-## Aufgabe ex-2-L2: Kartenerstellung
+## Aufgabe ex-2-L2: Kartenreflexion
 
 {% capture ex-2-L2 %}
 
