@@ -18,18 +18,21 @@ https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-
 * Diercke Aufgaben nicht umfangreich (vgl https://diercke.westermann.de/sites/default/files/redaktion/pdf/unterricht/Erde_Verstaedterung.pdf)
  --->
 
-In den Aufgaben bekommen Sie einen ersten Eindruck von geographischen Informationssystemen. Sie können an einigen Beispiele selbst Karten erstellen und verschiedene Informationen so medial ansprechend und schnell erfassbar aufbereiten. Diese Aufgabe setzt sich aus drei Online Kursen zusammen. Bitte bearbeiten Sie diese und beantworten Sie die folgenden Fragen.
+Geographische Daten und Karten begegnen uns täglich. Sicher haben Sie schon mal Ihren Standort versendet oder sich einen Ort über Google Earth aus der Vogelperspektive angeschaut. In den letzten Aufgaben haben Sie bereits selbst geographische Daten erhoben und auch schon erste Skizzen und Karten erstellt. Diese Bereiche sollen Sie in dieser Aufgabe verbinden. Mithilfe von Geographischen Informationssystemen lassen sich nicht nur Karten erstellen sondern auch räumliche Fragen beantworten. Zum Beispiel: Wie viele Cafés liegen im Umkreis von 1 km? Welche Gebiete werden bei einem bestimmten Wasserpegel überschwemmt? Welche Länder sind zu mehr als 50% mit Wald bedeckt? Sie werden hier mit vorgegebenen Beispielen in dem webbasierten GIS "ArcGISonline" arbeiten, können in Zukunft dieselben Prinzipien aber auch für Ihre eigenen Beispiele in jeder anderen GIS-Software nutzen.
+
+In den Aufgaben bekommen Sie einen ersten Eindruck von geographischen Informationssystemen und können an einigen Beispielen selbst Karten erstellen und verschiedene Informationen so medial ansprechend und schnell erfassbar aufbereiten und erste kleinere räumliche Fragenstellungen beantworten. Diese Aufgabe setzt sich aus drei Online Kursen zusammen. Bitte bearbeiten Sie diese und beantworten Sie die folgenden Fragen.
 
 ## Benötigte Materialien für die Aufgaben
 * öffentliches [ArcGIS Online Konto](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token)
 
 
-Die drei Kurse zu Bearbeitung haben wir Ihnen in einem [Lernplan](www.esri.com/training/catalog/5ede48bad97309521b69296a/) zusammengestellt. Bevor Sie starten erstellen Sie sich bitte ein [ArcGIS Online Konto](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token), damit Sie Ihren Fortschritt speichern können und am Ende Ihrer Web-Kurse Zertifikate bekommen.
+Die drei Kurse zu Bearbeitung haben wir Ihnen in einem [Lernplan](https://www.esri.com/training/catalog/5ede48bad97309521b69296a/)
+zusammengestellt. Bevor Sie starten erstellen Sie sich bitte ein [ArcGIS Online Konto](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token), damit Sie Ihren Fortschritt speichern können und am Ende Ihrer Web-Kurse Zertifikate bekommen.
 
 
 ### Aufgabe 05-L1: Exploring GIS Maps
 
-Der [erste Online-Kurs](https://www.esri.com/training/catalog/57630432851d31e02a43ee86/exploring-gis-maps/) befasst sich recht generell mit dem Aufbau und den Möglichkeiten geographischer Informationssystemen. (i) Bearbeiten Sie den Kurs und fügen Sie Ihr Zertifikat in die pdf-Datei ein. (ii) Suchen Sie sich außerdem drei Grundkarten (Basemaps) aus und beantworten Sie: Was ist der Schwerpunkt der verschiedenen Grundkarten? Welche Geoobjekte (Features) werden darauf NICHT abgebildet? Fügen Sie auch diese Antworten in Ihre pdf-Datei ein.
+Der [erste Online-Kurs](https://www.esri.com/training/catalog/57630432851d31e02a43ee86/exploring-gis-maps/) befasst sich recht generell mit dem Aufbau und den Möglichkeiten geographischer Informationssystemen. Sie werden zunächst die Erde aus der Vogelperspektive betrachten und analysieren anschließend, welche Elemente aus der Realität in verschiedene Kartentypen übernommen werden. (i) Bearbeiten Sie den Kurs und fügen Sie Ihr Zertifikat in die pdf-Datei ein. (ii) Suchen Sie sich außerdem drei Grundkarten (Basemaps) aus und beantworten Sie: Was ist der Schwerpunkt der verschiedenen Grundkarten? Welche Geoobjekte (Features) werden darauf NICHT abgebildet? Fügen Sie auch diese Antworten in Ihre pdf-Datei ein.
 
 Umfang: 2 Seiten in Ihrer PDF-Datei
 
