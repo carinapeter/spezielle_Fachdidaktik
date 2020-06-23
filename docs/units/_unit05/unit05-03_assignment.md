@@ -1,5 +1,5 @@
 ---
-  title: A05 - Webbasierte GIS
+  title: A05 - Dekonstruktion von Karten
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -7,44 +7,70 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 <!---
-Zum Vorschlag von Thomas die alten Klett-GIS und Dierke GIS Aufgaben aus "Digitale Geographie" zu nehmen:  
-* Links zu alten Aufgaben: https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-02
-und
-https://moc.online.uni-marburg.de/doku.php?id=courses:l3:gi:worksheets:lg-ws-02-03
-
-* Klett scheint nur noch mit Codes aus Schulbüchern zugönglich zu sein. https://www2.klett.de/sixcms/list.php?page=lehrwerk_extra&titelfamilie=Klett-GIS&extra=Klett-GIS%20Projekte
-* Diercke funktioniert (wobei bei manchen Beispielen falsche Aufgaben dabei stehen) https://diercke.westermann.de/diercke-webgis
-* Leider ist mit dem Diercke tool auch nicht wirklich eine analyse möglich, sondern man kann layer an und ausschalten und die Attribute tabelle anschauen, ein bisschen Filtern. Das ist in den ESRI online Tools auch drin.
-* Diercke Aufgaben nicht umfangreich (vgl https://diercke.westermann.de/sites/default/files/redaktion/pdf/unterricht/Erde_Verstaedterung.pdf)
+Ich denke die drei Aufgaben sind genug. In MeKo letztes Jahr gab es noch die Nasa Feuerkarte, die Werbung der Autovermietung und Brasilien vielleicht County Karte damit tauschen?!
  --->
 
-Geographische Daten und Karten begegnen uns täglich. Sicher haben Sie schon mal Ihren Standort versendet oder sich einen Ort über Google Earth aus der Vogelperspektive angeschaut. In den letzten Aufgaben haben Sie bereits selbst geographische Daten erhoben und auch schon erste Skizzen und Karten erstellt. Diese Bereiche sollen Sie in dieser Aufgabe verbinden. Mithilfe von Geographischen Informationssystemen lassen sich nicht nur Karten erstellen sondern auch räumliche Fragen beantworten. Zum Beispiel: Wie viele Cafés liegen im Umkreis von 1 km? Welche Gebiete werden bei einem bestimmten Wasserpegel überschwemmt? Welche Länder sind zu mehr als 50% mit Wald bedeckt? Sie werden hier mit vorgegebenen Beispielen in dem webbasierten GIS "ArcGISonline" arbeiten, können in Zukunft dieselben Prinzipien aber auch für Ihre eigenen Beispiele in jeder anderen GIS-Software nutzen.
+ Nach der Bearbeitung dieser Aufgabe sollen Sie in der Lage sein
 
-In den Aufgaben bekommen Sie einen ersten Eindruck von geographischen Informationssystemen und können an einigen Beispielen selbst Karten erstellen und verschiedene Informationen so medial ansprechend und schnell erfassbar aufbereiten und erste kleinere räumliche Fragenstellungen beantworten. Diese Aufgabe setzt sich aus drei Online Kursen zusammen. Bitte bearbeiten Sie diese und beantworten Sie die folgenden Fragen.
+     * Karten hinsichtlich ihrer unterschiedlichen kartographischen Präsentation zu dekonstruieren,
+     * Karten als Träger von Diskursen zu reflektieren.
 
 ## Benötigte Materialien für die Aufgaben
-* öffentliches [ArcGIS Online Konto](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token)
+*  Innenstadtplan des Tourismusbüros Marburgs
+* Baby Places
+* Bing Maps
+* Here Maps
+* Open Street Map
+* Gryl (2014)
 
 
-Die drei Kurse zu Bearbeitung haben wir Ihnen in einem [Lernplan](https://www.esri.com/training/catalog/5ede48bad97309521b69296a/)
-zusammengestellt. Bevor Sie starten erstellen Sie sich bitte ein [ArcGIS Online Konto](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token), damit Sie Ihren Fortschritt speichern können und am Ende Ihrer Web-Kurse Zertifikate bekommen.
+Im Rahmen der Aufgabe sollen Sie Karten im Kontext der diskursbedingten Konstruktionsentscheidungen unter bestimmten Aspekten analysieren. Die Analyse soll der Definition von Gryl (2014) folgend sowohl die Reflexion, also die Kritik am Medium als auch die Reflexivität, also die kritische Hinterfragung des eigenen Handelns mit der jeweiligen Karte umfassen. Als genereller Einstieg in die reflexive Kartenarbeit können die Leitfragen bei Gryl (2014) (intern hier) genutzt werden.
+
+### Aufgabe 05-L1: Karte der Marburger Innenstadt
+
+Sie interessieren sich für ein Lehramtsstudium in Marburg und möchten den Studienort erkunden. Dafür besorgen Sie sich eine Karte der Marburger Innenstadt vom örtlichen Tourismusbüro. Sie interessieren sich für
+
+    Religiöse Einrichtungen
+    Günstige Unterkünfte
+    Schulen
+    Kunstmuseum
 
 
-### Aufgabe 05-L1: Exploring GIS Maps
+Beantworten Sie die nachfolgenden Fragen in jeweils max. 3 Sätzen und fügen Sie diese in Ihre Abgabe ein:
 
-Der [erste Online-Kurs](https://www.esri.com/training/catalog/57630432851d31e02a43ee86/exploring-gis-maps/) befasst sich recht generell mit dem Aufbau und den Möglichkeiten geographischer Informationssystemen. Sie werden zunächst die Erde aus der Vogelperspektive betrachten und analysieren anschließend, welche Elemente aus der Realität in verschiedene Kartentypen übernommen werden. (i) Bearbeiten Sie den Kurs und fügen Sie Ihr Zertifikat in die pdf-Datei ein. (ii) Suchen Sie sich außerdem drei Grundkarten (Basemaps) aus und beantworten Sie: Was ist der Schwerpunkt der verschiedenen Grundkarten? Welche Geoobjekte (Features) werden darauf NICHT abgebildet? Fügen Sie auch diese Antworten in Ihre pdf-Datei ein.
+    Welches Bild vermittelt die Karte von Marburg?
+    Welches Interesse könnte hier durch das Tourismusbüro verfolgt werden?
+    Ist die Karte für die genannten Interessensschwerpunkte geeignet.
 
-Umfang: 2 Seiten in Ihrer PDF-Datei
+Umfang: 1 Seite in Ihrer PDF-Datei
 
 
-### Aufgabe 05-L2: Getting Information from a GIS Map
+### Aufgabe 05-L2: Karte der US Wahlen 2008 auf County-Ebene
 
-In [diesem Online-Kurs](https://www.esri.com/training/catalog/57630432851d31e02a43ee8c/getting-information-from-a-gis-map/) erstellen Sie erste eigene Karten und lernen verschiedene Darstellungsmöglichkeiten in einem Web-GIS kennen. Bearbeiten Sie den Kurs und fügen Sie Ihr Zertifikat sowie einen Screenshot Ihrer Karte "Pacific Northwest Volcanoes" in die pdf-Datei ein.
+Die folgende Karte von Mark Newman zeigt die Ergebnisse der Präsidentschaftswahlen im Jahr 2008 auf County-Ebene. In rot sind Counties dargestellt, in denen die Mehrheit der Wahlberechtigten den republikanischen Kandidaten gewählt hat, in blau solche mit einer Mehrheit für die Demokraten.
 
-Umfang: 2 Seiten in Ihrer PDF-Datei
+**1. Karte**
 
-### Aufgabe 05-L3: Get started with Map Viewer / Erste Schritte mit Map Viewer
+Reflektieren Sie die Wirkung der Karte in max. 5 Sätzen. Binden Sie hierfür auch die folgende Abbildung ein, die die Counties entsprechend der wahlberechtigten Einwohner gewichtet.
 
-In [diesem Tutorial](https://www.esri.com/training/catalog/57660c48bb54adb30c94540a/get-started-with-map-viewer/) wiederholen Sie einige Grundlagen aus den beiden ersten Kursen. Außerdem lernen Sie externe Tabellen in Ihrem GIS als geographische Informationen zu nutzen und selbst interaktive Web-Apps zu erstellen. (i) Bearbeiten Sie das Tutorial und fügen Sie den Link sowie einen Screenshot Ihrer finalen Karte in Ihre PDF-Datei ein. In diesem Tutorium haben Sie neben einer einfachen Karte (egal ob Sie sie digital am Bildschirm oder analog ausgedruckt betrachten) auch interaktive Komponenten (Pop-Ups) erstellt und damit die Anwendungsmöglichkeiten erweitert. (ii) Nennen Sie 3 inhaltlichen Fragen die man mit Ihrer Karte (als Screenshot) beantworten kann? Nennen Sie 2 weitere inhaltliche Fragen, die sich beantworten lassen, wenn man die interaktive Webanwendung nutzt.
+**2.Karte**
+
+Umfang: 1 Seite in Ihrer PDF-Datei
+
+### Aufgabe 05-L3: Kartenvergleich: Sachsenhausen in Frankfurt am Main
+
+utzen Sie die folgenden vier Kartendienste um sich ein Bild des Stadtteils Sachsenhausen in Frankfurt zu machen:
+
+    Baby Places
+    Bing Maps
+    Here Maps
+    Open Street Map
+
+    Fassen Sie bitte Ihr Bild von Sachsenhausen auf Basis der Karten in max. 3 Sätzen zusammen. Analysieren Sie anschließend die unterschiedlichen Karteninformationen bezüglich folgender Aspekte mit jeweils maximal 3 Sätzen:
+
+        Welche Unterschiede gibt es in den kartographischen Darstellungsweisen (z.B. Farben, Symbole, Signaturen)?
+        Welcher Herstellungsprozess (z.B. dahinterstehende Institutionen, Ziele) steht hinter den Karten?
+        Welchen Zweck hat die jeweilige Karte für ihren Nutzer hat?
+
 
 Umfang: 2 Seiten in Ihrer PDF-Datei

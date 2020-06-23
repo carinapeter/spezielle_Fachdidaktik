@@ -7,14 +7,4 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-## Geographische Informationssysteme
-
-
-## Räumliche Analysen im GIS
-
-Kommentare: 
-* ausgewählte ESRI Kurse steigen nicht tief in die Analyse ein (Analysetool nur mit Lizenz)
-* einzige "Analysen" sind Entfernung messen und bestimmte Features innerhalb eines Staates mit Hilfe der Attribute Tabelle auswählen
-* ich fände hier Beispiele für Analysen gut und den Hinweis, dass das in weiterführenden Kursen passiert.
-* nochmal vertiefend Raster - Vektor
-* die klassische "passt das Auto durch die Steine am Firmaneiplatz"-Geschichte fände ich hier sinnvoll
+## Reflexive Kartenkompetenz
