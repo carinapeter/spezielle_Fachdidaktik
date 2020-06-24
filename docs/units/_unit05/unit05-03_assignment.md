@@ -38,15 +38,11 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 
 ## Aufgabe 05-L1: Karte der Marburger Innenstadt
 
-Sie interessieren sich für ein Lehramtsstudium in Marburg für Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örlichen Tourismusbüros herunter. Sie fragen sich ob Sie Ihr Fahrrad mitnehmen sollten um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Sie wollen außerdem einen schönen Aussichtspunkt finden um einen Überblick über die Stadt zu bekommen.
+Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örlichen Tourismusbüros herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
 
 {% capture A05-L1 %}
 
-Beantworten Sie die nachfolgenden Fragen in jeweils maximal 5 Sätzen und fügen Sie diese in Ihre Abgabe ein:
-
-  * Welches Bild vermittelt die Karte von Marburg?
-  * Welches Interesse könnte hier durch das Tourismusbüro verfolgt werden?
-  * Diskutieren Sie die Eignung der Karte für die genannten Interessensschwerpunkte.
+Beschreiben Sie zunächst den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 
@@ -65,7 +61,9 @@ Basierend auf dem konstruktivistischen Kartenmodell sollen eine Darstellung der 
 
 {% capture A05-L2 %}
 
-Unterziehen Sie die die [kartenähnliche Darstellung](https://eoimages.gsfc.nasa.gov/images/imagerecords/5000/5800/firemap_africa.2005.jpg) der Feuerdynamik in Afrika einer reflexiven Analyse. Binden Sie hierfür auch die Abbildung einer Autovermietung mit ein, die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist. Die Abbildung der Autofirma finden Sie im [geschützen Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR). Diskutieren und bewerten Sie die Feuerkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
+Analysieren Sie zum Einstieg zunächst die [Abbildungen einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen sind, hinsichtlich bewusster sowie unbewusster Konstruktionsentscheidungen. Unterziehen Sie anschließend die [kartenähnliche Darstellung](https://eoimages.gsfc.nasa.gov/images/imagerecords/5000/5800/firemap_africa.2005.jpg) der Feuerdynamik in Afrika einer reflexiven Analyse. Binden Sie hierbei Erkenntnisse aus der Reflexion der Abbildungen der Autovermietung mit ein.
+
+Diskutieren und bewerten Sie die Feuerkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
