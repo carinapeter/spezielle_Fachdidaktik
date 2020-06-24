@@ -5,8 +5,9 @@ header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
+  
 panel1:  
-    /assets/images/exam/Studis2013.jpeg
+    image_path: /assets/images/exam/Studis2013.jpeg
     title: "Studienanfängerinnen"  
 ---
 
