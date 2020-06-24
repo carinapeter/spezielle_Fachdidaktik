@@ -5,7 +5,6 @@ header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
-  
 panel1:  
     /assets/images/exam/Studis2013.jpeg
     title: "Studienanfängerinnen"  
@@ -27,7 +26,7 @@ panel1:
    });
 </script>
 
-In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte refelktieren. 
+In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte refelktieren.
 
 
 ## Aufgabe ex-2-L1: Datenvisualisierung
@@ -49,7 +48,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% capture ex-2-L2 %}
 
 {% include gallery id="panel1"  caption= "Studienanfänger/innen" %}
-Bwerten Sie die abgebildete thematische Karte zu den Studeinanfänger/-innen in Deutschland im Wintersemester 2013/2014 im Hinblick auf den Sachbezug der dargestellten Daten. 
+Bwerten Sie die abgebildete thematische Karte zu den Studeinanfänger/-innen in Deutschland im Wintersemester 2013/2014 im Hinblick auf den Sachbezug der dargestellten Daten.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 

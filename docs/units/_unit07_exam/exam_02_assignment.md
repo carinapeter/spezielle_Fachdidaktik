@@ -5,18 +5,18 @@ header:
   image: /assets/images/02-splash.jpg
   image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
   caption: "Foto: T. Nauss / CC0"
-  
+
 panel1:  
     image_path:/assets/images/exam/Stuttgart2008.jpg
     title: "Stuttgart 2008"
-     image_path:/assets/images/exam/Stuttgart2015.jpg 
+     image_path:/assets/images/exam/Stuttgart2015.jpg
      title: "Stuttgart 2015"
-  
+
 panel2:  
   - url: https://w.wiki/Qvs
     image_path: https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg
     title: "kommt noch, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
-  
+
 
 ---
 <script type="text/javascript" async
@@ -74,7 +74,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ ex-1-L2 | markdownify }}
 </div>
 
-## Aufgabenstellung ex-1-L3: Raumabstraktion 
+## Aufgabenstellung ex-1-L3: Raumabstraktion
 {% include gallery id="panel2"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
 
 
