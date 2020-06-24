@@ -163,7 +163,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "05 geographische Informationssysteme"
+      category: "05 Reflexive Kartenkompetenz"
       tags: "Unit 05"
       layout: single
       sidebar:

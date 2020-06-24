@@ -66,7 +66,7 @@ Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
 
-**Hinweis:** Bezüglich der Satellitendarstellung, hilft Ihnen vielleicht ein Blick zurück in die [Lerneinheit 03]({{ site.baseurl }}{% link _unit03/unit03-02-03_remote_sensing.md %}).
+**Hinweis:** Bezüglich der Satellitendarstellung, hilft Ihnen vielleicht ein Blick zurück in die [Lerneinheit 03]({{ site.baseurl }}{% link _unit03/unit03-04_learning_material.md %}).
 {: .notice}
 
 <div class="notice--success">
