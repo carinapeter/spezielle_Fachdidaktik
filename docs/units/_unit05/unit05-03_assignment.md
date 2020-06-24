@@ -30,7 +30,7 @@ die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gr
 * [Innenstadtplan des Tourismusbüros Marburgs](https://www.marburg-tourismus.de/service/stadtplan/innenstadtplan-marburg/)
 * interne [Kartenzusammenstellungen Feuer](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
 * interne [Kartenzusammenstellungen Brasilien](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
-* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützen Material auf ILIAS]()
+* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützen Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
 
 
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
@@ -65,7 +65,7 @@ Basierend auf dem konstruktivistischen Kartenmodell sollen eine Darstellung der 
 
 {% capture A05-L2 %}
 
-Unterziehen Sie die die [kartenähnliche Darstellung](https://eoimages.gsfc.nasa.gov/images/imagerecords/5000/5800/firemap_africa.2005.jpg) der Feuerdynamik in Afrika einer reflexiven Analyse. Binden Sie hierfür auch die Abbildung einer Autovermietung mit ein, die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist. Die Abbildung der Autofirma finden Sie im [geschützen Material auf ILIAS](). Diskutieren und bewerten Sie die Feuerkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
+Unterziehen Sie die die [kartenähnliche Darstellung](https://eoimages.gsfc.nasa.gov/images/imagerecords/5000/5800/firemap_africa.2005.jpg) der Feuerdynamik in Afrika einer reflexiven Analyse. Binden Sie hierfür auch die Abbildung einer Autovermietung mit ein, die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist. Die Abbildung der Autofirma finden Sie im [geschützen Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR). Diskutieren und bewerten Sie die Feuerkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
@@ -79,11 +79,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 ## Aufgabe 05-L3: Brasilien
 
 Auch in dieser Teilaufgabe soll eine Dekonstruktion des Herstellungsprozesses einer Karte vorgenommen werden, wobei hier nicht der Kartenausschnitt selbst, sondern die Legende der Karte die entscheidende Rolle spielt.
-Die folgende Karte von [Uhlenwinkel (2014)]() zeigt Regionen und Prozesse in Brasilien. Die Karte ist so zu verstehen, dass sie einmal mit der oberen, einmal mit der unteren Legende gedruckt wird.
+Die folgende Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) zeigt Regionen und Prozesse in Brasilien. Die Karte ist so zu verstehen, dass sie einmal mit der oberen, einmal mit der unteren Legende gedruckt wird.
 
 {% capture A05-L3 %}
 
-Unterziehen Sie die Karte von [Uhlenwinkel (2014)]() wie bereits in Aufgabe L2 einer reflexiven Analyse. Diskutieren und bewerten Sie die Brasilienkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
+Unterziehen Sie die Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) wie bereits in Aufgabe L2 einer reflexiven Analyse. Diskutieren und bewerten Sie die Brasilienkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
