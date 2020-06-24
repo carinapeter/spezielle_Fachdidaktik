@@ -184,7 +184,7 @@ defaults:
       path: ""
       type: unit07
     values:
-      category: "Materialien"
+      category: "07 Prüfung"
       tags: "Unit 07"
       layout: single
       sidebar:
