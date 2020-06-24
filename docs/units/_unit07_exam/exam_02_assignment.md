@@ -7,12 +7,12 @@ header:
   caption: "Foto: T. Nauss / CC0"
 
 panel1:  
-    image_path:/assets/images/exam/Stuttgart2008.jpg
+    image_path: /assets/images/exam/Stuttgart2008.jpeg
     title: "Stuttgart 2008"
-     image_path:/assets/images/exam/Stuttgart2015.jpg
-     title: "Stuttgart 2015"
+    image_path: /assets/images/exam/Stuttgart2015.jpeg
+    title: "Stuttgart 2015"
 
-panel2:  
+panel3:  
   - url: https://w.wiki/Qvs
     image_path: https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg
     title: "kommt noch, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
