@@ -7,9 +7,7 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-In dieser Übung analysieren Sie verschiedene Karten. Hierzu müssen Sie neben dem Sichtbaren auch den Herstellungsprozess und die Intention der Karte beachten. Als generellen Einstieg in die reflexive Kartenarbeit können Sie dem Artikel von [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) wichtige Leitfragen entnehmen.
-
-Sie üben in der Aufgabe die technisch- und intensionsbedingten Aspekte des Herstellungsprozesses zu differenzieren und die Wirkung von Legenden zu analysieren.
+In Aufgabe 05 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Sie das sichtbare Endprodukt in seine inhaltlichen und technischen Konstruktionseigenschaften zerlegen und die Intention der Kartenproduzenten entschlüsseln.
 
 <!---
 die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gryl (2014) (intern hier)zu findenden Zusammenstellung sind:
@@ -33,18 +31,21 @@ die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gr
 * [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützen Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
 
 
+**Hinweis:** Eine Auswahl von Leitfragen zur reflexive Kartenarbeit finden Sie im Artikel von [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis).
+{: .notice}
+
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
 ## Aufgabe 05-L1: Karte der Marburger Innenstadt
 
-Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örlichen Tourismusbüros herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
+Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den Innenstadtplan des örtlichen Tourismusbüros herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
 
 {% capture A05-L1 %}
 
-Beschreiben Sie zunächst den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
+Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
 
-Umfang: 1 Seite in Ihrer PDF-Datei
+Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% endcapture %}
 
@@ -54,19 +55,19 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 </div>
 
 
-
 ## Aufgabe 05-L2: Feuer
 
-Basierend auf dem konstruktivistischen Kartenmodell sollen eine Darstellung der Feuerdynamik in Afrika im Jahr 2005 des [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) dekonstruiert und hinsichtlich bewusster sowie unbewusster Konstruktionsentscheidungen analysiert und bewertet werden.
+Die NASA hat auf Ihrer [Earth Observatory Webseite](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) die  Feuerdynamik in Afrika im Jahr 2005 dargestellt.
 
 {% capture A05-L2 %}
 
-Analysieren Sie zum Einstieg zunächst die [Abbildungen einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen sind, hinsichtlich bewusster sowie unbewusster Konstruktionsentscheidungen. Unterziehen Sie anschließend die [kartenähnliche Darstellung](https://eoimages.gsfc.nasa.gov/images/imagerecords/5000/5800/firemap_africa.2005.jpg) der Feuerdynamik in Afrika einer reflexiven Analyse. Binden Sie hierbei Erkenntnisse aus der Reflexion der Abbildungen der Autovermietung mit ein.
-
-Diskutieren und bewerten Sie die Feuerkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
+Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https://earthobservatory.nasa.gov/images/5800/2005-fire-patterns-across-africa) haben, mit maximal 2 Sätzen. Analysieren Sie anschließend mit maximal 4 Sätzen die [Werbung einer amerikanischen Autovermietung](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR), die in zwei aufeinander folgenden Jahren (oben das erste, unten das zweite Jahr) erschienen ist, hinsichtlich bewusster Konstruktionsentscheidungen. Kommen Sie anschließend auf die Abbildung der NASA zurück und diskutieren Sie in maximal drei Sätzen, in wie fern sich Werbung und Satellitendarstellung bezüglich der Wirkung der Abbildung gleichen und was hier der technischen Konstruktion der Abbildung zu Grunde liegt.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
+
+**Hinweis:** Bezüglich der Satellitendarstellung, hilft Ihnen vielleicht ein Blick zurück in die [Lerneinheit 03]({{ site.baseurl }}{% link _unit03/unit03-02-03_remote_sensing.md %}).
+{: .notice}
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung 05-L2:</h4>
@@ -76,12 +77,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
 ## Aufgabe 05-L3: Brasilien
 
-Auch in dieser Teilaufgabe soll eine Dekonstruktion des Herstellungsprozesses einer Karte vorgenommen werden, wobei hier nicht der Kartenausschnitt selbst, sondern die Legende der Karte die entscheidende Rolle spielt.
-Die folgende Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) zeigt Regionen und Prozesse in Brasilien. Die Karte ist so zu verstehen, dass sie einmal mit der oberen, einmal mit der unteren Legende gedruckt wird.
+Auch in dieser Aufgabe steht die Dekonstruktion des Herstellungsprozesses einer Karte im Mittelpunkt. Diesmal geht es aber nicht nur um den Kartenausschnitt selbst, sondern um die Legende der Karte. Die folgende Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) zeigt Regionen und Prozesse in Brasilien. Die Karte ist so zu verstehen, dass sie einmal ausschließlich mit der oberen, einmal ausschließlich mit der unteren Legende gedruckt wird.
 
 {% capture A05-L3 %}
 
-Unterziehen Sie die Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) wie bereits in Aufgabe L2 einer reflexiven Analyse. Diskutieren und bewerten Sie die Brasilienkarte in 5 Sätzen, gerne können Sie sich auf [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) beziehen.
+Analysieren Sie bitte die Karte von [Uhlenwinkel (2014)](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR) und fokussieren Sie auf die unterschiedlichen Legenden. Fassen Sie Ihr Ergebnisse in maximal 5 Sätzen zusammen.
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
