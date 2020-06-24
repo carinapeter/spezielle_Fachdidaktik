@@ -5,9 +5,10 @@ header:
   image: /assets/images/04-splash.jpg
   image_description: "Unübersichtlich beschriebene Universitätstafel"
   caption: "Foto: Wikimedia Commons / CC0"
+
 panel1:  
-    /assets/images/exam/Studis2013.jpeg
-    title: "Studienanfängerinnen"  
+    image_path: /assets/images/exam/Studis2013.jpeg
+    title: "Studienanfängerinnen"
 ---
 <script type="text/javascript" async
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
@@ -26,7 +27,7 @@ panel1:
    });
 </script>
 
-In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte refelktieren.
+In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte reflektieren.
 
 
 ## Aufgabe ex-2-L1: Datenvisualisierung
