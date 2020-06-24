@@ -42,11 +42,11 @@ Sie interessieren sich für ein Lehramtsstudium in Marburg für Geographie und T
 
 {% capture A05-L1 %}
 
-Beantworten Sie die nachfolgenden Fragen in jeweils max. 3 Sätzen und fügen Sie diese in Ihre Abgabe ein:
+Beantworten Sie die nachfolgenden Fragen in jeweils maximal 5 Sätzen und fügen Sie diese in Ihre Abgabe ein:
 
   * Welches Bild vermittelt die Karte von Marburg?
   * Welches Interesse könnte hier durch das Tourismusbüro verfolgt werden?
-  * Ist die Karte für die genannten Interessensschwerpunkte geeignet.
+  * Diskutieren Sie die Eignung der Karte für die genannten Interessensschwerpunkte.
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 
