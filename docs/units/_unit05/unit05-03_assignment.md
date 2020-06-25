@@ -10,7 +10,7 @@ header:
 In Aufgabe 05 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Sie das sichtbare Endprodukt in seine inhaltlichen und technischen Konstruktionseigenschaften zerlegen und die Intention der Kartenproduzenten entschlüsseln.
 
 <!---
-die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gryl (2014) (intern hier)zu findenden Zusammenstellung sind:
+die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gryl (2014) (intern hier) zu findenden Zusammenstellung sind:
 
     Was zeigt die Karte?
     Wie ist die Darstellung?
@@ -28,7 +28,7 @@ die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gr
 * [Innenstadtplan des Tourismusbüros Marburgs](https://www.marburg-tourismus.de/service/stadtplan/innenstadtplan-marburg/)
 * interne [Kartenzusammenstellungen Feuer](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
 * interne [Kartenzusammenstellungen Brasilien](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
-* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützen Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
+* [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützten Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
 
 
 **Hinweis:** Eine Auswahl von Leitfragen zur reflexive Kartenarbeit finden Sie im Artikel von [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis).
@@ -66,7 +66,7 @@ Beschreiben Sie bitte den Eindruck, den Sie von der [Darstellung der NASA](https
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
 
-**Hinweis:** Bezüglich der Satellitendarstellung, hilft Ihnen vielleicht ein Blick zurück in die [Lerneinheit 03]({{ site.baseurl }}{% link _unit03/unit03-04_learning_material.md %}).
+**Hinweis:** Bezüglich der Satellitendarstellung hilft Ihnen vielleicht ein Blick zurück in die [Lerneinheit 03]({{ site.baseurl }}{% link _unit03/unit03-04_learning_material.md %}).
 {: .notice}
 
 <div class="notice--success">
@@ -115,7 +115,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
  ### Aufgabe 05-L2: Karte der US Wahlen 2008 auf County-Ebene
 
- Die folgende Karte von Mark Newman zeigt die Ergebnisse der Präsidentschaftswahlen im Jahr 2008 auf County-Ebene. In rot sind Counties dargestellt, in denen die Mehrheit der Wahlberechtigten den republikanischen Kandidaten gewählt hat, in blau solche mit einer Mehrheit für die Demokraten.
+ Die folgende Karte von Mark Newman zeigt die Ergebnisse der Präsidentschaftswahlen im Jahr 2008 auf County-Ebene. In Rot sind Counties dargestellt, in denen die Mehrheit der Wahlberechtigten den republikanischen Kandidaten gewählt hat, in blau solche mit einer Mehrheit für die Demokraten.
 
  **1. Karte**
 
