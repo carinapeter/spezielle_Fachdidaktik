@@ -15,3 +15,31 @@ Zu einer Kartenkompetenz gehört deshalb nicht nur das Zeichnen und das Auswerte
 In dieser Sitzung werden wir Schwerpunktmäßig Karten als Beispiele verwenden. Die reflexive Analyse oder Dekonstruktion von räumlichen Modellen, lässt sich aber auf viele Geomedien analog anwenden.
 
 {% include video id="dz4QNSX4JEA" provider="youtube" %}
+
+
+## Linkliste aus der Vorlesung
+
+**Form**
+* [Grönland lang](https://en.wikipedia.org/wiki/Greenland#/media/File:Greenland_(orthographic_projection).svg)
+* [Grönland kürzer](https://upload.wikimedia.org/wikipedia/commons/9/98/Greenland_ice_sheet_AMSL_thickness_map-en.png)
+* [Grönland gebogen](http://listverse.com/2019/01/07/10-things-you-might-not-know-about-greenland/)
+* [Grönland kurz](https://geology.com/world/greenland-satellite-image.shtml)
+
+**Form als politisches Mittel**
+* [UdSSR](https://www.carnegiecouncil.org/publications/ethics_online/politics-and-cartography-the-power-of-deception-through-distortion)
+
+**Mercator Projektion als Navigation aber Propaganda mit Pfeilen**
+* [British Empire](https://www.carnegiecouncil.org/publications/ethics_online/politics-and-cartography-the-power-of-deception-through-distortion)
+
+**Pfeile**
+* [Kommunisten](https://digital.library.cornell.edu/catalog/ss:3293897)
+
+**Farbe**
+* [Treibjagd](https://www.carnegiecouncil.org/publications/ethics_online/politics-and-cartography-the-power-of-deception-through-distortion)
+* [Flüchtlingsanteil](https://blog.zeit.de/teilchen/2015/08/27/wo-in-deutschland-viele-fluechtlinge-leben/?sort=asc&comments_page=9)
+
+**Symbole**
+* [Flüchtlingskriminalität](https://de.sputniknews.com/politik/20161205313640352-migranten-kriminalitaet-karte/)
+* [Angriffe](https://www.stern.de/politik/deutschland/fluechtlinge--deutschlandkarte-der-schande---dokumentation-von-uebergriffen-6711190.html)
+* [Dünger](https://www.greenpeace.org/usa/massive-texas-fertilizer-plant-explosion/)
+* [Marburg](http://www.kuhmann.com/Arms/Marburg%20(city%20center%20&%20location%20of%20Teutonic%20house%20-%20a%20Mineralology%20Museum).jpg)
