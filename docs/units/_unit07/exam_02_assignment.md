@@ -1,5 +1,5 @@
 ---
-title: A02 | Raummodellierung
+title: ex-1 | Raummodellierung
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -38,7 +38,7 @@ panel2:
 
 
 
-## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
+## Aufgabe 01-1: Lärm- und Luftverschmutzung in Stuttgart
 
 In den neueren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
 

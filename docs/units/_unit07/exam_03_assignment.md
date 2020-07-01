@@ -49,7 +49,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% capture ex-2-L2 %}
 
 {% include gallery id="panel1"  caption= "Studienanfänger/innen" %}
-Bwerten Sie die abgebildete thematische Karte zu den Studeinanfänger/-innen in Deutschland im Wintersemester 2013/2014 im Hinblick auf den Sachbezug der dargestellten Daten.
+Bewerten Sie die abgebildete thematische Karte zu den Studienanfänger/-innen in Deutschland im Wintersemester 2013/2014 im Hinblick auf den Sachbezug der dargestellten Daten.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
