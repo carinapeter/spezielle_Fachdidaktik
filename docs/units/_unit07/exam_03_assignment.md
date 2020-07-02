@@ -1,5 +1,5 @@
 ---
-title: ex-2 | Datenaufbereitung und Kartenreflexion
+title: ex-2 | Räumliche Darstellung demographischer Daten
 toc: true
 header:
   image: /assets/images/04-splash.jpg
@@ -34,7 +34,7 @@ In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen u
 
 {% capture ex-2-L1 %}
 
-Bitte fertigen Sie eine aussagekräftige Grafik an, aus der die Anzahl der Studienanfänger/innen insgesamt und der weibliche Anteil nach Bundesland hervorgeht. Daten zu Studienanfänger/innen finden Sie beim  [Statistischen Bundesamt](https://www-genesis.destatis.de/genesis/online?operation=previous&levelindex=2&levelid=1592926818401&levelid=1592926557205&step=1#abreadcrumb).
+Bitte fertigen Sie ein aussagekräftiges Diagramm an, aus der die Anzahl der Studienanfänger/innen insgesamt und der weibliche Anteil nach Bundesland hervorgeht. Daten zu Studienanfänger/innen finden Sie beim  [Statistischen Bundesamt](https://www-genesis.destatis.de/genesis/online?operation=previous&levelindex=2&levelid=1592926818401&levelid=1592926557205&step=1#abreadcrumb).
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
@@ -65,7 +65,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture ex-2-L3 %}
 
-Bitte fertigen Sie selbt eine aktuelle thematische Karten an, die eine geeignete kartographische Darstellungsform wählt. Sie dürfen alle für Sie verfügbaren Hilfsmittel dafür kombinieren.
+Bitte fertigen Sie selbt eine aktuelle thematische Karten mit den Daten aus L1 an, die eine geeignete kartographische Darstellungsform wählt. Sie dürfen alle für Sie verfügbaren Hilfsmittel dafür kombinieren.
 
 Umfang: 3 Seite in Ihrer PDF-Datei.
 {% endcapture %}

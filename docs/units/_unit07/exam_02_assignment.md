@@ -1,5 +1,5 @@
 ---
-title: ex-1 | Raummodellierung
+title: ex-1 | Physische Raumbeschreibung
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -12,10 +12,7 @@ panel1:
   - image_path: /assets/images/exam/Stuttgart2015.jpeg
     title: "Stuttgart 2015"
 
-panel2:  
-  - url: https://w.wiki/Qvs
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Barossa_Valley_South_Australia.jpg/1920px-Barossa_Valley_South_Australia.jpg
-    title: "kommt noch, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
+
 
 
 ---
@@ -47,7 +44,7 @@ In den neueren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrs
 
 ## Aufgabenstellung ex-1-L1: Kartenbeschreibung
 {% capture ex-1-L1 %}
-Was können Sie den Karten entnehmen? Beschreiben Sie die beiden Karten übersichtsartig in max. 10 ganzen Sätzen. Bewerten Sie die Art der Darstellung des Straßenlärms und der Luftbelastung in drei Sätzen.
+Was können Sie den Karten entnehmen? Beschreiben Sie die beiden Karten übersichtsartig in max. 10 ganzen Sätzen und gehen Sie dabei gegebenenfalls auf Unterschiede ein. Bewerten Sie die Art der Darstellung des Straßenlärms und der Luftbelastung in drei Sätzen.
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -61,7 +58,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabenstellung ex-1-L2: Güte der Karte
 {% capture ex-1-L2 %}
-Schätzen Sie die Aussagekraft und Belastbarkeit der Luftbelastung in der Karte ein. Nutzen Sie hierfür die Auskuft des [LUBW](https://udo.lubw.baden-wuerttemberg.de/public/api/processingChain?ssid=7b886373-2c8b-4e06-88a4-93900826fdc4&selector=luftmessdaten.meros%3Ameros_z_luft_vergleich_messstation_ueber_nmc.sel).
+Schätzen Sie die Aussagekraft und Belastbarkeit der Luftbelastung in der Karte ein. Nutzen Sie hierfür die Auskuft des [LUBW](https://udo.lubw.baden-wuerttemberg.de/public/api/processingChain?ssid=7b886373-2c8b-4e06-88a4-93900826fdc4&selector=luftmessdaten.meros%3Ameros_z_luft_vergleich_messstation_ueber_nmc.sel), begründen Sie Ihre Einschätzung in ca. 5 Sätzen.
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -74,25 +71,34 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ ex-1-L2 | markdownify }}
 </div>
 
-## Aufgabenstellung ex-1-L3: Raumabstraktion
-{% include gallery id="panel2"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
+
+
+
+## Aufgabenstellung ex-1-L3: Höhenprofil zeichnen
+
+Im Folgenden zeichnen und vergleichen Sie zwei Höhenprofile des gleichen Raumausschnitts. Suchen Sie die folgenden Koordinaten und betrachten Sie einmal die Topographie entlang der Luftlinie und einmal entlang der kürzeste Wegstrecke. 
+
+
+* A: 50.825125 N, 8.781874 E
+* B: 50.824728 N, 8.808806 E
+* *plus: Alternativen!*
 
 
 {% capture ex-1-L3 %}
 
-Erfassen Sie folgende Kategorien
-* Landnutzung (in Form von Landnutzungsarten),
-* Straßennetz und
-* Bebauungsfläche in einer Handskizze.
+Suchen Sie mit dem Radroutenplaner Hessen den kürzesten Weg zwischen den beiden Koordinaten und fügen Sie den Kartenausschnitt der Route und das Höhenprofil in Ihre pdf-Datei ein. Zeichnen Sie in eine topographsiche Karte (siehe Tipp) die Luftlinie zwischen den beiden Koordinaten ein und zeichnen Sie entlang dieser ein Höhenprofil. Fügen Sie die Skizze Ihrer Luflinie und das zugehörige Höhenprofil in Ihre PDF-Datei ein. Begründen Sie die Unterschiede in ca. 3 Sätzen.
 
-1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts unter Berücksichtigung der geforderten Kategorien. Fassen Sie in Ihrer Skizze die Kategorien räumlich in geeigneter Weise zusammen.
-1. Schreiben Sie in Stichpunkten Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte auf.
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
+Nutzen Sie eine analoge oder digitale Karte und markieren Sie sich den Streckenabschnitt.
+Zeichnen Sie anschließend bitte ein Höhenprofil entlang des Weges/der Straße vom Punkt A zum Punkt B.
 
+Fügen Sie sowohl die Karte mit dem markierten Streckenabschnitt, als auch das Höhenprofil in Ihre pdf-Datei ein.
 {% endcapture %}
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung ex-1-L3:</h4>
   {{ ex-1-L3 | markdownify }}
 </div>
+
+**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. (Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topographische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
+{: .notice--info}
