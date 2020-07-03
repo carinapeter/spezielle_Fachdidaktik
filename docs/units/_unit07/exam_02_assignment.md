@@ -39,6 +39,8 @@ panel1:
 
 In den neueren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
 
+**Karten werden noch ordentlich eingescannt, wenn die Aufgabe drinbleibt**
+
 {% include gallery id="panel1"  caption= "Stuttgart 2008 & 2015" %}
 
 
@@ -76,23 +78,30 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabenstellung ex-1-L3: Höhenprofil zeichnen
 
-Im Folgenden zeichnen und vergleichen Sie zwei Höhenprofile des gleichen Raumausschnitts. Suchen Sie die folgenden Koordinaten und betrachten Sie einmal die Topographie entlang der Luftlinie und einmal entlang der kürzeste Wegstrecke. 
+Im Folgenden zeichnen und vergleichen Sie zwei Höhenprofile des gleichen Raumausschnitts. Suchen Sie die folgenden Koordinaten und betrachten Sie einmal die Topographie entlang der Luftlinie und einmal entlang der kürzeste Wegstrecke.
 
 
-* A: 50.825125 N, 8.781874 E
-* B: 50.824728 N, 8.808806 E
-* *plus: Alternativen!*
+<!--
+3 Varianten
+-->
+
+* A: 50,805203° N; 8,806826° E
+* B: 50,812275° N; 8,730971° E
+
+*Alternativen:*
+* A: 50,769535° N; 8,797826° E
+* B: 50,797801° N; 8,732459° E
+
+* A: 50,817401° N; 8,808866° E
+* B: 50,821681° N; 8,741819° E
 
 
 {% capture ex-1-L3 %}
 
-Suchen Sie mit dem Radroutenplaner Hessen den kürzesten Weg zwischen den beiden Koordinaten und fügen Sie den Kartenausschnitt der Route und das Höhenprofil in Ihre pdf-Datei ein. Zeichnen Sie in eine topographsiche Karte (siehe Tipp) die Luftlinie zwischen den beiden Koordinaten ein und zeichnen Sie entlang dieser ein Höhenprofil. Fügen Sie die Skizze Ihrer Luflinie und das zugehörige Höhenprofil in Ihre PDF-Datei ein. Begründen Sie die Unterschiede in ca. 3 Sätzen.
+Suchen Sie mit dem Radroutenplaner Hessen den Weg zwischen den beiden Koordinaten und fügen Sie den Kartenausschnitt der Route und das Höhenprofil in Ihre pdf-Datei ein. Zeichnen Sie in eine topographsiche Karte (siehe Tipp) die Luftlinie zwischen den beiden Koordinaten ein und zeichnen Sie entlang dieser ein Höhenprofil. Fügen Sie die Skizze Ihrer Luflinie und das zugehörige Höhenprofil in Ihre PDF-Datei ein. Begründen Sie die Unterschiede in ca. 3 Sätzen.
 
+Umfang: 3 Seiten in Ihrer PDF-Datei.
 
-Nutzen Sie eine analoge oder digitale Karte und markieren Sie sich den Streckenabschnitt.
-Zeichnen Sie anschließend bitte ein Höhenprofil entlang des Weges/der Straße vom Punkt A zum Punkt B.
-
-Fügen Sie sowohl die Karte mit dem markierten Streckenabschnitt, als auch das Höhenprofil in Ihre pdf-Datei ein.
 {% endcapture %}
 
 <div class="notice--success">
@@ -100,5 +109,5 @@ Fügen Sie sowohl die Karte mit dem markierten Streckenabschnitt, als auch das H
   {{ ex-1-L3 | markdownify }}
 </div>
 
-**Tipp**: Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. (Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topographische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
+**Tipp:** Höheninformationen können Sie analogen topographischen oder auch digitalen Karten entnehmen. (Für digitales Arbeiten eignet sich z.B. [OpenTopoMap](https://opentopomap.org/) ). Falls Sie keine topographische Papier-Karte zur Hand haben können Sie mit wenigen Klicks z.B. mit dem Webtool  [inkatlas](https://inkatlas.com/create/) eine maßstäbliche topographische Karte auf der Grundlage von OpenTopoMap erzeugen und ausdrucken.
 {: .notice--info}

@@ -27,19 +27,20 @@ panel3:
 {% include gallery id="panel1"  caption= "Helter, Skelter and Northern Railways" %}
 
 Die mit Figure 5.1 bezeichnete Karte/Skizze dient Ihrer Hintergrundinformation und stellt die von Eisenbahningenieuren tatsächlich vorgefundene Situation im Jahr 1987 dar. Für Sie bedeutet das, dass sie diese Karte/Skizze als „Wirklichkeit“ ansehen dürfen. Die Abkürzungen „HS & N“ stehen für die „Helter, Skelter & Northern Railway“-Eisenbahngesellschaft, „HS & Y“ steht für die „Helter, Skelter & Yon“-Eisenbahngesellschaft. Eine weitere Gesellschaft, die für die Aufgabe nicht von unmittelbarer Relevanz ist, ist mit „H & ERR“ angegeben.
-Die mit Figure 5.2 bezeichnete Karte/Skizze ist die für die Werbung der „Helter,Skelter & Northern Rail-way“-Gesellschaft (HS & N) benutzte Grafik.
+Die mit Figure 5.2 bezeichnete Karte/Skizze ist die für die Werbung der „Helter,Skelter & Northern Railway“-Gesellschaft (HS & N) benutzte Grafik.
 
 {% capture ex-3-L1 %}
 
-Analysieren Sie die mit Figure 5.2 bezeichnete Karte/Skizze vor dem Hintergrund ihres Einsatzes in der Werbung für die HS & N.
-Hinweis: Da es sich um eine kartenähnliche Skizze handelt, ist das Fehlen von Legende, Nord-pfeil etc. vernachlässigbar.
+Analysieren Sie die mit Figure 5.2 bezeichnete Karte/Skizze vor dem Hintergrund ihres Einsatzes in der Werbung für die HS & N in maximal 10 Sätzen.
+Hinweis: Da es sich um eine kartenähnliche Skizze handelt, ist das Fehlen von Legende, Nordpfeil etc. vernachlässigbar.
+
+Umfang: 1 Seite in Ihrer PDF-Datei.
+
 {% endcapture %}
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung ex-3-L1:</h4>
   {{ ex-3-L1 | markdownify }}
 </div>
-
-
 
 
 ## Marburg Karte
@@ -63,6 +64,7 @@ Umfang: 5 Sätze
 
 {% include gallery id="panel3"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
 
+**Hier könnten wir noch alternative Bilder verwenden um noch eine Aufgabe zu individualisieren.**
 
 {% capture ex-3-L3 %}
 

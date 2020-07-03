@@ -30,21 +30,54 @@ panel1:
 In dieser Aufgabe sollen Sie die Daten in Graphiken und einer Karte darstellen und die Güte einer gebenen Karte reflektieren.
 
 
+
 ## Aufgabe ex-2-L1: Datenvisualisierung
 
 {% capture ex-2-L1 %}
 
-Bitte fertigen Sie ein aussagekräftiges Diagramm an, aus der die Anzahl der Studienanfänger/innen insgesamt und der weibliche Anteil nach Bundesland hervorgeht. Daten zu Studienanfänger/innen finden Sie beim  [Statistischen Bundesamt](https://www-genesis.destatis.de/genesis/online?operation=previous&levelindex=2&levelid=1592926818401&levelid=1592926557205&step=1#abreadcrumb).
+Bitte fertigen Sie ein aussagekräftiges Diagramm an, aus der die Anzahl der Studienanfänger/innen im Wintersemester 2018/19 insgesamt und der weibliche Anteil nach Bundesland hervorgeht. Daten zu Studienanfänger/innen finden Sie in der Datenbank des [Statistischen Bundesamt](https://www-genesis.destatis.de/genesis/online) in der Tabelle *Studienanfänger: Bundesländer, Semester, Nationalität, Geschlecht*.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L1:</h4>
+  <h4 class="no_toc">Aufgabenstellung ex-2-L1:</h4>
+  {{ ex-2-L1 | markdownify }}
+</div>
+
+*Alternativen für den Datensatz zur Individualisierung*
+
+## Aufgabe ex-2-L1: Datenvisualisierung
+
+{% capture ex-2-L1 %}
+
+Bitte fertigen Sie ein aussagekräftiges Diagramm an, aus der die Anzahl der Habilitationen im Jahr 2018 insgesamt und der weibliche Anteil nach Bundesland hervorgeht. Daten zu Habilitationen finden Sie in der Datenbank des [Statistischen Bundesamt](https://www-genesis.destatis.de/genesis/online) in der Tabelle *Habilitationen: Bundesländer, Jahre, Geschlecht*.
+
+Umfang: 1 Seite in Ihrer PDF-Datei.
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Aufgabenstellung ex-2-L1:</h4>
+  {{ ex-2-L1 | markdownify }}
+</div>
+
+## Aufgabe ex-2-L1: Datenvisualisierung
+
+{% capture ex-2-L1 %}
+
+Bitte fertigen Sie ein aussagekräftiges Diagramm an, aus der die Anzahl der Stipendiaten 2019 insgesamt und der weibliche Anteil nach Bundesland hervorgeht (jeweils alle Hochschulen insgesamt). Daten zu Stipendiaten finden Sie in der Datenbank des [Statistischen Bundesamt](https://www-genesis.destatis.de/genesis/online) in der Tabelle *Stipendiaten: Bundesländer, Jahre, Geschlecht, Hochschulart*.
+
+Umfang: 1 Seite in Ihrer PDF-Datei.
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">Aufgabenstellung ex-2-L1:</h4>
   {{ ex-2-L1 | markdownify }}
 </div>
 
 ## Aufgabe ex-2-L2: Kartenreflexion
+
+**aktualisierte Karten aus den drei oben genannten Datensätzen kommen spätestens Montag dazu - im gleichen Layout, wie diese alte Karte.**
 
 {% capture ex-2-L2 %}
 
@@ -65,7 +98,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture ex-2-L3 %}
 
-Bitte fertigen Sie selbt eine aktuelle thematische Karten mit den Daten aus L1 an, die eine geeignete kartographische Darstellungsform wählt. Sie dürfen alle für Sie verfügbaren Hilfsmittel dafür kombinieren.
+Bitte fertigen Sie selbt eine aktuelle thematische Karten auf Bundeslandebene mit den Daten aus L1 an. Wählen Sie dafür eine geeignete kartographische Darstellungsform. Sie dürfen alle für Sie verfügbaren Hilfsmittel dafür kombinieren.
 
 Umfang: 3 Seite in Ihrer PDF-Datei.
 {% endcapture %}
