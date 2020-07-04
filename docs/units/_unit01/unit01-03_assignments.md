@@ -8,7 +8,7 @@ header:
 ---
 
 
-In den Aufgaben üben Sie Atlaskarten kritsich zu reflektieren. Dazu beschäftigen Sie sich zunächst intensiv mit den Karte, Ihrer Aussagen, Darstellungsformen und Datengrundlage. Sie sollen den Inhalt von Atlaskarten beschreiben und interpretieren, die Datengrundlage analysieren und Vergleichsdaten zu Rate ziehen, um die dargestellte Wahrheit zu reflektieren. Abschließend sollen Sie eine eigene Karte entwickeln, die ein Gegenentwurf zur Atlaskarte sein kann und Ihre eigene Perspektive transportiert.
+In den Aufgaben üben Sie Atlaskarten kritisch zu reflektieren. Dazu beschäftigen Sie sich zunächst intensiv mit der Karte, den verwendeten Darstellungsformen und Datengrundlagen. Sie sollen den Inhalt von Atlaskarten beschreiben und interpretieren, die Datengrundlage analysieren und Vergleichsdaten zu Rate ziehen, um die dargestellte Abstraktion des betrachteten Weltausschnitts zu reflektieren. Abschließend sollen Sie eine eigene Karte entwickeln, die abweichend zur Atlaskarte sein kann und Ihre eigene Perspektive transportiert.
 
 
 ## Benötigte Materialien für die Aufgaben
