@@ -37,41 +37,52 @@ panel1:
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Stuttgart
 
-In den neueren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
+In der Aufgabe 01 sollen Sie erneut Atlaskarten kritisch reflektieren. Wie Ihnen bekannt ist ist der erste Schritt die intensive Auseinandersetzung mit der Karte, ihren Darstellungsformen und Datengrundlagen. 
+
+In den jüngeren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
 
 **Karten werden noch ordentlich eingescannt, wenn die Aufgabe drinbleibt**
 
-{% include gallery id="panel1"  caption= "Stuttgart 2008 & 2015" %}
+{% include gallery id="panel1"  caption= "Verkehrsbelastung Stuttgart 2008 (links)  Verkehrsbelastung Stuttgart 2015 (rechts)" %}
 
 
-## Aufgabenstellung ex-1-L1: Kartenbeschreibung
-{% capture ex-1-L1 %}
-Was können Sie den Karten entnehmen? Beschreiben Sie die beiden Karten übersichtsartig in max. 10 ganzen Sätzen und gehen Sie dabei gegebenenfalls auf Unterschiede ein. Bewerten Sie die Art der Darstellung des Straßenlärms und der Luftbelastung in drei Sätzen.
+## Aufgabenstellung ex-01-L1: Kartenbeschreibung
 
+{% capture L-MeKo-01-L1 %}
+Was können Sie den Karten entnehmen? 
+*  Beschreiben Sie die beiden Karten übersichtsartig in max. 10 Sätzen und gehen Sie dabei auf Unterschiede ein. 
+* Bewerten Sie die Art der Darstellung des Straßenlärms und der Luftbelastung in jeweils max. drei Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
-
 {% endcapture %}
-
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung ex-1-L1:</h4>
-  {{ ex-1-L1 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung L-MeKo-01-L1:</h4>
+  {{L-MeKo-01-L1 | markdownify }}
 </div>
 
 ## Aufgabenstellung ex-1-L2: Güte der Karte
-{% capture ex-1-L2 %}
-Schätzen Sie die Aussagekraft und Belastbarkeit der Luftbelastung in der Karte ein. Nutzen Sie hierfür die Auskuft des [LUBW](https://udo.lubw.baden-wuerttemberg.de/public/api/processingChain?ssid=7b886373-2c8b-4e06-88a4-93900826fdc4&selector=luftmessdaten.meros%3Ameros_z_luft_vergleich_messstation_ueber_nmc.sel), begründen Sie Ihre Einschätzung in ca. 5 Sätzen.
+{% capture L-MeKo-01-L2 %}
+Wie schätzen Sie die Aktualität der Aussagen ein?
+* Wie stellen sich Aussagekraft und Belastbarkeit der Werte zur Luftbelastung in der Karte vor dem Hintergrund der aktuellen  [LUBW](https://udo.lubw.baden-wuerttemberg.de/public/api/processingChain?ssid=7b886373-2c8b-4e06-88a4-93900826fdc4&selector=luftmessdaten.meros%3Ameros_z_luft_vergleich_messstation_ueber_nmc.sel) Meßwerte dar?
+* Beschreiben und Begründen Sie Ihre Einschätzung in maximal 5 Sätzen.
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
-
-
 {% endcapture %}
-
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung ex-1-L2:</h4>
-  {{ ex-1-L2 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung L-MeKo-01-L2:</h4>
+  {{ L-MeKo-01-L2 | markdownify }}
 </div>
+
+Link gibt Fehlermeldung: *Die Abfrage liefert keine Ergebnisse. Bitte ändern Sie die Suchbelegung.*
+{: .notice--danger}
+
+
+
+
+
+L-MeKo-01-L3 ist ein völliger Bruch - hier sollte analog zur LE 01 auch was gezeichnet werden das mit der Karte in Zusammenhang zu bringen ist zb. aus dem GIS Tool BaWü eine eigene Karte zur Schadstoffbelastung
+{: .notice--danger}
 
 
 
