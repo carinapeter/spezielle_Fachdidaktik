@@ -67,8 +67,23 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 
-Zum Beispiel unter Verwendung von Aufgabe zwei eigene Karte zu Stuttagart beisst sich aber mit Analyse und Diskussion einer thematischen Karte Aufgabe 02
+Chris: Zum Beispiel unter Verwendung von Aufgabe zwei eigene Karte zu Stuttagart beisst sich aber mit Analyse und Diskussion einer thematischen Karte Aufgabe 02
 Eventuell mit den Daten ein Höhenprofil erstellen und die werte eintragen?
+
+
+
+Rieke:  würde die Höhenprofil Aufgabe zu Stuttgart machen und die Werte einzeichen lassen. Radroutenplaner gibt es auch für BaWü. Allerdings finde ich es im Aufgabenkontext stimmiger nur ein QUerschnittsprofil zu zeichen. Würde vorgeben, dass der Schnitt durch zwei der Messstationen zu legen ist (für diese könnte man die Koordinaten auslesen lassen, wenn man den Umgang mit Koordianten prüfen will.)
+
+https://www.radroutenplaner-bw.de/de
+
+https://inkatlas.com/create/
+
+
+Konkreter Vorschlag: Abschließend sollen die Messwerte zur Luftbelastung auch im Kontext des Reliefs dargestellt werden. Verorten Sie zwei Messstationen zunächst geographisch, indem Sie Koordinaten und Höhenmeter recherchieren. Zeichnen Sie dann ein Höhenprofil entlang einer Geraden, die Sie auf einer topographischen Karte (https://inkatlas.com/create/) durch beide beide Messtationen legen. Zeichnen Sie beide Messstationen in das Höhenprofil ein und geben Sie die entsprechenden aktuellen Messwerte an.
+
+*Geben Sie Koordinaten und Höhenmeter von zwei Messstationen an
+*Scannen Sie die Topographische Karte mit den darin verorteten Stationen und der eingezeichnet Line und Ihr Höhenprofil in ausreichender Qualität ein. 
+
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
