@@ -17,7 +17,7 @@ iCH FINDE DIE rEFLEXIONSÜBUNG DEUTLICH EINFACHER ALS DIE dIAGRAMMÜBUNG WÜRDE 
 
 In der Aufgabe L-MeKo-02  geht es um das Verständnis einer zielführenden Datenvisualiserung. Neben der Reflexion und Aufbereitung und Visualisierung von Daten. Neben der Aufbereitung und Anfertigung von aussagekräftigen Diagrammen werden Sie thematische Karten.
 
-## Aufgabe L-MeKo-02-L1: Kartendiskussion
+## Aufgabe L-MeKo-02-L1: Analyse und Diskussion einer thematischen Karte
 
 Alice:**aktualisierte Karten aus den drei oben genannten Datensätzen kommen spätestens Montag dazu - im gleichen Layout, wie diese alte Karte.**
 {: .notice--success}
@@ -38,7 +38,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Aufgabe L-MeKo-02: Datenvisualisierung
+## Aufgabe L-MeKo-02: Visualisierung tabellarischer Daten
 
 {% capture L-MeKo-02-L2 %}
 
@@ -54,11 +54,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 
-## Aufgabe L-MeKo-02-L3: Kartenerstellung
+## Aufgabe L-MeKo-02-L3: Erstellung einer thematischen Karte
 
 {% capture L-MeKo-02-L3 %}
 
-Bitte fertigen Sie eigenständig eine aktuelle thematische Karten auf Bundeslandebene mit den Daten aus Aufgabe L-MeKo-02-L2 und unter Berücksichtigung Ihrer Einsichten aus L-MeKo-02-L1 und geeigneten kartographischen Mitteln an.
+Bitte fertigen Sie eigenständig eine aktuelle thematische Karte auf Bundeslandebene. Nutzen Sie hinsichtlich der thematischen Inhaltte die Fragestellung und Daten aus der Aufgabe L-MeKo-02-L2 und berücksichtigen Sie Ihre Erkenntnisse aus L-MeKo-02-L1. Wenden Sie in geeigneter Weise die bekannten kartographischen Mittel an.
 
 Umfang: 3 Seiten in Ihrer PDF-Datei.
 {% endcapture %}
