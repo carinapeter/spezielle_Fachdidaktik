@@ -16,23 +16,15 @@ panel1:
 
 
 ---
-<script type="text/javascript" async
-	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-</script>
 
-<script type="text/x-mathjax-config">
-   MathJax.Hub.Config({
-     extensions: ["tex2jax.js"],
-     jax: ["input/TeX", "output/HTML-CSS"],
-     tex2jax: {
-       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-       processEscapes: true
-     },
-     "HTML-CSS": { availableFonts: ["TeX"] }
-   });
-</script>
 
+
+Link gibt Fehlermeldung: *Die Abfrage liefert keine Ergebnisse. Bitte ändern Sie die Suchbelegung.*
+{: .notice--danger}
+
+
+L-MeKo-01-L3 ist ein völliger Bruch - hier sollte analog zur LE 01 auch was gezeichnet werden das mit der Karte in Zusammenhang zu bringen ist zb. aus dem GIS Tool BaWü eine eigene Karte zur Schadstoffbelastung
+{: .notice--danger}
 
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Stuttgart
@@ -73,17 +65,6 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   <h4 class="no_toc">Aufgabenstellung L-MeKo-01-L2:</h4>
   {{ L-MeKo-01-L2 | markdownify }}
 </div>
-
-Link gibt Fehlermeldung: *Die Abfrage liefert keine Ergebnisse. Bitte ändern Sie die Suchbelegung.*
-{: .notice--danger}
-
-
-
-
-
-L-MeKo-01-L3 ist ein völliger Bruch - hier sollte analog zur LE 01 auch was gezeichnet werden das mit der Karte in Zusammenhang zu bringen ist zb. aus dem GIS Tool BaWü eine eigene Karte zur Schadstoffbelastung
-{: .notice--danger}
-
 
 
 
