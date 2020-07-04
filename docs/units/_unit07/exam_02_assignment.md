@@ -37,11 +37,11 @@ panel1:
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Stuttgart
 
-In der Aufgabe 01 sollen Sie erneut Atlaskarten kritisch reflektieren. Wie Ihnen bekannt ist ist der erste Schritt die intensive Auseinandersetzung mit der Karte, ihren Darstellungsformen und Datengrundlagen. 
+In der Aufgabe 01 sollen Sie erneut Atlaskarten kritisch reflektieren. Wie Ihnen bekannt ist, ist der erste Schritt die intensive Auseinandersetzung mit der Karte, ihren Darstellungsformen und Datengrundlagen. 
 
 In den jüngeren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
 
-**Karten werden noch ordentlich eingescannt, wenn die Aufgabe drinbleibt**
+**Karten werden noch ordentlich eingescannt, wenn die Aufgabe drin bleibt**
 
 {% include gallery id="panel1"  caption= "Verkehrsbelastung Stuttgart 2008 (links)  Verkehrsbelastung Stuttgart 2015 (rechts)" %}
 
@@ -62,8 +62,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabenstellung ex-1-L2: Güte der Karte
 {% capture L-MeKo-01-L2 %}
-Wie schätzen Sie die Aktualität der Aussagen ein?
-* Wie stellen sich Aussagekraft und Belastbarkeit der Werte zur Luftbelastung in der Karte vor dem Hintergrund der aktuellen  [LUBW](https://udo.lubw.baden-wuerttemberg.de/public/api/processingChain?ssid=7b886373-2c8b-4e06-88a4-93900826fdc4&selector=luftmessdaten.meros%3Ameros_z_luft_vergleich_messstation_ueber_nmc.sel) Meßwerte dar?
+Auf den Seiten der Landesanstalt für Umwelt Baden-Württemberg [LUBW](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte) finden Sie ein Online-Tool zur Suche und Darstellung offizieller Messwerte. (i) Analysieren Sie die Datenlagen zur Luftqualität in Stuttgart.  (ii) Bewerten Sie auf Basis der Daten des LUBW die Belastbarkeit der in den Karte dargestellten Luftbelastung.
+
 * Beschreiben und Begründen Sie Ihre Einschätzung in maximal 5 Sätzen.
 
 
@@ -74,15 +74,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ L-MeKo-01-L2 | markdownify }}
 </div>
 
-Link gibt Fehlermeldung: *Die Abfrage liefert keine Ergebnisse. Bitte ändern Sie die Suchbelegung.*
-{: .notice--danger}
 
-
-
-
-
-L-MeKo-01-L3 ist ein völliger Bruch - hier sollte analog zur LE 01 auch was gezeichnet werden das mit der Karte in Zusammenhang zu bringen ist zb. aus dem GIS Tool BaWü eine eigene Karte zur Schadstoffbelastung
-{: .notice--danger}
 
 
 
