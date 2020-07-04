@@ -22,12 +22,18 @@ panel3:
     title: "kommt noch, [Presse03](https://w.wiki/Qvs) / CC BY-SA via commons.wikimedia.org"
 
 ---
+
+
+Die Abbildungen können Überarbeitet werden so dass wir links und rechts in der Bildunterschrift verwenden können. Zudem fehlt die Quellenangabe vermutlich Montmonnier? dann war es 1875 und nicht 1987
+{: .notice--danger}
+
+
 ## Reflexive Kartenanalyse: Helter Skelter Railways
 
-{% include gallery id="panel1"  caption= "Helter, Skelter and Northern Railways" %}
+{% include gallery id="panel1"  caption= "(links) Die Karteskizze illustriert die Streckenführung verschiedener, konkurrierender Eisenbahngesellschaften im 19. Jarhundert in  England. Die Abkürzungen **HS & N** stehen für die *Helter, Skelter & Northern Railway* Eisenbahngesellschaft, **HS & Y** steht für die *Helter, Skelter & Yon* Eisenbahngesellschaft. Eine 
+weitere für die Fragestellung irrelevante Gesellschaft ist mit * ist mit **H & ERR** benannt. (rechts) Die Kartenskizze stellt die Bahnverbindung zwischen Helter und Skelter nach einem Entwurf der *Helter,Skelter & Northern Railway*-Gesellschaft dar.
+" %}
 
-Die mit Figure 5.1 bezeichnete Karte/Skizze dient Ihrer Hintergrundinformation und stellt die von Eisenbahningenieuren tatsächlich vorgefundene Situation im Jahr 1987 dar. Für Sie bedeutet das, dass sie diese Karte/Skizze als „Wirklichkeit“ ansehen dürfen. Die Abkürzungen „HS & N“ stehen für die „Helter, Skelter & Northern Railway“-Eisenbahngesellschaft, „HS & Y“ steht für die „Helter, Skelter & Yon“-Eisenbahngesellschaft. Eine weitere Gesellschaft, die für die Aufgabe nicht von unmittelbarer Relevanz ist, ist mit „H & ERR“ angegeben.
-Die mit Figure 5.2 bezeichnete Karte/Skizze ist die für die Werbung der „Helter,Skelter & Northern Railway“-Gesellschaft (HS & N) benutzte Grafik.
 
 {% capture ex-3-L1 %}
 
