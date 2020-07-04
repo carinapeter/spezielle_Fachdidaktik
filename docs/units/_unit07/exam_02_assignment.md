@@ -16,22 +16,6 @@ panel1:
 
 
 ---
-<script type="text/javascript" async
-	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-</script>
-
-<script type="text/x-mathjax-config">
-   MathJax.Hub.Config({
-     extensions: ["tex2jax.js"],
-     jax: ["input/TeX", "output/HTML-CSS"],
-     tex2jax: {
-       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-       processEscapes: true
-     },
-     "HTML-CSS": { availableFonts: ["TeX"] }
-   });
-</script>
 
 
 
@@ -46,7 +30,7 @@ In den jüngeren Ausgaben des Diercke Atlas’ findet sich eine Karte zur Verkeh
 {% include gallery id="panel1"  caption= "Verkehrsbelastung Stuttgart 2008 (links)  Verkehrsbelastung Stuttgart 2015 (rechts)" %}
 
 
-## Aufgabenstellung ex-01-L1: Kartenbeschreibung
+## Aufgabenstellung L-MeKo-02-L1: Kartenbeschreibung
 
 {% capture L-MeKo-01-L1 %}
 Was können Sie den Karten entnehmen? 
@@ -60,7 +44,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{L-MeKo-01-L1 | markdownify }}
 </div>
 
-## Aufgabenstellung ex-1-L2: Güte der Karte
+## Aufgabenstellung L-MeKo-02-L2: Güte der Karte
 {% capture L-MeKo-01-L2 %}
 Auf den Seiten der Landesanstalt für Umwelt Baden-Württemberg [LUBW](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte) finden Sie ein Online-Tool zur Suche und Darstellung offizieller Messwerte. (i) Analysieren Sie die Datenlagen zur Luftqualität in Stuttgart.  (ii) Bewerten Sie auf Basis der Daten des LUBW die Belastbarkeit der in den Karte dargestellten Luftbelastung.
 
@@ -79,7 +63,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 
-## Aufgabenstellung ex-1-L3: Höhenprofil zeichnen
+## Aufgabenstellung L-MeKo-02-L3: Höhenprofil zeichnen
 
 Im Folgenden zeichnen und vergleichen Sie zwei Höhenprofile des gleichen Raumausschnitts. Suchen Sie die folgenden Koordinaten und betrachten Sie einmal die Topographie entlang der Luftlinie und einmal entlang der kürzeste Wegstrecke.
 
