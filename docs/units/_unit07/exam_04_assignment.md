@@ -1,5 +1,5 @@
 ---
-title: ex-3 | Raumabstraktion reflektieren
+title: L-MeKo-03 | Raumabstraktion reflektieren
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -28,17 +28,21 @@ Die Abbildungen können Überarbeitet werden so dass wir links und rechts in der
 {: .notice--danger}
 
 
-## Reflexive Kartenanalyse: Helter Skelter Railways
+## Aufgabe L-MeKo-03-L1: Reflexive Kartenanalyse: Helter Skelter Railways
+
+Als Präsident der Helter Helter,Skelter & Northern Railway-Gesellschaft sind Sie mit der *realen*Streckenführung in der linken nachfolgenden Abbildung konfrontiert. Ihre Marketingabteilung legt Ihnen zu Werbezwecken die veränderte Skizze der rechte Abbildung vor.
+
+
+{% capture L-MeKo-03-L1 %}
 
 {% include gallery id="panel1"  caption= "(links) Die Karteskizze illustriert die Streckenführung verschiedener, konkurrierender Eisenbahngesellschaften im 19. Jarhundert in  England. Die Abkürzungen **HS & N** stehen für die *Helter, Skelter & Northern Railway* Eisenbahngesellschaft, **HS & Y** steht für die *Helter, Skelter & Yon* Eisenbahngesellschaft. Eine 
 weitere für die Fragestellung irrelevante Gesellschaft ist mit * ist mit **H & ERR** benannt. (rechts) Die Kartenskizze stellt die Bahnverbindung zwischen Helter und Skelter nach einem Entwurf der *Helter,Skelter & Northern Railway*-Gesellschaft dar.
 " %}
 
+Vergleichen Sie die links abgebildete Kartenskizze mit der rechts abgebildeten Kartenskizze. Berücksichtigen Sie insbesondere die vermutenen Addressaten und den Einsatzzweck Werbung in maximal 10 Sätzen.
 
-{% capture ex-3-L1 %}
 
-Analysieren Sie die mit Figure 5.2 bezeichnete Karte/Skizze vor dem Hintergrund ihres Einsatzes in der Werbung für die HS & N in maximal 10 Sätzen.
-Hinweis: Da es sich um eine kartenähnliche Skizze handelt, ist das Fehlen von Legende, Nordpfeil etc. vernachlässigbar.
+Hinweis: Da es sich um eine kartenähnliche Skizze handelt, ist das Fehlen formaler kartographischer Elemente wie etwa Legende, Nordpfeil etc. irrelevant.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
@@ -49,35 +53,43 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Marburg Karte
+## Aufgabe L-MeKo-03-L2: Dekonstruktion einer Marburg Karte
 
+Diese dreidimensonale, kartenähnliche Abbildung zeigt Marburg in einer ungewohnten Darstellungsform. 
+
+{% capture L-MeKo-03-L2 %}
 {% include gallery id="panel2"  caption= "Marburg" %}
 
-Diese kartenähnliche Abbildung zeigt Marburg in einer ungewohnten Darstellung.
+Dekonstruieren und analysieren Sie diese Karte. 
+1  Welchen Eindruck vermittelt diese Karte von Marburg?
+1  Welche Adressaten und Intention sehen Sie hinter der Wahl dieser Darstellung?
 
-{% capture ex-3-L2 %}
-Dekonstruieren und analysieren Sie diese Karte. Erläutern Sie dabei vor allem welchen Eindruck, die Karte von Marburg vermittelt und welche Intention Sie hinter der Wahl dieser Darstellung sehen.
+Schreiben Sie max. 5 Sätze
 
-Umfang: 5 Sätze
+Umfang: 1 Seite Ihrer PDF Datei
 {% endcapture %}
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung ex-3-L2:</h4>
-  {{ ex-3-L2 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung L-MeKo-03-L2:</h4>
+  {{ L-MeKo-03-L2 | markdownify }}
 </div>
 
 
-## Aufgabenstellung ex-1-L3: Raumabstraktion
+## Aufgabe L-MeKo-03-L3: Raumabstraktion
+
+Einleitungssätze
+{: .notice--danger}
+
 
 {% include gallery id="panel3"  caption= "Foto: [Weinanbau in Australien](https://en.wikipedia.org/wiki/Rural_area#/media/File:Barossa_Valley_South_Australia.jpg) Luis Roving / CC BY-2.0 via commons.wikimedia.org" %}
 
 **Hier könnten wir noch alternative Bilder verwenden um noch eine Aufgabe zu individualisieren.**
 
-{% capture ex-3-L3 %}
+{% capture L-MeKo-03-L3 %}
 
 Erfassen Sie folgende Kategorien
-* Landnutzung (in Form von Landnutzungsarten),
-* Straßennetz und
-* Bebauungsfläche in einer Handskizze.
+1. Landnutzung (in Form von Landnutzungsarten),
+1. Straßennetz und
+1. Bebauungsfläche in einer Handskizze.
 
 1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts unter Berücksichtigung der geforderten Kategorien. Fassen Sie in Ihrer Skizze die Kategorien räumlich in geeigneter Weise zusammen.
 1. Schreiben Sie in Stichpunkten Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte auf.
@@ -87,6 +99,6 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung ex-3-L3:</h4>
-  {{ ex-3-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung L-MeKo-03-L3:</h4>
+  {{ L-MeKo-03-L3 | markdownify }}
 </div>

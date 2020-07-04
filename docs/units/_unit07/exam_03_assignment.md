@@ -1,5 +1,5 @@
 ---
-title: ex-2 | Räumliche Darstellung demographischer Daten
+title: L-MeKo-02 | Räumliche Darstellung demographischer Daten
 toc: true
 header:
   image: /assets/images/04-splash.jpg
@@ -14,13 +14,14 @@ panel1:
 iCH FINDE DIE rEFLEXIONSÜBUNG DEUTLICH EINFACHER ALS DIE dIAGRAMMÜBUNG WÜRDE SIE DAHER AUF l1 SETZEN
 {: .notice--danger}
 
+Alice:**aktualisierte Karten aus den drei oben genannten Datensätzen kommen spätestens Montag dazu - im gleichen Layout, wie diese alte Karte.**
+{: .notice--success}
+
 
 In der Aufgabe L-MeKo-02  geht es um das Verständnis einer zielführenden Datenvisualiserung. Neben der Reflexion und Aufbereitung und Visualisierung von Daten. Neben der Aufbereitung und Anfertigung von aussagekräftigen Diagrammen werden Sie thematische Karten.
 
 ## Aufgabe L-MeKo-02-L1: Analyse und Diskussion einer thematischen Karte
 
-Alice:**aktualisierte Karten aus den drei oben genannten Datensätzen kommen spätestens Montag dazu - im gleichen Layout, wie diese alte Karte.**
-{: .notice--success}
 
 {% capture L-MeKo-02-L1 %}
 
