@@ -183,7 +183,7 @@ defaults:
       path: ""
       type: unit07
     values:
-      category: "Materialien"
+      category: "07 Prüfung"
       tags: "Unit 07"
       layout: single
       sidebar:
@@ -207,8 +207,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-algolia
 
+
 # Handling Reading
 encoding: UTF-8
+
+repository: geomoer/moer-meko
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
