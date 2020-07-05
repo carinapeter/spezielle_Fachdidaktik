@@ -21,7 +21,7 @@ Während des Bearbeitungszeitraums der Aufgaben findet jeweils ein Tutorium stat
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-```Unit<XX>_<Nachname>_<Vorname>.pdf``` (z.B. _Unit01\_Nauss\_Thomas.pdf_).
+```Unit<XX>_<Nachname>_<Vorname>.pdf ``` (z.B. _Unit01\_Nauss\_Thomas.pdf)
 
 Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötigen. Manchmal sind auch Handskizzen erforderlich. Letztere können Sie z.B. mit der Kamera Ihres Smartphones abfotografieren und in die Abgabedatei einfügen.
 
@@ -38,8 +38,10 @@ Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese b
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese Version in ILIAS hoch.
 
 ### Bestehen der Studienleistung
-Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Teilaufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.
+<del>Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Teilaufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.</del>
 
 
 ## Prüfungsleistung
-Am Ende des Moduls findet <del> voraussichtlich eine Klausur </del> mit theoretischen und praktischen Aufgaben statt. Die Prüfungsleistung ist individuell zu erbringen.
+<del> Am Ende des Moduls findet voraussichtlich eine Klausur <del> mit theoretischen und praktischen Aufgaben statt. Die Prüfungsleistung ist individuell zu erbringen.</del>
+
+*Aktualisierung vom 25.6.:* Die Prüfungsleistung wird aus mehreren Aufgaben bestehen, die als Individualleistung zuhause erbracht werden. Die Aufgaben werden am 9.7. veröffentlicht. Anschließend haben die Studierenden bis zum 19.7. Zeit, die Aufgaben zu lösen und Ihre Lösungen über ILIAS abzugeben. Nachholtermin ist der 1.10. - 11.10..

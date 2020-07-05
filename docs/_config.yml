@@ -107,7 +107,7 @@ defaults:
       tags: "Examples"
       layout: single
       sidebar:
-        nav: "units"
+        nav: "course_unit"
   # unit00
   - scope:
       path: ""
@@ -153,18 +153,17 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "04 Datenanalyse & Ableitung von Informationen"
+      category: "04 Datenanalyse & Informationsgewinn"
       tags: "Unit 04"
       layout: single
       sidebar:
         nav: "course_unit"
-
   # unit05
   - scope:
       path: ""
       type: unit05
     values:
-      category: "05 Aufbereitung von Informationen & Visualisierung"
+      category: "05 Reflexive Kartenkompetenz"
       tags: "Unit 05"
       layout: single
       sidebar:

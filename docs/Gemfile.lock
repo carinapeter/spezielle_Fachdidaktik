@@ -265,7 +265,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  i18n
   jekyll (>= 3.8.6)
   jekyll-algolia
   jekyll-feed (~> 0.6)
