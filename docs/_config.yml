@@ -202,12 +202,12 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-admin
   - jekyll-paginate
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
   - jekyll-algolia
+
 
 # Handling Reading
 encoding: UTF-8
