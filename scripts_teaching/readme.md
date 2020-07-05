@@ -1,3 +1,4 @@
+## HowTo
 1. Den Ordner mit den heruntergeladenen Abgaben in den gleichen Ordner bewegen, in dem diese Skripte liegen
 1. Ordner entsprechend der Unit-Nr. benennen (Lerneinheit_01; Lerneinheit_02; ...)
 1.  Skript "pdf_split_merge_check.R" öffnen, Pfade anpassen und Funktionen ausführen
