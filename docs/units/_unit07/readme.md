@@ -2,7 +2,6 @@
 title: Tests
 ---
 
-Die Prüfungsfragen liegen ab sofort im privaten Repo https://github.com/GeoMOER/GeoMOER-Testing
-
+Die Prüfungsfragen liegen ab sofort im privaten Repo 
 sonst wie gehabt
 Chris
