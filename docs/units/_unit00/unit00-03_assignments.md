@@ -27,7 +27,7 @@ Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötig
 
 Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Teilaufgabe eine neue Seite und fügen Sie die Teilaufgabennummer als formatierte Überschrift ein. Die Teilaufgabennummer muss dem Schema
 
-```Aufgabe XX-Y-LZ: Vorname Nachname, Matrikelnummer``` (z.B. Aufgabe 01-2-L3 - Thomas Nauss, 1234567) folgen.
+```Aufgabe XX-Y-LZ: Vorname Nachname, Matrikelnummer``` (z.B. Aufgabe 01-2-L3: Thomas Nauss, 1234567) folgen.
 
 Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies sorgt für eine konsistente Semantik und verbessert damit die Maschinenlesbarkeit und Navigation in Ihrem finalen Dokument.
 
