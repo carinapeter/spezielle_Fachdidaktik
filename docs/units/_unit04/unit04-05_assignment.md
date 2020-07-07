@@ -22,7 +22,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L1:</h4>
+  <h4 class="no_toc">Aufgabenstellung 04-2-L1:</h4>
   {{ A04-2-L1 | markdownify }}
 </div>
 
@@ -39,7 +39,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L2:</h4>
+  <h4 class="no_toc">Aufgabenstellung 04-2-L2:</h4>
   {{ A04-2-L2 | markdownify }}
 </div>
 
@@ -54,6 +54,6 @@ Umfang: 3 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L3:</h4>
+  <h4 class="no_toc">Aufgabenstellung 04-2-L3:</h4>
   {{ A04-2-L3 | markdownify }}
 </div>
