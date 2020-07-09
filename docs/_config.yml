@@ -89,9 +89,6 @@ collections:
   unit06:
     output: true
     permalink: /:collection/:title.html
-  unit07:
-    output: true
-    permalink: /:collection/:title.html
   worksheets:
     output: true
     permalink: /:collection/:title.html
@@ -168,26 +165,26 @@ defaults:
       layout: single
       sidebar:
         nav: "course_unit"
-  # unit06
+   # unit06
   - scope:
       path: ""
       type: unit06
     values:
-      category: "06 Mediennutzung & Reflexion"
+      category: "06 Prüfung"
       tags: "Unit 06"
       layout: single
       sidebar:
         nav: "course_unit"
-  # unit07
-  - scope:
-      path: ""
-      type: unit07
-    values:
-      category: "07 Prüfung"
-      tags: "Unit 07"
-      layout: single
-      sidebar:
-        nav: "course_unit"
+ # unit07
+ # - scope:
+ #     path: ""
+ #     type: unit07
+ #   values:
+ #     category: "07 Mediennutzung & Reflexion"
+ #     tags: "Unit 07"
+ #     layout: single
+ #     sidebar:
+ #       nav: "course_unit"        
   # pages
   - scope:
       path: "_pages"
