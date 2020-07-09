@@ -60,7 +60,7 @@ Als Besitzer/in des dargestellten Weinguts wollen Sie für Ihre Homepage eine Sk
 
 {% capture A06-3-L3 %}
 
-1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf Ihre oben angegebenen Zielsetzung.
+1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf Ihre oben angegebene Zielsetzung.
 1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in maximal 6 Sätzen.
 
 Umfang: 2 Seite in Ihrer PDF-Datei.
