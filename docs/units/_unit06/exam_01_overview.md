@@ -24,7 +24,7 @@ Bitte beachten Sie, dass auch für die Prüfungsleistung die aus den Übungsaufg
 
 Bitte achten Sie bei von Ihnen angefertigten Skizzen u.ä. darauf, dass diese in einer **lesbaren Bildqualität** in das abzugebende PDF eingebunden sind.
 
-Beachten Sie bitte, dass diese Prüfungsleistung als **individuelle Prüfungsleistung** zu erbringen ist. Sollten Aufgaben über verschiedene Abgaben hinweg ganz oder teilweise weitgehend identisch sein, so werden die Aufgaben in allen betroffenen Abgaben mit 0 Punkten bewertet. Daher schreiben Sie nicht ab und stellen Sie Ihre Lösungen nicht zur Verfügung.
+Beachten Sie bitte, dass diese Prüfungsleistung als **individuelle Prüfungsleistung** zu erbringen ist. Sollten Aufgaben über verschiedene Abgaben hinweg ganz oder teilweise weitgehend identisch sein, so werden die Aufgaben in allen betroffenen Abgaben mit 0 Punkten bewertet. Daher gilt wie in jeder Prüfung: Übernehmen Sie keine Lösungen und stellen Sie Ihre Lösungen auch nicht Ihren Mitstudierenden zur Verfügung.
 {: .notice--danger}
 
 ## Weitere Hinweise
