@@ -31,7 +31,7 @@ Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, 
 
 ## Aufgabe 07-2-L1: Walter-Lieth-Diagramm
 
-{% capture 07-2-L1: %}
+{% capture A07-2-L1: %}
 
 Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen Sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui) und orientieren Sie sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie, dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
 
@@ -41,13 +41,13 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L1:</h4>
-  {{ A04-1-L1 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-2-L1:</h4>
+  {{ A07-2-L1 | markdownify }}
 </div>
 
 ## Aufgabe 07-2-L2: Verdunstung nach Haude
 
-{% capture 7-2-L2 %}
+{% capture A07-2-L2 %}
 
 Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 von Ihnen bereits aufbereiteten Datensatz (zur Berechnung siehe [Info Berechnung Haude](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssummen gegenüberstellt.
 
@@ -57,14 +57,14 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L2:</h4>
-  {{ A04-1-L2 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-2-L2:</h4>
+  {{ A07-2-L2 | markdownify }}
 </div>
 
 
 ## Aufgabe 07-3-L2: Walter-Lieth oder Haude?
 
-{% capture 07-3-L2 %}
+{% capture A07-3-L2 %}
 
 Vergleichen Sie die beiden erstellten Diagramme und diskutieren Sie Ihre Analyse mit maximal zwei Sätzen. Nennen und begründen Sie anschließend jeweils einen kritischen Aspekt, sowohl in der jeweiligen Darstellungs- als auch Berechnungsform mit insgesamt maximal vier Sätzen.
 
@@ -72,8 +72,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 04-1-L3:</h4>
-  {{ A04-1-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-3-L3:</h4>
+  {{ A07-2-L3 | markdownify }}
 </div>
 
 
