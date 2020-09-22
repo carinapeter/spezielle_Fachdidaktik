@@ -46,6 +46,9 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ A06-2-L2 | markdownify }}
 </div>
 
+**Hinweis:** Um die Daten zu normieren, berechnen Sie den Anteil der Studienanfänger/innen an der Bevölkerungszahl des jeweiligen Bundeslandes. Die Normierung dient dazu die Daten zwischen den Bundesländern vergleichbar zu machen. 
+{: .notice--info}
+
 ## Aufgabe 06-2-L3: Erstellung einer thematischen Karte
 Nachdem Sie sich die Daten durch eine eigene Visualisierung erschlossen haben, wollen Sie eine aktuelle thematische Karte zu den Studienanfängern/-innen in den Bundesländern erstellen.
 
