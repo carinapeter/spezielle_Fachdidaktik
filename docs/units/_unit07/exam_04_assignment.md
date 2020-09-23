@@ -6,10 +6,10 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 
 panel1:  
-  - url: https://w.wiki/WLn
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Barossa_Valley_South_Australia.jpg/1024px-Barossa_Valley_South_Australia.jpg
-    title: "Eine Luftaufnahme des Barossa Valley in Südaustralien, Australien, [Louis Roving](https://w.wiki/WLo) / CC BY via commons.wikimedia.org"
-    alt: "Eine Luftaufnahme des Barossa Valley in Südaustralien, Australien"
+  - url: https://www.hs-geisenheim.de/forschung/ueberblick/n/eine-biosphaerenregion-bietet-echte-chancen-fuer-die-wissenschaft-und-gesellschaft/
+    image_path: https://www.hs-geisenheim.de/fileadmin/assets/Nachrichten/2020/02_Februar/20200228_Bild1.jpg
+    title: "Weinbaulandschaft im Rheingau, [Hochschule Geisenheim]( https://www.hs-geisenheim.de/forschung/ueberblick/n/eine-biosphaerenregion-bietet-echte-chancen-fuer-die-wissenschaft-und-gesellschaft/)"
+    alt: "Weinbaulandschaft im Rheingau"
 ---
 
 In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu betrachten Sie zunächst die Veränderung einer Abbildung zu Werbezwecken kritisch, analysieren anschließend eine ungewöhnliche Abbildung von Marburg, um abschließend einen Raum zielgerichtet zu abstrahieren und Ihr eigenes Vorgehen zu erläutern.
@@ -39,11 +39,15 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 07-3-L2: Dekonstruktion einer Marburg Karte
 
-Als Leiter des Touristikbüros in Marburg, wollen Sie die Stadt in innovativer Weise bewerben und für Touristen/-innen zugänglich machen. Sie stoßen zufällig auf eine [kartenähnliche Abbildung](https://ilias.uni-marburg.de/goto.php?target=file_2033524_download&client_id=UNIMR) von Pablo de la Riestra, der Marburg in einer ungewohnten Darstellungsform visualisiert hat und fragen sich, inwiefern die Karte für Ihre Zwecke geeignet ist.
+Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den [Innenstadtplan des örtlichen Tourismusbüros](https://www.marburg-tourismus.de/service/stadtplan/innenstadtplan-marburg/) herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
 
 {% capture A07-3-L2 %}
 
-Analysieren Sie die Karte vor dem Hintergrund ihres Einsatzes als Tourismuskarte in maximal 10 Sätzen und nutzen Sie dabei gegebenenfalls auch Ihre Ortskenntnis. Gehen Sie dabei insbesondere auf das vermittelte Bild der Stadt ein. Erläutern Sie auch, durch welche kartographischen und visuellen Merkmale dieses Bild erzeugt wird.
+Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen und nutzen Sie dabei gegebenenfalls auch Ihre Ortskenntnis. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
+
+Umfang: 1 Seite in Ihrer PDF-Datei.
+
+{% endcapture %}
 
 Umfang: 2 Seite Ihrer PDF Datei
 {% endcapture %}
@@ -54,9 +58,9 @@ Umfang: 2 Seite Ihrer PDF Datei
 
 ## Aufgabe 07-3-L3: Raumabstraktion
 
-Als Besitzer/in des dargestellten Weinguts wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend und ansprechend darstellt.
+Als Besitzer/in des im Vordergrund dargestellten Weinguts (unterer Bildrand) wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend und ansprechend darstellt.
 
-{% include gallery id="panel1"  caption= "Foto: [Luftaufnahme des Barossa Valley in Südaustralien](https://w.wiki/WLo) Louis Roving/ CC BY via commons.wikimedia.org" %}
+{% include gallery id="panel1"  caption= "Foto: Weinbaulandschaft im Rheingau, [Hochschule Geisenheim]( https://www.hs-geisenheim.de/forschung/ueberblick/n/eine-biosphaerenregion-bietet-echte-chancen-fuer-die-wissenschaft-und-gesellschaft/)" %}
 
 {% capture A07-3-L3 %}
 
