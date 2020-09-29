@@ -6,10 +6,10 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 
 panel1:  
-  - url: https://www.hs-geisenheim.de/forschung/ueberblick/n/eine-biosphaerenregion-bietet-echte-chancen-fuer-die-wissenschaft-und-gesellschaft/
-    image_path: https://www.hs-geisenheim.de/fileadmin/assets/Nachrichten/2020/02_Februar/20200228_Bild1.jpg
-    title: "Weinbaulandschaft im Rheingau, [Hochschule Geisenheim]( https://www.hs-geisenheim.de/forschung/ueberblick/n/eine-biosphaerenregion-bietet-echte-chancen-fuer-die-wissenschaft-und-gesellschaft/)"
-    alt: "Weinbaulandschaft im Rheingau"
+  - url: https://w.wiki/QuL
+    image_path: https://upload.wikimedia.org/wikipedia/commons/7/77/Aerial_view_Aubigny_Allier.jpg
+    title: "Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org"
+    alt: "Luftbild von Aubigny"
 ---
 
 In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu betrachten Sie zunächst die Veränderung einer Abbildung zu Werbezwecken kritisch, analysieren anschließend eine ungewöhnliche Abbildung von Marburg, um abschließend einen Raum zielgerichtet zu abstrahieren und Ihr eigenes Vorgehen zu erläutern.
@@ -58,16 +58,18 @@ Umfang: 2 Seite Ihrer PDF Datei
 
 ## Aufgabe 07-3-L3: Raumabstraktion
 
-Als Besitzer/in des im Vordergrund dargestellten Weinguts (unterer Bildrand) wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend und ansprechend darstellt.
+In dieser Aufgabe fertigen Sie eine schematische Skizze eines Raums an. Nutzen Sie hierfür das Luftbild und modellieren Sie die strukturellen Eigenschaften des abgebildeten Raums. Ziel ist es die räumliche Einbettung des abgebildeten Ortes zu charakterisieren.
 
-{% include gallery id="panel1"  caption= "Foto: Weinbaulandschaft im Rheingau, [Hochschule Geisenheim]( https://www.hs-geisenheim.de/forschung/ueberblick/n/eine-biosphaerenregion-bietet-echte-chancen-fuer-die-wissenschaft-und-gesellschaft/)" %}
+
+1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf die oben angegebene Zielsetzung.
+1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in maximal 6 Sätzen.
+
+{% include gallery id="panel1"  caption= "Foto: Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org" %}
 
 {% capture A07-3-L3 %}
 
-1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf Ihre oben angegebene Zielsetzung.
-1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in maximal 6 Sätzen.
 
-Umfang: 2 Seite in Ihrer PDF-Datei.
+Umfang: 2 Seiten in Ihrer PDF-Datei.
 
 {% endcapture %}
 
