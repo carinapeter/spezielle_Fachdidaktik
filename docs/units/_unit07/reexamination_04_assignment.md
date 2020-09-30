@@ -1,5 +1,5 @@
 ---
-title:  A07-3 | Dekonstruktion
+title: A07-3 | Dekonstruktion
 
 header:
   image: "/assets/images/00-unit-splash.jpg"
@@ -10,6 +10,7 @@ panel1:
     image_path: https://upload.wikimedia.org/wikipedia/commons/7/77/Aerial_view_Aubigny_Allier.jpg
     title: "Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org"
     alt: "Luftbild von Aubigny"
+
 ---
 
 In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu betrachten Sie zunächst die Veränderung einer Abbildung zu Werbezwecken kritisch, analysieren anschließend eine ungewöhnliche Abbildung von Marburg, um abschließend einen Raum zielgerichtet zu abstrahieren und Ihr eigenes Vorgehen zu erläutern.
@@ -26,10 +27,10 @@ Sie wundern sich über die Darstellung in der Werbung, da Sie den Streckenverlau
 Analysieren Sie die verwendete Karte/Skizze (Abbildung 1) vor dem Hintergrund ihres Einsatzes in der Werbung für die "HS & N" in circa 5 Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
-
 {% endcapture %}
+
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-3-L1:</h4>
+  <h4 class="no_toc">Aufgabenstellung 07-3-L1:</h4>
   {{ A07-3-L1 | markdownify }}
 </div>
 
@@ -45,14 +46,10 @@ Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geog
 
 Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen und nutzen Sie dabei gegebenenfalls auch Ihre Ortskenntnis. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
 
-Umfang: 1 Seite in Ihrer PDF-Datei.
-
-{% endcapture %}
-
 Umfang: 2 Seite Ihrer PDF Datei
 {% endcapture %}
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-3-L2:</h4>
+  <h4 class="no_toc">Aufgabenstellung 07-3-L2:</h4>
   {{ A07-3-L2 | markdownify }}
 </div>
 
@@ -68,12 +65,13 @@ In dieser Aufgabe fertigen Sie eine schematische Skizze eines Raums an. Nutzen S
 
 {% capture A07-3-L3 %}
 
+Hier fehlt die Aufgabenstellung.
 
 Umfang: 2 Seiten in Ihrer PDF-Datei.
 
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-3-L3:</h4>
+  <h4 class="no_toc">Aufgabenstellung 07-3-L3:</h4>
   {{ A07-3-L3 | markdownify }}
 </div>

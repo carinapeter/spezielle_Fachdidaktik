@@ -72,8 +72,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 07-3-L3:</h4>
-  {{ A07-2-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-3-L2:</h4>
+  {{ A07-3-L2 | markdownify }}
 </div>
 
 

@@ -1,5 +1,6 @@
 ---
 title: A07-1 | Interpretation
+
 header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
@@ -22,8 +23,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-1-L1:</h4>
-  {{A06-1-L1 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-1-L1:</h4>
+  {{A07-1-L1 | markdownify }}
 </div>
 
 
@@ -41,8 +42,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-1-L2:</h4>
-  {{ A06-1-L2 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-1-L2:</h4>
+  {{ A07-1-L2 | markdownify }}
 </div>
 
 
@@ -62,6 +63,6 @@ Fügen Sie beide Abbildungen in guter Qualität in Ihre PDF-Datei ein.
 Umfang: 2 Seiten in Ihrer PDF-Datei.
 {% endcapture %}
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-1-L3:</h4>
-  {{ A06-1-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung 07-1-L3:</h4>
+  {{ A07-1-L3 | markdownify }}
 </div>
