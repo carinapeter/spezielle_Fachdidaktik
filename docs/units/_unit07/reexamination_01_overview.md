@@ -6,15 +6,6 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
 
-<!--more-->
-
-
-
-<!-- Um Ihre Geomedienkompetenz weiterentwickeln zu können, war in diesem Semester schon zu Beginn Ihre allgemeine Medienkompetenz für die Teilnahme an den digitalen Lehr-Lernformaten gefordert. Nachdem Sie Karten interpretiert, Räume modelliert, Umgebungen kartographiert, Daten analysierte und Geomedien reflektiert haben, stehen wir nur noch vor der Frage: Wo geht's zur Prüfungsleistung?
--->
-
-<!--more-->
-
 Wie schon die erste Prüfungsleistung orientiert sich auch die Nachholprüfung wie verabredet an den Ihnen sehr gut bekannten Übungsaufgaben.  Sie werden also keine Überraschung erleben und sollten, wenn Sie die Übungsaufgaben erfolgreich bearbeitet haben, bestens für die erfolgreiche Bearbeitung vorbereitet sein.
 
 

@@ -6,14 +6,14 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 
 panel1:  
-  - url: https://w.wiki/QuL
+  - url: https://w.wiki/eXo
     image_path: https://upload.wikimedia.org/wikipedia/commons/7/77/Aerial_view_Aubigny_Allier.jpg
-    title: "Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org"
+    title: "Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/eXo) / CC-BY via commons.wikimedia.org"
     alt: "Luftbild von Aubigny"
 
 ---
 
-In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu betrachten Sie zunächst die Veränderung einer Abbildung zu Werbezwecken kritisch, analysieren anschließend eine ungewöhnliche Abbildung von Marburg, um abschließend einen Raum zielgerichtet zu abstrahieren und Ihr eigenes Vorgehen zu erläutern.
+In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu betrachten Sie zunächst die Veränderung einer Abbildung zu Werbezwecken kritisch, analysieren anschließend einen Stadtplan von Marburg, um abschließend einen Raum zielgerichtet zu abstrahieren und Ihr eigenes Vorgehen zu erläutern.
 
 
 ## Aufgabe 07-3-L1: Reflexive Kartenanalyse: Helter Skelter Railways
@@ -57,15 +57,12 @@ Umfang: 2 Seite Ihrer PDF Datei
 
 In dieser Aufgabe fertigen Sie eine schematische Skizze eines Raums an. Nutzen Sie hierfür das Luftbild und modellieren Sie die strukturellen Eigenschaften des abgebildeten Raums. Ziel ist es die räumliche Einbettung des abgebildeten Ortes zu charakterisieren.
 
-
-1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf die oben angegebene Zielsetzung.
-1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in maximal 6 Sätzen.
-
-{% include gallery id="panel1"  caption= "Foto: Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/QuL) / CC-BY via commons.wikimedia.org" %}
+{% include gallery id="panel1"  caption= "Foto: Luftbild von Aubigny, Département Allier, Frankreich [Jean-Louis Zimmermann](https://w.wiki/eXo) / CC-BY via commons.wikimedia.org" %}
 
 {% capture A07-3-L3 %}
 
-Hier fehlt die Aufgabenstellung.
+1. Erstellen Sie die Skizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf die oben angegebene Zielsetzung.
+1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in maximal 6 Sätzen.
 
 Umfang: 2 Seiten in Ihrer PDF-Datei.
 

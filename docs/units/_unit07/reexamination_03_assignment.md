@@ -24,16 +24,13 @@ header:
 </script>
 
 
-Die Formel zur Berechnung der Evapotranspiration nach Haude wurde korrigiert!
-{: .notice--danger}
-
-Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur- und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Temperatur. Im Rahmen dieser Aufgabe sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und  einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
+Walter-Lieth-Diagramme sind trotz einiger Einschränkungen (Schneeniederschlag, Abschätzung der Evapotranspiration etc.) aufgrund der einfachen Datenverfügbarkeit und der leicht erfassbaren Aussage ein in Schulbüchern und Atlanten weit verbreitetes Darstellungsformat für die hydroklimatologische Charakterisierung eines Ortes. Sie zeigen durch die spezifische Darstellung aggregierter Temperatur- und Niederschlagsdaten auf einfache Art typische Jahresmuster von Niederschlag und Temperatur. Im Rahmen dieser Aufgabe sollen Sie solche Klimadaten aufbereiten und das hygrische Klima mittels eines [Walter-Lieth-Diagramms](https://de.wikipedia.org/wiki/Klimadiagramm) und einer Verdunstungsabschätzung nach Haude vergleichen und bewerten.
 
 ## Aufgabe 07-2-L1: Walter-Lieth-Diagramm
 
 {% capture A07-2-L1: %}
 
-Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen Sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/goto.php?target=file_2078185_download&client_id=UNIMR) und orientieren Sie sich an der im Datensatz vorhandnen Zeitspanne. Bitte beachten Sie, dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
+Erstellen Sie bitte auf Basis der langjährigen mittleren monatlichen Lufttemperatur und der langjährigen mittleren monatlichen Niederschlagssumme für die DWD-Station Cölbe ein Walter-Lieth-Diagramm. Nutzen Sie hierfür den auf ILIAS verfügbaren [Datensatz](https://ilias.uni-marburg.de/goto.php?target=file_2078185_download&client_id=UNIMR) und orientieren Sie sich an der im Datensatz vorhandenen Zeitspanne. Bitte beachten Sie, dass Lücken in der Zeitserie nicht aufgefüllt oder anderweitig explizit berücksichtigt werden müssen.
 
 Interpretieren Sie in maximal zwei Sätzen das Walter-Lieth-Diagramm.
 
@@ -49,7 +46,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% capture A07-2-L2 %}
 
-Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in A04-1-L1 von Ihnen bereits aufbereiteten Datensatz (zur Berechnung siehe [Info Berechnung Haude](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssummen gegenüberstellt.
+Berechnen Sie bitte die langjährige mittlere monatliche potentielle Evapotranspiration nach Haude für den in Aufgabe 07-2-L1 von Ihnen bereits aufbereiteten Datensatz (zur Berechnung siehe [Info Berechnung Haude](#info-verdunstung-nach-haude)). Erstellen Sie bitte anschließend ein Diagramm, dass die potentielle Evapotranspiration den langjährigen monatlichen Niederschlagssummen gegenüberstellt.
 
 Interpretieren Sie mit maximal zwei Sätzen das Diagramm auf Basis der berechneten Evapotranspiration.
 
@@ -62,7 +59,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 </div>
 
 
-## Aufgabe 07-3-L2: Walter-Lieth oder Haude?
+## Aufgabe 07-2-L3: Walter-Lieth oder Haude?
 
 {% capture A07-3-L2 %}
 
@@ -83,7 +80,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 Die Berechnung der Verdunstung nach Haude basiert auf der Formel:
 
 
-$$ PET = k \cdot e  \cdot  (1 -  { F \over 100 }) [mm/d]$$ 
+$$ PET = k \cdot e  \cdot  (1 -  { F \over 100 }) [mm/d]$$
 
 
 
