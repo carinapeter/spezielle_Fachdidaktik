@@ -35,7 +35,7 @@ Sie fragen sich, wie tragfähig die Datengrundlage der Karte ist. Auf den Seiten
 {% capture A07-1-L2 %}
 
 1.  Überprüfen Sie, ob die Daten des LUBW als Grundlage zur Erstellung der Karten des Diercke Atlas gedient haben könnten. Begründen Sie Ihre Einschätzung in maximal 5 Sätzen.
-1.  Bewerten Sie auf Basis der Daten des LUBW die Belastbarkeit der in den Karten dargestellten Luftbelastungen in maximal 5 Sätzen.
+1.  Bewerten Sie auf Basis der Daten des LUBW die Belastbarkeit der in den Karten dargestellten Luftbelastungen in maximal 3 Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 {% endcapture %}
