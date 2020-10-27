@@ -54,7 +54,6 @@ Die Studienleistung ist in Zweiterteams und die Prüfungsleistung ist individuel
 
 Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch eine Web-Konferenz begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
 
-{% include figure image_path="/assets/images/ablaufplan.jpg" alt="Ablaufplan des Kurses." %}
 
 ## Kurszeiten
 **Kurszeiten**: Donnerstags, 14:00 bis 16:00 Uhr
