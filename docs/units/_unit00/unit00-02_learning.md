@@ -12,7 +12,7 @@ Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit. Diese be
 
 Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage, die wir auf GitHub erstellen. Hier finden Sie Lernmaterialien, Aufgaben und Hilfestellungen.
 
-Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Außerdem müssen Sie dortIhre Bearbeitung format- und fristgerecht hochladen.
+Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Außerdem müssen Sie dortIhre Bearbeitung format- und fristgerecht hochladen.
 
 ## Flexibles Lernen mit festgelegten Fristen
 
@@ -36,7 +36,7 @@ Für die Zeit der digitalen Lehre auf Distanz, nutzen wir in diesem Kurs zusamme
 Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
 
 ### Kursbereich in Ilias
-Der [Kursbereich auf Ilias](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
+Der [Kursbereich auf Ilias](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Forum in Ilias
 In Ilias ist ein Forum eingerichtet, das Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. Hier können Sie inhaltliches und organisatorische untereinander klären. Das Forum wird von uns nicht betreut. 

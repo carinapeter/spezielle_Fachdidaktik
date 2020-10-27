@@ -7,7 +7,7 @@ header:
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Zweierteams zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Zweierteams zu erbringen.
 
 
 ### Schwierigkeitsniveaus

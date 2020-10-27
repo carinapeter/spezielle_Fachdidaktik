@@ -37,7 +37,7 @@ Am Ende dieses Moduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI).
+Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR).
 {: .notice--info}
 
 
