@@ -28,7 +28,9 @@ In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm
 
 
 
-**Aufgabenstellung 01-1-L1:** Was können Sie den Karten entnehmen? Beschreiben Sie beide Karten in ganzen Sätzen und stellen Sie Ihre Ergebnisse übersichtlich dar.
+**Aufgabenstellung 01-1-L1:** Wie stellt sich die Luft- und Lärmbelastung in Marburg räumlich dar? Beschreiben Sie beide Karten in ganzen Sätzen und stellen Sie Ihre Ergebnisse übersichtlich dar. 
+
+Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -36,6 +38,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 **Aufgabenstellung 01-1-L2:** Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? Formulieren Sie mindestens drei Fragen.
+
+Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrundeliegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
