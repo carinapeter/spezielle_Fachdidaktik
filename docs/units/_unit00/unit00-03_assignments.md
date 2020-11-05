@@ -7,15 +7,13 @@ header:
 
 ## Studienleistung
 
-<del> Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung.</del> Anpassung der Studienleistung am 28.5.2020: Die Aufgabe der ersten Kurseinheit bilden die Grundlage für Ihre Studienleistung. Mit dem Erreichen von mindestens 1 Punkt gilt die Studienleistung als bestanden. Nachfrist der Abgabe ist der 5.6.2020 18:00 Uhr. Wir empfehlen Ihnen dringend trotzdem weiterhin die Aufgaben als Klausurvorbereitung zu bearbeiten und abzugeben. Sie werden für alle Abgaben auch weiterhin Punkte erhalten, die im weiteren Kursverlauf jedoch keine Bedeutung haben sondern Ihnen selbst eine Einschätzung Ihrer Leistung ermöglichen. Um eine Bewertung zu erhalten, müssen die Aufgaben im [Kursbereich auf ILIAS](https://oer.uni-marburg.de/goto.php?target=crs_1858892&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist individuell zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Zweierteams zu erbringen.
 
 
 ### Schwierigkeitsniveaus
 Alle Aufgaben sind in drei Teilaufgaben mit aufsteigendem Schwierigkeitsniveaus untergliedert: L1 stellt das minimale Niveau dar, L2 das solidere Basisniveau und L3 das vertiefte Niveau. Die erfolgreiche Bearbeitung von Aufgaben des Niveaus L3 ist ein Indikator dafür, dass Sie die abschließende Prüfungsleistung mit gutem bis sehr gutem Ergebnis bestehen können.
 
-<del> Jede Aufgabe besteht aus drei Teilaufgaben (L1, L2, L3) und wird mit maximal sechs Punkten bewertet, maximal zwei für jede Teilaufgabe. Um Punkte für die Teilaufgaben L2 und L3 zu erhalten, müssen Sie jeweils auch die Teilaufgaben des bzw. der niedrigeren Schwierigkeitsniveaus lösen. Die Bewertung der Teilaufgabe des Niveaus L2 setzt also auch die Bearbeitung der Teilaufgabe L1 voraus, für L3 ist die Bearbeitung von L1 und L2 notwendig. </del>
-
-Während des Bearbeitungszeitraums der Aufgaben findet jeweils ein Tutorium statt. Hierzu können Sie vorab Fragen über das Forum in Ilias stellen. Eine Nachbesprechung (Video, Live-Streaming oder Webkonferenz) findet ca. eine Woche nach Abgabe statt (siehe [Ablaufplan auf der Einstiegsseite des Kurses]({{ site.baseurl }}{% link index.md %})).
+Während des Bearbeitungszeitraums der Aufgaben können Sie in der Web-Konferenz Fragen stellen. Eine Nachbesprechung findet in der Woche nach Abgabe in der Web-Konfrerenz statt. Wir werden im Vorfeld Studierende mit besonders gelungenen Abgaben bitten diese dort vorzustellen. 
 
 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
@@ -38,10 +36,10 @@ Wenn Sie für die Beantwortung von Fragen Quellen nutzen, dann geben Sie diese b
 Wenn Sie die Bearbeitung der Übungsaufgabe abgeschlossen haben, speichern Sie das Dokument als PDF-Datei und laden nur diese Version in ILIAS hoch.
 
 ### Bestehen der Studienleistung
-<del>Die Studienleistung gilt als bestanden, wenn Sie nach allen sechs Kurseinheiten so viele Bewertungspunkte erreicht haben, wie durch die vollständig erfolgreiche Bearbeitung aller Teilaufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl.</del>
+Die Studienleistung gilt als bestanden, wenn Ihre Zweiergruppe für alle fünf Kurseinheiten mindestens das L1 Niveau in akzeptabler Qualität eingereicht hat. 
 
 
 ## Prüfungsleistung
-<del> Am Ende des Moduls findet voraussichtlich eine Klausur <del> mit theoretischen und praktischen Aufgaben statt. Die Prüfungsleistung ist individuell zu erbringen.</del>
+Am Ende des Moduls wird Ihnen eine Prüfung mit theoretischen und praktischen Aufgaben gestellt für deren Berarbeitung Sie wie gewohnt 10 Tage Zeit haben werden. Die Prüfungsleistung ist individuell zu erbringen.
 
-*Aktualisierung vom 25.6.:* Die Prüfungsleistung wird aus mehreren Aufgaben bestehen, die als Individualleistung zuhause erbracht werden. Die Aufgaben werden am 9.7. veröffentlicht. Anschließend haben die Studierenden bis zum 19.7. Zeit, die Aufgaben zu lösen und Ihre Lösungen über ILIAS abzugeben. Nachholtermin ist der 1.10. - 11.10..
+

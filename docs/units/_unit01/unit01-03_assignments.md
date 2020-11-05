@@ -28,7 +28,9 @@ In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm
 
 
 
-**Aufgabenstellung 01-1-L1:** Was können Sie den Karten entnehmen? Beschreiben Sie beide Karten in ganzen Sätzen und stellen Sie Ihre Ergebnisse übersichtlich dar.
+**Aufgabenstellung 01-1-L1:** Wie stellt sich die Luft- und Lärmbelastung in Marburg räumlich dar? Beschreiben Sie beide Karten in ganzen Sätzen und stellen Sie Ihre Ergebnisse übersichtlich dar. 
+
+Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -36,6 +38,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 
 **Aufgabenstellung 01-1-L2:** Welche konzeptionellen Fragen stellen Sie sich, wenn Sie die Karte betrachten? Was bleibt Ihnen unklar? Formulieren Sie mindestens drei Fragen.
+
+Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrundeliegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -45,31 +49,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-## Aufgabe 01-2: Ozonkonzentration
+
+## Aufgabe 01-2 Schallbelastung und Lufthygiene
 
 
-
-**Aufgabenstellung 01-2-L1:** Interpretieren Sie die Ozonverteilung bezüglich räumlicher Muster und möglicher Zusammenhänge. Formulieren Sie drei Sätze
-{: .notice--success}
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
-
-
-**Aufgabenstellung 01-02-L2:** Schätzen Sie die Aussagekraft und Belastbarkeit der Ozonwerte in der Karte ein. Formulieren Sie drei Sätze.
-{: .notice--success}
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
-
-**Aufgabenstellung 01-02-L3:** Begründen Sie Ihre Aussagen zur Belastbarkeit mit externen Quellen, nutzen Sie dafür sowohl offizielle Datenreihen als auch Literatur zur Erhebung von aussagekräftigen Ozonwerten. Verfassen Sie Ihre Begründung unter Nennung der Quellen in fünf Sätzen.
-{: .notice--success}
-
-Umfang: 1 Seite in Ihrer PDF-Datei.
-
-
-## Aufgabe 01-3 Schallbelastung und Lufthygiene
-
-
-**Aufgabenstellung 01-03-L1:** Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung? Beschreiben und bewerten Sie die Art der Darstellung der Schallbelastung und der Lufthygiene in drei Sätzen.
+**Aufgabenstellung 01-02-L1:** Welche kartographischen Unterschiede können Sie in der Darstellung zwischen Schallbelastung und Lufthygiene feststellen? Wie bewerten Sie die gewählte Darstellung? Beschreiben und bewerten Sie die Art der Darstellung der Schallbelastung und der Lufthygiene in drei Sätzen.
 {: .notice--success}
 
 **Tipp**: Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179).
@@ -77,12 +61,12 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-**Aufgabenstellung 01-03-L2:** Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/recherche-1). (i) Wählen Sie drei verschiedene Parameter aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. (ii) Bewerten Sie auf Basis Ihrer drei Parameter die Plausibilität der in der Karte dargestellten Lufthygiene. Beziehen Sie hierfür die jeweils gültigen Grenzwerten nach der 39. BImSchV in Ihre Diskussion ein.
+**Aufgabenstellung 01-02-L2:** Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/recherche-1). (i) Wählen Sie drei verschiedene Parameter aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. (ii) Bewerten Sie auf Basis Ihrer drei Parameter die Plausibilität der in der Karte dargestellten Lufthygiene. Beziehen Sie hierfür die jeweils gültigen Grenzwerten nach der 39. BImSchV in Ihre Diskussion ein.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-**Aufgabenstellung 01-03-L3:** Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
+**Aufgabenstellung 01-02-L3:** Erstellen Sie mit Hilfe des [Web-Gis Angebots](https://www.hlnug.de/themen/geografische-informationssysteme/gis-anwendungen/gis-auskunftssysteme) des HLNUG und unter kreativer Nutzung ihrer Kenntnisse in Bildverarbeitung und Diagrammerstellung eine eigene Karte zum Thema Luft- und Lärmbelastung in Marburg. Die Karte kann analog, z.B. durch Ausdruck einzelner Diagramme und deren Anordnung auf einem Papier oder komplett digital erstellt werden.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.

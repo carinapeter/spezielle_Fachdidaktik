@@ -23,8 +23,7 @@ feature_row_ilos:
 
 
 ## Allgemeines 
-Medien und Modelle sind wissenschaftliche Grundelemente der Geographie. Sie bilden die Basis für den Erkenntnisgewinn in der Forschung und dienen als Kommunikationsmittel. Medien und Modelle sind damit in erster Linie kein pädagogisches Element, sondern fester Bestandteil einer fachlichen Auseinandersetzung mit einem Thema. Deshalb stellt die fachlich begründete Auswahl und der themenspezifische Einsatz von Medien und Modellen eine wichtige Kernkompetenz von Lehrerinnen und Lehrern für die Planung eines fachlich begründeten Unterrichts dar.
-
+Medien und Modelle sind wissenschaftliche Grundelemente der Geographie. Sie bilden die Basis für den Erkenntnisgewinn in der Forschung und dienen als Kommunikationsmittel. Medien und Modelle sind damit in erster Linie kein pädagogisches Element, sondern fester Bestandteil einer fachlichen Auseinandersetzung mit einem Thema. 
 
 ## Lernziele
 Am Ende dieses Moduls können Sie
@@ -38,29 +37,27 @@ Am Ende dieses Moduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Sommersemester 2020 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI).
+Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR).
 {: .notice--info}
 
 
 ## Studien- und Prüfungsleistung
 
-In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Jede Aufgabe umfasst drei Unteraufgaben in den Schwierigkeitsniveaus L1 (minimal), L2 (solide) und L3 (vertieft), die jeweils mit maximal zwei Punkten bewertet werden. Die Bearbeitung und auch die Bewertung der höheren Schwierigkeitsniveaus (L2 bzw. L3) setzt immer auch die Bearbeitung der niedrigeren Niveaus voraus. Die Studienleistung gilt als bestanden, wenn durch die frist- und formgerechte Abgabe der Übungsergebnisse mindestens so viele Bewertungspunkte erreicht wurden, wie durch die vollständig erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 erreicht werden können. Dies entspricht einem Drittel der insgesamt für alle Aufgaben möglichen Punktzahl. Details zur Abgabe von Aufgaben und dem begleitenden Tutorium finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten.
+In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Jede Aufgabe umfasst drei Unteraufgaben in den Schwierigkeitsniveaus L1 (minimal), L2 (solide) und L3 (vertieft). Die Bearbeitung und auch die Bewertung der höheren Schwierigkeitsniveaus (L2 bzw. L3) setzt immer auch die Bearbeitung der niedrigeren Niveaus voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse mindestens die erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 umfasste.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten.
 
-Die Prüfungsleistung ist eine Klausur mit theoretischen und praktischen Aufgaben.
+Die Prüfungsleistung besteht aus theoretischen und praktischen Aufgaben für deren Bearbeitung Sie 10 Tage Zeit haben.
 
-Die Studienleistung und die Prüfungsleistung ist individuell zu erbringen.
+Die Studienleistung ist in Zweiterteams und die Prüfungsleistung ist individuell zu erbringen.
 
 
 ## Ablauf
 
-Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch ein Tutorium begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
+Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch eine Web-Konferenz begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
 
-{% include figure image_path="/assets/images/ablaufplan.jpg" alt="Ablaufplan des Kurses." %}
 
-## Kurs- und Tutoriumszeiten
-**Kurszeiten**: Donnerstags, 8:15 bis 10:45 Uhr
+## Kurszeiten
+**Kurszeiten**: Donnerstags, 14:00 bis 16:00 Uhr
 
-**Tutorien**: Mittwochs, 7:00 bis 8:15 Uhr / 10:00 bis 12:00 Uhr / 12:00 bis 14:00 Uhr 
 
 ## Team
 
