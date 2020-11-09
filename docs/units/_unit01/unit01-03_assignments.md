@@ -32,7 +32,7 @@ In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm
 {: .notice--success}
 
 
-**Tipp**:Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
+**Tipp**: Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
 {: .notice--info}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
@@ -43,7 +43,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {: .notice--success}
 
 
-**Tipp**:Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrundeliegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt.
+**Tipp**: Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrundeliegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt.
 {: .notice--info}
 
 
