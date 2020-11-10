@@ -37,13 +37,13 @@ Am Ende dieses Moduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR).
+Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR).
 {: .notice--info}
 
 
 ## Studien- und Prüfungsleistung
 
-In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Jede Aufgabe umfasst drei Unteraufgaben in den Schwierigkeitsniveaus L1 (minimal), L2 (solide) und L3 (vertieft). Die Bearbeitung und auch die Bewertung der höheren Schwierigkeitsniveaus (L2 bzw. L3) setzt immer auch die Bearbeitung der niedrigeren Niveaus voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse mindestens die erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 umfasste.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-01_overview.md %}) auf dieser Webseiten.
+In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Jede Aufgabe umfasst drei Unteraufgaben in den Schwierigkeitsniveaus L1 (minimal), L2 (solide) und L3 (vertieft). Die Bearbeitung und auch die Bewertung der höheren Schwierigkeitsniveaus (L2 bzw. L3) setzt immer auch die Bearbeitung der niedrigeren Niveaus voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse mindestens die erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 umfasste.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten.
 
 Die Prüfungsleistung besteht aus theoretischen und praktischen Aufgaben für deren Bearbeitung Sie 10 Tage Zeit haben.
 
