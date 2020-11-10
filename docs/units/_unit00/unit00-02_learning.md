@@ -7,6 +7,7 @@ header:
 ---
 
 Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit mit Videos und Texten und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Wir treffen uns jede Woche am Donnerstag von 14:00 - 16:00 Uhr in der Web-Konferenz und klären Fragen zu den Inhalten und Aufgaben bzw. besprechen die Ergebnisse.
+<!--more-->
 
 ## Web-basierte Lernumgebung
 
