@@ -19,13 +19,13 @@ Während des Bearbeitungszeitraums der Aufgaben können Sie in der Web-Konferenz
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-```Unit<XX>_<Nachname>_<Vorname>.pdf ``` (z.B. _Unit01\_Nauss\_Thomas.pdf)
+```Unit<XX>_<Nachname1>_<Nachname2>.pdf ``` (z.B. _Unit01\_Nauss\_Reudenbach.pdf)
 
 Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötigen. Manchmal sind auch Handskizzen erforderlich. Letztere können Sie z.B. mit der Kamera Ihres Smartphones abfotografieren und in die Abgabedatei einfügen.
 
 Verwenden Sie zur Zusammenstellung der Abgabedatei immer ein Textverarbeitungsprogramm wie z.B. Microsoft Word, ONLYOFFICE oder OpenOffice unabhängig davon wie Sie die Lösungen zu den einzelnen Aufgaben erstellt haben (Grafik aus Tabellenkalkulation, Foto einer händischen Kartenskizze etc.). Beginnen Sie für jede Teilaufgabe eine neue Seite und fügen Sie die Teilaufgabennummer als formatierte Überschrift ein. Die Teilaufgabennummer muss dem Schema
 
-```Aufgabe XX-Y-LZ: Vorname Nachname, Matrikelnummer``` (z.B. Aufgabe 01-2-L3: Thomas Nauss, 1234567) folgen.
+```Aufgabe XX-Y-LZ: Nachname1, Nachname2``` (z.B. Aufgabe 01-2-L3: Nauss, Reudenbach) folgen.
 
 Stellen Sie bitte sicher, dass diese Überschrift auch tatsächlich formal als Überschrift definiert ist und nicht nur größer oder fetter dargestellt wird. Dies sorgt für eine konsistente Semantik und verbessert damit die Maschinenlesbarkeit und Navigation in Ihrem finalen Dokument.
 
