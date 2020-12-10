@@ -34,7 +34,7 @@ In der Aufgabe planen Sie selbständig eine einfache Messkampagne. Hierzu müsse
 
 Erstellen Sie eine Kurzdokumentation Ihrer Messkampagne.
 
-1. Begründen Sie in dieser Ihre Planung (z.B. Transektwahl, Messperiode, Repräsentativität...) mit maximal fünf Sätzen.
+1. Begründen Sie in dieser Ihre Planung (z.B. Transektwahl, Messperiode, Repräsentativität...) inhaltlich mit maximal fünf Sätzen.
 1. Integrieren Sie Ihre Daten zur Schallmessungen als Tabelle, die zur jeder Messung auch Geokoordinaten enthält.
 1. Fertigen Sie eine Handskizze des Raums mit allen Elementen, die für die Fragestellung relevant sind, an. Fügen Sie auch Fotos mit kurzen Bildunterschriften möglichst korrekt verortet in Ihre Handskizze ein.
 
@@ -47,6 +47,7 @@ Umfang: 3 Seiten in Ihrer PDF-Datei
 </div>
 
 **Tipp**: Fotos, die Sie mit dem Smartphone machen, können in der Regel bereits während der Aufnahme geokodiert werden. Recherchieren Sie die hierzu notwendigen Einstellungen ihres Geräts. Sowohl zur Verortung Ihrer Messpunkte als auch zur Schallmessung finden Sie diverse Apps im App-Store Ihres Betriebssystems.
+Achten Sie darauf Ihr Vorgehen so zu dokumentieren, dass für Dritte ersichtlich wird, wie die Informationen der verschiedenen Teilaufgaben zusammenhängen.
 {: .notice--info}
 
 
