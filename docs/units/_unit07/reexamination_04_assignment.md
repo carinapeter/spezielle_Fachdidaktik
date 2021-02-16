@@ -44,7 +44,7 @@ Sie interessieren sich für ein Lehramtsstudium in Gießen mit den Fächern Geog
 
 {% capture A07-3-L2 %}
 
-Beschreiben Sie bitte den Eindruck, den die Karte von Gießen vermittelt, mit maximal vier Sätzen. Analysieren  Diskutieren Sie die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen. Sollte die Karten Ihren Anforderungen nicht genügen, recherchieren Sie die 
+Beschreiben Sie bitte den Eindruck, den die Karte von Gießen vermittelt, mit maximal drei Sätzen. Diskutieren Sie die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen. Schildern Sie dann, wie Sie den Ausflug konkret planen würden mit maximal 6 Sätzen, wenn Sie hierfür ergänzende Materialen aus eigener Recherche hinzuziehen, verlinken Sie diese im Text. 
 
 Umfang: 2 Seite Ihrer PDF Datei
 {% endcapture %}
