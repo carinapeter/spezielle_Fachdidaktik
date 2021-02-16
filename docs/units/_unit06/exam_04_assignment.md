@@ -17,9 +17,9 @@ In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedi
 
 ## Aufgabe 06-3-L1: Reflexive Kartenanalyse: Helter Skelter Railways
 
-Sie leben in der Region Helter-Skelter und bekommen eine [Werbung der neuen Eisenbahngesellschaft *Helter, Skelter & Northern Railway*](https://ilias.uni-marburg.de/goto.php?target=file_2036433_download&client_id=UNIMR) (Abbildung 1). Die Abkürzung „HS & N“ steht für „Helter, Skelter & Northern Railway“-Eisenbahngesellschaft und „HS & Y“ für die „Helter, Skelter & Yon“-Eisenbahngesellschaft. Eine weitere Gesellschaft, die für die Aufgabe nicht von unmittelbarer Relevanz ist, ist mit „H & ERR“ angegeben.
+Sie leben in der Region Helter-Skelter und bekommen eine [Werbung der neuen Eisenbahngesellschaft *Helter, Skelter & Northern Railway*](https://ilias.uni-marburg.de/goto.php?target=file_2291255_download&client_id=UNIMR) (Abbildung 1). Die Abkürzung „HS & N“ steht für „Helter, Skelter & Northern Railway“-Eisenbahngesellschaft und „HS & Y“ für die „Helter, Skelter & Yon“-Eisenbahngesellschaft. Eine weitere Gesellschaft, die für die Aufgabe nicht von unmittelbarer Relevanz ist, ist mit „H & ERR“ angegeben.
 
-Sie wundern sich über die Darstellung in der Werbung, da Sie den Streckenverlauf der verschiedenen Eisenbahngesellschaften ganz anders in Erinnerung haben. Ihr Eindruck des örtlichen Streckennetzes deckt sich mit der neutralen [Abbildung der Eisenbahningenieure](https://ilias.uni-marburg.de/goto.php?target=file_2036433_download&client_id=UNIMR) (Abbildung 2). Diese Karte stellt für Sie also die "Wirklichkeit" dar, gegen die Sie die Werbungskarte vergleichen.
+Sie wundern sich über die Darstellung in der Werbung, da Sie den Streckenverlauf der verschiedenen Eisenbahngesellschaften ganz anders in Erinnerung haben. Ihr Eindruck des örtlichen Streckennetzes deckt sich mit der neutralen [Abbildung der Eisenbahningenieure](https://ilias.uni-marburg.de/goto.php?target=file_2291255_download&client_id=UNIMR) (Abbildung 2). Diese Karte stellt für Sie also die "Wirklichkeit" dar, gegen die Sie die Werbungskarte vergleichen.
 
 {% capture A06-3-L1 %}
 
@@ -39,7 +39,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 06-3-L2: Dekonstruktion einer Marburg Karte
 
-Als Leiter des Touristikbüros in Marburg, wollen Sie die Stadt in innovativer Weise bewerben und für Touristen/-innen zugänglich machen. Sie stoßen zufällig auf eine [kartenähnliche Abbildung](https://ilias.uni-marburg.de/goto.php?target=file_2033524_download&client_id=UNIMR) von Pablo de la Riestra, der Marburg in einer ungewohnten Darstellungsform visualisiert hat und fragen sich, inwiefern die Karte für Ihre Zwecke geeignet ist.
+Als Leiterin des Touristikbüros in Marburg, wollen Sie die Stadt in innovativer Weise bewerben und für Touristen/-innen zugänglich machen. Sie stoßen zufällig auf eine [kartenähnliche Abbildung](https://ilias.uni-marburg.de/goto.php?target=file_2291252_download&client_id=UNIMR) von Pablo de la Riestra, der Marburg in einer ungewohnten Darstellungsform visualisiert hat und fragen sich, inwiefern die Karte für Ihre Zwecke geeignet ist.
 
 {% capture A06-3-L2 %}
 

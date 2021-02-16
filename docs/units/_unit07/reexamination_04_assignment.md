@@ -38,13 +38,13 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 {: .notice--info}
 
 
-## Aufgabe 07-3-L2: Dekonstruktion einer Marburg Karte
+## Aufgabe 07-3-L2: Dekonstruktion einerGießen Karte
 
-Sie interessieren sich für ein Lehramtsstudium in Marburg mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den [Innenstadtplan des örtlichen Tourismusbüros](https://www.marburg-tourismus.de/service/stadtplan/innenstadtplan-marburg/) herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
+Sie interessieren sich für ein Lehramtsstudium in Gießen mit den Fächern Geographie und Theologie und möchten den Studienort erkunden. Dafür laden Sie sich vor Ihrer Anfahrt mit dem Zug den [Innenstadtplan des örtlichen Tourismusbüros](https://giessen-entdecken.de/wp-content/uploads/Stadtplan-Gie%C3%9Fen.pdf) herunter. Sie fragen sich, ob Sie Ihr Fahrrad mitnehmen sollten, um sich in der Stadt zu bewegen. Sie wollen die wichtigsten universitären Einrichtungen besuchen und natürlich insbesondere das geographische Institut und verschiedene religiöse Einrichtungen. Außerdem wollen Sie einen schönen Aussichtspunkt finden, um einen Überblick über die Stadt zu bekommen.
 
 {% capture A07-3-L2 %}
 
-Beschreiben Sie bitte den Eindruck, den die Karte von Marburg vermittelt, mit maximal vier Sätzen und nutzen Sie dabei gegebenenfalls auch Ihre Ortskenntnis. Analysieren Sie dann die Perspektive und die Interessen des Tourismusbüros mit drei Sätzen. Diskutieren Sie abschließend die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen.
+Beschreiben Sie bitte den Eindruck, den die Karte von Gießen vermittelt, mit maximal vier Sätzen. Analysieren  Diskutieren Sie die Eignung der Karte für ihr fiktives Vorhaben in maximal fünf Sätzen. Sollte die Karten Ihren Anforderungen nicht genügen, recherchieren Sie die 
 
 Umfang: 2 Seite Ihrer PDF Datei
 {% endcapture %}

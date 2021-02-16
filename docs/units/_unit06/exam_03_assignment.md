@@ -12,7 +12,7 @@ In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Datenanalyse und Datenvisu
 
 ## Aufgabe 06-2-L1: Analyse und Diskussion einer thematischen Karte
 
-In einer Broschüre stoßen Sie auf eine thematische Karte. Es sind Zahlen des statistischen Bundesamtes zu [Studienanfängern/-innen in einer Deutschlandkarte auf Bundeslandebene](https://ilias.uni-marburg.de/goto.php?target=file_2033525_download&client_id=UNIMR) visualisiert.
+In einer Broschüre stoßen Sie auf eine thematische Karte. Es sind Zahlen des statistischen Bundesamtes zu [Studienanfängern/-innen in einer Deutschlandkarte auf Bundeslandebene](https://ilias.uni-marburg.de/goto.php?target=file_2291253_download&client_id=UNIMR) visualisiert.
 
 
 {% capture A06-2-L1 %}

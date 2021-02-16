@@ -10,7 +10,7 @@ In der Aufgabe stellen Sie Ihre Kompetenzen in der Interpretation von Karten und
 
 
 ## Aufgabe 06-1-L1: Kartenbeschreibung
-In den jüngeren Ausgaben des Diercke Atlas findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=file_2032945_download&client_id=UNIMR). Um den Einsatz der Karte im Unterricht zu evaluieren, analysieren Sie den Inhalt der Karte zunächst selbst.
+In den jüngeren Ausgaben des Diercke Atlas findet sich eine Karte zur Verkehrsbelastung in Stuttgart. [Hier finden Sie die Versionen der Karte von 2008 und 2015](https://ilias.uni-marburg.de/goto.php?target=file_2291251_download&client_id=UNIMR). Um den Einsatz der Karte im Unterricht zu evaluieren, analysieren Sie den Inhalt der Karte zunächst selbst.
 
 
 {% capture A06-1-L1 %}
@@ -53,7 +53,7 @@ Abschließend wollen Sie die Messwerte zur Luftbelastung im Kontext des Reliefs 
 
 {% capture A06-1-L3 %}
 
-1.  Verorten Sie auf einer [topographischen Karte](https://ilias.uni-marburg.de/goto.php?target=file_2036140_download&client_id=UNIMR) die beiden Messstationen, zeichnen Sie diese ein und verbinden Sie die Standorte mit einer Linie.
+1.  Verorten Sie auf einer [topographischen Karte](https://ilias.uni-marburg.de/goto.php?target=file_2291254_download&client_id=UNIMR) die beiden Messstationen, zeichnen Sie diese ein und verbinden Sie die Standorte mit einer Linie.
 1.  Zeichnen Sie ein Höhenprofil entlang der Linie mit 10-facher Überhöhung. Tragen Sie zusätzlich die Koordinaten der zwei Messtationen sowie jeweils den Messwert für Stickstoffdioxid vom 9. Juli 2020 00:00 Uhr ein.
 
 Fügen Sie beide Abbildungen in guter Qualität in Ihre PDF-Datei ein.
