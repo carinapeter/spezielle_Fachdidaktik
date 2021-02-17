@@ -30,7 +30,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 06-1-L2: Güte der Karte
 
-Sie fragen sich, wie tragfähig die Datengrundlage der Karte ist. Auf den Seiten der Landesanstalt für Umwelt Baden-Württemberg ([LUBW](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte)) finden Sie offizielle Messwerte. Sie sehen sich ausführlich um bis Sie die Messwerte möglichst umfassend einsehen und filtern können.
+Sie fragen sich, wie tragfähig die Datengrundlage der Karte ist. Auf den Seiten der Landesanstalt für Umwelt Baden-Württemberg ([LUBW](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte)) finden Sie offizielle Messwerte. 
 
 {% capture A06-1-L2 %}
 
@@ -45,7 +45,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
   {{ A06-1-L2 | markdownify }}
 </div>
 
-
+**Hinweis:** Um umfassenden Datensätze einsehen und filtern zu können, müssen Sie sich auf der Webseite ausführlich umsehen.   
+{: .notice--info}
 
 ## Aufgabe 06-1-L3: Verortung der Messwerte im Höhenprofil
 
