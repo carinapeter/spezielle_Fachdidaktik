@@ -54,7 +54,7 @@ Umfang: 2 Seite Ihrer PDF Datei
 
 ## Aufgabe 06-3-L3: Raumabstraktion
 
-In dieser Aufgabe fertigen Sie eine schematische Skizze eines Raums an. Nutzen Sie hierfür das Luftbild und modellieren Sie die strukturellen Eigenschaften des abgebildeten Raums. Ziel ist es die räumliche Einbettung des abgebildeten Ortes zu charakterisieren.
+In dieser Aufgabe fertigen Sie eine schematische Skizze eines Raums an. Nutzen Sie hierfür das Luftbild und modellieren Sie die strukturellen Eigenschaften des abgebildeten Raums. Ziel ist es die räumliche Einbettung des abgebildeten Hofes zu charakterisieren.
 
 {% include gallery id="panel1"  caption= "Foto: [Luftaufnahme des Barossa Valley in Südaustralien](https://w.wiki/WLo) Louis Roving/ CC BY via commons.wikimedia.org" %}
 
