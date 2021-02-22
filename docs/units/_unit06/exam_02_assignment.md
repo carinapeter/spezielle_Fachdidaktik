@@ -66,3 +66,6 @@ Umfang: 2 Seiten in Ihrer PDF-Datei.
   <h4 class="no_toc">Aufgabenstellung 06-1-L3:</h4>
   {{ A06-1-L3 | markdownify }}
 </div>
+
+**Hinweis:** Die topographische Karte liegt im DIN-A4-Format vor. Sie kann so wie sie ist ausgedruckt und genutzt werden.   
+{: .notice--info}
