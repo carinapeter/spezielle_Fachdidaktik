@@ -6,14 +6,14 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
 
-Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit mit Videos und Texten und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Wir treffen uns jede Woche am Donnerstag von 14:00 - 16:00 Uhr in der Web-Konferenz und klären Fragen zu den Inhalten und Aufgaben bzw. besprechen die Ergebnisse.
+Wir beginnen alle zwei Wochen mit einer neuen thematischen Kurseinheit mit Videos und Texten und schließen sie mit Aufgaben ab, die zur Studienleistung gehören. Wir treffen uns jede Woche am Donnerstag von 12:00 - 14:00 Uhr in der Web-Konferenz und klären Fragen zu den Inhalten und Aufgaben bzw. besprechen die Ergebnisse.
 <!--more-->
 
 ## Web-basierte Lernumgebung
 
 Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage, die wir auf GitHub erstellen. Hier finden Sie Lernmaterialien, Aufgaben und Hilfestellungen.
 
-Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Außerdem müssen Sie dort Ihre Bearbeitung format- und fristgerecht hochladen.
+Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2336025&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui). Bei Bedarf werden dort einzelne Medien hinterlegt, die aus Urheberrechtsgründen nicht öffentlich bereitgestellt werden können. Außerdem müssen Sie dort Ihre Bearbeitung format- und fristgerecht hochladen.
 
 ## Flexibles Lernen mit festgelegten Fristen
 
@@ -37,14 +37,14 @@ Für die Zeit der digitalen Lehre auf Distanz, nutzen wir in diesem Kurs zusamme
 Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materialien von uns für Sie.
 
 ### Kursbereich in ILIAS
-Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
+Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2336025&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Forum in ILIAS
 In Ilias ist ein Forum eingerichtet, das Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. Hier können Sie inhaltliches und organisatorische untereinander klären. Das Forum wird von uns nicht betreut. 
 
 
 ### E-Mail
-Sie erreichen uns unter phillip.bengel@geo.uni-marburg.de und rieke.ammoneit@geo.uni-marburg.de. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
+Sie erreichen uns unter reudenbach@geo.uni-marburg.de und rieke.ammoneit@geo.uni-marburg.de. Umgekehrt erwarten wir, dass wir Sie über Ihre offizielle Students-E-Mail erreichen und Sie diese regelmäßig, mindestens einmal morgens und einmal Abends abfragen.
 
 
 ### Kleingruppen

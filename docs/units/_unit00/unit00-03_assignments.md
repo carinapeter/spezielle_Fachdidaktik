@@ -7,7 +7,7 @@ header:
 
 ## Studienleistung
 
-Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Zweierteams zu erbringen.
+Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für Ihre Studienleistung. Es müssen alle Aufgaben im [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/ilias.php?ref_id=2344948&ass_id=35893&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=b3:ms&baseClass=ilExerciseHandlerGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechend abgegeben werden. Die Studienleistung ist in Zweierteams zu erbringen.
 
 
 ### Schwierigkeitsniveaus
@@ -19,7 +19,7 @@ Während des Bearbeitungszeitraums der Aufgaben können Sie in der Web-Konferenz
 ### <a name="formale-anforderungen"></a>Formale Anforderungen
 Die Übungsaufgaben innerhalb einer Kurseinheit geben Sie bitte immer alle zusammen in einer PDF-Datei ab. Benennen Sie die PDF-Datei wie folgt:
 
-```Unit<XX>_<Nachname1>_<Nachname2>.pdf ``` (z.B. _Unit01\_Nauss\_Reudenbach.pdf)
+```Unit<XX>_<Nachname1>_<Nachname2>.pdf ``` (z.B. Unit01\_Nauss\_Reudenbach.pdf)
 
 Für die Bearbeitung der Aufgabe werden Sie ggf. mehr als eine Software benötigen. Manchmal sind auch Handskizzen erforderlich. Letztere können Sie z.B. mit der Kamera Ihres Smartphones abfotografieren und in die Abgabedatei einfügen.
 
