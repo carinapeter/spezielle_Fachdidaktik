@@ -56,7 +56,7 @@ Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht au
 
 
 ## Kurszeiten
-**Kurszeiten**: Donnerstags, 14:00 bis 16:00 Uhr
+**Kurszeiten**: Donnerstags, 12:00 bis 14:00 Uhr
 
 
 ## Team
