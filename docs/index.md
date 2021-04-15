@@ -63,7 +63,7 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs
   * Wöchentliche Arbeitszeiten
   * Wöchentliche Bearbeitung von Aufgaben
   
-*
+
 
 
 ## Kurszeiten
