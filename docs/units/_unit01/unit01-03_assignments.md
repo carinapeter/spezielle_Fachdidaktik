@@ -66,7 +66,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
-**Aufgabenstellung 01-02-L2:** Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/recherche-1). (i) Wählen Sie drei verschiedene Parameter aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. (ii) Bewerten Sie auf Basis Ihrer drei Parameter die Plausibilität der in der Karte dargestellten Lufthygiene. Beziehen Sie hierfür die jeweils gültigen Grenzwerten nach der 39. BImSchV in Ihre Diskussion ein.
+**Aufgabenstellung 01-02-L2:** Auf den Seiten des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie (HLNUG) finden Sie ein [Online-Tool zur Suche und Darstellung tatsächlicher Messwerte](https://www.hlnug.de/messwerte/luft/). (i) Wählen Sie drei verschiedene Parameter aus, die zu der aggregierten Bewertung der "Lufthygiene" in der Karte beitragen könnten. Analysieren Sie die Messwerte für diese drei Parameter für die Station Marburg. (ii) Bewerten Sie auf Basis Ihrer drei Parameter die Plausibilität der in der Karte dargestellten Lufthygiene. Beziehen Sie hierfür die jeweils gültigen Grenzwerten nach der 39. BImSchV in Ihre Diskussion ein.
 {: .notice--success}
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
