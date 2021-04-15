@@ -9,6 +9,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
+  cta_url: "/downloads.html"
 excerpt: Fachliche Bedeutung von Medien verstehen und professionelle Handlungskompetenz zum Medieneinsatz erwerben.
 feature_row_intro:
 - excerpt: Einführungskurs im [Bachelorstudiengang Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} und im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
