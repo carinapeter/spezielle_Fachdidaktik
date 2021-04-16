@@ -71,7 +71,7 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs
 **Kurszeiten**: Donnerstags, 12:00 bis 14:00 Uhr
 
 
-## Team
+## Kursleitung
 
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
