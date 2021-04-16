@@ -20,7 +20,7 @@ res= lapply(md_files, function(x){
 system(paste0("wkhtmltopdf ",wkhtml_arguments, " ",url,"index.html ",outpath, "index.pdf "),wait = TRUE)
 
 
-utils::zip(paste0(outpath,"*.pdf"), zipfile = paste0(outpath,repo,".pdf"))
+
 files2zip <- dir(outpath, full.names = TRUE)
 zipfile = paste0(outpath,repo,".zip")
 pdfpath= strsplit(outpath,"pdf")[[1]][1]
