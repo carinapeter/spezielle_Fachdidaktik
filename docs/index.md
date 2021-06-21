@@ -9,6 +9,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
+  cta_url: "/downloads.html"
 excerpt: Fachliche Bedeutung von Medien verstehen und professionelle Handlungskompetenz zum Medieneinsatz erwerben.
 feature_row_intro:
 - excerpt: Einführungskurs im [Bachelorstudiengang Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} und im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
@@ -50,16 +51,27 @@ Die Prüfungsleistung besteht aus theoretischen und praktischen Aufgaben für de
 Die Studienleistung ist in Zweiterteams und die Prüfungsleistung ist individuell zu erbringen.
 
 
-## Ablauf
+## Zeitaufwand und Ablauf
 
 Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch eine Web-Konferenz begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
 
+In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs aufwenden. Die Aufteilung ist etwa wie folgt:
+
+* Digitale Präsenz: 2 Stunden pro Woche
+  * Der Kurs findet 1 mal pro Woche als 90 minütige Sitzung statt - Anwesenheit ist erforderlich für das Verständnis
+  * Optional ein Tutorium zur Wiederholung bei dem Fragen beantwortetet werden - freiwillige Teilnahme
+* Studium außerhalb der Präsenz: 8-10 Stunden pro Woche
+  * Wöchentliche Arbeitszeiten
+  * Wöchentliche Bearbeitung von Aufgaben
+  
+
+
 
 ## Kurszeiten
-**Kurszeiten**: Donnerstags, 14:00 bis 16:00 Uhr
+**Kurszeiten**: Donnerstags, 12:00 bis 14:00 Uhr
 
 
-## Team
+## Kursleitung
 
 {% for author in site.data.authors %} 
   {% include author-profile.html %}

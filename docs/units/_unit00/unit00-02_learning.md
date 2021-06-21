@@ -49,3 +49,5 @@ Sie erreichen uns unter reudenbach@geo.uni-marburg.de und rieke.ammoneit@geo.uni
 
 ### Kleingruppen
 Damit Sie nicht isoliert arbeiten müssen, werden wir Sie in der ersten Session in Kleingruppen einteilen. In jeder Kleingruppe finden sich dann Zweierteam zusammen, die bis zum Ende des Kurses bestehen bleiben. Wir empfehlen Ihnen sehr, sich nicht nur mit Ihrem/Ihrer Arbetispartner/in, sondern mit allen Mitgliedern Ihrer Kleingruppe zu vernetzten, um einen internen Austausch während des Semeseters zu ermöglichen. Im ILIAS unter ‘Reservierungen’ können Sie die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten. Innerhalb dieser Gruppe finden Sie sich bitte in Paaren zusammen. Die Aufgaben bearbeiten Sie dann zu zweit und geben sie auch zu zweit ab. 
+
+
