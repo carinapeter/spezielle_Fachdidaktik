@@ -1,5 +1,5 @@
 ---
-  title: A05-1 - Dekonstruktion von Karten
+  title: A05 - Lehrkompetenzen und Spatial Citizenship
 toc: true
 header:
   image: /assets/images/02-splash.jpg
@@ -7,8 +7,7 @@ header:
   caption: "Foto: T. Nauss / CC0"
 ---
 
-In Aufgabe 05-1 dekonstruieren Sie verschiedene Karten. Hierzu üben Sie, wie Sie das sichtbare Endprodukt in seine inhaltlichen und technischen Konstruktionseigenschaften zerlegen und die Intention der Kartenproduzenten entschlüsseln.
-
+In wissenschaftlichen Artikeln werden aktuelle Forschungsergebnisse veröffentlicht; sie sind das Medium der Wissenschaftsdiskurse und die Grundlage unseres Wissens in allen Domänen. Auch die Frage welche Kompetenzen Sie als Lehrkraft brauchen, um Schüler*innen in ihrem mündigen Umgang mit Geomedien zu unterstützen wird wissenschaftlich diskutiert. Im Rahmen dieser Übung sollen sie sich einen wissenschaftlichen Artikel zu diesem Thema erarbeiten, dabei erhalten Sie einen ersten umfassenden Einblick in die wissenschaftliche Arbeitsweise und lernen wissenschaftliche Erkenntnisse in eigenes Verständnis umzusetzen. 
 
 ## Benötigte Lernmaterialien
 * [Schulze, Gryl und Kanwischer (2015)](https://www.tandfonline.com/doi/full/10.1080/03098265.2015.1048506)
