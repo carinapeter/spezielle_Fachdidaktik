@@ -1,10 +1,10 @@
 ---
-  title: A05-2 - Lehrkompetenzen und Spatial Citizenship
+title: A05-2 - Lehrkompetenzen und Spatial Citizenship
 toc: true
 header:
-  image: /assets/images/02-splash.jpg
-  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
-  caption: "Foto: T. Nauss / CC0"
+  image: /assets/images/05-splash.jpg
+  image_description: "Cutout Geo-bit Reliefkarte Alpen"
+  caption: "Bild: [Geo-bit ](https://www.3d-relief.com/images/product_images/original_images/reliefkarte_alpen_detai3.jpg)"
 ---
 
 In wissenschaftlichen Artikeln werden aktuelle Forschungsergebnisse veröffentlicht; sie sind das Medium der Wissenschaftsdiskurse und die Grundlage unseres Wissens in allen Domänen. Auch die Frage welche Kompetenzen Sie als Lehrkraft brauchen, um Schüler*innen in ihrem mündigen Umgang mit Geomedien zu unterstützen wird wissenschaftlich diskutiert. Im Rahmen dieser Übung sollen sie sich einen wissenschaftlichen Artikel zu diesem Thema erarbeiten, dabei erhalten Sie einen ersten umfassenden Einblick in die wissenschaftliche Arbeitsweise und lernen wissenschaftliche Erkenntnisse in eigenes Verständnis umzusetzen. 
@@ -69,7 +69,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung A05-1-L3:</h4>
-  {{ A05-1-L3 | markdownify }}
+  {{ A05-L3 | markdownify }}
 </div>
 
 

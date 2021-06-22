@@ -1,10 +1,10 @@
 ---
-  title: LM | Reflexive Kartenkompetenz
+title: LM | Reflexive Kartenkompetenz
 toc: true
 header:
-  image: /assets/images/02-splash.jpg
-  image_description: "Blick ins Lahntal mit Grünlandwirtschaft, Baustelle für Stromtrassen und Regenbogen."
-  caption: "Foto: T. Nauss / CC0"
+  image: /assets/images/05-splash.jpg
+  image_description: "Cutout Geo-bit Reliefkarte Alpen"
+  caption: "Bild: [Geo-bit ](https://www.3d-relief.com/images/product_images/original_images/reliefkarte_alpen_detai3.jpg)"
 ---
 
 
