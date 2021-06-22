@@ -2,8 +2,8 @@
 title: Übersicht
 header:
   image: /assets/images/05-splash.jpg
-  image_description: "Cutout Geo-bit Reliefkarte Alpen"
-  caption: "Bild: [Geo-bit ](https://www.3d-relief.com/images/product_images/original_images/reliefkarte_alpen_detai3.jpg)"
+  image_description: "Ausschnitt der Geo-bit Reliefkarte Alpen"
+  caption: "Bild: [Geo-bit ](https://www.3d-relief.com/images/product_images/original_images/reliefkarte_alpen_detai3.jpg) Ausschnitt der Reliefkarte Alpen, Copyright: [Geo-Bit](https://www.3d-relief.com/)"
 ---
 
 Die Abbildung von Räumen und deren Eigenschaften ist ein konstruktiver Prozess. Karten sind deshalb immer das Ergebnis eines Modellierungsprozesses. Gleiches gilt in großem Umfang auch für die übrigen typischen Geomedien. Die Frage ist: Wie lässt sich der Konstruktionsprozess wieder dekonstruieren?
