@@ -1,3 +1,6 @@
+---
+title: A05-1 - Dekonstruktion von Karten
+toc: true
 header:
   image: /assets/images/05-splash.jpg
   image_description: "Ausschnitt der Geo-bit Reliefkarte Alpen"
