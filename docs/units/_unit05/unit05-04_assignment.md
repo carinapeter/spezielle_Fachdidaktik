@@ -41,7 +41,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 In Tabelle 2 sind die Kompetenzdimensionen der Spatial Citizenship aufgelistet. Finden Sie für jede Dimension ein Anwendungsbeispiel, das die Bedeutung der Dimension verdeutlicht.
 
-{% capture A05-1-L2 %}
+{% capture A05-2-L2 %}
 
 Benennen Sie jedes Anwendungsbeispiel in einem Satz. Erläutern Sie in je zwei Sätzen, inwiefern Ihr entsprechendes Beispiel in der jeweiligen Dimension Kompetenz erfordert. 
 
@@ -50,16 +50,16 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung A05-1-L2:</h4>
-  {{ A05-1-L2 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung A05-2-L2:</h4>
+  {{ A05-2-L2 | markdownify }}
 </div>
 
 
-## Aufgabe 05-1-L3: Abschlussreflexion
+## Aufgabe 05-2-L3: Abschlussreflexion
 
 Abschließend sollen Sie die Bogen spannen und die im Modul erworbenen Kompetenzen in Hinblick auf das im Artikel vorgestellten Kompetenzmodells diskutieren. Gehen Sie dafür zunächst die Lerneinheiten durch sammeln, welche Kompetenzen Sie erworben haben. Vergleichen Sie dann mit dem Kompetenzmodel.
 
-{% capture A05-1-L3 %}
+{% capture A05-2-L3 %}
 
 Welchen Zusammenhang sehen Sie zwischen dem Konzept der Spatial Citizenship und den Modulinhalten? Welche Schnittmengen gibt es hinsichtlich der erworbenen und der im Artikel beschriebenen Kompetenzen? Welche Abweichungen? Entwickeln Sie eine Graphik, die Ihre Ergebnisse übersichtlich darstellt. 
 
@@ -68,8 +68,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung A05-1-L3:</h4>
-  {{ A05-1-L3 | markdownify }}
+  <h4 class="no_toc">Aufgabenstellung A05-2-L3:</h4>
+  {{ A05-2-L3 | markdownify }}
 </div>
 
 
