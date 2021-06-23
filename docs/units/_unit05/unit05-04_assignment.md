@@ -69,7 +69,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung A05-1-L3:</h4>
-  {{ A05-L3 | markdownify }}
+  {{ A05-1-L3 | markdownify }}
 </div>
 
 
