@@ -25,7 +25,7 @@ die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei Gr
 
 
 ## Benötigte Lernmaterialien
-* [Innenstadtplan des Tourismusbüros Marburgs](https://www.marburg-tourismus.de/service/stadtplan/innenstadtplan-marburg/)
+* interner[Innenstadtplan des Tourismusbüros Marburgs (letzte Seite des Flyers](https://ilias.uni-marburg.de/goto.php?target=file_2498384_download&client_id=UNIMR)
 * interne [Kartenzusammenstellungen Feuer](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
 * interne [Kartenzusammenstellungen Brasilien](https://ilias.uni-marburg.de/ilias.php?ref_id=1880380&cmd=view&cmdClass=ilrepositorygui&cmdNode=tt&baseClass=ilrepositorygui)
 * [Gryl (2014)](https://www.westermann.de/anlage/4558643/Reflexive-Kartenarbeit-Hinterfragen-als-alltaegliche-und-fachliche-Praxis) oder als Volltext im [geschützten Material auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=fold_2018640&client_id=UNIMR)
