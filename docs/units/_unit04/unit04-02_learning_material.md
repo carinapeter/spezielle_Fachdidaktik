@@ -21,3 +21,17 @@ Daten in Grafiken zu visualisieren ist uns aus dem Alltag und der Wissenschaft v
 Während topographische Karten Informationen zur physischen Erdoberfläche liefern, können thematische Karten alle anderen Informationen und deren geographische Verteilung enthalten. Thematische Karten sind damit eine weitere Modellform der Datenvisualisierung. Grundsätzlich muss man dabei die Visualisierungsmöglichkeiten nach der Art der Daten (qualitativ, quantitativ) und des Raumbezugs (diskret, kontinuierlich) unterscheiden, der im Folgenden kurz illustriert wird.
 
 {% include video id="hoewwGqwZUs" provider="youtube" %}
+
+
+## Online Materialien zur Vertiefung
+
+Es gibt zahlreiche Online Materialien die Unterstützung für die effektive und ziehlführende Erstellung von Grafiken und Karten bieten. 
+Für den Einstieg sind nachfolgend Quellen genannt. Sie decken in gewisser Hinsicht auch die die Breite des verfügbaren Materials ab. 
+
+Der nachfolgend verlinkte Artikel bzw. die zugehörige Github-Seite von Vandemeulebroecke und Co-Autoren bieten eine anschauliche und ein im wissenschaftlichem Kontext begründetes Tutorial für eine effektive visuelle Kommunikation in den quantitativen Wissenschaften. 
+* [Effective Visual Communication for the Quantitative Scientist](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455)
+* [Graphics principles](https://graphicsprinciples.github.io/)
+
+Für die kartographische Aubereitung von Daten gibt es eine vewirrende Vielfalt von Materialien. Eine gute Zusammenstellung sowohl von Werkzeugen als auch weiterführende Materialien, die auch gut geeignet für Nicht-Expert_innen sind, bietet das *Digtial Atlas Project*. Für das direkte Erstellen von Karten ist der *Cartographic Guide* von Axis Maps eine klare und gut nutzbare Hilfe.
+* [Digtial Atlas Project](https://www.digitalatlasproject.net/geoskills/cartography-and-mapping)
+* [Cartographic Guide](https://www.axismaps.com/guide)
