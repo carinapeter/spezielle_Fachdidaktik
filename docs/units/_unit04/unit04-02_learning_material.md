@@ -25,13 +25,13 @@ Während topographische Karten Informationen zur physischen Erdoberfläche liefe
 
 ## Online Materialien zur Vertiefung
 
-Es gibt zahlreiche Online Materialien die Unterstützung für die effektive und ziehlführende Erstellung von Grafiken und Karten bieten. 
+Es gibt zahlreiche Online Materialien die Unterstützung für die effektive und zielführende Erstellung von Grafiken und Karten bieten. 
 Für den Einstieg sind nachfolgend Quellen genannt. Sie decken in gewisser Hinsicht auch die die Breite des verfügbaren Materials ab. 
 
 Der nachfolgend verlinkte Artikel bzw. die zugehörige Github-Seite von Vandemeulebroecke und Co-Autoren bieten eine anschauliche und ein im wissenschaftlichem Kontext begründetes Tutorial für eine effektive visuelle Kommunikation in den quantitativen Wissenschaften. 
 * [Effective Visual Communication for the Quantitative Scientist](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455)
 * [Graphics principles](https://graphicsprinciples.github.io/)
 
-Für die kartographische Aubereitung von Daten gibt es eine vewirrende Vielfalt von Materialien. Eine gute Zusammenstellung sowohl von Werkzeugen als auch weiterführende Materialien, die auch gut geeignet für Nicht-Expert_innen sind, bietet das *Digtial Atlas Project*. Für das direkte Erstellen von Karten ist der *Cartographic Guide* von Axis Maps eine klare und gut nutzbare Hilfe.
+Für die kartographische Aufbereitung von Daten gibt es eine verwirrende Vielfalt von Materialien. Eine gute Zusammenstellung sowohl von Werkzeugen als auch weiterführende Materialien, die auch gut geeignet für Nicht-Expert_innen sind, bietet das *Digtial Atlas Project*. Für das direkte Erstellen von Karten ist der *Cartographic Guide* von Axis Maps eine klare und gut nutzbare Hilfe.
 * [Digtial Atlas Project](https://www.digitalatlasproject.net/geoskills/cartography-and-mapping)
 * [Cartographic Guide](https://www.axismaps.com/guide)
