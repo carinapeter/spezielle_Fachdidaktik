@@ -29,6 +29,7 @@ gem "github-pages", group: :jekyll_plugins
 #       so drop jekyll-admin and delete the gemfile.lock and run bundle install
 
 group :jekyll_plugins do
+  gem "addressable", ">= 2.8.0"
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
