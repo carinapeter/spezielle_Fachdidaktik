@@ -24,7 +24,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung 06-1-L1:</h4>
-  {{ A06-1-L2 | markdownify }}
+  {{ A06-1-L1 | markdownify }}
 </div>
 
 
@@ -44,7 +44,7 @@ Fügen Sie beide Abbildungen in guter Qualität in Ihre PDF-Datei ein.
 Umfang: 2 Seiten in Ihrer PDF-Datei.
 {% endcapture %}
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-1-L3:</h4>
+  <h4 class="no_toc">Aufgabenstellung 06-1-L2:</h4>
   {{ A06-1-L2 | markdownify }}
 </div>
 
@@ -64,5 +64,5 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung 06-1-L3:</h4>
-  {{A06-1-L1 | markdownify }}
+  {{A06-1-L3 | markdownify }}
 </div>
