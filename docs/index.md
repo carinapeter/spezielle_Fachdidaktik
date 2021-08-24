@@ -24,7 +24,7 @@ feature_row_ilos:
 
 
 ## Allgemeines 
-
+Material, Zusammenfassung und weiterführende Links für den NetLogo Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/)  auf Rügen. 
 
 ## Ziele
 Der Workshop soll
