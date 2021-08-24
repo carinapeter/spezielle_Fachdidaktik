@@ -1,5 +1,5 @@
 ---
-title: Medienkompetenz Umweltinformatik
+title: Nachhaltigkeit und Modellieren
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
@@ -10,9 +10,9 @@ header:
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
   cta_url: "/downloads.html"
-excerpt: Fachliche Bedeutung von Medien verstehen und professionelle Handlungskompetenz zum Medieneinsatz erwerben.
+excerpt: Ein Einstieg die Bedeutung des Modellierens für eine nachhaltige Entwicklung.
 feature_row_intro:
-- excerpt: Einführungskurs im [Bachelorstudiengang Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} und im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
+- excerpt: Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/){:target="_blank"} 
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -24,31 +24,17 @@ feature_row_ilos:
 
 
 ## Allgemeines 
-Medien und Modelle sind wissenschaftliche Grundelemente der Geographie. Sie bilden die Basis für den Erkenntnisgewinn in der Forschung und dienen als Kommunikationsmittel. Medien und Modelle sind damit in erster Linie kein pädagogisches Element, sondern fester Bestandteil einer fachlichen Auseinandersetzung mit einem Thema. 
-
-## Lernziele
-Am Ende dieses Moduls können Sie
-* eine größere Gruppe von Geomedien überblicksartig erklären und kategorisieren und exemplarisch eigene Geomedien erstellen,
-* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen auf Basis von Geomedien beschreiben und erklären,
-* Geomedien für die Lösung spezifischer Probleme auswählen und einsetzen,
-* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen modellieren,
-* die Eignung von Geomedien für die Lösung spezifischer Probleme reflektieren.
 
 
-## Kursmerkmale
-Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
+## Ziele
+Der Workshop soll
+* in die grundlegende Bedeutung von Simulationsmodellen für den Nachhaltigkeitsdiskurs einführen,
+* einen ersten Kontakt mit agentenbasierter Modellierung ermöglichen,
+* Wissen über freie Software insbesondere NetLogo vermitteln,
+* Spaß am Ausprobieren bereiten
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb in der digitalen Welt statt. Studierende, die den Kurs im Wintersemester 20/21 besuchen, finden alle notwendigen Informationen im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten oder im geschlossenen [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR).
-{: .notice--info}
-
-
-## Studien- und Prüfungsleistung
-
-In jeder der sechs Kurseinheiten werden mehrere Aufgaben gestellt. Jede Aufgabe umfasst drei Unteraufgaben in den Schwierigkeitsniveaus L1 (minimal), L2 (solide) und L3 (vertieft). Die Bearbeitung und auch die Bewertung der höheren Schwierigkeitsniveaus (L2 bzw. L3) setzt immer auch die Bearbeitung der niedrigeren Niveaus voraus. Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse mindestens die erfolgreiche Bearbeitung aller Unteraufgaben des Niveaus L1 umfasste.  Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}) auf dieser Webseiten.
-
-Die Prüfungsleistung besteht aus theoretischen und praktischen Aufgaben für deren Bearbeitung Sie 10 Tage Zeit haben.
-
-Die Studienleistung ist in Zweiterteams und die Prüfungsleistung ist individuell zu erbringen.
+## Grenzen des Wachstums modellieren und Nachhaltigkeit diskutieren
+Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. 
 
 
 ## Zeitaufwand und Ablauf
@@ -67,11 +53,10 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs
 
 
 
-## Kurszeiten
-**Kurszeiten**: Donnerstags, 12:00 bis 14:00 Uhr
 
 
-## Kursleitung
+
+## Kontakt
 
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
