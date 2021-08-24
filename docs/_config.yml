@@ -23,8 +23,8 @@
 #baseurl: "/data/UNIMR/lm_data/lm_2287352"
 
 # Serve on GitHub
-url: https://geomoer.github.io
-baseurl: "/moer-meko/"
+url: https://ammrie.github.io
+baseurl: "/sustainablityNetLogo/"
 
 
 ##### Title ###################################################################
@@ -211,7 +211,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: geomoer/moer-meko
+repository: ammrie/sustainablityNetLogo
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
