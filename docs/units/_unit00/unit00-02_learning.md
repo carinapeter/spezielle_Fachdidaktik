@@ -10,7 +10,7 @@ Text von der Startseite
 
 ## Forresters Weltmodell
 
-hier von insightmaker einbinden 
+[Hier](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation) findest du eine Implementierung des Weltmodells.
 
 ### Probiert doch mal...
 * das Modell laufen und die Ergebnisse anzeigen zu lassen
