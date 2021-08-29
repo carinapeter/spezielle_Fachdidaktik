@@ -5,7 +5,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
 ## Idee
-Ihr sollt nun ein existierendes Agentenbasiertes Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
+Ihr sollt nun ein existierendes Agenten basiertes Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
 
 ### Agentbasierter Modellierung ein interaktiver Einstieg
 kurzes Spiel
