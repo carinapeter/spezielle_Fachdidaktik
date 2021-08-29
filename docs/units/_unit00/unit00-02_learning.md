@@ -13,7 +13,7 @@ Text von der Startseite
 hier von insightmaker einbinden 
 
 ### Probiert doch mal...
-* das Modell laufen zu und die Ergebnisse anzeigen zu lassen
+* das Modell laufen und die Ergebnisse anzeigen zu lassen
 * die Wirkung der Ergebnisse auf euch zu beschreiben
 * die Wirung des Modells auf euch zu beschreiben
 
