@@ -1,5 +1,5 @@
 ---
-title: Übersicht
+title: Weiterführendes Material
 toc: false
 header:
   image: /assets/images/01-splash.jpg
