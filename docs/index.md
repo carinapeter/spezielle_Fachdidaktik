@@ -33,8 +33,6 @@ Der Workshop soll
 * Wissen über freie Software insbesondere NetLogo vermitteln,
 * Spaß am Ausprobieren bereiten
 
-## Grenzen des Wachstums modellieren und Nachhaltigkeit diskutieren
-Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. 
 
 
 ## Kontakt
