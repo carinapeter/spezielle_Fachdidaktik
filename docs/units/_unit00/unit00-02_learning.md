@@ -5,7 +5,7 @@ header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
-Text von der Startseite
+Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. 
 <!--more-->
 
 ## Forresters Weltmodell
