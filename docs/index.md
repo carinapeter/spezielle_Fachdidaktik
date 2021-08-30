@@ -37,25 +37,6 @@ Der Workshop soll
 Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. 
 
 
-## Zeitaufwand und Ablauf
-
-Jede Kurseinheit ist auf einen Zeitraum von zwei Wochen ausgelegt und besteht aus einem Lern- und einem Übungsteil. Die Übungsphase wird durch eine Web-Konferenz begleitet. Die abgegebenen Aufgaben werden in der jeweils folgenden Kurseinheit nachbereitet.
-
-In einer durchschnittlichen Arbeitswoche sollten Sie 10-12 Stunden für den Kurs aufwenden. Die Aufteilung ist etwa wie folgt:
-
-* Digitale Präsenz: 2 Stunden pro Woche
-  * Der Kurs findet 1 mal pro Woche als 90 minütige Sitzung statt - Anwesenheit ist erforderlich für das Verständnis
-  * Optional ein Tutorium zur Wiederholung bei dem Fragen beantwortetet werden - freiwillige Teilnahme
-* Studium außerhalb der Präsenz: 8-10 Stunden pro Woche
-  * Wöchentliche Arbeitszeiten
-  * Wöchentliche Bearbeitung von Aufgaben
-  
-
-
-
-
-
-
 ## Kontakt
 
 {% for author in site.data.authors %} 
