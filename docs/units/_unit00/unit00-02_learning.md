@@ -18,10 +18,13 @@ Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen
 * die Wirung des Modells auf euch zu beschreiben
 
 ## Weiterführendes
-
 ### Insightmaker
-### Dokumente zum Beginn des Nachhaltigkeitsdiskurs
+Insightermaker bietet noch viele andere implemnierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. Die Modelle bei Insightmaker basieren auf systemdynamischer Modellierung. 
 
+### Der Beginn des Nachhaltigkeitsdiskurs
+Wenn du dich für die Anfänge der Diskussion um eine nachhaltige Entwicklung interessierst, kommst du an der Studie zu Grenzen des Wachstums von Club of Rome nicht vorbei. Natürlich gibt es hier auch Matrial, das die Inhalte zusammenfasst und erklärt. 
+
+Auch die Tragödie der Allmende war ein wichtiges Konzept, das angregt hat über die Begrenztheit von Ressourcen zu diskutieren. Das gemeinschaftliche Nutzen von Ressourcen wird uns im übernächsten Abschnitt beschäftigen. 
 
 
 
