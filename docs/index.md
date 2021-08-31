@@ -9,7 +9,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-  cta_url: "/downloads.html"
+  cta_url: "/units.html"
 excerpt: Ein Einstieg in die Bedeutung des Modellierens für eine nachhaltige Entwicklung.
 feature_row_intro:
 - excerpt: Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/){:target="_blank"} 
