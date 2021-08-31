@@ -21,10 +21,13 @@ feature_row_ilos:
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
-
+Herzlich willkommen zum Workshop... . Hier wird in die Modellierung und ihre Bedeutung für eine nachhaltige Entiwcklung eingeführt. Es gibt einen Pfad durch dieses Online-Modul, der euch in ca. zwei Stunden durch alles knapp durchführt. Selbstverständlich seid ihr nicht an diesen Pfad gebunden und könnt an belieber Stelle mehr oder weniger Zeit einbringen. 
 
 ## Allgemeines 
-Material, Zusammenfassung und weiterführende Links für den NetLogo Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/)  auf Rügen. 
+Dies ist ein digitaler Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/) auf Rügen. Ihr könnt:
+* euch selbstständig mit den Inhalten auseinandersetzen
+* mit Partner/innen diskutieren live in Rügen oder online
+* mit mir in Kontakt treten 
 
 ## Ziele
 Der Workshop soll
@@ -34,9 +37,11 @@ Der Workshop soll
 * Spaß am Ausprobieren bereiten
 
 
-
 ## Kontakt
+Während des Workshopssslots am Freitag, den 03.09.2021 von 11:00-13:00 Uhr erreicht ihr mich in dieser Videokonferenz.
+Wenn ihr online teilnehmen wollt und mit mir und anderen in Kontakt treten wollt schaltet euch bitte ein. 
 
+Grundsätzlich erreicht ihr mich so:
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
  <br /> 
