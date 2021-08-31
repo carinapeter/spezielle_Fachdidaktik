@@ -111,7 +111,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "How-to Meko"
+      category: "Workshop"
       tags: "Unit 00"
       layout: single
       sidebar:
@@ -121,71 +121,11 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "01 Raumbeschreibung & Interpretation"
+      category: "Zusatzmaterial"
       tags: "Unit 01"
       layout: single
       sidebar:
-        nav: "course_unit"
-  # unit02
-  - scope:
-      path: ""
-      type: unit02
-    values:
-      category: "02 Räumliche Modellierung"
-      tags: "Unit 02"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-  # unit03
-  - scope:
-      path: ""
-      type: unit03
-    values:
-      category: "03 Kartographische Modellierung"
-      tags: "Unit 03"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-  # unit04
-  - scope:
-      path: ""
-      type: unit04
-    values:
-      category: "04 Datenanalyse & Informationsgewinn"
-      tags: "Unit 04"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-  # unit05
-  - scope:
-      path: ""
-      type: unit05
-    values:
-      category: "05 Reflexive Kartenkompetenz"
-      tags: "Unit 05"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-   # unit06
-  - scope:
-      path: ""
-      type: unit06
-    values:
-      category: "06 Prüfung"
-      tags: "Unit 06"
-      layout: single
-      sidebar:
-        nav: "course_unit"
- # unit07
-  - scope:
-      path: ""
-      type: unit07
-    values:
-      category: "07 Nachprüfung"
-      tags: "Unit 07"
-      layout: single
-      sidebar:
-        nav: "course_unit"        
+        nav: "course_unit"    
   # pages
   - scope:
       path: "_pages"
