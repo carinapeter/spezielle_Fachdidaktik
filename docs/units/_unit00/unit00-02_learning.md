@@ -8,7 +8,7 @@ header:
 Hier geht es los!
 <!--more-->
 
-Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. 
+Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. Umfassende Erkenntnis lieferte hierfür das  Weltmodell von Forrester.
 
 ## Forresters Weltmodell
 
