@@ -19,7 +19,7 @@ angepasstes Modell (vielleicht stelle ich es hier direkt zum download zur Verfü
 * wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen
 * welche Kühe bei gemischter Haltung kurzfristig und welche Kühe langfrsitig dominieren
 * eure Beobachtungen zu erklären
-* eure Beobachtungen auf die echte Welt zu übertragen
+
 
 
 <!--more-->
