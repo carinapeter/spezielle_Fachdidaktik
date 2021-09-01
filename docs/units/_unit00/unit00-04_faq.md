@@ -12,7 +12,7 @@ kurzes Spiel
 
 ### Das Modell
 Netloogo
-angepasstes Modell (vielleicht stelle ich es hier direkt zum download zur Verfügung).
+angepasstes Modell {% include nlogo pdf="Unit 01 - 00 Raumbeschreibung und Interpretation.pdf" %} 
 
 ### Probiert doch mal aus...
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
