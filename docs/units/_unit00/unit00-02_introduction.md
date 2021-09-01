@@ -24,7 +24,7 @@ Dem Workshoppfad folgend ist dies nur eine kurze EInführung für die ihr 15 Min
 
 ## Weiterführendes
 ### Insightmaker
-[Insightermaker](https://insightmaker.com/) bietet noch viele andere implemnierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. Die Modelle bei Insightmaker basieren auf systemdynamischer Modellierung. 
+[Insightermaker](https://insightmaker.com/) bietet noch viele andere implemnierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. Die Modelle bei Insightmaker basieren auf [systemdynamischer](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) Modellierung. 
 
 ### Der Beginn des Nachhaltigkeitsdiskurs
 Wenn du dich für die Anfänge der Diskussion um eine nachhaltige Entwicklung interessierst, kommst du an der Studie zu Grenzen des Wachstums von Club of Rome nicht vorbei. Natürlich gibt es hier auch Matrial, das die Inhalte zusammenfasst und erklärt. 
