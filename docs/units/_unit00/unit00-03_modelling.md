@@ -10,7 +10,7 @@ Forresters Modell ist sehr komplex und zunächst unübersichtlich. Trotz der hoh
 ## Idee
 Ihr könnt nun mit Stift und Papier ein eigenes simples Modell von Nachhaltigkeit entwickeln. Überlegt euch hierfür welche Faktoren und welche Zusammenhänge zwingend einbezogen werden müssen, wenn wir über Nachhaltigkeit sprechen. Je einfacher euer Modell von Nachhaltigkeit ist destso besser.
 
-[Im Workshoppfad solltet ihr hier ca. 20 Minuten aufwenden.](#link){: .btn .btn--success}
+[Im Workshoppfad solltet ihr hier ca. 20 Minuten aufwenden.]{: .btn .btn--success}
 
 ### Tipps
 * Formuliert zunächst ein Wortmodel, d.h. ihr formuliert in ganzen Sätzen wie Nachhaltigkeit funktioniert. 
