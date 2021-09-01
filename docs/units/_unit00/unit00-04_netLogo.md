@@ -7,6 +7,8 @@ header:
 ## Idee
 Hier soll ein existierendes Modell genutzt werden, um Aussagen über nachhaltiges Verhalten zu treffen. 
 
+Im Workshoppfad solltet ihr hier ca. 45 Minuten verwenden.
+
 ### Agentbasierter Modellierung ein interaktiver Einstieg
 kurzes Spiel
 
