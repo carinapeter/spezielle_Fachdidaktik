@@ -11,7 +11,7 @@ Ihr sollt nun ein existierendes Agenten basiertes Modell nutzen, um Aussagen üb
 kurzes Spiel
 
 ### Das Modell
-Netloogo
+Netlogo
 angepasstes Modell {% include nlogo pdf="Unit 01 - 00 Raumbeschreibung und Interpretation.pdf" %} 
 
 ### Probiert doch mal aus...
