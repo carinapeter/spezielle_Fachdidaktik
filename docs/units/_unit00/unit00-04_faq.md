@@ -22,6 +22,8 @@ Sollte es beim Download Probleme geben, könnt ihr mit dem Modell "Cooperation" 
 
 Habt ihr keine Lust auf eine Installation könnt ihr auch mit der [Online-Version](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/BEAGLE%20Evolution/EACH/Cooperation.nlogo) arbeiten.
 
+{% include nachhaltigesWirtschaften.html %}
+
 ### Probiert doch mal aus...
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
 * wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen
