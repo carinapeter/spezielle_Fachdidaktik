@@ -5,6 +5,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
 
+
 Forresters Modell ist sehr komplex und zunächst unübersichtlich. Trotz der hohen Komplexität liegt dem Modell eine Reduktion oder Vereinfachung der Realität zu Grunde. Denn wenn wir modellieren konzentrieren wir uns immer auf die Faktoren und Zusammenhänge, die für unsere Fragestellung wichtig sind. Alles andere lassen wir außen vor. Nur so gelingt es uns zu Ergebnissen zu kommen. 
 
 ## Idee
@@ -19,6 +20,7 @@ Im Workshoppfad solltet ihr hier ca. 20 Minuten aufwenden.
 * Zeichnet ein Wirkungsdiagramm. 
 
 ### Zusatzmaterial
+
 
 
 

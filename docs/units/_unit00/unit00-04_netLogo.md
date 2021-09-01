@@ -26,7 +26,7 @@ Sollte es beim Download Probleme geben, könnt ihr mit dem Modell "Cooperation" 
  
 Online könnt ihr ganz oben in der Models library danach suchen.  
 
-<!--- {% include nachhaltigesWirtschaften.html %} --->
+{% include media url="/assets/misc/nachhaltigesWirtschaften.html" %}
 
 ### Probiert doch mal aus...
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
