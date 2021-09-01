@@ -12,7 +12,7 @@ kurzes Spiel
 
 ### Das Modell
 Netlogo
-angepasstes Modell {% include nlogo pdf="Unit 01 - 00 Raumbeschreibung und Interpretation.pdf" %} 
+angepasstes Modell {% include nlogo nlogo="nachhaltigesWirtschaften.nlogo" %} 
 
 ### Probiert doch mal aus...
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
