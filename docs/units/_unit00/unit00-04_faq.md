@@ -5,20 +5,28 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
 ## Idee
-Ihr sollt nun ein existierendes Agenten basiertes Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
+Hier soll ein existierendes Modell genutzt werden, um Aussagen über nachhaltiges Verhalten zu treffen. 
 
 ### Agentbasierter Modellierung ein interaktiver Einstieg
 kurzes Spiel
 
-### Das Modell
-Netlogo
-angepasstes Modell {% include nlogo nlogo="nachhaltigesWirtschaften.nlogo" %} 
+### Das NetLogo-Modell
+Sollte NetLogo bei euch nicht installiert sein, findet ihr die freie Software [hier](https://ccl.northwestern.edu/netlogo/download.shtml)
+
+Hier findet ihr ein angepasstes Modell {% include nlogo nlogo="nachhaltigesWirtschaften.nlogo" %}.
+
+Sollte es beim Download Probleme geben, könnt ihr mit dem Modell "Cooperation" arbeiten. Ihr findet es unter: 
+* file
+* models library
+* social science
+
+Habt ihr keine Lust auf eine Installation könnt ihr auch mit der [Online-Version](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/BEAGLE%20Evolution/EACH/Cooperation.nlogo) arbeiten.
 
 ### Probiert doch mal aus...
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
 * wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen
 * welche Kühe bei gemischter Haltung kurzfristig und welche Kühe langfrsitig dominieren
-* eure Beobachtungen zu erklären
+
 
 
 
