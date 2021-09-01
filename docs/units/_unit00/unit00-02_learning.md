@@ -10,7 +10,8 @@ Hier geht es los!
 
 Simulationsmodelle waren der Ausgangspunkt die Grenzen des Wachstums aufzuzeigen und die Notwendigkeit einer nachhaltigen Entwicklung zu diskutieren. Umfassende Erkenntnis lieferte hierfür das  Weltmodell von Forrester.
 
-Dem Workshoppfad folgend ist dies nur eine kurze EInführung für die ihr 15 Minuten aufwenden solltet. {: .notice--success}
+Dem Workshoppfad folgend ist dies nur eine kurze EInführung für die ihr 15 Minuten aufwenden solltet. 
+{: .notice--success}
 
 ## Forresters Weltmodell
 
