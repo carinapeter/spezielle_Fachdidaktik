@@ -13,14 +13,16 @@ kurzes Spiel
 ### Das NetLogo-Modell
 Sollte NetLogo bei euch nicht installiert sein, findet ihr die freie Software [hier](https://ccl.northwestern.edu/netlogo/download.shtml)
 
-Hier findet ihr ein angepasstes Modell.
+Habt ihr keine Lust auf eine Installation könnt ihr auch mit der [Online-Version](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/BEAGLE%20Evolution/EACH/Cooperation.nlogo) arbeiten.
+
+Hier findet ihr ein auf diesen Workshop angepasstes Modell. Ihr könnt es in NetLogo öffnen oder bei NetLogo-Web unter "upload a model" laden. 
 
 Sollte es beim Download Probleme geben, könnt ihr mit dem Modell "Cooperation" arbeiten. Ihr findet es unter: 
 * file
 * models library
 * social science
-
-Habt ihr keine Lust auf eine Installation könnt ihr auch mit der [Online-Version](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/BEAGLE%20Evolution/EACH/Cooperation.nlogo) arbeiten.
+ 
+Online könnt ihr ganz oben in der Models library danach suchen.  
 
 {% include nachhaltigesWirtschaften.html %}
 
