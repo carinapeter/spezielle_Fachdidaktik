@@ -13,7 +13,7 @@ kurzes Spiel
 ### Das NetLogo-Modell
 Sollte NetLogo bei euch nicht installiert sein, findet ihr die freie Software [hier](https://ccl.northwestern.edu/netlogo/download.shtml)
 
-Hier findet ihr ein angepasstes Modell {% include nlogo nlogo="nachhaltigesWirtschaften.nlogo" %}.
+Hier findet ihr ein angepasstes Modell.
 
 Sollte es beim Download Probleme geben, könnt ihr mit dem Modell "Cooperation" arbeiten. Ihr findet es unter: 
 * file
