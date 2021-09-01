@@ -41,7 +41,8 @@ Der Workshop soll
 Während des Workshopssslots am Freitag, den 03.09.2021 von 11:00-13:00 Uhr erreicht ihr mich in dieser Videokonferenz.
 Wenn ihr online teilnehmen wollt und mit mir und anderen in Kontakt treten wollt schaltet euch bitte ein. 
 
-Grundsätzlich erreicht ihr mich so:
+Außerhalb dieses Zeitraums erreicht ihr mich per Mail. 
+
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
  <br /> 
