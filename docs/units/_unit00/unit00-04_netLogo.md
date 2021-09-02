@@ -7,10 +7,10 @@ header:
 
 
 ## Idee
-Nachdem wir uns in das Verständnis der Nachhaltigkeit eingearbeitet und uns mit dem systemdynamischen Weltmodell beschäftigt haben soll es nun noch etwas "wirklicher" werden. Der Systemdynamischen Modellierung mangelt es an hierfür an dem Raum. Akteure (Menschen, Tiere, Pflanzen etc.) handeln und wechselwirken im Raum. Ich muss vor einem Baum stehen um ihn zu fällen oder eine Kuh muss auf der Weide sein um Gras abweiden zu können. Handeln findet also im Raum statt.
-Gleichzeitig ist es sehr schwer das Handeln z.B. einer Kuh in Bezug auf das Fressen von Gras in eine mathematische Gleichung zu fassen. Eher folgt es Regeln (z.B. friß das saftigste grass im Umkreis von einem Meter und gehe weiter)
+Nachdem wir uns in das Verständnis der Nachhaltigkeit eingearbeitet und uns mit dem systemdynamischen Weltmodell beschäftigt haben soll es nun noch etwas "wirklicher" werden. Der Systemdynamischen Modellierung mangelt es an hierfür an dem Raum. Akteure (Menschen, Tiere, Pflanzen etc.) handeln und wechselwirken im Raum. Ich muss vor einem Baum stehen um ihn zu fällen oder eine Kuh muss auf der Weide sein um Gras abweiden zu können.
+Gleichzeitig ist es sehr schwer das Handeln z.B. einer Kuh in Bezug auf das Fressen von Gras in eine mathematische Gleichung zu fassen. Eher folgt es Regeln (z.B. "friß das saftigste Gras im Umkreis von einem Meter und gehe weiter")
 
-Ihr sollt ein einfaches Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
+Ihr sollt nun ein einfaches Netlogo-Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
 
 Im Workshoppfad solltet ihr hier ca. 45 Minuten verwenden.
 
@@ -30,7 +30,9 @@ Habt ihr keine Lust auf eine Installation oder sollte es beim Download Probleme 
 
 
 ### Probiert doch mal aus...
-Nach dem ihr jetzt das Modell entweder hier auf der Webseite oder mit Hilfe eurer lokalen Installation nutzen könnt ist es spannend ein parr Dinge auszuprobieren. Versucht einmal folgende Fragen zu beantworten in dem ihr die Einstellungen der Modellwelt durch die Schieberegeler anpasst:
+Nach dem ihr jetzt das Modell entweder hier auf der Webseite oder mit Hilfe eurer lokalen Installation nutzen könnt ist es spannend einfach mal ein paar Dinge auszuprobieren. 
+
+Versucht einmal folgende Fragen zu beantworten in dem ihr die Einstellungen der Modellwelt durch die Schieberegeler anpasst:
 
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
 * wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen

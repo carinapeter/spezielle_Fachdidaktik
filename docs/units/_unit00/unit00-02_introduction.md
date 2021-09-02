@@ -60,7 +60,16 @@ Du kannst dir das [Welt 3 Modell](https://insightmaker.com/insight/1954/The-Worl
 *  Schau dir die Graphik an und beschreibe wie die Wirkung auf dich ist
 * Schau dir das Modell an - was ist dein Eindruck? Wie wirkt es auf dich?
 
-## Weiterführendes
+## Zusammenfassung
+
+Forresters Modell ist sehr komplex und auch kaum zu überschauen. Jedoch liegt dem Modell trotz der hohen Komplexität eine extreme Vereinfachung der Realität zu Grunde. Der Grund ist einfach:
+
+Modelle sind immer zweckgebundene Vereinfachungen.
+{: .notice--info} 
+
+Wenn wir modellieren konzentrieren wir uns **immer** auf die Faktoren und Zusammenhänge, die für unsere Fragestellung wichtig sind. Alles andere lassen wir außen vor. Nur so gelingt es uns zu Ergebnissen zu kommen. 
+
+## Noch mehr?
 
 ### Insightmaker
 [Insightermaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. 
