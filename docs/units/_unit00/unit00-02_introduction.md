@@ -52,7 +52,7 @@ Dem Workshoppfad folgend ist dies nur eine kurze Einführung für die ihr 15 Min
 
 Für einen ersten kurzen Einstieg kann die Online Programmierumgebung *Insightmaker* verwendet werden, die eine großartige Leistungsmöglichkeit in die Systemdynamik bietet.    
 
-Du kannst dir das [Welt3 Modell](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation) also die aktuelle Version des Original-Weltmodells online anschauen und eigene Simulationen durchführen.
+Du kannst dir das [Welt 3 Modell](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation), also die aktuelle Version des Original-Weltmodells online anschauen und mit Hilfe der Browser-gestüzten Software Insightmaker eigene Modellszenarien (Simulation) durchführen.
 
 ### Probiert doch mal...
 
@@ -63,7 +63,9 @@ Du kannst dir das [Welt3 Modell](https://insightmaker.com/insight/1954/The-World
 ## Weiterführendes
 
 ### Insightmaker
-[Insightermaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. Die Modelle bei Insightmaker basieren auf [systemdynamischer](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) Modellierung. 
+[Insightermaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. 
+
+[Systemdynamische Modellierung](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - Eine kurze Einführung (englisch). 
 
 
 
