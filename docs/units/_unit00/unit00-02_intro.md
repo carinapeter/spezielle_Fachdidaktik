@@ -32,12 +32,13 @@ Auch im 18. Jarhundert analysierten und beschrieben die frühen politischen Öko
 Auf diesen Grundlagen entwickelten vor allem Naturwissenschaftler im 19. und 20. Jahrhundert verschiedene aus ihre Fachrichtungen hervorgehende Auffassungen zur nachhaltigen Naturnutzung. Vor allem prägten sich zwei bis heute existierende Strömungen aus. Auf der einen Seite anthropozentrische *Umwelt*schützerinnen, die den Schutz der natürlichen Ressourcen für einen nachhaltigen Konsum in den Vordergrund stellen und auf der anderen Seite biozentrische *Natur*schützerinnen, für die Erhaltung der Natur aufgrund ihres Wertes an sich in den Vordergrund stellen.
 
 ### Das heutige Verständnis der Nachhaltigkeit
-All diese Strömungen wurden jedoch erst in den 1970er Jahren zum globalen *"modernen Konzept"* der Nachhaltigkeit. In dem Bericht *[Grenzen des Wachstums](https://www.clubofrome.org/publication/the-limits-to-growth/)* des [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome) wird ein *"nachhaltiges Weltsystem"* gefordert was als das erste moderne Auftauchen des Begriffs ist, der rasant aufgegriffen wird: z.B. die Kommission des Ökumenischen Rates der Kirchen für 1974 formuliert die Idee einer *"nachhaltigen Gesellschaft"* und die erste grüne Partei (in Großbritannien) die verabschiedete 1975 ihr *"Manifest für eine nachhaltige Gesellschaft"* verabschiedet. Allerdings braucht es bis 1987 als die *Weltkommission für Umwelt und Entwicklung*, die  sogenannte [Brundtland-Kommission](https://de.wikipedia.org/wiki/Brundtland-Bericht) ihren Bericht veröffentlicht der *"nachhaltigen Entwicklung"* definiert als:  
+All diese Strömungen wurden jedoch erst in den 1970er Jahren zum globalen *"modernen Konzept"* der Nachhaltigkeit. In dem Bericht *[Grenzen des Wachstums](https://www.clubofrome.org/publication/the-limits-to-growth/)* des [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome) wird ein *"nachhaltiges Weltsystem"* gefordert was als das erste moderne Auftauchen des Begriffs ist, der rasant aufgegriffen wird: z.B. die Kommission des Ökumenischen Rates der Kirchen für 1974 formuliert die Idee einer *nachhaltigen Gesellschaft* und die erste grüne Partei (in Großbritannien) die verabschiedete 1975 ihr *Manifest für eine nachhaltige Gesellschaft* verabschiedet.
+
+Allerdings braucht es bis 1987 als die *Weltkommission für Umwelt und Entwicklung*, die  sogenannte [Brundtland-Kommission](https://de.wikipedia.org/wiki/Brundtland-Bericht) ihren Bericht veröffentlicht der *nachhaltigen Entwicklung* definiert als:  
 
  *"[...] eine Entwicklung, die den Bedürfnisse der Gegenwart befriedigt, ohne  die Fähigkeit der künftiger Generationen, ihre eigenen Bedürfnisse zu befriedigen"*
 
-Dieser Bericht löst eine weltweite Diskussion aus die schließlich 1992 in den *"Erdgipfel von Rio"* mündet. 
-Sensationell trafen sich 114 Staatsoberhäupter und unzählige Nicht-Regierungsorganisationen und einigten sich in der "Rio-Erklärung" verpflichtend auf das Prinzip der nachhaltigen Entwicklung - bis heute als *"Agenda 21"* bekannt. 
+Dieser Bericht löst eine weltweite Diskussion aus die schließlich 1992 in den [*Weltgipfel von Rio*](https://www.nachhaltigkeit.info/artikel/weltgipfel_rio_de_janeiro_1992_539.htm) mündet.  Sensationell trafen sich 114 Staatsoberhäupter und unzählige Nicht-Regierungsorganisationen und einigten sich in der *Rio-Erklärung* verpflichtend auf das [_**Prinzip der nachhaltigen Entwicklung**_](https://de.wikipedia.org/wiki/Nachhaltige_Entwicklung) - das in der  [*Agenda 21*](https://de.wikipedia.org/wiki/Agenda_21) formuliert und in den 178 Unterzeichnerstaaten ratifiziert (in gültiges Recht umgewandelt) wurde. 
 
 Heute wird üblicherweise diese *nachhaltige Entwicklung* als wechselwirkende Prozesse zwischen den drei Bereichen  *Umwelt*, *Wirtschaft* und *Gesellschaft*  verstanden. Hierfür gibt mehrere Konzepte, die bekanntesten sind: 
 * das Drei-Säulen-Modell
@@ -55,10 +56,6 @@ Nachfolgende Abbildung verdeutlicht die unterschiedlichen Konzpte graphisch.
 </figure>
 
 Alle Konzepte sind gleichsam als Bild für die Prozesse und Interaktionen der drei Bereiche die die gewünschten  oder notwendigen und unterschiedlich gewichteten Kompromisse zwischen (scheinbar) gleichermaßen wünschenswerten Zielen darstellen. 
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/3/39/Die_drei_klassischen_Nachhaltigkeitsmodelle.png
 
 
 
