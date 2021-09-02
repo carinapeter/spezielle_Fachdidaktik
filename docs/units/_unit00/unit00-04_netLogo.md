@@ -50,5 +50,14 @@ Versucht einmal folgende Fragen zu beantworten in dem ihr die Einstellungen der 
 * wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
 * wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen
 * welche Kühe bei gemischter Haltung kurzfristig und welche Kühe langfristig dominieren
+* was scheint euch ein optimales Ergebnis zu sein? Warum?
 
 
+## In den Rucksack...
+
+Die Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein. 
+Regeln müssen von den Akteuren akzeptiert werden bzw. das gemeinsam definierte Nutzungsziel muss erreicht werden.
+Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regel sind die Basis der kollektiven Nutzung von Ressourcen.
+Damit wir keine (vermutlich nicht-umkehrbaren) Experimente an der echten Welt machen müssen können wir mit spezieller Modellierungssoftwar (Netlogo, Insightmaker...) vereinfachte Modelle entwickeln und testen.
+
+## Lust auf mehr?
