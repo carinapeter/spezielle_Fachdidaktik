@@ -9,6 +9,10 @@ header:
 Hier geht es los!
 Bevor wir uns mit der *Modellierung von Nachhaltigkeit* beschäftigen, sollten wir einer guten Tradition in der Wissenschaft folgen und erst einmal klären um was es sich dabei handelt.
 <!--more-->
+
+Dem Workshoppfad folgend solltet ihr für diese Einführung 30 Minuten aufwenden.
+{: .notice--success} 
+
 ## Eine kleine Geschichte der Nachhaltigkeit
 
 ### Ressourcenverknappung führt zum Nachdenken
@@ -46,9 +50,6 @@ Die Simulationen des  waren der Ausgangspunkt die Grenzen des Wachstums ohne Ech
 Forrester hatte nicht nur das Welt Modell entwickelt sondern auch in Zusammenarbeit mit MIT Kollegen das Konzept der graphischen dynamischen Modellierung entwickelt. Dies ist eine deutliche Vereinfachung gegenüber herkömmlicher Programmierung durch graphische Elemente denen entsprechende Formeln und Wirkungen zugewiesen werden. 
 
 Da sowohl das *Weltmodell*  als auch derartige Programmierumgebungen stetig weiter entwickelt wurden können wir  heute auf eine Vielzahl von Softwareprogammen und *Weltmodellen* zurückgreifen. Das bekannteste dürfte das  *Welt 3 Modell* aus dem Jahre 2008 sein. Aufgrund seiner "Berühmtheit" ist es in nahezu allen Systemdynamik Programmierumgebungen verfügbar. 
-
-Dem Workshoppfad folgend ist dies nur eine kurze Einführung für die ihr 15 Minuten aufwenden solltet.
-{: .notice--success} 
 
 Für einen ersten kurzen Einstieg kann die Online Programmierumgebung *Insightmaker* verwendet werden, die eine großartige Leistungsmöglichkeit in die Systemdynamik bietet.    
 
