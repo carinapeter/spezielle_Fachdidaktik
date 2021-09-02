@@ -48,7 +48,7 @@ Forrester hatte nicht nur das Welt Modell entwickelt sondern auch in Zusammenarb
 Da sowohl das *Weltmodell*  als auch derartige Programmierumgebungen stetig weiter entwickelt wurden können wir  heute auf eine Vielzahl von Softwareprogammen und *Weltmodellen* zurückgreifen. Das bekannteste dürfte das  *Welt 3 Modell* aus dem Jahre 2008 sein. Aufgrund seiner "Berühmtheit" ist es in nahezu allen Systemdynamik Programmierumgebungen verfügbar. 
 
 Dem Workshoppfad folgend ist dies nur eine kurze Einführung für die ihr 15 Minuten aufwenden solltet.
-<!--- {: .notice--success} --->
+{: .notice--success} 
 
 Für einen ersten kurzen Einstieg kann die Online Programmierumgebung *Insightmaker* verwendet werden, die eine großartige Leistungsmöglichkeit in die Systemdynamik bietet.    
 
