@@ -13,6 +13,7 @@ Gleichzeitig ist es sehr schwer das Handeln z.B. einer Kuh in Bezug auf das Fres
 Ihr sollt nun ein einfaches Netlogo-Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
 
 Im Workshoppfad solltet ihr hier ca. 45 Minuten verwenden.
+{: .notice--success}
 
 <!--more-->
 
