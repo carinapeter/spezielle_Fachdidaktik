@@ -61,3 +61,6 @@ Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regel sind die 
 Damit wir keine (vermutlich nicht-umkehrbaren) Experimente an der echten Welt machen müssen können wir mit spezieller Modellierungssoftwar (Netlogo, Insightmaker...) vereinfachte Modelle entwickeln und testen.
 
 ## Lust auf mehr?
+Ein [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) zum Einstieg in NetLogo. 
+
+Mehr zum Hintergund von [Cooperation](http://ccl.northwestern.edu/rp/each/index.shtml).
