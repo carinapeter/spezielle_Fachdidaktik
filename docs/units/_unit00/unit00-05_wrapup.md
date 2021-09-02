@@ -33,7 +33,9 @@ Im Workshopfad solltet ihr hier ca. 40 Minuten verwenden.
 
 ## Lust auf mehr?
 
-Ihr findet hier ein Modell das vereinfacht die aktuelle Handlungs-Situation zum Kimawandel (wahlweise auch Covid 19 o.ä.) abbildet. Es Basiert auf dem T.D. Seeleys Konzept der [Honigbienen-Demokratie](https://de.wikipedia.org/wiki/Thomas_Dyer_Seeley). Der Autor ders NetLogo Modells Mike L. Anderson beschreibt unter dem Info Tab ausführlich die Wirkungskonzepte des Modells. Die Übersetzung und die Anpassung an NetLogo 6.2 stammt von mir.
+Ihr findet hier ein Modell das vereinfacht die aktuelle Handlungs-Situation zum Kimawandel (wahlweise auch Covid 19 o.ä.) abbildet. Es Basiert auf dem T.D. Seeleys Konzept der [Honigbienen-Demokratie](https://de.wikipedia.org/wiki/Thomas_Dyer_Seeley). Der Autor Mike Anderson beschreibt unter dem Info Tab ausführlich die Wirkungskonzepte des Modells [*ClimateWise1_2*](http://ccl.northwestern.edu/netlogo/models/community/ClimateWise1_2)
+
+Die Übersetzung eininge Einfügungen und die Anpassung an NetLogo 6.2 stammt von mir.
 {% include media url="/assets/misc/ClimateWise1_2_german.html" %}
 
 Falls ihr mit der lokalen Installation von NetLogo arbeiten ladet ihr das Modell [ClimateWise1_2_germa.nlogo]({{ site.baseurl }}/assets/scripts/ClimateWise1_2_germa.nlogo){:target="_blank"} bitte herunter und speichert es an einem geeigneten Ort ab. Dann könnt ihr es mit NetLogo öffnen.
