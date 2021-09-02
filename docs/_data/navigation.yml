@@ -2,12 +2,8 @@
 main:
   - title: "Kurseinheiten"
     url: /units.html
-  - title: "Zur OER"
-    url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
   - title: "Seitenübersicht"
     url: /sitemap.html
-  - title: "Downloads"
-    url: /downloads.html
 
 
 docs:
@@ -15,5 +11,4 @@ docs:
     children:
       - title: "Kurseinheiten"
         url: /units.html
-      - title: "Zum OER"
-        url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+
