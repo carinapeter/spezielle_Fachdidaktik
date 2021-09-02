@@ -8,11 +8,11 @@ header:
 
 Hier geht es los!
 
-Wir wollen uns in diesem Workshop mit  der softwaregestützten Modellierung und Simulation von nachhaltigen Prozessen beschäftigen.
+Wir wollen uns in diesem Workshop mit der softwaregestützten Modellierung und Simulation von nachhaltigen Prozessen beschäftigen.
 
 Bevor wir uns jedoch mit der *Modellierung von Nachhaltigkeit* beschäftigen, sollten wir einer guten Tradition in der Wissenschaft folgen und erst einmal klären um was es sich dabei handelt, oder besser noch handeln könnte.
 
-Nachhaltige Entwicklung und *Nachhaltigkeit* sind zum *Modewort*  fast schon zu einem zu einem *modischen* Konzept für nahezu alle Themenbereiche geworden. Doch warum ist der Begriff in aller Munde, so erfolgreich und doch gleichzeitig so schwer konkret zu fassen?
+Nachhaltige Entwicklung und *Nachhaltigkeit* sind zum *Modewort* fast schon zu einem zu einem *modischen* Konzept für nahezu alle Themenbereiche geworden. Doch warum ist der Begriff in aller Munde, so erfolgreich und doch gleichzeitig so schwer konkret zu fassen?
 
 Was versteht ihr unter Nachhaltigkeit?
 <!--more-->
@@ -25,7 +25,7 @@ Für diese Einführung solltet ihr etwa 10 Minuten Zeit benötigen.
 
 Um zu verstehen, wie sich das heutige Verständnis der  *Nachhaltigkeit* in den 1970er und 1980er Jahren entwickelt hat, hilft es kurz zu beleuchten aus welchen Ursprüngen das Konzept entstanden ist. 
 
-Der Begriff Nachhaltigkeit wird erstmalig 1713 vom sächsichen Verwaltungsbeamten Hans Carl von Carlowitz verwendet.  Er definiert als grundlegendes Prinzip eine Ressourcen-Nutzung, die die Erhaltung der wesentlichen Eigenschaften und der natürlichen Regenerationsfähigkeit des Waldes beinhaltet.
+Der Begriff Nachhaltigkeit wird erstmalig 1713 vom sächsichen Verwaltungsbeamten Hans Carl von Carlowitz verwendet. Er definiert als grundlegendes Prinzip eine Ressourcen-Nutzung, die die Erhaltung der wesentlichen Eigenschaften und der natürlichen Regenerationsfähigkeit des Waldes beinhaltet.
 
 Auch im 18. Jarhundert analysierten und beschrieben die frühen politischen Ökonomen wie Adam Smith und etwas später Thomas Robert Malthus, den weiter gefassten Zusammenhang von Ressourcenverfügbarkeit, Tragfähigkeit, Wohlstand und sozialer Gerechtigkeit.
 
