@@ -12,6 +12,7 @@ Könnt ihr einen Zusammenhang zum Leitthema der youcoN der Klimagerichtigkeit he
 Die Modellwelt soll nun verlassen werden und Erkenntnisse auf die Echtwelt übertragen. Am besten gelingt diese Arbeit sicherlich in der Diskussion. Sucht euch eine andere Person oder Gruppe mit der ihr diskutieren könnt. Auch jetzt besteht noch die Möglichkeit sich in die Videokonferenz einzuschalten.
 
 Im Workshopfad solltet ihr hier ca. 40 Minuten verwenden.
+{: .notice--success}
 
 ### Überlegt und diskutiert zunächst...
 * inwiefern das Modell mit den Kühen den Zustand, in dem wir uns global befinden, erklärt.
