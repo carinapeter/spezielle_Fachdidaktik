@@ -38,4 +38,4 @@ Ihr findet hier ein Modell das vereinfacht die aktuelle Handlungs-Situation zum 
 Die Übersetzung eininge Einfügungen und die Anpassung an NetLogo 6.2 stammt von mir.
 {% include media url="/assets/misc/ClimateWise1_2_german.html" %}
 
-Falls ihr mit der lokalen Installation von NetLogo arbeiten ladet ihr das Modell [ClimateWise1_2_germa.nlogo]({{ site.baseurl }}/assets/scripts/ClimateWise1_2_germa.nlogo){:target="_blank"} bitte herunter und speichert es an einem geeigneten Ort ab. Dann könnt ihr es mit NetLogo öffnen.
+Falls ihr mit der lokalen Installation von NetLogo arbeitet, ladet bitte die Modelldatei [ClimateWise1_2_germa.nlogo]({{ site.baseurl }}/assets/scripts/ClimateWise1_2_germa.nlogo){:target="_blank"} herunter und speichert sie an einem geeigneten Ort ab. Dann könnt ihr das Modell mit NetLogo öffnen.

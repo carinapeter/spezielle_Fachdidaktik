@@ -23,7 +23,7 @@ Zum Einstieg machen wir ein kurzes Spiel.
 ### Die NetLogo Modellierungssoftware
 Wir benötigen die Software NetLogo. Falls NetLogo auf euren Rechnern nicht installiert sein, könnt ihr die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Vor allem wenn ihr über unseren Workshop hinaus ein wenig stöbern und ausprobieren wollt ist diese Variante sinnvoll.
 
-Falls ihr mit der lokalen Installation von NetLogo arbeiten ladet ihr das Modell [nachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/nachhaltigesWirtschaften.nlogo){:target="_blank"} bitte herunter und speichert es an einem geeigneten Ort ab.
+Falls ihr mit der lokalen Installation von NetLogo arbeitet, ladet ihr bitte die Modelldatei [nachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/nachhaltigesWirtschaften.nlogo){:target="_blank"} herunter und speichert sie an einem geeigneten Ort ab. Dann könnt ihr das Modell mit NetLogo öffnen
 {: .notice--info}
 
 
