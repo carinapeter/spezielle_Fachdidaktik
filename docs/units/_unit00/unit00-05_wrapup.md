@@ -14,7 +14,7 @@ Die Modellwelt soll nun verlassen werden und Erkenntnisse auf die Echtwelt über
 Im Workshopfad solltet ihr hier ca. 40 Minuten verwenden.
 
 ### Überlegt und diskutiert zunächst...
-* inwiefern das Modell mit den Kühen den Zustand,in dem wir uns global befinden, erklärt.
+* inwiefern das Modell mit den Kühen den Zustand, in dem wir uns global befinden, erklärt.
 * Analogien (d.h. was nimmt die gleiche Rolle ein) zwischen dem Model und der Klimagerechtigkeit. 
 * welche Prognose das Modell für unsere Zukunft gibt.
 * welches Verhalten nach dem Modell sinnvoll wäre.
