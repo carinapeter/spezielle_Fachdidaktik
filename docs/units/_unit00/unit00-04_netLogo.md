@@ -36,7 +36,7 @@ Das Modell Cooperation und die Adapation funktionieren beide nach den gleichen G
 * haben sie genug Energie reproduzieren sie sich
 * haben sie zu wenig Energie sterben sie
 * sie gehen nach jedem Zeitschritt weiter auf ein neues Grasfeld
-* Das Gras wächst nach; halbhohes Gras schneller als ganz abgefressenes Gras
+* das Gras wächst nach; halbhohes Gras schneller als ganz abgefressenes Gras
 
 * es gibt nachhaltige gehaltene Kühe (cooperative cows) und gierige Kühe (greedy cows)
 * die cooperative cows essen nur hohes Gras und fressen es bis zur Hälfte ab
