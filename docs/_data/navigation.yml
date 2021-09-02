@@ -2,8 +2,7 @@
 main:
   - title: "Kurseinheiten"
     url: /units.html
-  - title: "Seitenübersicht"
-    url: /sitemap.html
+
 
 
 docs:
