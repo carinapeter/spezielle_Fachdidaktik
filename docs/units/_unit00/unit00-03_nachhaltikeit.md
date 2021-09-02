@@ -2,15 +2,15 @@
 title: Nachhaltige Welt
 toc: true
 header:
-  image: "/assets/images/00-unit-splash.jpg"
-  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
+  image: "/assets/images/ltg-splash.jpg"
+  caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'  
 ---
 
 
 Nachdem wir nun festgestellt haben dass es sich bei dem Begriff um viel Theorie und Politik handelt sollten wir uns erinnern das vor ziemlich genau 50 Jahren bereits ein konkretes Modell diese Diskussion ausgelöst hat. 
 <!--more-->
 
-Für die Einheit *Nachhaltigke Welt* solltet ihr etwa 20 Minuten Zeit benötigen.
+Für die Einheit *Nachhaltige Welt* solltet ihr etwa 20 Minuten Zeit benötigen.
 {: .notice--success} 
 
 Also wenn du dich für die wissenschaftlichen Grundlagen der  nachhaltigen Entwicklung interessierst, kommst du an dieser "Ur-Studie*  *[Grenzen des Wachstums](https://www.clubofrome.org/publication/the-limits-to-growth/)* des [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome) kaum vorbei. Sie beschreibt quantitativ und für jeden nachvollziehbar (und daher auch diskutier- und kritisierbar) konkret das von Malthus erstmalig benannte Tragfähigkeitproblem anhand weltweiter Wirkungsmechanismen von eben diesen drei Säulen Umwelt, Wirtschaft und Gesellschaft. 

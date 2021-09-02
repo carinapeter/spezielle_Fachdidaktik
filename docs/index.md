@@ -5,8 +5,8 @@ date: '2018-02-06 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: "/assets/images/02-splash.jpg"
-  caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
+  overlay_image: "/assets/images/title-splash.jpg"
+  caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
   cta_url: "/units.html"
