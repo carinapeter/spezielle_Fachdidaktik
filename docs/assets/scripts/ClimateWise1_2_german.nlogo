@@ -193,7 +193,6 @@ to-report average-temp
   report mean [temp] of patches
 end
 
-
 @#$#@#$#@
 GRAPHICS-WINDOW
 470
@@ -272,10 +271,10 @@ NIL
 HORIZONTAL
 
 PLOT
-8
-416
+16
+421
 455
-660
+665
 The response to climate
 NIL
 NIL
@@ -375,7 +374,7 @@ scientist-collection-interval
 scientist-collection-interval
 1
 1000
-1.0
+10.0
 1
 1
 NIL
@@ -390,7 +389,7 @@ science-dissemination
 science-dissemination
 1
 20
-1.0
+10.0
 1
 1
 NIL
@@ -438,7 +437,7 @@ quorum-threshold
 quorum-threshold
 1
 50
-12.0
+4.0
 1
 1
 NIL
@@ -463,7 +462,7 @@ majority-threshold
 majority-threshold
 50
 100
-88.0
+50.0
 1
 1
 %
@@ -523,7 +522,7 @@ mean-public-wisdom
 mean-public-wisdom
 -1
 1
--0.7
+0.0
 .1
 1
 NIL
@@ -553,16 +552,16 @@ no-of-anti-scientists
 no-of-anti-scientists
 0
 10
-8.0
+2.0
 1
 1
 NIL
 HORIZONTAL
 
 TEXTBOX
-280
+261
 64
-457
+438
 82
 Public majority variables
 13
@@ -570,14 +569,36 @@ Public majority variables
 1
 
 TEXTBOX
-24
-199
-246
-237
+12
+200
+234
+218
 Climate scientist quorum variables
 13
 0.0
 1
+
+MONITOR
+137
+366
+228
+411
+NIL
+count factory
+17
+1
+11
+
+MONITOR
+16
+366
+119
+411
+NIL
+count forest
+17
+1
+11
 
 @#$#@#$#@
 ## WAS IST DAS?
