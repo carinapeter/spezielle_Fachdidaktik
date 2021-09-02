@@ -9,7 +9,7 @@ Was bedeuten eure Einsichten aus der Beschäftigung mit den Modellen für die ec
 Könnt ihr einen Zusammenhang zum Leitthema der youcoN der Klimagerichtigkeit herstellen? 
 
 ## Idee 
-Die Modellwelt soll nun verlassen werden und Erkenntnisse auf die Echtwelt übertragen. Am besten gelingt diese Arbeit sicherlich in der Diskussion. Sucht euch eine andere Person oder Gruppe mit der ihr diskutieren könnt. Auch jetzt besteht noch die Möglichkeit sich in die Videokonferenz einzuschalten.
+Die Modellwelt soll nun verlassen werden und Erkenntnisse auf die Echtwelt übertragen. Am besten gelingt diese Arbeit sicherlich in der Diskussion. Sucht euch eine andere Person oder Gruppe mit der ihr diskutieren könnt. Auch jetzt besteht noch die Möglichkeit sich in die [Videokonferenz](https://webconf.hrz.uni-marburg.de/b/rie-6ic-uxf-bc6) einzuschalten.
 
 Im Workshopfad solltet ihr hier ca. 40 Minuten verwenden.
 {: .notice--success}
