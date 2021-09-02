@@ -57,8 +57,8 @@ Du kannst dir das [Welt 3 Modell](https://insightmaker.com/insight/1954/The-Worl
 
 ### Probiert doch mal...
 
-* führe eine Simulation mit dem Modell durch und lass dir die Ergebnisse anzeigen
-*  Schau dir die Graphik an und beschreibe wie die Wirkung auf dich ist
+* herauszufinden für wann der Wendepunkt des Wohlstandsniveaus prognoztiziert ist
+* den Bezugszeitraum mit den Reglern zu varieren
 * Schau dir das Modell an - was ist dein Eindruck? Wie wirkt es auf dich?
 
 ## Zusammenfassung
