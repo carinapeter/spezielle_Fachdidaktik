@@ -1,8 +1,8 @@
 ---
 title: Klimagerechtigkeit
 header:
-  image: "/assets/images/title-splash.jpg"
-  caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
+  image: "/assets/images/climate-splash.jpg"
+  caption: 'Photo: **Rieke Ammoneit**'
 ---
 
 Was bedeuten eure Einsichten aus der Beschäftigung mit den Modellen für die echte Welt? 
