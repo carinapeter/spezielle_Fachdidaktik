@@ -21,7 +21,9 @@ feature_row_ilos:
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
-Herzlich willkommen zum Workshop "Gierig oder solidarisch? - Simulation von Ressourcenverbrauch in einer begrenzten Welt". Hier wird in die Modellierung und ihre Bedeutung für eine nachhaltige Entiwcklung eingeführt. Es gibt einen Pfad durch dieses Online-Modul, der euch in ca. zwei Stunden knapp durch alles führt. Selbstverständlich seid ihr nicht an diesen Pfad gebunden und könnt an belieber Stelle mehr oder weniger Zeit einbringen. 
+Herzlich willkommen zum Workshop "Gierig oder solidarisch? - Simulation von Ressourcenverbrauch in einer begrenzten Welt". Hier wird in die Modellierung und ihre Bedeutung für eine nachhaltige Entiwcklung eingeführt. 
+
+Es gibt einen Pfad durch dieses Online-Modul, der euch in ca. zwei Stunden knapp durch alles führt. Selbstverständlich seid ihr nicht an diesen Pfad gebunden und könnt an belieber Stelle mehr oder weniger Zeit einbringen.
 
 ## Allgemeines 
 Dies ist ein digitaler Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/) auf Rügen. Ihr könnt:
