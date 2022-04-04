@@ -25,7 +25,7 @@ In Netlogo findet Sie unter "File" die "Models Library". Suchen Sie dort nach "D
 
 Für den direkten Zugriff zur Veranschaulichung soll diese eingebettete Online-Variante des Models "DLA Simple" dienen. 
 
-{% include media url="/assets/misc/DLASimple.html.html" %}
+{% include media url="/assets/misc/DLASimple.html" %}
 
 ### Schritt 1: das NetLogo Modell durchdringen
 Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben.  Diese Beschreibung ist der erste Teil Ihrer Präsentation. Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 

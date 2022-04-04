@@ -111,7 +111,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "Workshop"
+      category: "Einführung"
       tags: "Unit 00"
       layout: single
       sidebar:
@@ -121,7 +121,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Zusatzmaterial"
+      category: "Netlogo"
       tags: "Unit 01"
       layout: single
       sidebar:
