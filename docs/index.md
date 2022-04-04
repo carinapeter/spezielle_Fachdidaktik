@@ -19,7 +19,7 @@ feature_row_ilos:
   excerpt: "Template..."
 ---
 
-
+{% include feature_row id="feature_row_intro" type="center" %}
 
 Herzlich willkommen im Modul spezielle Fachdidaktik. Hier wird in die Modellierung und ihre Bedeutung für eine nachhaltige Entiwcklung eingeführt und anschließend ihr Einsatz im Unterricht diskutiert.
 
