@@ -1,5 +1,5 @@
 ---
-title: Spezielle Fachdidaktik | Modellieren im Erdkundeunterricht
+title: Nachhaltigkeit und Modellieren
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
@@ -12,7 +12,12 @@ header:
   cta_url: "/units.html"
 excerpt: Ein Einstieg in die Bedeutung des Modellierens für eine nachhaltige Entwicklung.
 feature_row_intro:
-- excerpt: Modul im [Lehramtstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen) an der 
+- excerpt: Workshop auf der [youcoN 2021](https://youpan.de/youcon-zukunftskonferenz-2021/){:target="_blank"} 
+feature_row_ilos:
+- image_path: "/assets/images/envobs_ilos.jpg"
+  alt: PC monitor laying in the garden of the institute.
+  title: Intended learning outcomes
+  excerpt: "Template..."
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
