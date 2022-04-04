@@ -12,12 +12,7 @@ header:
   cta_url: "/units.html"
 excerpt: Ein Einstieg in die Bedeutung des Modellierens für eine nachhaltige Entwicklung.
 feature_row_intro:
-- excerpt: Modul im [Lehramtstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen) an der Philipps-Universität Marburg {:target="_blank"} 
-feature_row_ilos:
-- image_path: "/assets/images/envobs_ilos.jpg"
-  alt: PC monitor laying in the garden of the institute.
-  title: Intended learning outcomes
-  excerpt: "Template..."
+- excerpt: Modul im [Lehramtstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen) an der 
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
