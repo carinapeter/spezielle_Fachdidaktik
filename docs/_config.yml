@@ -149,7 +149,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: ammrie/sustainablityNetLogo
+repository: ammrie/spezielle_Fachdidaktik
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
