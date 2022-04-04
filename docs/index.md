@@ -9,7 +9,6 @@ header:
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-  cta_url: "/downloads.html"
 excerpt: Spezielle Fachdidaktik
 feature_row_intro:
 - excerpt: Verteifungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
