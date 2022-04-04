@@ -41,4 +41,7 @@ Am Ende dieses Moduls können Sie
 ## Zeitaufwand und Ablauf
 
 
-
+{% for author in site.data.authors %} 
+  {% include author-profile.html %}
+ <br /> 
+{% endfor %}
