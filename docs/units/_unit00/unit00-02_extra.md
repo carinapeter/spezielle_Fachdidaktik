@@ -1,25 +1,19 @@
 ---
-title: Modellieren in der Geographie 
+title: Exkurs Systemdynamik
 toc: true
 header:
   image: "/assets/images/title-splash.jpg"
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
 ---
 
+Diese Seite gehört nicht zu Kursinhalten, sondern bietet einen Exkurs für alle, die über die agentenbasierte Modellierung hinaus blicken wollen.
 <!--more-->
 
-{: .notice--success} 
 
-
-
-
-Wenn du dich also für die wissenschaftlichen Grundlagen der nachhaltigen Entwicklung interessierst, kommst du an dieser "Ur-Studie*  *[Grenzen des Wachstums](https://www.clubofrome.org/publication/the-limits-to-growth/)* des [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome) kaum vorbei. Sie beschreibt quantitativ und für jeden nachvollziehbar (und daher auch diskutier- und kritisierbar) konkret das von Malthus erstmalig benannte Tragfähigkeitproblem anhand weltweiter Wirkungsmechanismen von eben diesen drei Säulen Umwelt, Wirtschaft und Gesellschaft. 
-
-Als Grundlage für den Bericht wurde von Jay Forrester ein mathematisches **Modell**, das sogenante *Weltmodell* entwickelt, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu kommen wurden alle zur damaligen Zeit benötigten und verfügbaren Daten eingespeist. Da dieses Modell computergestützt entwickelt wurde kann es durch Simulationen Vorhersagen machen. Mit weiteren Wissenschaftlerinnen zusammen haben dann seine Studierenden Donella and Dennis Meadows auf diesem Modell ihre Analysen für den Grenzen des Wachstums Bericht durchgeführt. 
-
-## Systemdynamik - das Weltmodell 30 Jahre später
+## Systemdynamik und das Weltmodell 
 Die Simulationen waren der Ausgangspunkt die Grenzen des Wachstums ohne Echtwelt-Experiment quantitativ aufzuzeigen und so erneut die Notwendigkeit von Ressourcenknappheit und sinnvollem Ressourceneinsatz aufzuzeigen und zur Diskussion zu stellen.  
 
+Als Grundlage für den Bericht*[Grenzen des Wachstums](https://www.clubofrome.org/publication/the-limits-to-growth/)* vom [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome) wurde von Jay Forrester ein mathematisches **Modell**, das sogenante *Weltmodell* entwickelt, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu kommen wurden alle zur damaligen Zeit benötigten und verfügbaren Daten eingespeist. Da dieses Modell computergestützt entwickelt wurde kann es durch Simulationen Vorhersagen machen. Mit weiteren Wissenschaftlerinnen zusammen haben dann seine Studierenden Donella and Dennis Meadows auf diesem Modell ihre Analysen für den Grenzen des Wachstums Bericht durchgeführt. 
 
 Forrester hatte nicht nur das Weltmodell entwickelt, sondern auch in Zusammenarbeit mit MIT Kollegen das Konzept der graphischen dynamischen Modellierung entwickelt. Dies ist eine deutliche Vereinfachung gegenüber herkömmlicher Programmierung durch graphische Elemente denen entsprechende Formeln und Wirkungen zugewiesen werden. 
 
@@ -27,13 +21,13 @@ Da sowohl das *Weltmodell*  als auch derartige Programmierumgebungen stetig weit
 
 Für einen ersten kurzen Einstieg kann die Online Programmierumgebung *Insightmaker* verwendet werden, die eine großartige Leistungsmöglichkeit in die Systemdynamik bietet.    
 
-Du kannst dir das [Welt 3 Modell](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation), also die aktuelle Version des Original-Weltmodells online anschauen und mit Hilfe der Browser-gestüzten Software Insightmaker eigene Modellszenarien (Simulation) durchführen.
+Sie können das [Welt 3 Modell](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation), also die aktuelle Version des Original-Weltmodells online anschauen und mit Hilfe der Browser-gestüzten Software Insightmaker eigene Modellszenarien (Simulation) durchführen.
 
-### Probiert doch mal...
+### Probieren Sie mal...
 
 * herauszufinden für wann der Wendepunkt des Wohlstandsniveaus prognostiziert ist
 * den Bezugszeitraum mit den Reglern zu variieren
-* Schau dir das Modell an - was ist dein Eindruck? Wie wirkt es auf dich?
+* die Wirkung des Modells zu beschreiben
 
 ## In den Rucksack...
 
@@ -47,6 +41,6 @@ Wenn wir modellieren, konzentrieren wir uns **immer** auf die Faktoren und Zusam
 ## Lust auf mehr?
 
 ### Insightmaker
-[Insightermaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. 
+[Insightermaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Es können dort eigene Modelle entworfen und Simulationen durchgeführt werden. 
 
 [Systemdynamische Modellierung](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - Eine kurze Einführung (englisch). 
