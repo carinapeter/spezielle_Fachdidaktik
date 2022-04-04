@@ -9,7 +9,6 @@ header:
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-  cta_url: "/units.html"
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
@@ -34,7 +33,3 @@ Am Ende dieses Moduls können Sie
 
 ## Kontakt
 
-{% for author in site.data.authors %} 
-  {% include author-profile.html %}
- <br /> 
-{% endfor %}
