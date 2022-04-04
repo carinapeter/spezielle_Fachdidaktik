@@ -21,7 +21,8 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-Herzlich willkommen im Modul spezielle Fachdidaktik. Hier wird in die Modellierung und ihre Bedeutung für die Geographie eingeführt und anschließend ihr Einsatz im Unterricht diskutiert.
+Herzlich willkommen im Modul spezielle Fachdidaktik!
+Hier wird in die Modellierung und ihre Bedeutung für die Geographie eingeführt und anschließend ihr Einsatz im Unterricht diskutiert.
 
 
 ## Allgemeines 
@@ -29,7 +30,7 @@ Der Kurs setzt sich für fachliche und fachdidaktische Inhalte jeweils aus theor
 
 ## Ziele
 Am Ende dieses Moduls können Sie
-* die Beudetung der Modellierung für die Geographie skizzieren
+* die Bedeutung der Modellierung für die Geographie skizzieren
 * ein Modell nach wissenschaftlichen Standards beschreiben
 * ein Modell anwenden, um wissenschaftliche Erkenntnis zu generieren
 * die Bedeutung der Modellierung für das Fach Erdkunde diskutieren
