@@ -2,7 +2,7 @@
 title: Exkurs Systemdynamik
 toc: true
 header:
-  image: "/assets/images/title-splash.jpg"
+  image: "/assets/images/ltg-splash.jpg"
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
 ---
 
