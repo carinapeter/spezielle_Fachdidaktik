@@ -1,7 +1,7 @@
 ---
 title: Modellieren mit Netlogo
 header:
-  image: "/assets/images/greedy-splash.png"
+  image: "/assets/images/climate-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
