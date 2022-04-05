@@ -6,7 +6,6 @@ header:
 ---
 
 
-## Übersicht
 Im ersten Arbeitsblock des Kurses sollen Sie die Modellierung als fachliche Methode durchdringen. Sie sollen dafür ein NetLogo Modell beschreiben und zur Beantwortung einer Fragestellung in die Anwendung bringen.
 
 <!--more-->
