@@ -27,7 +27,7 @@ Für den direkten Zugriff zur Veranschaulichung soll diese eingebettete Online-V
 {% include media url="/assets/misc/DLASimple.html" %}
 
 ### Schritt 1: das NetLogo Modell durchdringen
-Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben.  Diese Beschreibung ist der erste Teil Ihrer Präsentation. Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
+Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung ist der erste Teil Ihrer Präsentation. Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
 
 
 ### Schritt 2: das NetLogo Modell anwenden
