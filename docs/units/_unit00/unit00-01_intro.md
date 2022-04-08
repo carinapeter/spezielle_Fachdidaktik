@@ -5,7 +5,7 @@ header:
   image: "/assets/images/title-splash.jpg"
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
 ---
-Bevor wir ins praktische Arbeit einsteigen, widmen wir uns hier zunächst ein bisschen der Theorie.
+Bevor wir ins praktische Arbeit einsteigen, widmen wir uns hier zunächst der Theorie.
 <!--more-->
 
 Für diese Unit brauchen Sie:
