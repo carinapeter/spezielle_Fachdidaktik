@@ -12,7 +12,7 @@ Für diese Unit brauchen Sie:
 * [Geographische Modellierkompetenz - Modellierung von Raum konzeptionalisieren](https://www.gw-unterricht.at/index.php/onlineausgaben/21-2019-2/72-156-2019.html)
 * [Introduction to Agent-Based Modelling](https://link.springer.com/chapter/10.1007/978-90-481-8927-4_5)
 
-Lesen Sie die Texte und vergleichen und kontrastieren Sie dann die Inhalte.
+Lesen Sie die Texte und vergleichen und kontrastieren Sie die Inhalte. Fassen Sie die zentralen Aussagen der Texte stichpunktartig oder graphisch auf insgesamt einer Seite zusammen. Laden Sie das Ergebnis als PDF in den Übungordner (1 Übung).
 {: .notice--success} 
 
 
