@@ -43,6 +43,12 @@ Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zun�
 |               |* Prediction                               |
 |               |* Sensing                                  |
 |               |* Interaction                              |
+|               |* Stochasticity                            |
+|               |* Collectives                              |
+|               |* Observation                              |
+|Details        |5. Initialization                          |
+|               |6. Input data                              |
+|               |7. Submodels                               |
 
 
 Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
