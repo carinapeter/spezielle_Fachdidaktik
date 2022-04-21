@@ -29,12 +29,12 @@ Für den direkten Zugriff zur Veranschaulichung soll diese eingebettete Online-V
 ### Schritt 1: das NetLogo Modell durchdringen
 Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. 
 
-|Categories |Elements of the ODD protocol                                  |
-|-----------|--------------------------------------------------------------|
-|Overview   |<ul><li>1. Purpose and patterns                 </li></ul>{:/}|
-|           |<ul><li>2. Enteties, state variables, and scales</li></ul>{:/}|
-|           |<ul><li>3. Process overview and scheduling      </li></ul>{:/}|
-|Overview   |<ul><li>1. Purpose and patterns                 </li></ul>{:/}|
+|Categories     |Elements of the ODD protocol                                  |
+|---------------|--------------------------------------------------------------|
+|Overview       |<ul><li>1. Purpose and patterns                 </li></ul>{:/}|
+|               |<ul><li>2. Enteties, state variables, and scales</li></ul>{:/}|
+|               |<ul><li>3. Process overview and scheduling      </li></ul>{:/}|
+|Design concepts|<ul><li>                                        </li></ul>{:/}|
 
 
 Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
