@@ -36,6 +36,6 @@ Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu
 Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. Die Darstellung der Anwendung und ihrer Ergebnisse ist Inhalt Ihrer Präsentation. 
 * Formulieren Sie hierfür eine sinnvolle Fragestellung, die sich mit dem Model untersuchen lässt. 
 * Entwickeln Sie ein Vorgehen, dass es Ihnen erlaubt auf Grundlage von reproduzierbar Daten die Fragestellung zu beantworten.
-* Interpretieren und diskutieren Sie ihre Ergebnisse.
+* Interpretieren und diskutieren Sie Ihre Ergebnisse.
 
 
