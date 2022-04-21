@@ -58,7 +58,7 @@ Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu
 
 ### Schritt 2: das NetLogo Modell anwenden
 Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. Die Darstellung der Anwendung und ihrer Ergebnisse ist Inhalt Ihrer Präsentation. 
-* Formulieren Sie hierfür eine sinnvolle Fragestellung, die sich mit dem Model untersuchen lässt. 
+* Formulieren Sie hierfür eine Fragestellung, die sich mit dem Model sinnvoll untersuchen lässt. 
 * Entwickeln Sie ein Vorgehen, dass es Ihnen erlaubt auf Grundlage von reproduzierbar Daten die Fragestellung zu beantworten.
 * Interpretieren und diskutieren Sie Ihre Ergebnisse.
 
