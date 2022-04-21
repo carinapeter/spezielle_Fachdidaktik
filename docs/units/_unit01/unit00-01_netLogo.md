@@ -27,7 +27,14 @@ Für den direkten Zugriff zur Veranschaulichung soll diese eingebettete Online-V
 {% include media url="/assets/misc/DLASimple.html" %}
 
 ### Schritt 1: das NetLogo Modell durchdringen
-Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
+Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. 
+|Categories |Elements of the ODD protocol                                                |
+|-----------|----------------------------------------------------------------------------|
+|Overview   |{::nomarkdown}<ul><li>1. Purpose and patterns                 </li></ul>{:/}|
+|           |{::nomarkdown}<ul><li>2. Enteties, state variables, and scales</li></ul>{:/}|
+
+
+Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
 
 Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) durchgearbeitet haben, sowie das NetLogo-Modell Ihrer Wahl anhand des ODD Protocols beschrieben haben (die Erläuterung des Protokolls sowie ein Beispiel finden sie hier). Außerdem sollen Sie eine erste Fragestellung formuliert haben.
 {: .notice--success}
