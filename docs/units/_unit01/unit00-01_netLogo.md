@@ -18,13 +18,9 @@ Innerhalb dieses Arbeitsblockes erbringen Sie Ihre Studienleistung. Die Studienl
 ### Die NetLogo Modellierungssoftware
 Um arbeiten zu können benötigen Sie die Software NetLogo. Die freie Software können Sie in einer passenden Version für Ihr Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Die Installation ist für den Kurs sehr sinnvoll.
 
-In Netlogo findet Sie unter "File" die "Models Library". Suchen Sie dort nach "Erosion" und "Segregation". Die zwei sehr unterschiedlichen  Modelle simulieren die Genese von räumlichen Strukturen. Entscheiden Sie sich in Ihrer Gruppe für ein Modell mit dem Sie arbeiten wollen.
+In Netlogo findet Sie unter "File" die "Models Library". Suchen Sie dort nach [Erosion](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Erosion.nlogo) und [Segregation](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Segregation.nlogo). Die zwei sehr unterschiedlichen  Modelle simulieren die Genese von räumlichen Strukturen. Entscheiden Sie sich in Ihrer Gruppe für ein Modell mit dem Sie arbeiten wollen.
 {: .notice--info}
 
-
-Für den direkten Zugriff zur Veranschaulichung soll diese eingebettete Online-Variante des Models "DLA Simple" dienen. 
-
-{% include media url="/assets/misc/DLASimple.html" %}
 
 ### Schritt 1: das NetLogo Modell durchdringen
 Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. 
