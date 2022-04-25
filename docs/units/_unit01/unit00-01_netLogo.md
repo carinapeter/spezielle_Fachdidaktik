@@ -53,7 +53,7 @@ Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zun�
 
 Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
 
-Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) durchgearbeitet haben, sowie das NetLogo-Modell Ihrer Wahl anhand des ODD Protocols beschrieben haben (die Erläuterung des Protokolls sowie ein Beispiel finden sie hier). Lassen Sie hierfür "Purpose and Patterns" zunächst aus. Außerdem sollen Sie eine erste Fragestellung formuliert haben.
+Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) durchgearbeitet haben, sowie das NetLogo-Modell Ihrer Wahl anhand des ODD Protocols beschrieben haben (die Erläuterung des Protokolls sowie ein Beispiel finden sie [hier in Kapitel 3](https://ilias.uni-marburg.de/goto.php?target=file_2830364_download&client_id=UNIMR). Lassen Sie hierfür "Purpose and Patterns" zunächst aus. Außerdem sollen Sie eine erste Fragestellung formuliert haben.
 {: .notice--success}
 
 ### Schritt 2: das NetLogo Modell anwenden
