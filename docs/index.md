@@ -34,10 +34,9 @@ Am Ende dieses Moduls können Sie
 * ein Modell nach wissenschaftlichen Standards beschreiben
 * ein Modell anwenden, um wissenschaftliche Erkenntnis zu generieren
 * die Bedeutung der Modellierung für das Fach Erdkunde diskutieren
-* 
 
 ## Kursmerkmale
-6 ECTS, das bedeutet... Stunden Arbeitszeit pro Woche
+6 ECTS im Umfang als
 Präsenzkurs, der Anwesenheit voraussetzt.
 
 ## Studien- und Prüfungsleistung
